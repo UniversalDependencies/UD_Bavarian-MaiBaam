@@ -439,14 +439,14 @@
 10	gwohnt	_	VERB	_	_	0	root	_	SpaceAfter=No
 11	,	_	PUNCT	_	_	19	punct	_	_
 12	der	_	PRON	_	_	19	nsubj	_	_
-13	nix	_	PART	_	_	19	advmod	_	_
+13	nix	_	PRON	_	_	19	obj	_	_
 14-15	zum	_	_	_	_	_	_	_	_
 14	zu	_	PART	_	_	16	mark	_	_
 15	m	_	DET	_	_	16	det	_	_
-16	beißn	_	NOUN	_	_	19	obl	_	_
+16	beißn	_	NOUN	_	_	13	nmod	_	_
 17	und	_	CCONJ	_	_	18	cc	_	_
 18	brecha	_	NOUN	_	_	16	conj	_	_
-19	ghobt	_	VERB	_	_	10	advcl:relcl	_	_
+19	ghobt	_	VERB	_	_	9	acl:relcl	_	_
 20	hod	_	AUX	_	_	19	aux	_	_
 21	und	_	CCONJ	_	_	36	cc	_	SpaceAfter=No
 22	's	_	DET	_	_	24	det	_	_
@@ -493,7 +493,7 @@
 18	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = wikisource_Hansl-und-Gretl_3
-# text = Wiara se in da Nocht i m Bett umadumdraht hod, da hat sei Wei zu eam gsogt:
+# text = Wiara se in da Nocht im Bett umadumdraht hod, da hat sei Wei zu eam gsogt:
 # genre = fiction
 # dialect_group = unk
 # location = unk
@@ -504,6 +504,7 @@
 4	in	_	ADP	_	_	6	case	_	_
 5	da	_	DET	_	_	6	det	_	_
 6	Nocht	_	NOUN	_	_	10	obl	_	_
+7-8	im	_	_	_	_	_	_	_	_
 7	i	_	ADP	_	_	9	case	_	_
 8	m	_	DET	_	_	9	det	_	_
 9	Bett	_	NOUN	_	_	10	obl	_	_
@@ -645,7 +646,7 @@
 2	Wennst	_	ADV	_	_	5	advmod	_	_
 3	as	_	PRON	_	_	5	obj	_	_
 4	ned	_	PART	_	_	5	advmod	_	_
-5	machst	_	AUX	_	_	10	advcl	_	SpaceAfter=No
+5	machst	_	VERB	_	_	10	advcl	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	5	punct	_	_
 7	miass	_	AUX	_	_	10	aux	_	SpaceAfter=No
 8	ma	_	PROPN	_	_	10	nsubj	_	_
@@ -664,7 +665,7 @@
 2	hod	_	AUX	_	_	3	aux	_	_
 3	rumbenzt	_	VERB	_	_	0	root	_	SpaceAfter=No
 4	,	_	PUNCT	_	_	8	punct	_	_
-5	bis	_	ADV	_	_	8	mark	_	_
+5	bis	_	SCONJ	_	_	8	mark	_	_
 6	a	_	PRON	_	_	8	nsubj	_	_
 7	Ja	_	INTJ	_	_	8	obj	_	_
 8	gsogt	_	VERB	_	_	3	advcl	_	_
@@ -3027,30 +3028,31 @@
 # source = https://bar.wikipedia.org/wiki/Haferltarock
 1	Wenn	_	SCONJ	_	_	3	mark	_	_
 2	a	_	PRON	_	_	3	nsubj	_	_
-3	voloan	_	VERB	_	_	13	advcl	_	_
+3	voloan	_	VERB	_	_	14	advcl	_	_
 4	hod	_	AUX	_	_	3	aux	_	SpaceAfter=No
 5	,	_	PUNCT	_	_	3	punct	_	_
-6	moua	_	AUX	_	_	13	aux	_	_
-7	oan	_	DET	_	_	13	nsubj	_	_
-8	vo	_	ADP	_	_	10	case	_	_
-9	de	_	DET	_	_	10	det	_	_
-10	andan	_	DET	_	_	7	nmod	_	_
-11	a	_	DET	_	_	12	det	_	_
-12	Fümferl	_	NOUN	_	_	13	obj	_	_
-13	zohln	_	VERB	_	_	0	root	_	SpaceAfter=No
-14	,	_	PUNCT	_	_	24	punct	_	_
-15	da	_	DET	_	_	16	det	_	_
-16	zwoade	_	ADJ	_	_	24	nsubj	_	_
-17	deaf	_	AUX	_	_	24	aux	_	_
-18	se	_	PRON	_	_	24	expl:pv	_	_
-19	a	_	DET	_	_	20	det	_	_
-20	Fümferl	_	NOUN	_	_	24	obj	_	_
-21-22	ausn	_	_	_	_	_	_	_	_
-21	aus	_	ADP	_	_	23	case	_	_
-22	n	_	DET	_	_	23	det	_	_
-23	haferl	_	NOUN	_	_	20	nmod	_	_
-24	nemma	_	VERB	_	_	13	parataxis	_	SpaceAfter=No
-25	.	_	PUNCT	_	_	13	punct	_	_
+6	mou	_	AUX	_	_	14	aux	_	SpaceAfter=No
+7	a	_	PRON	_	_	14	nsubj	_	_
+8	oan	_	DET	_	_	14	obl:arg	_	_
+9	vo	_	ADP	_	_	11	case	_	_
+10	de	_	DET	_	_	11	det	_	_
+11	andan	_	DET	_	_	8	nmod	_	_
+12	a	_	DET	_	_	13	det	_	_
+13	Fümferl	_	NOUN	_	_	14	obj	_	_
+14	zohln	_	VERB	_	_	0	root	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	25	punct	_	_
+16	da	_	DET	_	_	17	det	_	_
+17	zwoade	_	ADJ	_	_	25	nsubj	_	_
+18	deaf	_	AUX	_	_	25	aux	_	_
+19	se	_	PRON	_	_	25	expl:pv	_	_
+20	a	_	DET	_	_	21	det	_	_
+21	Fümferl	_	NOUN	_	_	25	obj	_	_
+22-23	ausn	_	_	_	_	_	_	_	_
+22	aus	_	ADP	_	_	24	case	_	_
+23	n	_	DET	_	_	24	det	_	_
+24	haferl	_	NOUN	_	_	21	nmod	_	_
+25	nemma	_	VERB	_	_	14	parataxis	_	SpaceAfter=No
+26	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = wiki_Haferltarock_46
 # text = Fia olle fümf Aung, de weja unda n'Ogsagtn is, grejgt oana vo eam a Fümfal, da nada deaf se grod sovui Fümfaln aus Haferl nemma.
@@ -3467,7 +3469,7 @@
 12	Markennamen	_	X	_	_	10	conj	_	SpaceAfter=No
 13	"	_	PUNCT	_	_	10	punct	_	_
 14	ned	_	PART	_	_	15	advmod	_	_
-15	vaendan	_	VERB	_	_	4	ccomp	_	SpaceAfter=No
+15	vaendan	_	VERB	_	_	5	acl	_	SpaceAfter=No
 16	!	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = wikitalk_Dischkrian:Ödenburg_11
@@ -3614,23 +3616,23 @@
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Dischkrian:%C3%96denburg
-1	I	_	PRON	_	_	2	nsubj	_	_
-2	woaß	_	VERB	_	_	0	root	_	_
-3	wos	_	PRON	_	_	6	obj	_	_
+1	I	_	PRON	_	_	2	nsubj	_	Bug=no-PronType
+2	woaß	_	VERB	_	_	0	root	_	Bug=no-VerbForm
+3	wos	_	PRON	_	_	6	xcomp	_	Bug=no-PronType
 4	Luada	_	NOUN	_	_	6	nsubj	_	_
-5	ois	_	DET	_	_	6	obj	_	_
-6	hoaßt	_	VERB	_	_	2	ccomp	_	SpaceAfter=No
+5	ois	_	DET	_	_	4	appos	_	Bug=no-PronType
+6	hoaßt	_	VERB	_	_	2	ccomp	_	Bug=no-VerbForm,multi-obj|SpaceAfter=No
 7	,	_	PUNCT	_	_	11	punct	_	_
-8	da	_	DET	_	_	9	det	_	_
+8	da	_	DET	_	_	9	det	_	Bug=no-PronType
 9	Madtin	_	PROPN	_	_	11	nsubj	_	_
 10	Luada	_	PROPN	_	_	9	flat	_	_
-11	bleibt	_	VERB	_	_	2	parataxis	_	_
+11	bleibt	_	VERB	_	_	2	parataxis	_	Bug=no-VerbForm
 12	trotzdem	_	ADV	_	_	11	advmod	_	_
-13	da	_	DET	_	_	14	det	_	_
+13	da	_	DET	_	_	14	det	_	Bug=no-PronType
 14	Madtin	_	PROPN	_	_	11	obj	_	_
 15	Luada	_	PROPN	_	_	14	flat	_	_
 16	fir	_	ADP	_	_	17	case	_	_
-17	mi	_	PRON	_	_	11	obl	_	SpaceAfter=No
+17	mi	_	PRON	_	_	11	obl	_	Bug=no-PronType|SpaceAfter=No
 18	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = wikitalk_Dischkrian:Ödenburg_18
@@ -4939,7 +4941,7 @@
 9	,	_	PUNCT	_	_	12	punct	_	_
 10	wos	_	PRON	_	_	12	obj	_	SpaceAfter=No
 11	'd	_	PRON	_	_	12	nsubj	_	_
-12	tuan	_	VERB	_	_	8	ccomp	_	_
+12	tuan	_	VERB	_	_	5	acl:relcl	_	_
 13	soin	_	AUX	_	_	12	aux	_	_
 14	hättatst	_	AUX	_	_	12	aux	_	SpaceAfter=No
 15	.	_	PUNCT	_	_	8	punct	_	_
@@ -5135,7 +5137,7 @@
 9	,	_	PUNCT	_	_	12	punct	_	_
 10	i	_	PRON	_	_	12	nsubj	_	_
 11	soi	_	AUX	_	_	12	aux	_	_
-12	arm	_	ADJ	_	_	6	ccomp	_	_
+12	arm	_	ADJ	_	_	8	ccomp	_	_
 13	sei	_	AUX	_	_	12	cop	_	_
 14	dafia	_	ADV	_	_	12	advmod	_	_
 15	–	_	PUNCT	_	_	17	punct	_	_
@@ -5332,7 +5334,7 @@
 5	amoi	_	ADV	_	_	6	advmod	_	_
 6	verzöht	_	VERB	_	_	0	root	_	SpaceAfter=No
 7	,	_	PUNCT	_	_	12	punct	_	_
-8	wia	_	ADV	_	_	12	mark	_	_
+8	wia	_	ADV	_	_	12	advmod	_	_
 9	'r	_	PRON	_	_	12	nsubj	_	_
 10	sein	_	DET	_	_	11	det:poss	_	_
 11	Haxn	_	NOUN	_	_	12	obj	_	_
@@ -5713,7 +5715,7 @@
 9	di	_	PRON	_	_	8	obj	_	_
 10	nia	_	ADV	_	_	8	advmod	_	_
 11	da	_	DET	_	_	12	det	_	_
-12	Schlog	_	NOUN	_	_	8	iobj	_	SpaceAfter=No
+12	Schlog	_	NOUN	_	_	8	nsubj	_	SpaceAfter=No
 13	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = tatoeba_6910491
@@ -7283,7 +7285,7 @@
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
 1	Er	_	PRON	_	_	2	nsubj	_	_
-2	wüll	_	AUX	_	_	0	root	_	SpaceAfter=No
+2	wüll	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	_
 4	das	_	SCONJ	_	_	6	mark	_	_
 5	i	_	PRON	_	_	6	nsubj	_	_
@@ -7297,7 +7299,7 @@
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
 1	Er	_	PRON	_	_	2	nsubj	_	_
-2	wüll	_	AUX	_	_	0	root	_	SpaceAfter=No
+2	wüll	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	_
 4	das'st	_	SCONJ	_	_	6	mark	_	_
 5	Du	_	PRON	_	_	6	nsubj	_	_
@@ -7311,7 +7313,7 @@
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
 1	Er	_	PRON	_	_	2	nsubj	_	_
-2	wüll	_	AUX	_	_	0	root	_	SpaceAfter=No
+2	wüll	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	_
 4	das	_	SCONJ	_	_	6	mark	_	_
 5	si	_	PRON	_	_	6	nsubj	_	_
@@ -7325,7 +7327,7 @@
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
 1	Er	_	PRON	_	_	2	nsubj	_	_
-2	wüll	_	AUX	_	_	0	root	_	SpaceAfter=No
+2	wüll	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	_
 4	das	_	SCONJ	_	_	6	mark	_	_
 5	mir	_	PRON	_	_	6	nsubj	_	_
@@ -7339,7 +7341,7 @@
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
 1	Er	_	PRON	_	_	2	nsubj	_	_
-2	wüll	_	AUX	_	_	0	root	_	SpaceAfter=No
+2	wüll	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	_
 4	das'ma	_	SCONJ	_	_	6	mark	_	_
 5	mir	_	PRON	_	_	6	nsubj	_	_
@@ -7353,7 +7355,7 @@
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
 1	Er	_	PRON	_	_	2	nsubj	_	_
-2	wüll	_	AUX	_	_	0	root	_	SpaceAfter=No
+2	wüll	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	_
 4	das's	_	SCONJ	_	_	6	mark	_	_
 5	ees	_	PRON	_	_	6	nsubj	_	_
@@ -7367,7 +7369,7 @@
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
 1	Er	_	PRON	_	_	2	nsubj	_	_
-2	wüll	_	AUX	_	_	0	root	_	SpaceAfter=No
+2	wüll	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	_
 4	das	_	SCONJ	_	_	6	mark	_	_
 5	si	_	PRON	_	_	6	nsubj	_	_
@@ -7521,8 +7523,7 @@
 2	's	_	PRON	_	_	3	expl	_	_
 3	rengt	_	VERB	_	_	5	advcl	_	SpaceAfter=No
 4	,	_	PUNCT	_	_	3	punct	_	_
-5-6	blaiw'e	_	_	_	_	_	_	_	_
-5	blaiw	_	VERB	_	_	0	root	_	_
+5	blaiw	_	VERB	_	_	0	root	_	SpaceAfter=No
 6	'e	_	PRON	_	_	5	nsubj	_	_
 7	dahoam	_	ADV	_	_	5	advmod	_	SpaceAfter=No
 8	.	_	PUNCT	_	_	5	punct	_	_
@@ -7756,15 +7757,15 @@
 # location = East Austria
 # source = https://bar.wikipedia.org/wiki/Dazzlwuam
 1	Aundane	_	DET	_	_	2	det	_	_
-2	Naumen	_	NOUN	_	_	6	nsubj	_	_
+2	Naumen	_	NOUN	_	_	9	nsubj	_	_
 3-4	fian	_	_	_	_	_	_	_	_
 3	fia	_	ADP	_	_	5	case	_	_
 4	n	_	DET	_	_	5	det	_	_
 5	Dazzlwuam	_	NOUN	_	_	2	nmod	_	_
-6	han	_	AUX	_	_	0	root	_	SpaceAfter=No
+6	han	_	AUX	_	_	9	cop	_	SpaceAfter=No
 7	:	_	PUNCT	_	_	9	punct	_	_
 8	"	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	Brazlwuam	_	PROPN	_	_	6	parataxis	_	SpaceAfter=No
+9	Brazlwuam	_	PROPN	_	_	0	root	_	SpaceAfter=No
 10	"	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
 11	,	_	PUNCT	_	_	13	punct	_	_
 12	"	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
@@ -7852,7 +7853,7 @@
 19	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = wiki_Dazzlwuam_6
-# text = Da Dazzlwuam kimd in fü Sagn fu da gaunz Oipmgegend fia und soid a Fich sei des hoch om in de Beag wond, in Schdoin oda Gruam hausd und des hauptsechli daun zu m seng is, waun s im Suma laung hoas und druka is und s Weda drauf gach umschlogt.
+# text = Da Dazzlwuam kimd in fü Sagn fu da gaunz Oipmgegend fia und soid a Fich sei des hoch om in de Beag wond, in Schdoin oda Gruam hausd und des hauptsechli daun zum seng is, waun s im Suma laung hoas und druka is und s Weda drauf gach umschlogt.
 # genre = wiki
 # dialect_group = unk (central/southcentral)
 # location = East Austria
@@ -7890,6 +7891,7 @@
 31	des	_	PRON	_	_	36	nsubj	_	_
 32	hauptsechli	_	ADJ	_	_	36	advmod	_	_
 33	daun	_	ADV	_	_	36	advmod	_	_
+34-35	zum	_	_	_	_	_	_	_	_
 34	zu	_	PART	_	_	36	mark	_	_
 35	m	_	DET	_	_	36	det	_	_
 36	seng	_	NOUN	_	_	23	conj	_	_
@@ -8320,7 +8322,7 @@
 26	.	_	PUNCT	_	_	25	punct	_	_
 
 # sent_id = wiki_Dazzlwuam_22
-# text = Ea hod bericht, das a an intresantn Ost fotografian woit, wia dea si auf oa Moi zu m rian augfaungd hod.
+# text = Ea hod bericht, das a an intresantn Ost fotografian woit, wia dea si auf oa Moi zum rian augfaungd hod.
 # genre = wiki
 # dialect_group = unk (central/southcentral)
 # location = East Austria
@@ -8343,6 +8345,7 @@
 16	auf	_	ADP	_	_	18	case	_	_
 17	oa	_	DET	_	_	18	det	_	_
 18	Moi	_	NOUN	_	_	22	obl	_	_
+19-20	zum	_	_	_	_	_	_	_	_
 19	zu	_	PART	_	_	21	mark	_	_
 20	m	_	DET	_	_	21	det	_	_
 21	rian	_	NOUN	_	_	22	obl	_	_
@@ -8423,13 +8426,13 @@
 # dialect_group = unk (central/southcentral)
 # location = East Austria
 # source = https://bar.wikipedia.org/wiki/Dazzlwuam
-1	Bewais	_	NOUN	_	_	3	nsubj	_	_
-2	is	_	AUX	_	_	3	cop	_	_
-3	des	_	PRON	_	_	0	root	_	_
-4	owa	_	ADV	_	_	3	advmod	_	_
-5	a	_	ADV	_	_	3	advmod	_	_
-6	koana	_	DET	_	_	3	iobj	_	SpaceAfter=No
-7	.	_	PUNCT	_	_	3	punct	_	_
+1	Bewais	_	NOUN	_	_	6	dislocated	_	_
+2	is	_	AUX	_	_	6	cop	_	_
+3	des	_	PRON	_	_	6	nsubj	_	_
+4	owa	_	ADV	_	_	6	advmod	_	_
+5	a	_	ADV	_	_	6	advmod	_	_
+6	koana	_	DET	_	_	0	root	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = wiki_Dazzlwuam_26
 # text = Iwahaupt gibts fü Argument, de dageng schbrechan, das iagend amoi so wos wia a Dazlwuam wiakli gem hod:
@@ -8633,7 +8636,7 @@
 8	i	_	ADP	_	_	11	case	_	_
 9	m	_	DET	_	_	11	det	_	_
 10	20.	_	ADJ	_	_	11	amod	_	SpaceAfter=No
-11	Joahundat	_	NUM	_	_	4	obl	_	_
+11	Joahundat	_	NOUN	_	_	4	obl	_	_
 12	oiwai	_	ADV	_	_	4	advmod	_	_
 13	wenga	_	ADJ	_	_	4	amod	_	_
 14	und	_	CCONJ	_	_	22	cc	_	_
@@ -10654,11 +10657,11 @@
 5	ogschafft	_	VERB	_	_	0	root	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	11	punct	_	_
 7	s’	_	DET	_	_	8	det	_	SpaceAfter=No
-8	Auto	_	NOUN	_	_	10	obj	_	_
+8	Auto	_	NOUN	_	_	5	xcomp	_	_
 9-10	zum	_	_	_	_	_	_	_	_
 9	zu	_	PART	_	_	11	mark	_	_
 10	m	_	DET	_	_	11	det	_	_
-11	waschn	_	NOUN	_	_	5	xcomp	_	SpaceAfter=No
+11	waschn	_	NOUN	_	_	8	nmod	_	SpaceAfter=No
 12	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo_7
@@ -10758,7 +10761,7 @@
 5	,	_	PUNCT	_	_	8	punct	_	_
 6	wer	_	PRON	_	_	8	nsubj	_	_
 7	des	_	PRON	_	_	8	obj	_	_
-8	gschrim	_	VERB	_	_	2	ccomp	_	_
+8	gschrim	_	VERB	_	_	4	acl	_	_
 9	hod	_	AUX	_	_	8	aux	_	SpaceAfter=No
 10	.	_	PUNCT	_	_	2	punct	_	_
 
@@ -10998,7 +11001,7 @@
 2	Oba	_	CCONJ	_	_	3	cc	_	_
 3	geh	_	INTJ	_	_	6	discourse	_	SpaceAfter=No
 4	,	_	PUNCT	_	_	3	punct	_	_
-5	es	_	PRON	_	_	6	obj	_	_
+5	es	_	PRON	_	_	6	expl	_	_
 6	frogt	_	VERB	_	_	0	root	_	_
 7	do	_	ADV	_	_	6	advmod	_	_
 8	a	_	ADV	_	_	6	advmod	_	_
@@ -11040,21 +11043,20 @@
 # author = brauchinet
 1	Burschen	_	NOUN	_	_	3	vocative	_	SpaceAfter=No
 2	,	_	PUNCT	_	_	1	punct	_	_
-3	glaubt	_	VERB	_	_	0	root	_	SpaceAfter=No
-4	's	_	PRON	_	_	3	obj	_	_
-5	jo	_	ADV	_	_	3	advmod	_	_
-6	net	_	PART	_	_	3	advmod	_	SpaceAfter=No
-7	,	_	PUNCT	_	_	15	punct	_	_
-8	dass	_	SCONJ	_	_	15	mark	_	_
-9	uns	_	PRON	_	_	15	obl:arg	_	_
-10	des	_	DET	_	_	11	det	_	_
-11	Viech	_	NOUN	_	_	15	nsubj	_	_
-12-13	ins	_	_	_	_	_	_	_	_
-12	in	_	ADP	_	_	14	case	_	_
-13	s	_	DET	_	_	14	det	_	_
-14	Haus	_	NOUN	_	_	15	obl	_	_
-15	kimmt	_	VERB	_	_	3	ccomp	_	SpaceAfter=No
-16	.	_	PUNCT	_	_	3	punct	_	_
+3	glaubt's	_	VERB	_	_	0	root	_	SpaceAfter=No
+4	jo	_	ADV	_	_	3	advmod	_	_
+5	net	_	PART	_	_	3	advmod	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	14	punct	_	_
+7	dass	_	SCONJ	_	_	14	mark	_	_
+8	uns	_	PRON	_	_	14	obl:arg	_	_
+9	des	_	DET	_	_	10	det	_	_
+10	Viech	_	NOUN	_	_	14	nsubj	_	_
+11-12	ins	_	_	_	_	_	_	_	_
+11	in	_	ADP	_	_	13	case	_	_
+12	s	_	DET	_	_	13	det	_	_
+13	Haus	_	NOUN	_	_	14	obl	_	_
+14	kimmt	_	VERB	_	_	3	ccomp	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = tatoeba_8335110
 # text = I bin z'spot kemma, wei i an Potschn ghobt hob.
@@ -11196,7 +11198,7 @@
 7	waun	_	SCONJ	_	_	10	mark	_	_
 8	er	_	PRON	_	_	10	nsubj	_	_
 9	ned	_	PART	_	_	10	advmod	_	_
-10	wü	_	AUX	_	_	4	advcl	_	SpaceAfter=No
+10	wü	_	VERB	_	_	4	advcl	_	SpaceAfter=No
 11	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = tatoeba_8925752
@@ -11245,7 +11247,7 @@
 6	wos	_	PRON	_	_	9	obj	_	SpaceAfter=No
 7	'd	_	PRON	_	_	9	nsubj	_	_
 8	ma	_	PRON	_	_	9	obl:arg	_	_
-9	gsogt	_	VERB	_	_	4	ccomp	_	_
+9	gsogt	_	VERB	_	_	3	acl:relcl	_	_
 10	host	_	AUX	_	_	9	aux	_	SpaceAfter=No
 11	.	_	PUNCT	_	_	4	punct	_	_
 
@@ -11427,25 +11429,25 @@
 # author = brauchinet
 1	Zerscht	_	ADV	_	_	4	advmod	_	_
 2	hob	_	AUX	_	_	4	aux	_	_
-3	i	_	PRON	_	_	4	nsubj	_	_
-4	gmoant	_	VERB	_	_	0	root	_	SpaceAfter=No
+3	i	_	PRON	_	_	4	nsubj	_	Bug=no-PronType
+4	gmoant	_	VERB	_	_	0	root	_	Bug=no-VerbForm|SpaceAfter=No
 5	/	_	PUNCT	_	_	7	punct	_	_
-6	i	_	PRON	_	_	7	nsubj	_	_
-7	datrogats	_	VERB	_	_	4	ccomp	_	_
+6	i	_	PRON	_	_	7	nsubj	_	Bug=no-PronType
+7	datrogats	_	VERB	_	_	4	ccomp	_	Bug=no-VerbForm
 8	goa	_	ADV	_	_	9	advmod	_	_
 9	nia	_	PART	_	_	7	advmod	_	SpaceAfter=No
 10	/	_	PUNCT	_	_	15	punct	_	_
 11	hiazt	_	ADV	_	_	15	advmod	_	_
 12	hob	_	AUX	_	_	15	aux	_	_
-13	i	_	PRON	_	_	15	nsubj	_	SpaceAfter=No
-14	's	_	PRON	_	_	15	obj	_	_
-15	datrogn	_	VERB	_	_	4	parataxis	_	SpaceAfter=No
+13	i	_	PRON	_	_	15	nsubj	_	Bug=no-PronType|SpaceAfter=No
+14	's	_	PRON	_	_	15	obj	_	Bug=no-PronType
+15	datrogn	_	VERB	_	_	4	parataxis	_	Bug=no-VerbForm|SpaceAfter=No
 16	/	_	PUNCT	_	_	18	punct	_	_
 17	owa	_	CCONJ	_	_	18	cc	_	_
-18	frogts	_	VERB	_	_	15	conj	_	_
-19	mi	_	PRON	_	_	18	iobj	_	_
+18	frogts	_	VERB	_	_	15	conj	_	Bug=no-VerbForm,multi-obj
+19	mi	_	PRON	_	_	18	obj	_	Bug=no-PronType
 20	ned	_	PART	_	_	18	advmod	_	_
-21	wia	_	ADV	_	_	18	obj	_	SpaceAfter=No
+21	wia	_	ADV	_	_	18	ccomp	_	SpaceAfter=No
 22	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = tatoeba_9844840
@@ -11544,7 +11546,7 @@
 # author = brauchinet
 1	Wia	_	SCONJ	_	_	3	mark	_	SpaceAfter=No
 2	’s	_	PRON	_	_	3	expl	_	_
-3	weidagaunga	_	VERB	_	_	9	ccomp	_	_
+3	weidagaunga	_	VERB	_	_	9	dislocated	_	_
 4	is	_	AUX	_	_	3	aux	_	SpaceAfter=No
 5	,	_	PUNCT	_	_	3	punct	_	_
 6	des	_	PRON	_	_	9	obj	_	_
@@ -12023,7 +12025,7 @@
 8	Japan	_	PROPN	_	_	5	obl	_	_
 9	a	_	ADV	_	_	5	advmod	_	_
 10	oft	_	ADV	_	_	5	advmod	_	_
-11	Idol-Pop	_	PROPN	_	_	5	obj	_	SpaceAfter=No
+11	Idol-Pop	_	PROPN	_	_	5	xcomp	_	SpaceAfter=No
 12	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = wiki_J-Pop_11
@@ -12045,9 +12047,8 @@
 11	japanischn	_	ADJ	_	_	12	amod	_	_
 12	Schlaga	_	NOUN	_	_	3	nsubj	_	SpaceAfter=No
 13	,	_	PUNCT	_	_	15	punct	_	_
-14-15	d'Enka	_	_	_	_	_	_	_	SpaceAfter=No
-14	d'	_	DET	_	_	15	det	_	_
-15	Enka	_	PROPN	_	_	12	appos	_	_
+14	d'	_	DET	_	_	15	det	_	SpaceAfter=No
+15	Enka	_	PROPN	_	_	12	appos	_	SpaceAfter=No
 16	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = tatoeba_5113686
@@ -12513,7 +12514,7 @@
 24	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = wiki_Der-Zettelträger-Papp_4
-# text = Da Haushofmasta und da Diena Andres untahoid'n se bei m Woat'n auf den neich'n Theatazedl üwa eahnan vaschiedanan G'schmåck.
+# text = Da Haushofmasta und da Diena Andres untahoid'n se beim Woat'n auf den neich'n Theatazedl üwa eahnan vaschiedanan G'schmåck.
 # genre = wiki
 # dialect_group = central
 # location = Vienna
@@ -12526,6 +12527,7 @@
 6	Andres	_	PROPN	_	_	5	appos	_	_
 7	untahoid'n	_	VERB	_	_	0	root	_	_
 8	se	_	PRON	_	_	7	expl:pv	_	_
+9-10	beim	_	_	_	_	_	_	_	_
 9	bei	_	ADP	_	_	11	case	_	_
 10	m	_	DET	_	_	11	det	_	_
 11	Woat'n	_	NOUN	_	_	7	obl	_	_
@@ -12635,7 +12637,7 @@
 9	:	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = wiki_Der-Zettelträger-Papp_8
-# text = Beim Streit'n mit'n Haushofmasta schimpft da Zedltroga üwa de Unsitt'n vo m daumålich'n Theatabetrieb und spoart aa ned mit'n Keppel'n üwa's Publekum.
+# text = Beim Streit'n mit'n Haushofmasta schimpft da Zedltroga üwa de Unsitt'n vom daumålich'n Theatabetrieb und spoart aa ned mit'n Keppel'n üwa's Publekum.
 # genre = wiki
 # dialect_group = central
 # location = Vienna
@@ -12654,6 +12656,7 @@
 10	üwa	_	ADP	_	_	12	case	_	_
 11	de	_	DET	_	_	12	det	_	_
 12	Unsitt'n	_	NOUN	_	_	7	obl	_	_
+13-14	vom	_	_	_	_	_	_	_	_
 13	vo	_	ADP	_	_	16	case	_	_
 14	m	_	DET	_	_	16	det	_	_
 15	daumålich'n	_	ADJ	_	_	16	amod	_	_
@@ -12780,7 +12783,7 @@
 19	nocha	_	ADV	_	_	22	advmod	_	_
 20	fia	_	ADP	_	_	21	case	_	_
 21	Såch'	_	NOUN	_	_	22	obl	_	_
-22	kumman	_	VERB	_	_	16	ccomp	_	_
+22	kumman	_	VERB	_	_	15	ccomp	_	_
 23	san	_	AUX	_	_	22	aux	_	SpaceAfter=No
 24	.	_	PUNCT	_	_	6	punct	_	_
 
@@ -13767,11 +13770,11 @@
 14	vaurteite	_	ADJ	_	_	15	amod	_	_
 15	Vabrecha	_	NOUN	_	_	24	obj	_	SpaceAfter=No
 16	,	_	PUNCT	_	_	21	punct	_	_
-17	de	_	PRON	_	_	21	nsubj	_	_
-18	wos	_	SCONJ	_	_	21	mark	_	_
+17	de	_	PRON	_	_	20	nsubj	_	_
+18	wos	_	SCONJ	_	_	20	mark	_	_
 19	eineiige	_	ADJ	_	_	20	amod	_	_
-20	Zwüllinge	_	NOUN	_	_	21	obj	_	_
-21	woan	_	AUX	_	_	15	acl:relcl	_	SpaceAfter=No
+20	Zwüllinge	_	NOUN	_	_	15	acl:relcl	_	_
+21	woan	_	AUX	_	_	20	cop	_	SpaceAfter=No
 22	,	_	PUNCT	_	_	21	punct	_	_
 23	dazua	_	ADV	_	_	24	advmod	_	_
 24	hergnumman	_	VERB	_	_	0	root	_	SpaceAfter=No
@@ -14184,7 +14187,7 @@
 3	glei	_	ADV	_	_	1	advmod	_	_
 4	o	_	ADP	_	_	1	compound:prt	_	SpaceAfter=No
 5	,	_	PUNCT	_	_	9	punct	_	_
-6	waun	_	ADV	_	_	9	mark	_	_
+6	waun	_	ADV	_	_	9	advmod	_	_
 7	da	_	DET	_	_	8	det	_	_
 8	Thomas	_	PROPN	_	_	9	nsubj	_	_
 9	kummt	_	VERB	_	_	1	advcl	_	SpaceAfter=No
@@ -14459,7 +14462,7 @@
 6	,	_	PUNCT	_	_	9	punct	_	_
 7	wos	_	PRON	_	_	9	obj	_	_
 8	er	_	PRON	_	_	9	nsubj	_	_
-9	tuan	_	VERB	_	_	3	ccomp	_	_
+9	tuan	_	VERB	_	_	5	acl:relcl	_	_
 10	muas	_	AUX	_	_	9	aux	_	SpaceAfter=No
 11	.	_	PUNCT	_	_	3	punct	_	_
 
@@ -14671,7 +14674,7 @@
 6	dass	_	SCONJ	_	_	9	mark	_	_
 7	da	_	DET	_	_	8	det	_	_
 8	Tom	_	PROPN	_	_	9	nsubj	_	_
-9	wü	_	AUX	_	_	4	ccomp	_	SpaceAfter=No
+9	wü	_	AUX	_	_	4	dislocated	_	SpaceAfter=No
 10	,	_	PUNCT	_	_	14	punct	_	_
 11	dass	_	SCONJ	_	_	14	mark	_	_
 12	ma	_	PRON	_	_	14	nsubj	_	_
@@ -15017,7 +15020,7 @@
 16	fladern	_	NOUN	_	_	2	obl	_	SpaceAfter=No
 17	,	_	PUNCT	_	_	22	punct	_	_
 18	ohne	_	SCONJ	_	_	22	mark	_	_
-19	dass	_	SCONJ	_	_	22	cc	_	_
+19	dass	_	SCONJ	_	_	22	mark	_	_
 20	da	_	DET	_	_	21	det	_	_
 21	Bsitzer	_	NOUN	_	_	22	nsubj	_	_
 22	merken	_	VERB	_	_	2	advcl	_	_
@@ -15836,8 +15839,7 @@
 10	n	_	DET	_	_	11	det	_	_
 11	Joar	_	NOUN	_	_	13	obl	_	_
 12	2000	_	NUM	_	_	11	nummod	_	_
-13-14	gehts	_	_	_	_	_	_	_	_
-13	geht	_	VERB	_	_	6	conj	_	_
+13	geht	_	VERB	_	_	6	conj	_	SpaceAfter=No
 14	s	_	PRON	_	_	13	expl	_	_
 15	wieda	_	ADV	_	_	13	advmod	_	_
 16	konstant	_	ADV	_	_	13	advmod	_	_
@@ -16582,7 +16584,7 @@
 7	6	_	NUM	_	_	1	obl	_	_
 
 # sent_id = wiki_Fiisch_2
-# text = Fiisch (dt.: Fisch, lateinisch : piscis) san Wiaweviecha, de wo i m Wossa lem.
+# text = Fiisch (dt.: Fisch, lateinisch : piscis) san Wiaweviecha, de wo im Wossa lem.
 # dialect_group = unk
 # location = unk
 # genre = wiki
@@ -16602,6 +16604,7 @@
 13	,	_	PUNCT	_	_	19	punct	_	_
 14	de	_	PRON	_	_	19	nsubj	_	_
 15	wo	_	SCONJ	_	_	19	mark	_	_
+16-17	im	_	_	_	_	_	_	_	_
 16	i	_	ADP	_	_	18	case	_	_
 17	m	_	DET	_	_	18	det	_	_
 18	Wossa	_	NOUN	_	_	19	obl	_	_
@@ -19002,11 +19005,11 @@
 # genre = non-fiction
 # dialect_group = central
 # location = Upper Bavaria
-1	Wird	_	AUX	_	_	5	cop	_	SpaceAfter=No
-2	s	_	PRON	_	_	5	expl	_	_
+1	Wird	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	s	_	PRON	_	_	1	expl	_	_
 3	de	_	DET	_	_	4	det	_	_
-4	Woch	_	NOUN	_	_	5	obl:arg	_	_
-5	hoas	_	ADJ	_	_	0	root	_	SpaceAfter=No
+4	Woch	_	NOUN	_	_	1	obl	_	_
+5	hoas	_	ADJ	_	_	1	xcomp	_	SpaceAfter=No
 6	?	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = xsid_de-ba_test_23
@@ -19205,7 +19208,7 @@
 10	vo	_	ADP	_	_	12	case	_	_
 11	da	_	DET	_	_	12	det	_	_
 12	Schui	_	NOUN	_	_	13	obl	_	_
-13	hoin	_	VERB	_	_	1	ccomp	_	_
+13	hoin	_	VERB	_	_	3	acl	_	_
 14	muas	_	AUX	_	_	13	aux	_	SpaceAfter=No
 15	.	_	PUNCT	_	_	1	punct	_	_
 
@@ -19268,11 +19271,11 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Wia	_	ADV	_	_	2	advmod	_	_
-2	hoaß	_	ADJ	_	_	0	root	_	_
-3	wird	_	AUX	_	_	2	cop	_	SpaceAfter=No
-4	s	_	PRON	_	_	2	expl	_	_
-5	heid	_	ADV	_	_	2	advmod	_	SpaceAfter=No
-6	?	_	PUNCT	_	_	2	punct	_	_
+2	hoaß	_	ADJ	_	_	3	xcomp	_	_
+3	wird	_	VERB	_	_	0	root	_	SpaceAfter=No
+4	s	_	PRON	_	_	3	expl	_	_
+5	heid	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+6	?	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = xsid_de-ba_test_56
 # text = Stei an Wegga fia fünfe heid auf Nacht
@@ -19472,11 +19475,11 @@
 # genre = non-fiction
 # dialect_group = central
 # location = Upper Bavaria
-1	Werd	_	AUX	_	_	4	cop	_	SpaceAfter=No
-2	s	_	PRON	_	_	4	expl	_	_
-3	heid	_	ADV	_	_	4	advmod	_	_
-4	sonnig	_	ADJ	_	_	0	root	_	SpaceAfter=No
-5	?	_	PUNCT	_	_	4	punct	_	_
+1	Werd	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	s	_	PRON	_	_	1	expl	_	_
+3	heid	_	ADV	_	_	1	advmod	_	_
+4	sonnig	_	ADJ	_	_	1	xcomp	_	SpaceAfter=No
+5	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = xsid_de-ba_test_75
 # text = Wia vui Erinnerungen hob i heid?
@@ -19986,7 +19989,7 @@
 24	Zeidalddá	_	NOUN	_	_	21	nmod	_	_
 25	das	_	SCONJ	_	_	27	mark	_	SpaceAfter=No
 26	má	_	PRON	_	_	27	nsubj	_	_
-27	is	_	AUX	_	_	21	acl	_	SpaceAfter=No
+27	is	_	VERB	_	_	21	acl	_	SpaceAfter=No
 28	.	_	PUNCT	_	_	9	punct	_	_
 
 # sent_id = wiki_Age-of-Empires_20
@@ -20765,7 +20768,7 @@
 4	,	_	PUNCT	_	_	7	punct	_	_
 5	dass'	_	SCONJ	_	_	7	mark	_	_
 6	intelligenta	_	ADJ	_	_	7	advmod	_	_
-7	machad	_	AUX	_	_	2	ccomp	_	SpaceAfter=No
+7	machad	_	VERB	_	_	2	ccomp	_	SpaceAfter=No
 8	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = wiki_Studentnfuada_6
@@ -20794,13 +20797,11 @@
 1	In	_	ADP	_	_	3	case	_	_
 2	da	_	DET	_	_	3	det	_	_
 3	Realitet	_	NOUN	_	_	8	obl	_	_
-4-5	iss	_	_	_	_	_	_	_	_
-4	is	_	AUX	_	_	8	cop	_	_
+4	is	_	AUX	_	_	8	cop	_	SpaceAfter=No
 5	s	_	PRON	_	_	8	expl	_	_
 6	oafach	_	ADJ	_	_	8	amod	_	_
-7-8	aso	_	_	_	_	_	_	_	SpaceAfter=No
-7	a	_	ADV	_	_	8	advmod	_	_
-8	so	_	ADV	_	_	0	root	_	_
+7	a	_	ADV	_	_	8	advmod	_	SpaceAfter=No
+8	so	_	ADV	_	_	0	root	_	SpaceAfter=No
 9	,	_	PUNCT	_	_	23	punct	_	_
 10	doss	_	SCONJ	_	_	23	mark	_	_
 11	da	_	DET	_	_	12	det	_	_
@@ -20990,7 +20991,7 @@
 15	ghead	_	VERB	_	_	12	parataxis	_	_
 16	aa	_	ADV	_	_	15	advmod	_	_
 17	des	_	DET	_	_	18	det	_	_
-18	"ö"-Thema	_	X	_	_	15	nsubj	_	_
+18	"ö"-Thema	_	NOUN	_	_	15	nsubj	_	_
 19	(	_	PUNCT	_	_	23	punct	_	SpaceAfter=No
 20-21	min	_	_	_	_	_	_	_	_
 20	mi	_	ADP	_	_	23	case	_	_
@@ -21228,8 +21229,8 @@
 13	a	_	ADV	_	_	3	advmod	_	_
 14	so	_	ADV	_	_	15	advmod	_	_
 15	fui	_	DET	_	_	3	obj	_	SpaceAfter=No
-16	,	_	PUNCT	_	_	26	punct	_	_
-17	dass	_	SCONJ	_	_	26	mark	_	_
+16	,	_	PUNCT	_	_	27	punct	_	_
+17	dass	_	SCONJ	_	_	27	mark	_	_
 18	de	_	DET	_	_	24	det	_	_
 19	i	_	PRON	_	_	20	nsubj	_	_
 20	sog	_	VERB	_	_	24	advcl	_	_
@@ -21238,8 +21239,8 @@
 23	"	_	PUNCT	_	_	24	punct	_	SpaceAfter=No
 24	Oanzlwortersetzunga	_	NOUN	_	_	26	nsubj	_	SpaceAfter=No
 25	"	_	PUNCT	_	_	24	punct	_	_
-26	minimal	_	ADJ	_	_	3	advcl	_	_
-27	wearn	_	AUX	_	_	26	cop	_	_
+26	minimal	_	ADJ	_	_	27	xcomp	_	_
+27	wearn	_	VERB	_	_	3	advcl	_	_
 28	(	_	PUNCT	_	_	35	punct	_	SpaceAfter=No
 29	wiaso	_	ADV	_	_	32	advmod	_	_
 30	dees	_	PRON	_	_	32	nsubj	_	_
@@ -21684,8 +21685,8 @@
 3	m	_	DET	_	_	4	det	_	_
 4	Versl	_	NOUN	_	_	12	parataxis	_	_
 5	vom	_	ADP	_	_	6	case	_	_
-6	Herbert	_	PRON	_	_	4	nmod	_	_
-7	Gschwendtner	_	PRON	_	_	6	flat	_	SpaceAfter=No
+6	Herbert	_	PROPN	_	_	4	nmod	_	_
+7	Gschwendtner	_	PROPN	_	_	6	flat	_	SpaceAfter=No
 8	:	_	PUNCT	_	_	4	punct	_	_
 9	Des	_	PRON	_	_	12	nsubj	_	_
 10	is	_	AUX	_	_	12	cop	_	_
@@ -21742,8 +21743,8 @@
 15	deam	_	DET	_	_	16	det	_	_
 16	Fòll	_	NOUN	_	_	11	appos	_	_
 17	da	_	DET	_	_	18	det	_	_
-18	Herbert	_	PRON	_	_	16	nmod	_	_
-19	Gschwendtner	_	PRON	_	_	18	flat	_	_
+18	Herbert	_	PROPN	_	_	16	nmod	_	_
+19	Gschwendtner	_	PROPN	_	_	18	flat	_	_
 20	-	_	PUNCT	_	_	16	punct	_	_
 21	gschriem	_	VERB	_	_	7	acl	_	_
 22	hòut	_	AUX	_	_	21	aux	_	_
@@ -21936,7 +21937,7 @@
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
 1	Da	_	DET	_	_	2	det	_	_
-2	Emacs	_	PRON	_	_	3	nsubj	_	_
+2	Emacs	_	PROPN	_	_	3	nsubj	_	_
 3	schaugt	_	VERB	_	_	0	root	_	_
 4	jò	_	ADV	_	_	3	advmod	_	_
 5	guad	_	ADJ	_	_	3	advmod	_	_
@@ -21994,7 +21995,7 @@
 1	Ned	_	PART	_	_	2	advmod	_	_
 2	ummasunscht	_	ADV	_	_	3	advmod	_	_
 3	hoasst	_	VERB	_	_	0	root	_	_
-4	Microsoft	_	PRON	_	_	3	nsubj	_	_
+4	Microsoft	_	PROPN	_	_	3	nsubj	_	_
 5	iabasetzt	_	ADJ	_	_	3	advmod	_	_
 6	jò	_	ADV	_	_	3	advmod	_	_
 7	Winzigwoach	_	NOUN	_	_	3	obj	_	_
@@ -22522,7 +22523,7 @@
 4	junga	_	ADJ	_	_	5	amod	_	_
 5	Leit	_	NOUN	_	_	10	obl	_	_
 6	(	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
-7	<	_	SYM	_	_	8	nummod	_	_
+7	<	_	SYM	_	_	8	advmod	_	_
 8	35	_	NUM	_	_	5	appos	_	SpaceAfter=No
 9	)	_	PUNCT	_	_	8	punct	_	_
 10	schaugt	_	VERB	_	_	0	root	_	SpaceAfter=No
@@ -22751,11 +22752,12 @@
 16	.	_	PUNCT	_	_	15	punct	_	_
 
 # sent_id = wikisource_Eisenhans_4
-# text = A m naxtn Dog hod a zwoa ondane Jaga aussegschickt, wo eam suacha soitn.
+# text = Am naxtn Dog hod a zwoa ondane Jaga aussegschickt, wo eam suacha soitn.
 # genre = fiction
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Text:Eisenhans_(1857)
+1-2	Am	_	_	_	_	_	_	_	_
 1	A	_	ADP	_	_	4	case	_	_
 2	m	_	DET	_	_	4	det	_	_
 3	naxtn	_	ADJ	_	_	4	amod	_	_
@@ -22786,4 +22788,43 @@
 5	wegga	_	ADV	_	_	6	advmod	_	_
 6	bliem	_	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = wikisource_Eisenhans_6
+# text = Do hod a am drittn Dog olle seine Jaga kema lossn und gsogt: „suachts en gonzn Woid ob und heats net af bis olle drei gfundn hobts.“
+# genre = fiction
+# dialect_group = unk
+# location = unk
+1	Do	_	ADV	_	_	12	advmod	_	_
+2	hod	_	AUX	_	_	12	aux	_	_
+3	a	_	PRON	_	_	12	nsubj	_	_
+4-5	am	_	_	_	_	_	_	_	_
+4	a	_	ADP	_	_	7	case	_	_
+5	m	_	DET	_	_	7	det	_	_
+6	drittn	_	ADJ	_	_	7	amod	_	_
+7	Dog	_	NOUN	_	_	12	obl	_	_
+8	olle	_	DET	_	_	10	det	_	_
+9	seine	_	DET	_	_	10	det	_	_
+10	Jaga	_	NOUN	_	_	12	obj	_	_
+11	kema	_	VERB	_	_	12	xcomp	_	_
+12	lossn	_	VERB	_	_	0	root	_	_
+13	und	_	CCONJ	_	_	14	cc	_	_
+14	gsogt	_	VERB	_	_	12	conj	_	SpaceAfter=No
+15	:	_	PUNCT	_	_	14	punct	_	_
+16	„	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	suachts	_	VERB	_	_	14	ccomp	_	_
+18	en	_	DET	_	_	20	det	_	_
+19	gonzn	_	ADJ	_	_	20	amod	_	_
+20	Woid	_	NOUN	_	_	17	obj	_	_
+21	ob	_	ADP	_	_	17	compound:prt	_	_
+22	und	_	CCONJ	_	_	23	cc	_	_
+23	heats	_	VERB	_	_	17	conj	_	_
+24	net	_	ADV	_	_	23	advmod	_	_
+25	af	_	ADP	_	_	23	compound:prt	_	_
+26	bis	_	SCONJ	_	_	29	mark	_	_
+27	olle	_	DET	_	_	28	det	_	_
+28	drei	_	NUM	_	_	29	obj	_	_
+29	gfundn	_	VERB	_	_	23	advcl	_	_
+30	hobts	_	AUX	_	_	29	aux	_	SpaceAfter=No
+31	.	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
+32	“	_	PUNCT	_	_	17	punct	_	_
 
