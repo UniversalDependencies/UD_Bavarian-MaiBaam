@@ -7783,7 +7783,7 @@
 24	"	_	PUNCT	_	_	25	punct	_	SpaceAfter=No
 25	Beagschduzn	_	PROPN	_	_	9	conj	_	SpaceAfter=No
 26	"	_	PUNCT	_	_	25	punct	_	SpaceAfter=No
-27	.	_	PUNCT	_	_	6	punct	_	_
+27	.	_	PUNCT	_	_	9	punct	_	_
 
 # sent_id = wiki_Dazzlwuam_3
 # text = In de franzesischn Oipm nenan s n a "Arassas".
@@ -10655,7 +10655,7 @@
 3	ihram	_	DET	_	_	4	det:poss	_	_
 4	Mo	_	NOUN	_	_	5	obl:arg	_	_
 5	ogschafft	_	VERB	_	_	0	root	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	11	punct	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
 7	s’	_	DET	_	_	8	det	_	SpaceAfter=No
 8	Auto	_	NOUN	_	_	5	xcomp	_	_
 9-10	zum	_	_	_	_	_	_	_	_
@@ -11043,7 +11043,7 @@
 # author = brauchinet
 1	Burschen	_	NOUN	_	_	3	vocative	_	SpaceAfter=No
 2	,	_	PUNCT	_	_	1	punct	_	_
-3	glaubt's	_	VERB	_	_	0	root	_	SpaceAfter=No
+3	glaubt's	_	VERB	_	_	0	root	_	_
 4	jo	_	ADV	_	_	3	advmod	_	_
 5	net	_	PART	_	_	3	advmod	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	14	punct	_	_
@@ -13769,7 +13769,7 @@
 13	Tod	_	NOUN	_	_	14	obl	_	_
 14	vaurteite	_	ADJ	_	_	15	amod	_	_
 15	Vabrecha	_	NOUN	_	_	24	obj	_	SpaceAfter=No
-16	,	_	PUNCT	_	_	21	punct	_	_
+16	,	_	PUNCT	_	_	20	punct	_	_
 17	de	_	PRON	_	_	20	nsubj	_	_
 18	wos	_	SCONJ	_	_	20	mark	_	_
 19	eineiige	_	ADJ	_	_	20	amod	_	_
