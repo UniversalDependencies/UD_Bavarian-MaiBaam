@@ -12016,7 +12016,7 @@
 # location = unk
 # source = https://bar.wikipedia.org/wiki/J-Pop
 1	Daj	_	DET	_	_	2	det	_	_
-2	Sortn	_	NOUN	_	_	5	iobj	_	_
+2	Sortn	_	NOUN	_	_	5	obj	_	_
 3	vu	_	ADP	_	_	4	case	_	_
 4	J-Pop	_	PROPN	_	_	2	nmod	_	_
 5	nennt	_	VERB	_	_	0	root	_	_
@@ -19140,20 +19140,6 @@
 4	a	_	DET	_	_	5	det	_	_
 5	Jackn	_	NOUN	_	_	1	obj	_	SpaceAfter=No
 6	?	_	PUNCT	_	_	1	punct	_	_
-
-# sent_id = xsid_de-ba_test_43
-# text = Wia vui Zeit is no auf m Wegga
-# genre = non-fiction
-# dialect_group = central
-# location = Upper Bavaria
-1	Wia	_	ADV	_	_	2	advmod	_	_
-2	vui	_	DET	_	_	3	det	_	_
-3	Zeit	_	NOUN	_	_	8	nsubj	_	_
-4	is	_	AUX	_	_	8	cop	_	_
-5	no	_	ADV	_	_	8	advmod	_	_
-6	auf	_	ADP	_	_	8	case	_	_
-7	m	_	DET	_	_	8	det	_	_
-8	Wegga	_	NOUN	_	_	0	root	_	_
 
 # sent_id = xsid_de-ba_test_44
 # text = Pausier an Wegga
