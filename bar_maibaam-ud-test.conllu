@@ -121,7 +121,7 @@
 1	I	_	ADP	_	_	5	case	_	_
 2	m	_	DET	_	_	5	det	_	_
 3	friahn	_	ADJ	_	_	4	advmod	_	_
-4	20.	_	ADJ	_	_	5	amod	_	SpaceAfter=No
+4	20.	_	ADJ	_	_	5	amod	_	SpaceAfter=No|CorrectSpaceAfter=Yes
 5	Joahrhundat	_	NOUN	_	_	10	obl	_	_
 6	soi	_	AUX	_	_	10	aux	_	_
 7	dabei	_	ADV	_	_	10	advmod	_	_
@@ -649,7 +649,7 @@
 5	machst	_	VERB	_	_	10	advcl	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	5	punct	_	_
 7	miass	_	AUX	_	_	10	aux	_	SpaceAfter=No
-8	ma	_	PROPN	_	_	10	nsubj	_	_
+8	ma	_	PRON	_	_	10	nsubj	_	_
 9	olle	_	DET	_	_	8	det	_	_
 10	dahungern	_	VERB	_	_	0	root	_	SpaceAfter=No
 11	.	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
@@ -2960,7 +2960,7 @@
 9	eizohln	_	VERB	_	_	0	root	_	SpaceAfter=No
 10	,	_	PUNCT	_	_	12	punct	_	_
 11	z.	_	ADP	_	_	12	case	_	SpaceAfter=No
-12	B.	_	NOUN	_	_	9	conj	_	SpaceAfter=No
+12	B.	_	NOUN	_	_	9	conj	_	SpaceAfter=No|CorrectSpaceAfter=Yes
 13	an	_	DET	_	_	14	det	_	_
 14	Eiro	_	NOUN	_	_	12	orphan	_	SpaceAfter=No
 15	.	_	PUNCT	_	_	9	punct	_	_
@@ -3602,7 +3602,7 @@
 20	af	_	ADP	_	_	21	case	_	_
 21	de.wp	_	X	_	_	19	nmod	_	SpaceAfter=No
 22	)	_	PUNCT	_	_	16	punct	_	_
-23	bzw.	_	CCONJ	_	_	26	cc	_	SpaceAfter=No
+23	bzw.	_	CCONJ	_	_	26	cc	_	SpaceAfter=No|CorrectSpaceAfter=Yes
 24	af	_	ADP	_	_	26	case	_	_
 25	da	_	DET	_	_	26	det	_	_
 26	Dischk	_	NOUN	_	_	13	conj	_	_
@@ -6244,7 +6244,7 @@
 7	Mingara	_	NOUN	_	_	2	nsubj	_	_
 8-9	zum	_	_	_	_	_	_	_	_
 8	zu	_	ADP	_	_	10	case	_	_
-9	dem	_	DET	_	_	10	det	_	_
+9	m	_	DET	_	_	10	det	_	_
 10	Frankn	_	NOUN	_	_	2	obl	_	_
 11	"	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
 12	I	_	PRON	_	_	15	nsubj	_	_
@@ -6260,7 +6260,7 @@
 22	a	_	PRON	_	_	26	nsubj	_	_
 23-24	zum	_	_	_	_	_	_	_	_
 23	zu	_	ADP	_	_	25	case	_	_
-24	dem	_	DET	_	_	25	det	_	_
+24	m	_	DET	_	_	25	det	_	_
 25	Schwobinga	_	NOUN	_	_	26	obl	_	_
 26	sogt	_	VERB	_	_	2	advcl	_	SpaceAfter=No
 27	,	_	PUNCT	_	_	32	punct	_	_
@@ -6330,8 +6330,8 @@
 1	S'	_	DET	_	_	2	det	_	SpaceAfter=No
 2	typische	_	NOUN	_	_	8	nsubj	_	_
 3-4	am	_	_	_	_	_	_	_	_
-3	an	_	ADP	_	_	5	case	_	_
-4	dem	_	DET	_	_	5	det	_	_
+3	a	_	ADP	_	_	5	case	_	_
+4	m	_	DET	_	_	5	det	_	_
 5	Mingara	_	NOUN	_	_	2	nmod	_	_
 6	is	_	AUX	_	_	8	cop	_	_
 7	sei	_	DET	_	_	8	det:poss	_	_
@@ -7265,18 +7265,18 @@
 # dialect_group = north
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
-1	Trotzdean	_	ADV	_	_	4	advmod	_	_
-2	das	_	SCONJ	_	_	4	mark	_	SpaceAfter=No
-3	'e	_	PRON	_	_	4	nsubj	_	SpaceAfter=No
-4	's	_	PRON	_	_	8	advcl	_	_
-5	moch	_	AUX	_	_	4	aux	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	4	punct	_	_
-7	hairon	_	VERB	_	_	8	xcomp	_	_
-8	tou	_	VERB	_	_	0	root	_	SpaceAfter=No
-9	'e	_	PRON	_	_	8	nsubj	_	SpaceAfter=No
-10	's	_	PRON	_	_	8	obj	_	_
-11	niat	_	PART	_	_	8	advmod	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	8	punct	_	_
+1	Trotzdean	_	ADV	_	_	5	advmod	_	_
+2	das	_	SCONJ	_	_	5	mark	_	SpaceAfter=No
+3	'e	_	PRON	_	_	5	nsubj	_	SpaceAfter=No
+4	's	_	PRON	_	_	5	obj	_	_
+5	moch	_	VERB	_	_	7	advcl	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	hairon	_	VERB	_	_	0	root	_	_
+8	tou	_	AUX	_	_	7	aux	_	SpaceAfter=No
+9	'e	_	PRON	_	_	7	nsubj	_	SpaceAfter=No
+10	's	_	PRON	_	_	7	obj	_	_
+11	niat	_	PART	_	_	7	advmod	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = wikisample_Boarische-Grammatik-Konjunktiona_64
 # text = Er wüll, das i redt.
@@ -7819,7 +7819,7 @@
 6	vo	_	ADP	_	_	8	case	_	_
 7	m	_	DET	_	_	8	det	_	_
 8	Drackn	_	NOUN	_	_	5	nmod	_	_
-9	bzw.	_	CCONJ	_	_	12	cc	_	SpaceAfter=No
+9	bzw.	_	CCONJ	_	_	12	cc	_	SpaceAfter=No|CorrectSpaceAfter=Yes
 10-11	vom	_	_	_	_	_	_	_	_
 10	vo	_	ADP	_	_	12	case	_	_
 11	m	_	DET	_	_	12	det	_	_
@@ -10258,7 +10258,7 @@
 23	drinnat	_	ADV	_	_	17	advmod	_	SpaceAfter=No
 24	,	_	PUNCT	_	_	29	punct	_	_
 25	bis	_	SCONJ	_	_	29	mark	_	_
-26	das	_	SCONJ	_	_	25	fixed	_	_
+26	das	_	SCONJ	_	_	29	mark	_	_
 27	de	_	DET	_	_	28	det	_	_
 28	Jungan	_	NOUN	_	_	29	nsubj	_	_
 29	auschlupfm	_	VERB	_	_	17	advcl	_	_
@@ -10381,7 +10381,7 @@
 29	si	_	PRON	_	_	28	expl:pv	_	SpaceAfter=No
 30	,	_	PUNCT	_	_	40	punct	_	_
 31	indem	_	SCONJ	_	_	40	mark	_	_
-32	das	_	SCONJ	_	_	31	fixed	_	_
+32	das	_	SCONJ	_	_	40	mark	_	_
 33	sa	_	PRON	_	_	40	nsubj	_	_
 34	si	_	PRON	_	_	40	expl:pv	_	_
 35	gegnseitig	_	ADV	_	_	40	advmod	_	_
@@ -10785,7 +10785,7 @@
 2	moanst	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	_
 4	dass	_	SCONJ	_	_	6	mark	_	_
-5	d’	_	X	_	_	4	goeswith	_	SpaceAfter=No
+5	d’	_	X	_	_	4	goeswith	_	SpaceAfter=No|CorrectSpaceAfter=Yes
 6	kema	_	VERB	_	_	2	ccomp	_	_
 7	konnst	_	AUX	_	_	6	aux	_	SpaceAfter=No
 8	?	_	PUNCT	_	_	2	punct	_	_
