@@ -13,8 +13,8 @@
 7	(	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
 8	Schuhplattler	_	X	_	_	6	appos	_	SpaceAfter=No
 9	)	_	PUNCT	_	_	8	punct	_	_
-10	bei	_	ADP	_	_	13	case	_	_
-11	dem	_	DET	_	_	13	det	_	_
+10	bei	_	ADP	_	_	11	case	_	_
+11	dem	_	DET	_	_	14	obl	_	_
 12	stoarke	_	ADJ	_	_	13	amod	_	_
 13	Aggressionen	_	NOUN	_	_	14	nsubj	_	_
 14	ausglebt	_	VERB	_	_	6	acl	_	_
