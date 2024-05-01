@@ -22,7 +22,7 @@ The `sent_id`s indicate what source a sentence was taken from (see below).
 
 We include sentences from the following sources, as indicated by different `sent_id` prefixes:
 - [Bavarian Wikipedia](https://bar.wikipedia.org/), (`wiki`, `wikitalk`, `wikisource`, `wikisample`) shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-- [Tatoeba](https://tatoeba.org/en), shared under [CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/), with usage conditions also detailed [here](https://tatoeba.org/en/terms_of_use#section-6).
+- [Tatoeba](https://tatoeba.org/en) (`tatoeba`), shared under [CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/), with usage conditions also detailed [here](https://tatoeba.org/en/terms_of_use#section-6).
 - Translations of [xSID](https://github.com/mainlp/xsid) ([van der Goot et al. 2020](https://aclanthology.org/2021.naacl-main.197/), Winkler et al. 2024: "Slot and Intent Detection Resources for Bavarian and Lithuanian: Assessing Translations vs Natural Queries to Digital Assistants"), shared under [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). **NOTE:** We include different data splits: *xSID dev* for South Tyrolean sentences (`xsid_de-st_dev`), *xSID test* (!) for Central Bavarian sentences (`xsid_de-ba_test`).
 - [Non-translated SID data](https://github.com/mainlp/NaLiBaSID), also from Winkler et al. 2024 (`sid_de-ba_natural`).
 - A translation of the [Cairo CICLing Corpus](https://github.com/UniversalDependencies/cairo/) (`cairo`).
