@@ -473,24 +473,22 @@
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Text:Hansl_und_Gretl
-1	Amoi	_	ADV	_	_	8	advmod	_	GermanLemma=einmal
-2	hod	_	AUX	_	_	8	aux	_	GermanLemma=haben
-3	a	_	PRON	_	_	8	nsubj	_	GermanLemma=er
-4	aa	_	ADV	_	_	8	advmod	_	GermanLemma=auch
-5	des	_	PRON	_	_	8	obj	_	GermanLemma=das
-6	nim	_	PART	_	_	8	advmod	_	GermanLemma=nicht|SpaceAfter=No
-7	ma	_	ADV	_	_	6	advmod	_	GermanLemma=mehr
-8	gschafft	_	VERB	_	_	0	root	_	GermanLemma=schaffen
-9	und	_	CCONJ	_	_	14	cc	_	GermanLemma=und
-10	hod	_	AUX	_	_	14	aux	_	GermanLemma=haben
-11	nim	_	PART	_	_	14	advmod	_	GermanLemma=nicht|SpaceAfter=No
-12	ma	_	ADV	_	_	11	advmod	_	GermanLemma=mehr
-13	weidda	_	ADP	_	_	14	compound:prt	_	GermanLemma=weiter
-14	gwußt	_	VERB	_	_	8	conj	_	GermanLemma=wissen
-15	in	_	ADP	_	_	17	case	_	GermanLemma=in
-16	seina	_	DET	_	_	17	det:poss	_	GermanLemma=sein
-17	Nout	_	NOUN	_	_	14	obl	_	GermanLemma=Not|SpaceAfter=No
-18	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
+1	Amoi	_	ADV	_	_	7	advmod	_	GermanLemma=einmal
+2	hod	_	AUX	_	_	7	aux	_	GermanLemma=haben
+3	a	_	PRON	_	_	7	nsubj	_	GermanLemma=er
+4	aa	_	ADV	_	_	7	advmod	_	GermanLemma=auch
+5	des	_	PRON	_	_	7	obj	_	GermanLemma=das
+6	nimma	__	ADV	_	_	7	advmod	_	GermanLemma=nicht mehr
+7	gschafft	_	VERB	_	_	0	root	_	GermanLemma=schaffen
+8	und	_	CCONJ	_	_	12	cc	_	GermanLemma=und
+9	hod	_	AUX	_	_	12	aux	_	GermanLemma=haben
+10	nimma	__	ADV	_	_	12	advmod	_	GermanLemma=nicht mehr
+11	weidda	_	ADP	_	_	12	compound:prt	_	GermanLemma=weiter
+12	gwußt	_	VERB	_	_	7	conj	_	GermanLemma=wissen
+13	in	_	ADP	_	_	15	case	_	GermanLemma=in
+14	seina	_	DET	_	_	15	det:poss	_	GermanLemma=sein
+15	Nout	_	NOUN	_	_	12	obl	_	GermanLemma=Not|SpaceAfter=No
+16	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
 
 # sent_id = wikisource_Hansl-und-Gretl_3
 # text = Wiara se in da Nocht im Bett umadumdraht hod, da hat sei Wei zu eam gsogt:
@@ -2529,18 +2527,17 @@
 # dialect_group = northcentral
 # location = Bavarian Forest
 # source = https://bar.wikipedia.org/wiki/Haferltarock
-1	Wenn	_	SCONJ	_	_	6	mark	_	GermanLemma=wenn
+1	Wenn	_	SCONJ	_	_	5	mark	_	GermanLemma=wenn
 2	da	_	DET	_	_	3	det	_	GermanLemma=der
-3	Voadane	_	NOUN	_	_	6	nsubj	_	GermanLemma=Vordere
-4	nim	_	PART	_	_	6	advmod	_	GermanLemma=nicht|SpaceAfter=No
-5	ma	_	ADV	_	_	4	advmod	_	GermanLemma=mehr
-6	midgejt	_	VERB	_	_	11	advcl	_	GermanLemma=mitgehen|SpaceAfter=No
-7	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
-8	mou	_	AUX	_	_	11	aux	_	GermanLemma=müssen
-9	da	_	DET	_	_	10	det	_	GermanLemma=der
-10	Hintane	_	NOUN	_	_	11	nsubj	_	GermanLemma=Hinter
-11	spuin	_	VERB	_	_	0	root	_	GermanLemma=spielen|SpaceAfter=No
-12	.	_	PUNCT	_	_	11	punct	_	GermanLemma=.
+3	Voadane	_	NOUN	_	_	5	nsubj	_	GermanLemma=Vordere
+4	nimma	__	ADV	_	_	5	advmod	_	GermanLemma=nicht mehr
+5	midgejt	_	VERB	_	_	10	advcl	_	GermanLemma=mitgehen|SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	GermanLemma=,
+7	mou	_	AUX	_	_	10	aux	_	GermanLemma=müssen
+8	da	_	DET	_	_	9	det	_	GermanLemma=der
+9	Hintane	_	NOUN	_	_	10	nsubj	_	GermanLemma=Hinter
+10	spuin	_	VERB	_	_	0	root	_	GermanLemma=spielen|SpaceAfter=No
+11	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
 
 # sent_id = wiki_Haferltarock_25
 # text = Wenn da Hintane nimmer mehr osong mog, mou da Voadane spuin.
@@ -2548,20 +2545,19 @@
 # dialect_group = northcentral
 # location = Bavarian Forest
 # source = https://bar.wikipedia.org/wiki/Haferltarock
-1	Wenn	_	SCONJ	_	_	7	mark	_	GermanLemma=wenn
+1	Wenn	_	SCONJ	_	_	6	mark	_	GermanLemma=wenn
 2	da	_	DET	_	_	3	det	_	GermanLemma=der
-3	Hintane	_	NOUN	_	_	7	nsubj	_	GermanLemma=Hintere
-4	nim	_	PART	_	_	7	advmod	_	GermanLemma=nicht|SpaceAfter=No
-5	mer	_	ADV	_	_	4	advmod	_	GermanLemma=mehr
-6	mehr	_	ADV	_	_	7	advmod	_	GermanLemma=mehr
-7	osong	_	VERB	_	_	13	advcl	_	GermanLemma=ansagen
-8	mog	_	AUX	_	_	7	aux	_	GermanLemma=mögen|SpaceAfter=No
-9	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
-10	mou	_	AUX	_	_	13	aux	_	GermanLemma=müssen
-11	da	_	DET	_	_	12	det	_	GermanLemma=der
-12	Voadane	_	NOUN	_	_	13	nsubj	_	GermanLemma=Vordere
-13	spuin	_	VERB	_	_	0	root	_	GermanLemma=spielen|SpaceAfter=No
-14	.	_	PUNCT	_	_	13	punct	_	GermanLemma=.
+3	Hintane	_	NOUN	_	_	6	nsubj	_	GermanLemma=Hintere
+4	nimmer	__	ADV	_	_	6	advmod	_	GermanLemma=nicht mehr
+5	mehr	_	ADV	_	_	6	advmod	_	GermanLemma=mehr
+6	osong	_	VERB	_	_	12	advcl	_	GermanLemma=ansagen
+7	mog	_	AUX	_	_	6	aux	_	GermanLemma=mögen|SpaceAfter=No
+8	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
+9	mou	_	AUX	_	_	12	aux	_	GermanLemma=müssen
+10	da	_	DET	_	_	11	det	_	GermanLemma=der
+11	Voadane	_	NOUN	_	_	12	nsubj	_	GermanLemma=Vordere
+12	spuin	_	VERB	_	_	0	root	_	GermanLemma=spielen|SpaceAfter=No
+13	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
 
 # sent_id = wiki_Haferltarock_26
 # text = Es gitt ano de Meglichkeit, dassma an andan mid an Handspüll iwareitzt.
@@ -11248,7 +11244,7 @@
 3	braucht	_	VERB	_	_	0	root	_	GermanLemma=brauchen
 4	mit	_	ADP	_	_	5	case	_	GermanLemma=mit
 5	dem	_	DET	_	_	3	obl	_	GermanLemma=das
-6	nimma	_	ADV	_	_	7	advmod	_	GermanLemma=nicht
+6	nimma	_	ADV	_	_	7	advmod	_	GermanLemma=nicht mehr
 7	weidatuan	_	VERB	_	_	3	xcomp	_	GermanLemma=weitertun|SpaceAfter=No
 8	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
 
@@ -15693,14 +15689,13 @@
 11	Boarische	_	NOUN	_	_	13	obj	_	GermanLemma=Bairische
 12	no	_	ADV	_	_	13	advmod	_	GermanLemma=noch
 13	vastenga	_	VERB	_	_	6	acl:relcl	_	GermanLemma=verstehen|SpaceAfter=No
-14	,	_	PUNCT	_	_	20	punct	_	GermanLemma=,
-15	owa	_	SCONJ	_	_	20	mark	_	GermanLemma=aber
-16	nim	_	PART	_	_	20	advmod	_	GermanLemma=nicht|SpaceAfter=No
-17	ma	_	ADV	_	_	20	advmod	_	GermanLemma=mehr
-18	midarananda	_	ADV	_	_	20	advmod	_	GermanLemma=miteinander
-19	Boarisch	_	NOUN	_	_	20	obj	_	GermanLemma=Bairisch
-20	redn	_	VERB	_	_	2	xcomp	_	GermanLemma=reden|SpaceAfter=No
-21	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+14	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
+15	owa	_	SCONJ	_	_	19	mark	_	GermanLemma=aber
+16	nimma	__	ADV	_	_	19	advmod	_	GermanLemma=nicht mehr
+17	midarananda	_	ADV	_	_	19	advmod	_	GermanLemma=miteinander
+18	Boarisch	_	NOUN	_	_	19	obj	_	GermanLemma=Bairisch
+19	redn	_	VERB	_	_	2	xcomp	_	GermanLemma=reden|SpaceAfter=No
+20	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = wiki_Minga_51
 # text = 1852 hod d'Eihwohnazoi vo da Stod d'Grenz vo 100.000 iwaschrittn, damit is Minga zua Großstod worn.
