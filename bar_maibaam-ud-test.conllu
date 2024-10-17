@@ -47,7 +47,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = Upper Bavaria
 # source = https://bar.wikipedia.org/wiki/Haberertanz
-1-2	Beim	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Beim	_	_	_	_	_	_	_	_
 1	Bei	_	ADP	_	_	3	case	_	GermanLemma=bei
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Haberer	_	NOUN	_	_	4	obl	_	GermanLemma=Haberer
@@ -58,7 +58,7 @@
 8	um	_	ADP	_	_	10	case	_	GermanLemma=um
 9	des	_	DET	_	_	10	det	_	GermanLemma=das
 10	Diandl	_	NOUN	_	_	7	nmod	_	GermanLemma=Mädchen
-11-12	im	_	_	_	_	_	_	_	GermanLemma=_
+11-12	im	_	_	_	_	_	_	_	_
 11	i	_	ADP	_	_	13	case	_	GermanLemma=in
 12	m	_	DET	_	_	13	det	_	GermanLemma=der
 13	Vordagrund	_	NOUN	_	_	4	obl	_	GermanLemma=Vordergrud
@@ -76,7 +76,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = Upper Bavaria
 # source = https://bar.wikipedia.org/wiki/Haberertanz
-1-2	Beim	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Beim	_	_	_	_	_	_	_	_
 1	Bei	_	ADP	_	_	3	case	_	GermanLemma=bei
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Haberertanz	_	PROPN	_	_	6	obl	_	GermanLemma=Haberertanz
@@ -100,7 +100,7 @@
 7	Faust	_	NOUN	_	_	8	nsubj:pass	_	GermanLemma=Faust
 8	zoagt	_	VERB	_	_	4	conj	_	GermanLemma=zeigen|SpaceAfter=No
 9	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
-10-11	auf'n	_	_	_	_	_	_	_	GermanLemma=_
+10-11	auf'n	_	_	_	_	_	_	_	_
 10	auf	_	ADP	_	_	12	case	_	GermanLemma=auf
 11	'n	_	DET	_	_	12	det	_	GermanLemma=der
 12	Hintan	_	NOUN	_	_	13	nsubj:pass	_	GermanLemma=Hintern
@@ -117,7 +117,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = Upper Bavaria
 # source = https://bar.wikipedia.org/wiki/Haberertanz
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	5	case	_	GermanLemma=in
 2	m	_	DET	_	_	5	det	_	GermanLemma=das
 3	friahn	_	ADJ	_	_	4	advmod	_	GermanLemma=früh
@@ -143,7 +143,7 @@
 4	aa	_	DET	_	_	6	det	_	GermanLemma=ein
 5	entfernta	_	ADJ	_	_	6	amod	_	GermanLemma=entfernt
 6	Verwaundta	_	NOUN	_	_	0	root	_	GermanLemma=Verwandter
-7-8	vum	_	_	_	_	_	_	_	GermanLemma=_
+7-8	vum	_	_	_	_	_	_	_	_
 7	vu	_	ADP	_	_	9	case	_	GermanLemma=von
 8	m	_	DET	_	_	9	det	_	GermanLemma=der
 9	Haberer	_	NOUN	_	_	6	nmod	_	GermanLemma=Haberer|SpaceAfter=No
@@ -164,11 +164,11 @@
 7	vo	_	ADP	_	_	9	case	_	GermanLemma=von
 8	da	_	DET	_	_	9	det	_	GermanLemma=die
 9	Soizach	_	PROPN	_	_	6	nmod	_	GermanLemma=Salzach
-10-11	im	_	_	_	_	_	_	_	GermanLemma=_
+10-11	im	_	_	_	_	_	_	_	_
 10	i	_	ADP	_	_	12	case	_	GermanLemma=in
 11	m	_	DET	_	_	12	det	_	GermanLemma=der
 12	Dennangau	_	PROPN	_	_	6	obl	_	GermanLemma=Tennengau
-13-14	im	_	_	_	_	_	_	_	GermanLemma=_
+13-14	im	_	_	_	_	_	_	_	_
 13	i	_	ADP	_	_	16	case	_	GermanLemma=in
 14	m	_	DET	_	_	16	det	_	GermanLemma=das
 15	Soizburga	_	ADJ	_	_	16	amod	_	GermanLemma=Salzburger
@@ -183,7 +183,7 @@
 # source = https://bar.wikipedia.org/wiki/L%C3%A5mma
 1	Se	_	PRON	_	_	2	nsubj	_	GermanLemma=sie
 2	fongd	_	VERB	_	_	0	root	_	GermanLemma=fange
-3-4	im	_	_	_	_	_	_	_	GermanLemma=_
+3-4	im	_	_	_	_	_	_	_	_
 3	i	_	ADP	_	_	5	case	_	GermanLemma=in
 4	m	_	DET	_	_	5	det	_	GermanLemma=das
 5	Dennangebirg	_	NOUN	_	_	2	obl	_	GermanLemma=Tennengebirge
@@ -191,7 +191,7 @@
 7	uma	_	ADV	_	_	8	advmod	_	GermanLemma=um
 8	1.700	_	NUM	_	_	9	nummod	_	GermanLemma=1.700
 9	Meta	_	NOUN	_	_	13	obl	_	GermanLemma=Meter
-10-11	üwan	_	_	_	_	_	_	_	GermanLemma=_
+10-11	üwan	_	_	_	_	_	_	_	_
 10	üwa	_	ADP	_	_	12	case	_	GermanLemma=über
 11	n	_	DET	_	_	12	det	_	GermanLemma=das
 12	Meer	_	NOUN	_	_	9	nmod	_	GermanLemma=Meer
@@ -209,7 +209,7 @@
 24	Abtenau	_	PROPN	_	_	22	conj	_	GermanLemma=Abtenau
 25	und	_	CCONJ	_	_	26	cc	_	GermanLemma=und
 26	Scheffau	_	PROPN	_	_	22	conj	_	GermanLemma=Scheffau
-27-28	am	_	_	_	_	_	_	_	GermanLemma=_
+27-28	am	_	_	_	_	_	_	_	_
 27	a	_	ADP	_	_	29	case	_	GermanLemma=an
 28	m	_	DET	_	_	29	det	_	GermanLemma=das
 29	Dennangebirg	_	NOUN	_	_	16	obl	_	GermanLemma=Tennengebirge
@@ -233,13 +233,13 @@
 8	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
 9	480	_	NUM	_	_	10	nummod	_	GermanLemma=480
 10	Meta	_	NOUN	_	_	14	obl	_	GermanLemma=Meter
-11-12	üwan	_	_	_	_	_	_	_	GermanLemma=_
+11-12	üwan	_	_	_	_	_	_	_	_
 11	üwa	_	ADP	_	_	13	case	_	GermanLemma=über
 12	n	_	DET	_	_	13	det	_	GermanLemma=das
 13	Meer	_	NOUN	_	_	10	nmod	_	GermanLemma=Meer
 14	drüwa	_	ADV	_	_	4	advmod	_	GermanLemma=drüber|SpaceAfter=No
 15	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
-16-17	ind	_	_	_	_	_	_	_	GermanLemma=_
+16-17	ind	_	_	_	_	_	_	_	_
 16	in	_	ADP	_	_	18	case	_	GermanLemma=in
 17	d	_	DET	_	_	18	det	_	GermanLemma=die
 18	Soizach	_	PROPN	_	_	4	obl	_	GermanLemma=Salzach
@@ -286,7 +286,7 @@
 9	und	_	CCONJ	_	_	16	cc	_	GermanLemma=und
 10	is	_	AUX	_	_	16	cop	_	GermanLemma=sein
 11	a	_	ADV	_	_	16	advmod	_	GermanLemma=ein
-12-13	fian	_	_	_	_	_	_	_	GermanLemma=_
+12-13	fian	_	_	_	_	_	_	_	_
 12	fia	_	ADP	_	_	14	case	_	GermanLemma=für
 13	n	_	DET	_	_	14	det	_	GermanLemma=der
 14	Wüidwossasport	_	NOUN	_	_	16	obl	_	GermanLemma=Wildwassersport
@@ -440,7 +440,7 @@
 11	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 12	der	_	PRON	_	_	19	nsubj	_	GermanLemma=der
 13	nix	_	PRON	_	_	19	obj	_	GermanLemma=nix/nichts
-14-15	zum	_	_	_	_	_	_	_	GermanLemma=_
+14-15	zum	_	_	_	_	_	_	_	_
 14	zu	_	PART	_	_	16	mark	_	GermanLemma=zu
 15	m	_	DET	_	_	16	det	_	GermanLemma=das
 16	beißn	_	NOUN	_	_	13	nmod	_	GermanLemma=beißen
@@ -504,7 +504,7 @@
 4	in	_	ADP	_	_	6	case	_	GermanLemma=in
 5	da	_	DET	_	_	6	det	_	GermanLemma=der
 6	Nocht	_	NOUN	_	_	10	obl	_	GermanLemma=Nacht
-7-8	im	_	_	_	_	_	_	_	GermanLemma=_
+7-8	im	_	_	_	_	_	_	_	_
 7	i	_	ADP	_	_	9	case	_	GermanLemma=in
 8	m	_	DET	_	_	9	det	_	GermanLemma=das
 9	Bett	_	NOUN	_	_	10	obl	_	GermanLemma=Bett
@@ -550,7 +550,7 @@
 22	und	_	CCONJ	_	_	23	cc	_	GermanLemma=und
 23	gehst	_	VERB	_	_	11	conj	_	GermanLemma=gehen
 24	auße	_	ADP	_	_	23	compound:prt	_	GermanLemma=raus
-25-26	ins	_	_	_	_	_	_	_	GermanLemma=_
+25-26	ins	_	_	_	_	_	_	_	_
 25	in	_	ADP	_	_	27	case	_	GermanLemma=in
 26	s	_	DET	_	_	27	det	_	GermanLemma=das
 27	Hoiz	_	NOUN	_	_	23	obl	_	GermanLemma=Holz
@@ -609,7 +609,7 @@
 13	bring	_	VERB	_	_	9	parataxis	_	GermanLemma=bringen
 14	i	_	PRON	_	_	13	nsubj	_	GermanLemma=ich
 15	ned	_	PART	_	_	13	advmod	_	GermanLemma=nicht
-16-17	über's	_	_	_	_	_	_	_	GermanLemma=_
+16-17	über's	_	_	_	_	_	_	_	_
 16	über	_	ADP	_	_	18	case	_	GermanLemma=über
 17	's	_	DET	_	_	18	det	_	GermanLemma=das
 18	Herz	_	NOUN	_	_	13	obl	_	GermanLemma=Herz|SpaceAfter=No
@@ -627,7 +627,7 @@
 30	de	_	PRON	_	_	37	nsubj	_	GermanLemma=das
 31	wos	_	SCONJ	_	_	37	mark	_	GermanLemma=was
 32	boid	_	DET	_	_	37	obj	_	GermanLemma=bald
-33-34	im	_	_	_	_	_	_	_	GermanLemma=_
+33-34	im	_	_	_	_	_	_	_	_
 33	i	_	ADP	_	_	35	case	_	GermanLemma=in
 34	m	_	DET	_	_	35	det	_	GermanLemma=das
 35	Hoiz	_	NOUN	_	_	37	obl	_	GermanLemma=Holz
@@ -696,7 +696,7 @@
 16	wos	_	PRON	_	_	22	obj	_	GermanLemma=was
 17	d'	_	DET	_	_	18	det	_	GermanLemma=die|SpaceAfter=No
 18	Muadda	_	NOUN	_	_	22	nsubj	_	GermanLemma=Mutter
-19-20	zum	_	_	_	_	_	_	_	GermanLemma=_
+19-20	zum	_	_	_	_	_	_	_	_
 19	zu	_	ADP	_	_	21	case	_	GermanLemma=zu
 20	m	_	DET	_	_	21	det	_	GermanLemma=der
 21	Vadda	_	NOUN	_	_	22	obl	_	GermanLemma=Vater
@@ -842,7 +842,7 @@
 4	hoam	_	ADV	_	_	0	root	_	GermanLemma=heim
 5	und	_	CCONJ	_	_	10	cc	_	GermanLemma=und
 6	hod	_	AUX	_	_	10	aux	_	GermanLemma=haben
-7-8	zua	_	_	_	_	_	_	_	GermanLemma=_
+7-8	zua	_	_	_	_	_	_	_	_
 7	zu	_	ADP	_	_	9	case	_	GermanLemma=zu
 8	a	_	DET	_	_	9	det	_	GermanLemma=eine
 9	Gretl	_	PROPN	_	_	10	obl	_	GermanLemma=Gretl
@@ -861,7 +861,7 @@
 22	,	_	PUNCT	_	_	28	punct	_	GermanLemma=,
 23	hod	_	AUX	_	_	28	aux	_	GermanLemma=haben
 24	se	_	PRON	_	_	28	expl:pv	_	GermanLemma=sich
-25-26	ins	_	_	_	_	_	_	_	GermanLemma=_
+25-26	ins	_	_	_	_	_	_	_	_
 25	in	_	ADP	_	_	27	case	_	GermanLemma=in
 26	s	_	DET	_	_	27	det	_	GermanLemma=das
 27	Bett	_	NOUN	_	_	28	obl	_	GermanLemma=Bett
@@ -914,7 +914,7 @@
 6	,	_	PUNCT	_	_	12	punct	_	GermanLemma=,
 7	mia	_	PRON	_	_	12	nsubj	_	GermanLemma=wir
 8	mechan	_	AUX	_	_	12	aux	_	GermanLemma=mögen
-9-10	ins	_	_	_	_	_	_	_	GermanLemma=_
+9-10	ins	_	_	_	_	_	_	_	_
 9	in	_	ADP	_	_	11	case	_	GermanLemma=in
 10	s	_	DET	_	_	11	det	_	GermanLemma=das
 11	Hoiz	_	NOUN	_	_	12	obl	_	GermanLemma=Holz
@@ -980,11 +980,11 @@
 2	hom	_	AUX	_	_	11	aux	_	GermanLemma=haben
 3	sa	_	PRON	_	_	11	nsubj	_	GermanLemma=sie
 4	se	_	PRON	_	_	11	expl:pv	_	GermanLemma=sich
-5-6	aufn	_	_	_	_	_	_	_	GermanLemma=_
+5-6	aufn	_	_	_	_	_	_	_	_
 5	auf	_	ADP	_	_	7	case	_	GermanLemma=auf
 6	n	_	DET	_	_	7	det	_	GermanLemma=der
 7	Weg	_	NOUN	_	_	11	obl	_	GermanLemma=Weg
-8-9	ins	_	_	_	_	_	_	_	GermanLemma=_
+8-9	ins	_	_	_	_	_	_	_	_
 8	in	_	ADP	_	_	10	case	_	GermanLemma=in
 9	s	_	DET	_	_	10	det	_	GermanLemma=das
 10	Hoiz	_	NOUN	_	_	11	obl	_	GermanLemma=Holz
@@ -1082,7 +1082,7 @@
 16	de	_	PRON	_	_	22	nsubj	_	GermanLemma=die
 17	wo	_	SCONJ	_	_	22	mark	_	GermanLemma=wo
 18	obm	_	ADV	_	_	22	advmod	_	GermanLemma=oben
-19-20	aufm	_	_	_	_	_	_	_	GermanLemma=_
+19-20	aufm	_	_	_	_	_	_	_	_
 19	auf	_	ADP	_	_	21	case	_	GermanLemma=auf
 20	m	_	DET	_	_	21	det	_	GermanLemma=das
 21	Doch	_	NOUN	_	_	22	obl	_	GermanLemma=Dach
@@ -1128,7 +1128,7 @@
 13	Sonn	_	NOUN	_	_	9	conj	_	GermanLemma=Sonne|SpaceAfter=No
 14	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 15	de	_	PRON	_	_	19	nsubj	_	GermanLemma=die
-16-17	üban	_	_	_	_	_	_	_	GermanLemma=_
+16-17	üban	_	_	_	_	_	_	_	_
 16	üba	_	ADP	_	_	18	case	_	GermanLemma=über
 17	n	_	DET	_	_	18	det	_	GermanLemma=der
 18	Kamin	_	NOUN	_	_	19	obl	_	GermanLemma=Kamin
@@ -1159,7 +1159,7 @@
 15	de	_	DET	_	_	17	det	_	GermanLemma=der
 16	glanzande	_	ADJ	_	_	17	amod	_	GermanLemma=glänzend
 17	Kieselstoana	_	NOUN	_	_	13	nmod	_	GermanLemma=Kieselstein
-18-19	aufn	_	_	_	_	_	_	_	GermanLemma=_
+18-19	aufn	_	_	_	_	_	_	_	_
 18	auf	_	ADP	_	_	20	case	_	GermanLemma=auf
 19	n	_	DET	_	_	20	det	_	GermanLemma=der
 20	Weg	_	NOUN	_	_	21	obl	_	GermanLemma=Weg
@@ -1175,7 +1175,7 @@
 1	Ois	_	SCONJ	_	_	7	mark	_	GermanLemma=als
 2	nacha	_	ADV	_	_	7	advmod	_	GermanLemma=nachher
 3	mitn	_	ADV	_	_	6	advmod	_	GermanLemma=mitten
-4-5	im	_	_	_	_	_	_	_	GermanLemma=_
+4-5	im	_	_	_	_	_	_	_	_
 4	i	_	ADP	_	_	6	case	_	GermanLemma=in
 5	m	_	DET	_	_	6	det	_	GermanLemma=der
 6	Woid	_	NOUN	_	_	7	obl	_	GermanLemma=Wald
@@ -1256,7 +1256,7 @@
 20	iatz	_	ADV	_	_	21	advmod	_	GermanLemma=jetzt
 21	legts	_	VERB	_	_	17	ccomp	_	GermanLemma=legen
 22	eich	_	PRON	_	_	21	expl:pv	_	GermanLemma=euch
-23-24	ans	_	_	_	_	_	_	_	GermanLemma=_
+23-24	ans	_	_	_	_	_	_	_	_
 23	an	_	ADP	_	_	25	case	_	GermanLemma=an
 24	s	_	DET	_	_	25	det	_	GermanLemma=das
 25	Feier	_	NOUN	_	_	21	obl	_	GermanLemma=Feuer
@@ -1265,7 +1265,7 @@
 28	,	_	PUNCT	_	_	30	punct	_	GermanLemma=,
 29	mia	_	PRON	_	_	30	nsubj	_	GermanLemma=wir
 30	gengan	_	VERB	_	_	21	parataxis	_	GermanLemma=gehen
-31-32	inn	_	_	_	_	_	_	_	GermanLemma=_
+31-32	inn	_	_	_	_	_	_	_	_
 31	in	_	ADP	_	_	33	case	_	GermanLemma=in
 32	n	_	DET	_	_	33	det	_	GermanLemma=der
 33	Woid	_	NOUN	_	_	30	obl	_	GermanLemma=Wald|SpaceAfter=No
@@ -1308,7 +1308,7 @@
 6	sand	_	AUX	_	_	12	aux	_	GermanLemma=sein
 7	bis	_	ADP	_	_	8	case	_	GermanLemma=bis
 8	Mittag	_	NOUN	_	_	12	obl	_	GermanLemma=Mittag
-9-10	am	_	_	_	_	_	_	_	GermanLemma=_
+9-10	am	_	_	_	_	_	_	_	_
 9	a	_	ADP	_	_	11	case	_	GermanLemma=an
 10	m	_	DET	_	_	11	det	_	GermanLemma=das
 11	Feier	_	NOUN	_	_	12	obl	_	GermanLemma=Feuer
@@ -1631,7 +1631,7 @@
 3	aa	_	ADV	_	_	5	advmod	_	GermanLemma=auch
 4	da	_	DET	_	_	5	det	_	GermanLemma=der
 5	Vawoitungssitz	_	NOUN	_	_	0	root	_	GermanLemma=Verwaltungssitz
-6-7	vom	_	_	_	_	_	_	_	GermanLemma=_
+6-7	vom	_	_	_	_	_	_	_	_
 6	vo	_	ADP	_	_	8	case	_	GermanLemma=von
 7	m	_	DET	_	_	8	det	_	GermanLemma=der
 8	Regiarungsbeziak	_	NOUN	_	_	5	nmod	_	GermanLemma=Regierungsbezirk
@@ -1676,11 +1676,11 @@
 8	wia	_	SCONJ	_	_	10	case	_	GermanLemma=wie|SpaceAfter=No
 9	s	_	DET	_	_	10	det	_	GermanLemma=das
 10	Glocknspui	_	NOUN	_	_	7	nmod	_	GermanLemma=Glockenspiel
-11-12	am	_	_	_	_	_	_	_	GermanLemma=_
+11-12	am	_	_	_	_	_	_	_	_
 11	a	_	ADP	_	_	13	case	_	GermanLemma=an
 12	m	_	DET	_	_	13	det	_	GermanLemma=das
 13	Rathaus	_	NOUN	_	_	10	nmod	_	GermanLemma=Rathaus
-14-15	am	_	_	_	_	_	_	_	GermanLemma=_
+14-15	am	_	_	_	_	_	_	_	_
 14	a	_	ADP	_	_	16	case	_	GermanLemma=an
 15	m	_	DET	_	_	16	det	_	GermanLemma=der
 16	Marienplotz	_	PROPN	_	_	13	nmod	_	GermanLemma=Marienplatz|SpaceAfter=No
@@ -1781,7 +1781,7 @@
 7	is	_	AUX	_	_	9	cop	_	GermanLemma=sein
 8	da	_	DET	_	_	9	det	_	GermanLemma=der
 9	Warnberg	_	PROPN	_	_	0	root	_	GermanLemma=Warnberg
-10-11	im	_	_	_	_	_	_	_	GermanLemma=_
+10-11	im	_	_	_	_	_	_	_	_
 10	i	_	ADP	_	_	13	case	_	GermanLemma=in
 11	m	_	DET	_	_	13	det	_	GermanLemma=der
 12	19.	_	ADJ	_	_	13	amod	_	GermanLemma=19.
@@ -1801,7 +1801,7 @@
 26	m	_	NOUN	_	_	23	obl	_	GermanLemma=m
 27	iwa	_	ADP	_	_	28	case	_	GermanLemma=über
 28	NN	_	NOUN	_	_	26	nmod	_	GermanLemma=NN
-29-30	im	_	_	_	_	_	_	_	GermanLemma=_
+29-30	im	_	_	_	_	_	_	_	_
 29	i	_	ADP	_	_	32	case	_	GermanLemma=in
 30	m	_	DET	_	_	32	det	_	GermanLemma=das
 31	neadlichn	_	ADJ	_	_	32	amod	_	GermanLemma=nördlich
@@ -1811,7 +1811,7 @@
 35	:	_	PUNCT	_	_	34	punct	_	GermanLemma=:
 36	Schwarzhölzel	_	X	_	_	34	appos	_	GermanLemma=Schwarzhölzel|SpaceAfter=No
 37	)	_	PUNCT	_	_	34	punct	_	GermanLemma=)
-38-39	im	_	_	_	_	_	_	_	GermanLemma=_
+38-39	im	_	_	_	_	_	_	_	_
 38	i	_	ADP	_	_	40	case	_	GermanLemma=in
 39	m	_	DET	_	_	40	det	_	GermanLemma=der
 40	Stodtei	_	NOUN	_	_	32	nmod	_	GermanLemma=Stadtteil
@@ -1852,7 +1852,7 @@
 3	san	_	AUX	_	_	2	cop	_	GermanLemma=sein
 4	d'	_	DET	_	_	5	det	_	GermanLemma=die|SpaceAfter=No
 5	Museumsinsl	_	NOUN	_	_	2	nsubj	_	GermanLemma=Museumsinsel
-6-7	midn	_	_	_	_	_	_	_	GermanLemma=_
+6-7	midn	_	_	_	_	_	_	_	_
 6	mid	_	ADP	_	_	9	case	_	GermanLemma=mit
 7	n	_	DET	_	_	9	det	_	GermanLemma=das
 8	Deitschn	_	ADJ	_	_	9	amod	_	GermanLemma=Deutsche
@@ -1871,7 +1871,7 @@
 # dialect_group = central
 # location = Munich
 # source = https://bar.wikipedia.org/wiki/Minga
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=das
 3	Umland	_	NOUN	_	_	4	obl	_	GermanLemma=Umland
@@ -1916,7 +1916,7 @@
 12	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 13	d'	_	PRON	_	_	19	nsubj	_	GermanLemma=die|SpaceAfter=No
 14	wo	_	SCONJ	_	_	19	mark	_	GermanLemma=wo
-15-16	aus'n	_	_	_	_	_	_	_	GermanLemma=_
+15-16	aus'n	_	_	_	_	_	_	_	_
 15	aus	_	ADP	_	_	18	case	_	GermanLemma=aus
 16	'n	_	DET	_	_	18	det	_	GermanLemma=der
 17	Starnberga	_	ADJ	_	_	18	amod	_	GermanLemma=Starnberger
@@ -1955,7 +1955,7 @@
 # dialect_group = central
 # location = Munich
 # source = https://bar.wikipedia.org/wiki/Minga
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	4	case	_	GermanLemma=in
 2	m	_	DET	_	_	4	det	_	GermanLemma=das
 3	Mingara	_	ADJ	_	_	4	amod	_	GermanLemma=Münchner
@@ -1965,14 +1965,14 @@
 7	Seen	_	NOUN	_	_	5	nsubj	_	GermanLemma=See|SpaceAfter=No
 8	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
 9	wia	_	SCONJ	_	_	15	case	_	GermanLemma=wie
-10-11	zum	_	_	_	_	_	_	_	GermanLemma=_
+10-11	zum	_	_	_	_	_	_	_	_
 10	zu	_	ADP	_	_	12	case	_	GermanLemma=zu
 11	m	_	DET	_	_	12	det	_	GermanLemma=das
 12	Beispui	_	NOUN	_	_	15	nmod	_	GermanLemma=Beispiel
 13	da	_	DET	_	_	15	det	_	GermanLemma=der
 14	Kloahesseloha	_	ADJ	_	_	15	amod	_	GermanLemma=Kleinhesseloher
 15	See	_	NOUN	_	_	7	nmod	_	GermanLemma=See
-16-17	im	_	_	_	_	_	_	_	GermanLemma=_
+16-17	im	_	_	_	_	_	_	_	_
 16	i	_	ADP	_	_	19	case	_	GermanLemma=in
 17	m	_	DET	_	_	19	det	_	GermanLemma=der
 18	Englischn	_	ADJ	_	_	19	amod	_	GermanLemma=englisch
@@ -1980,7 +1980,7 @@
 20	,	_	PUNCT	_	_	22	punct	_	GermanLemma=,
 21	da	_	DET	_	_	22	det	_	GermanLemma=der
 22	See	_	NOUN	_	_	15	conj	_	GermanLemma=See
-23-24	im	_	_	_	_	_	_	_	GermanLemma=_
+23-24	im	_	_	_	_	_	_	_	_
 23	i	_	ADP	_	_	25	case	_	GermanLemma=in
 24	m	_	DET	_	_	25	det	_	GermanLemma=das
 25	Olympiaglanda	_	NOUN	_	_	22	nmod	_	GermanLemma=Olympiagelände
@@ -1995,7 +1995,7 @@
 34	Fejdmochinga	_	ADJ	_	_	30	conj	_	GermanLemma=Feldmochinger
 35	See	_	NOUN	_	_	28	appos	_	GermanLemma=See|SpaceAfter=No
 36	)	_	PUNCT	_	_	35	punct	_	GermanLemma=)
-37-38	im	_	_	_	_	_	_	_	GermanLemma=_
+37-38	im	_	_	_	_	_	_	_	_
 37	i	_	ADP	_	_	39	case	_	GermanLemma=in
 38	m	_	DET	_	_	39	det	_	GermanLemma=der
 39	Noadn	_	NOUN	_	_	28	nmod	_	GermanLemma=Norden
@@ -2168,7 +2168,7 @@
 # location = Bavarian Forest
 # source = https://bar.wikipedia.org/wiki/Haferltarock
 1	Wej	_	SCONJ	_	_	4	case	_	GermanLemma=Weil
-2-3	vom	_	_	_	_	_	_	_	GermanLemma=_
+2-3	vom	_	_	_	_	_	_	_	_
 2	vo	_	ADP	_	_	4	case	_	GermanLemma=von
 3	m	_	DET	_	_	4	det	_	GermanLemma=der
 4	Schafkopf	_	PROPN	_	_	5	obl	_	GermanLemma=Schafkopf
@@ -2216,7 +2216,7 @@
 6	spüllt	_	VERB	_	_	1	acl:relcl	_	GermanLemma=spielen|SpaceAfter=No
 7	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
 8	braucht	_	VERB	_	_	0	root	_	GermanLemma=brauchen
-9-10	zun	_	_	_	_	_	_	_	GermanLemma=_
+9-10	zun	_	_	_	_	_	_	_	_
 9	zu	_	ADP	_	_	11	case	_	GermanLemma=zu
 10	n	_	DET	_	_	11	det	_	GermanLemma=das
 11	Gwinga	_	NOUN	_	_	8	obl	_	GermanLemma=Gewinnen
@@ -2328,7 +2328,7 @@
 1	Dea	_	PRON	_	_	12	nsubj	_	GermanLemma=Der
 2	wej	_	SCONJ	_	_	12	mark	_	GermanLemma=wo
 3	links	_	ADV	_	_	4	advmod	_	GermanLemma=links
-4-5	vom	_	_	_	_	_	_	_	GermanLemma=_
+4-5	vom	_	_	_	_	_	_	_	_
 4	vo	_	ADP	_	_	6	case	_	GermanLemma=von
 5	m	_	DET	_	_	6	det	_	GermanLemma=der
 6	Geba	_	NOUN	_	_	7	obl	_	GermanLemma=Geber
@@ -2358,7 +2358,7 @@
 2	is	_	AUX	_	_	7	cop	_	GermanLemma=sein
 3	dea	_	PRON	_	_	7	nsubj	_	GermanLemma=der
 4	rachts	_	ADV	_	_	5	advmod	_	GermanLemma=rechts
-5-6	vom	_	_	_	_	_	_	_	GermanLemma=_
+5-6	vom	_	_	_	_	_	_	_	_
 5	vo	_	ADP	_	_	6	case	_	GermanLemma=von
 6	m	_	DET	_	_	6	det	_	GermanLemma=der
 7	Geba	_	NOUN	_	_	3	nmod	_	GermanLemma=Geber
@@ -2701,7 +2701,7 @@
 2	is	_	AUX	_	_	8	cop	_	GermanLemma=sein
 3	dea	_	PRON	_	_	8	nsubj	_	GermanLemma=der
 4	links	_	ADV	_	_	7	advmod	_	GermanLemma=links
-5-6	vom	_	_	_	_	_	_	_	GermanLemma=_
+5-6	vom	_	_	_	_	_	_	_	_
 5	vo	_	ADP	_	_	7	case	_	GermanLemma=von
 6	m	_	DET	_	_	7	det	_	GermanLemma=der
 7	Geba	_	NOUN	_	_	3	nmod	_	GermanLemma=Geber
@@ -2720,13 +2720,13 @@
 # dialect_group = northcentral
 # location = Bavarian Forest
 # source = https://bar.wikipedia.org/wiki/Haferltarock
-1-2	Beim	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Beim	_	_	_	_	_	_	_	_
 1	Bei	_	ADP	_	_	3	case	_	GermanLemma=bei
 2	m	_	DET	_	_	3	det	_	GermanLemma=das
 3	Haferltarock	_	PROPN	_	_	10	obl	_	GermanLemma=Haferltarock
 4	mou	_	AUX	_	_	10	aux	_	GermanLemma=müssen
 5	wej	_	SCONJ	_	_	8	mark	_	GermanLemma=wie
-6-7	beim	_	_	_	_	_	_	_	GermanLemma=_
+6-7	beim	_	_	_	_	_	_	_	_
 6	bei	_	ADP	_	_	8	case	_	GermanLemma=bei
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Schofkopf	_	PROPN	_	_	10	obl	_	GermanLemma=Schafkopf
@@ -2840,7 +2840,7 @@
 4	mocht	_	VERB	_	_	11	csubj	_	GermanLemma=machen|SpaceAfter=No
 5	,	_	PUNCT	_	_	4	punct	_	GermanLemma=,
 6	mou	_	AUX	_	_	11	aux	_	GermanLemma=müssen
-7-8	fian	_	_	_	_	_	_	_	GermanLemma=_
+7-8	fian	_	_	_	_	_	_	_	_
 7	fia	_	ADP	_	_	10	case	_	GermanLemma=für
 8	n	_	DET	_	_	10	det	_	GermanLemma=der
 9	naxtn	_	ADJ	_	_	10	amod	_	GermanLemma=nah
@@ -2906,14 +2906,14 @@
 # source = https://bar.wikipedia.org/wiki/Haferltarock
 1	De	_	DET	_	_	2	det	_	GermanLemma=das
 2	Aung	_	NOUN	_	_	6	nsubj	_	GermanLemma=Auge
-3-4	im	_	_	_	_	_	_	_	GermanLemma=_
+3-4	im	_	_	_	_	_	_	_	_
 3	i	_	ADP	_	_	5	case	_	GermanLemma=in
 4	m	_	DET	_	_	5	det	_	GermanLemma=der
 5	Stock	_	NOUN	_	_	2	nmod	_	GermanLemma=Stock
 6	ghean	_	VERB	_	_	0	root	_	GermanLemma=gehören|SpaceAfter=No
 7	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
 8	aa	_	ADV	_	_	11	advmod	_	GermanLemma=auch
-9-10	beim	_	_	_	_	_	_	_	GermanLemma=_
+9-10	beim	_	_	_	_	_	_	_	_
 9	bei	_	ADP	_	_	11	case	_	GermanLemma=bei
 10	m	_	DET	_	_	11	det	_	GermanLemma=das
 11	Handspui	_	NOUN	_	_	6	obl	_	GermanLemma=Handspiel|SpaceAfter=No
@@ -2983,7 +2983,7 @@
 8	deaf	_	AUX	_	_	16	aux	_	GermanLemma=dürfen|SpaceAfter=No
 9	a	_	PRON	_	_	16	nsubj	_	GermanLemma=er
 10	se	_	PRON	_	_	16	expl:pv	_	GermanLemma=sich
-11-12	ausn	_	_	_	_	_	_	_	GermanLemma=_
+11-12	ausn	_	_	_	_	_	_	_	_
 11	aus	_	ADP	_	_	13	case	_	GermanLemma=aus
 12	n	_	DET	_	_	13	det	_	GermanLemma=das
 13	Haferl	_	NOUN	_	_	16	obl	_	GermanLemma=Haferl/Tasse
@@ -3049,7 +3049,7 @@
 19	se	_	PRON	_	_	25	expl:pv	_	GermanLemma=sich
 20	a	_	DET	_	_	21	det	_	GermanLemma=ein
 21	Fümferl	_	NOUN	_	_	25	obj	_	GermanLemma=Fünferl/5-Cent-Münze
-22-23	ausn	_	_	_	_	_	_	_	GermanLemma=_
+22-23	ausn	_	_	_	_	_	_	_	_
 22	aus	_	ADP	_	_	24	case	_	GermanLemma=aus
 23	n	_	DET	_	_	24	det	_	GermanLemma=das
 24	haferl	_	NOUN	_	_	21	nmod	_	GermanLemma=Haferl/Tasse
@@ -3385,7 +3385,7 @@
 4	Lutha	_	PROPN	_	_	6	nmod	_	GermanLemma=Luther
 5	seina	_	DET	_	_	6	det:poss	_	GermanLemma=sein
 6	Iwasezung	_	NOUN	_	_	15	obl	_	GermanLemma=Übersetzung
-7-8	vom	_	_	_	_	_	_	_	GermanLemma=_
+7-8	vom	_	_	_	_	_	_	_	_
 7	vo	_	ADP	_	_	10	case	_	GermanLemma=von
 8	m	_	DET	_	_	10	det	_	GermanLemma=das
 9	neichn	_	ADJ	_	_	10	amod	_	GermanLemma=neu
@@ -3513,7 +3513,7 @@
 2	schiasst	_	VERB	_	_	12	ccomp	_	GermanLemma=schießt
 3	nua	_	ADV	_	_	2	advmod	_	GermanLemma=nur
 4	maunchmoi	_	ADV	_	_	2	advmod	_	GermanLemma=manchmal
-5-6	iwas	_	_	_	_	_	_	_	GermanLemma=_
+5-6	iwas	_	_	_	_	_	_	_	_
 5	iwa	_	ADP	_	_	7	case	_	GermanLemma=über
 6	s	_	DET	_	_	7	det	_	GermanLemma=das
 7	Zui	_	NOUN	_	_	2	obl	_	GermanLemma=Ziel
@@ -3560,7 +3560,7 @@
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Dischkrian:%C3%96denburg
 1	Des	_	PRON	_	_	7	nsubj	_	GermanLemma=das
-2-3	midm	_	_	_	_	_	_	_	GermanLemma=_
+2-3	midm	_	_	_	_	_	_	_	_
 2	mid	_	ADP	_	_	4	case	_	GermanLemma=mit
 3	m	_	DET	_	_	4	det	_	GermanLemma=das
 4	Obschreim	_	NOUN	_	_	1	nmod	_	GermanLemma=Abschreiben
@@ -3597,7 +3597,7 @@
 14	(	_	PUNCT	_	_	16	punct	_	GermanLemma=(|SpaceAfter=No
 15	ois	_	SCONJ	_	_	16	case	_	GermanLemma=als
 16	Link	_	NOUN	_	_	13	nmod	_	GermanLemma=Link
-17-18	zua	_	_	_	_	_	_	_	GermanLemma=_
+17-18	zua	_	_	_	_	_	_	_	_
 17	zu	_	ADP	_	_	19	case	_	GermanLemma=zu
 18	a	_	DET	_	_	19	det	_	GermanLemma=eine
 19	Versionsgschicht	_	NOUN	_	_	16	nmod	_	GermanLemma=Versionsgeschichte
@@ -3737,7 +3737,7 @@
 3	ihra	_	DET	_	_	4	det:poss	_	GermanLemma=ihr
 4	Krippn	_	NOUN	_	_	1	nmod	_	GermanLemma=Krippe
 5	schdät	_	VERB	_	_	0	root	_	GermanLemma=stehen
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	9	case	_	GermanLemma=in
 7	m	_	DET	_	_	9	det	_	GermanLemma=das
 8	Boarischn	_	ADJ	_	_	9	amod	_	GermanLemma=bairisch
@@ -3834,7 +3834,7 @@
 14	a	_	DET	_	_	16	det	_	GermanLemma=ein
 15	gresserner	_	ADJ	_	_	16	amod	_	GermanLemma=groß
 16	Gebiagssee	_	NOUN	_	_	0	root	_	GermanLemma=Gebirgssee
-17-18	auf'm	_	_	_	_	_	_	_	GermanLemma=_
+17-18	auf'm	_	_	_	_	_	_	_	_
 17	auf	_	ADP	_	_	19	case	_	GermanLemma=auf
 18	'm	_	DET	_	_	19	det	_	GermanLemma=das
 19	Gebit	_	NOUN	_	_	16	nmod	_	GermanLemma=Gebiet
@@ -3843,7 +3843,7 @@
 22	Gmoa	_	NOUN	_	_	19	nmod	_	GermanLemma=Gemeinde
 23	Kloaourl	_	PROPN	_	_	22	flat	_	GermanLemma=Kleinarl|SpaceAfter=No
 24	,	_	PUNCT	_	_	27	punct	_	GermanLemma=,
-25-26	im	_	_	_	_	_	_	_	GermanLemma=_
+25-26	im	_	_	_	_	_	_	_	_
 25	i	_	ADP	_	_	27	case	_	GermanLemma=in
 26	m	_	DET	_	_	27	det	_	GermanLemma=der
 27	Pognau	_	PROPN	_	_	16	nmod	_	GermanLemma=Pongau|SpaceAfter=No
@@ -3869,7 +3869,7 @@
 # source = https://bar.wikipedia.org/wiki/Toppmkorsee
 1	Er	_	PRON	_	_	8	nsubj:pass	_	GermanLemma=er
 2	weascht	_	AUX	_	_	8	aux:pass	_	GermanLemma=werden
-3-4	duachn	_	_	_	_	_	_	_	GermanLemma=_
+3-4	duachn	_	_	_	_	_	_	_	_
 3	duach	_	ADP	_	_	5	case	_	GermanLemma=durch
 4	n	_	DET	_	_	5	det	_	GermanLemma=der
 5	Kloaourlbouch	_	PROPN	_	_	8	obl	_	GermanLemma=Kleinarlbach
@@ -3930,14 +3930,14 @@
 # source = https://bar.wikipedia.org/wiki/Toppmkorsee
 1	Wondarer	_	NOUN	_	_	2	nsubj	_	GermanLemma=Wanderer
 2	glongan	_	VERB	_	_	0	root	_	GermanLemma=gelangen
-3-4	mi'm	_	_	_	_	_	_	_	GermanLemma=_
+3-4	mi'm	_	_	_	_	_	_	_	_
 3	mi	_	ADP	_	_	5	case	_	GermanLemma=mit
 4	'm	_	DET	_	_	5	det	_	GermanLemma=der
 5	Bus	_	NOUN	_	_	2	obl	_	GermanLemma=Bus
 6	oder	_	CCONJ	_	_	7	cc	_	GermanLemma=oder
 7	Auto	_	NOUN	_	_	5	conj	_	GermanLemma=Auto
 8	bis	_	ADP	_	_	11	case	_	GermanLemma=bis
-9-10	zan	_	_	_	_	_	_	_	GermanLemma=_
+9-10	zan	_	_	_	_	_	_	_	_
 9	za	_	ADP	_	_	11	case	_	GermanLemma=zu
 10	n	_	DET	_	_	11	det	_	GermanLemma=der
 11	Parkbloutz	_	NOUN	_	_	2	obl	_	GermanLemma=Parkplatz
@@ -3982,13 +3982,13 @@
 # dialect_group = southcentral
 # location = Pongau
 # source = https://bar.wikipedia.org/wiki/Toppmkorsee
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Summer	_	NOUN	_	_	4	obl	_	GermanLemma=Sommer
 4	gib	_	VERB	_	_	0	root	_	GermanLemma=geben|SpaceAfter=No
 5	s	_	PRON	_	_	4	expl	_	GermanLemma=es
-6-7	am	_	_	_	_	_	_	_	GermanLemma=_
+6-7	am	_	_	_	_	_	_	_	_
 6	a	_	ADP	_	_	8	case	_	GermanLemma=an
 7	m	_	DET	_	_	8	det	_	GermanLemma=der
 8	See	_	NOUN	_	_	4	obl	_	GermanLemma=See
@@ -3999,7 +3999,7 @@
 13	de	_	DET	_	_	14	det	_	GermanLemma=die
 14	Toppmkorseeoim	_	PROPN	_	_	11	appos	_	GermanLemma=Tappenkarseealm
 15	direkt	_	ADV	_	_	18	advmod	_	GermanLemma=direkt
-16-17	am	_	_	_	_	_	_	_	GermanLemma=_
+16-17	am	_	_	_	_	_	_	_	_
 16	a	_	ADP	_	_	18	case	_	GermanLemma=an
 17	m	_	DET	_	_	18	det	_	GermanLemma=das
 18	Seeuafer	_	NOUN	_	_	14	nmod	_	GermanLemma=Ufer
@@ -4017,7 +4017,7 @@
 30	etler	_	ADJ	_	_	31	amod	_	GermanLemma=etlich
 31	Meter	_	NOUN	_	_	35	nmod	_	GermanLemma=Meter
 32	owerhoib	_	ADP	_	_	35	case	_	GermanLemma=oberhalb
-33-34	vom	_	_	_	_	_	_	_	GermanLemma=_
+33-34	vom	_	_	_	_	_	_	_	_
 33	vo	_	ADP	_	_	35	case	_	GermanLemma=von
 34	m	_	DET	_	_	35	det	_	GermanLemma=der
 35	See	_	NOUN	_	_	36	obl	_	GermanLemma=See
@@ -4039,12 +4039,12 @@
 # source = https://bar.wikipedia.org/wiki/Toppmkorsee
 1	De	_	DET	_	_	2	det	_	GermanLemma=die
 2	Zwoo-Seen-Wondarung	_	PROPN	_	_	17	nsubj	_	GermanLemma=Zwei-Seen-Wanderung
-3-4	vom	_	_	_	_	_	_	_	GermanLemma=_
+3-4	vom	_	_	_	_	_	_	_	_
 3	vo	_	ADP	_	_	5	case	_	GermanLemma=von
 4	m	_	DET	_	_	5	det	_	GermanLemma=der
 5	Jaagersee	_	PROPN	_	_	2	nmod	_	GermanLemma=Jägersee
 6	bis	_	ADP	_	_	9	case	_	GermanLemma=bis
-7-8	zan	_	_	_	_	_	_	_	GermanLemma=_
+7-8	zan	_	_	_	_	_	_	_	_
 7	za	_	ADP	_	_	9	case	_	GermanLemma=zu
 8	n	_	DET	_	_	9	det	_	GermanLemma=der
 9	Toppmkorsee	_	PROPN	_	_	2	nmod	_	GermanLemma=Tappenkarsee
@@ -4064,7 +4064,7 @@
 # dialect_group = southcentral
 # location = Pongau
 # source = https://bar.wikipedia.org/wiki/Toppmkorsee
-1-2	Vom	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Vom	_	_	_	_	_	_	_	_
 1	Vo	_	ADP	_	_	3	case	_	GermanLemma=von
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Toppmkorsee	_	PROPN	_	_	5	obl	_	GermanLemma=Tappenkarsee
@@ -4103,12 +4103,12 @@
 18	Firschterzbischef	_	NOUN	_	_	29	nsubj	_	GermanLemma=Fürsterzbischof
 19	d'	_	DET	_	_	20	det	_	GermanLemma=der
 20	Fisch	_	NOUN	_	_	28	obj	_	GermanLemma=Fisch
-21-22	vom	_	_	_	_	_	_	_	GermanLemma=_
+21-22	vom	_	_	_	_	_	_	_	_
 21	vo	_	ADP	_	_	23	case	_	GermanLemma=von
 22	m	_	DET	_	_	23	det	_	GermanLemma=der
 23	Toppmkorsee	_	PROPN	_	_	20	nmod	_	GermanLemma=Tappenkarsee
 24	und	_	CCONJ	_	_	27	cc	_	GermanLemma=und
-25-26	vom	_	_	_	_	_	_	_	GermanLemma=_
+25-26	vom	_	_	_	_	_	_	_	_
 25	vo	_	ADP	_	_	27	case	_	GermanLemma=von
 26	m	_	DET	_	_	27	det	_	GermanLemma=der
 27	Jaagersee	_	PROPN	_	_	23	conj	_	GermanLemma=Jägersee
@@ -4119,7 +4119,7 @@
 32	eanare	_	DET	_	_	33	det:poss	_	GermanLemma=sein
 33	Gäst	_	NOUN	_	_	37	obj	_	GermanLemma=Gast
 34	doudamid	_	ADV	_	_	37	advmod	_	GermanLemma=damit
-35-36	zan	_	_	_	_	_	_	_	GermanLemma=_
+35-36	zan	_	_	_	_	_	_	_	_
 35	za	_	PART	_	_	37	mark	_	GermanLemma=zu
 36	n	_	DET	_	_	37	det	_	GermanLemma=das
 37	bewirschtn	_	NOUN	_	_	29	advcl	_	GermanLemma=bewirten|SpaceAfter=No
@@ -4131,14 +4131,14 @@
 # dialect_group = southcentral
 # location = Pongau
 # source = https://bar.wikipedia.org/wiki/Toppmkorsee
-1-2	Auf'm	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Auf'm	_	_	_	_	_	_	_	_
 1	Auf	_	ADP	_	_	3	case	_	GermanLemma=auf
 2	'm	_	DET	_	_	3	det	_	GermanLemma=der
 3	Toppmkor	_	NOUN	_	_	10	obl	_	GermanLemma=Tappenkar|SpaceAfter=No
 4	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
 5	am	_	DET	_	_	6	det	_	GermanLemma=der
 6	Berg	_	NOUN	_	_	3	appos	_	GermanLemma=Berg
-7-8	im	_	_	_	_	_	_	_	GermanLemma=_
+7-8	im	_	_	_	_	_	_	_	_
 7	i	_	ADP	_	_	9	case	_	GermanLemma=in
 8	m	_	DET	_	_	9	det	_	GermanLemma=das
 9	Kloaourlertoi	_	PROPN	_	_	6	nmod	_	GermanLemma=Kleinarltal
@@ -4192,7 +4192,7 @@
 3	Wijd-	_	NOUN	_	_	15	nsubj	_	GermanLemma=Wild-
 4	und	_	CCONJ	_	_	5	cc	_	GermanLemma=und
 5	Fischliafarantn	_	NOUN	_	_	3	conj	_	GermanLemma=Fischlieferant
-6-7	vom	_	_	_	_	_	_	_	GermanLemma=_
+6-7	vom	_	_	_	_	_	_	_	_
 6	vo	_	ADP	_	_	9	case	_	GermanLemma=von
 7	m	_	DET	_	_	9	det	_	GermanLemma=der
 8	Soizburga	_	ADJ	_	_	9	amod	_	GermanLemma=Salzburger
@@ -4216,7 +4216,7 @@
 26	an	_	ADP	_	_	28	case	_	GermanLemma=an
 27	da	_	DET	_	_	28	det	_	GermanLemma=eine
 28	Stej	_	NOUN	_	_	36	obl	_	GermanLemma=Stelle
-29-30	vom	_	_	_	_	_	_	_	GermanLemma=_
+29-30	vom	_	_	_	_	_	_	_	_
 29	vo	_	ADP	_	_	31	case	_	GermanLemma=von
 30	m	_	DET	_	_	31	det	_	GermanLemma=der
 31	Moong	_	NOUN	_	_	28	nmod	_	GermanLemma=Magen
@@ -4270,7 +4270,7 @@
 2	houd	_	AUX	_	_	8	aux	_	GermanLemma=haben
 3	se	_	PRON	_	_	8	expl:pv	_	GermanLemma=sich
 4	glai	_	ADV	_	_	8	advmod	_	GermanLemma=gleich
-5-6	auf'm	_	_	_	_	_	_	_	GermanLemma=_
+5-6	auf'm	_	_	_	_	_	_	_	_
 5	auf	_	ADP	_	_	7	case	_	GermanLemma=auf
 6	'm	_	DET	_	_	7	det	_	GermanLemma=der
 7	Keeder	_	NOUN	_	_	8	obl	_	GermanLemma=Köder
@@ -4305,7 +4305,7 @@
 3	se	_	PRON	_	_	10	expl:pv	_	GermanLemma=sich
 4	d'	_	DET	_	_	5	det	_	GermanLemma=die
 5	Wirkung	_	NOUN	_	_	10	nsubj	_	GermanLemma=Wirkung
-6-7	vom	_	_	_	_	_	_	_	GermanLemma=_
+6-7	vom	_	_	_	_	_	_	_	_
 6	vo	_	ADP	_	_	8	case	_	GermanLemma=von
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Zindpuifer	_	NOUN	_	_	5	nmod	_	GermanLemma=Zündpulver
@@ -4372,17 +4372,17 @@
 9	in	_	ADP	_	_	11	case	_	GermanLemma=in
 10	d'	_	DET	_	_	11	det	_	GermanLemma=die
 11	Tiafm	_	NOUN	_	_	15	obl	_	GermanLemma=Tiefe
-12-13	vom	_	_	_	_	_	_	_	GermanLemma=_
+12-13	vom	_	_	_	_	_	_	_	_
 12	vo	_	ADP	_	_	14	case	_	GermanLemma=von
 13	m	_	DET	_	_	14	det	_	GermanLemma=der
 14	See	_	NOUN	_	_	11	nmod	_	GermanLemma=See
 15	zruckezong	_	VERB	_	_	2	ccomp	_	GermanLemma=zurückziehen
 16	und	_	CCONJ	_	_	27	cc	_	GermanLemma=und
-17-18	durchs	_	_	_	_	_	_	_	GermanLemma=_
+17-18	durchs	_	_	_	_	_	_	_	_
 17	durch	_	ADP	_	_	19	case	_	GermanLemma=durch
 18	s	_	DET	_	_	19	det	_	GermanLemma=das
 19	Entwischn	_	NOUN	_	_	27	obl	_	GermanLemma=Entwischen
-20-21	vom	_	_	_	_	_	_	_	GermanLemma=_
+20-21	vom	_	_	_	_	_	_	_	_
 20	vo	_	ADP	_	_	22	case	_	GermanLemma=von
 21	m	_	DET	_	_	22	det	_	GermanLemma=der
 22	Wurm	_	NOUN	_	_	19	nmod	_	GermanLemma=Wurm
@@ -4447,12 +4447,12 @@
 6	bluadrinsting	_	ADJ	_	_	3	conj	_	GermanLemma=blutrünstig
 7	Version	_	NOUN	_	_	17	obl	_	GermanLemma=Version
 8	weascht	_	AUX	_	_	17	aux	_	GermanLemma=werden
-9-10	vom	_	_	_	_	_	_	_	GermanLemma=_
+9-10	vom	_	_	_	_	_	_	_	_
 9	vo	_	ADP	_	_	12	case	_	GermanLemma=von
 10	m	_	DET	_	_	12	det	_	GermanLemma=das
 11	„	_	PUNCT	_	_	12	punct	_	GermanLemma=„|SpaceAfter=No
 12	Tatzlwurmbaby	_	PROPN	_	_	17	obl	_	GermanLemma=Tatzlwurmbaby
-13-14	im	_	_	_	_	_	_	_	GermanLemma=_
+13-14	im	_	_	_	_	_	_	_	_
 13	i	_	ADP	_	_	15	case	_	GermanLemma=in
 14	m	_	DET	_	_	15	det	_	GermanLemma=der
 15	Toppmkorsee	_	PROPN	_	_	12	nmod	_	GermanLemma=Tappenkarsee|SpaceAfter=No
@@ -4495,7 +4495,7 @@
 13	blaun	_	ADJ	_	_	15	amod	_	GermanLemma=blau
 14	zacktn	_	ADJ	_	_	15	amod	_	GermanLemma=gezackt
 15	Komm	_	NOUN	_	_	19	obj	_	GermanLemma=Kamm
-16-17	am	_	_	_	_	_	_	_	GermanLemma=_
+16-17	am	_	_	_	_	_	_	_	_
 16	a	_	ADP	_	_	18	case	_	GermanLemma=an
 17	m	_	DET	_	_	18	det	_	GermanLemma=der
 18	Ruckn	_	NOUN	_	_	15	nmod	_	GermanLemma=Rücken
@@ -4521,7 +4521,7 @@
 11	is	_	AUX	_	_	13	cop	_	GermanLemma=sein
 12	a	_	DET	_	_	13	det	_	GermanLemma=ein
 13	Dokument	_	NOUN	_	_	0	root	_	GermanLemma=Dokument
-14-15	im	_	_	_	_	_	_	_	GermanLemma=_
+14-15	im	_	_	_	_	_	_	_	_
 14	i	_	ADP	_	_	16	case	_	GermanLemma=in
 15	m	_	DET	_	_	16	det	_	GermanLemma=das
 16	Internetz	_	NOUN	_	_	13	nmod	_	GermanLemma=Internetz|SpaceAfter=No
@@ -4557,7 +4557,7 @@
 10	groaßn	_	ADJ	_	_	12	amod	_	GermanLemma=groß
 11	klonglichn	_	ADJ	_	_	12	amod	_	GermanLemma=klanglich
 12	Ähnlikeit	_	NOUN	_	_	29	obl	_	GermanLemma=Ähnlichkeit
-13-14	zum	_	_	_	_	_	_	_	GermanLemma=_
+13-14	zum	_	_	_	_	_	_	_	_
 13	zu	_	ADP	_	_	16	case	_	GermanLemma=zu
 14	m	_	DET	_	_	16	det	_	GermanLemma=der
 15	englischn	_	ADJ	_	_	16	amod	_	GermanLemma=englisch
@@ -4642,11 +4642,11 @@
 # dialect_group = unk (central/southcentral)
 # location = South East Upper Bavaria
 # source = https://bar.wikipedia.org/wiki/Webseitn
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Gengsotz	_	NOUN	_	_	19	obl	_	GermanLemma=Gegensatz
-4-5	zura	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zura	_	_	_	_	_	_	_	_
 4	zur	_	ADP	_	_	7	case	_	GermanLemma=zur
 5	a	_	DET	_	_	7	det	_	GermanLemma=eine
 6	statischn	_	ADJ	_	_	7	amod	_	GermanLemma=statisch
@@ -4656,7 +4656,7 @@
 10	dynamische	_	ADJ	_	_	11	amod	_	GermanLemma=dynamisch
 11	Netzseitn	_	NOUN	_	_	19	nsubj:pass	_	GermanLemma=Netzseite
 12	eascht	_	ADJ	_	_	19	amod	_	GermanLemma=erst
-13-14	zum	_	_	_	_	_	_	_	GermanLemma=_
+13-14	zum	_	_	_	_	_	_	_	_
 13	zu	_	ADP	_	_	15	case	_	GermanLemma=zu
 14	m	_	DET	_	_	15	det	_	GermanLemma=der
 15	Zeitpunkt	_	NOUN	_	_	19	obl	_	GermanLemma=Zeitpunkt
@@ -4695,7 +4695,7 @@
 2	Infoamationan	_	NOUN	_	_	12	nsubj	_	GermanLemma=Information
 3	wean	_	AUX	_	_	12	aux:pass	_	GermanLemma=werden
 4	donn	_	ADV	_	_	12	advmod	_	GermanLemma=dann
-5-6	zum	_	_	_	_	_	_	_	GermanLemma=_
+5-6	zum	_	_	_	_	_	_	_	_
 5	zu	_	ADP	_	_	7	case	_	GermanLemma=zu
 6	m	_	DET	_	_	7	det	_	GermanLemma=das
 7	Beispui	_	NOUN	_	_	9	nmod	_	GermanLemma=Beispiel
@@ -4705,7 +4705,7 @@
 11	Datnbonkn	_	NOUN	_	_	9	conj	_	GermanLemma=Datenbank
 12	zammtrong	_	VERB	_	_	0	root	_	GermanLemma=zusammentragen
 13	unn	_	CCONJ	_	_	17	cc	_	GermanLemma=und
-14-15	zum	_	_	_	_	_	_	_	GermanLemma=_
+14-15	zum	_	_	_	_	_	_	_	_
 14	zu	_	ADP	_	_	16	case	_	GermanLemma=zu
 15	m	_	DET	_	_	16	det	_	GermanLemma=der
 16	Browser	_	NOUN	_	_	17	obl	_	GermanLemma=Browser
@@ -4721,7 +4721,7 @@
 1	Dynamische	_	ADJ	_	_	2	amod	_	GermanLemma=dynamisch
 2	Webseiten	_	NOUN	_	_	15	nsubj:pass	_	GermanLemma=Webseite
 3	wean	_	AUX	_	_	15	aux:pass	_	GermanLemma=werden
-4-5	zum	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	ADP	_	_	6	case	_	GermanLemma=zu
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Beispui	_	NOUN	_	_	8	nmod	_	GermanLemma=Beispiel
@@ -4768,7 +4768,7 @@
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Dischkrian:Ottoman
-1-2	Beim	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Beim	_	_	_	_	_	_	_	_
 1	Bei	_	ADP	_	_	3	case	_	GermanLemma=bei
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Ottomanen	_	NOUN	_	_	9	obl	_	GermanLemma=Ottomane
@@ -4803,7 +4803,7 @@
 6	Erinnerung	_	NOUN	_	_	2	obl	_	GermanLemma=Erinnerung
 7	und	_	CCONJ	_	_	13	cc	_	GermanLemma=und
 8	hob	_	AUX	_	_	13	aux	_	GermanLemma=haben
-9-10	im	_	_	_	_	_	_	_	GermanLemma=_
+9-10	im	_	_	_	_	_	_	_	_
 9	i	_	ADP	_	_	11	case	_	GermanLemma=in
 10	m	_	DET	_	_	11	det	_	GermanLemma=das
 11	Net	_	NOUN	_	_	13	obl	_	GermanLemma=Net
@@ -5076,7 +5076,7 @@
 11	oba	_	CCONJ	_	_	13	cc	_	GermanLemma=aber
 12	an	_	ADP	_	_	13	case	_	GermanLemma=ein
 13	soichanan	_	ADJ	_	_	6	xcomp	_	GermanLemma=solcher
-14-15	wia'n	_	_	_	_	_	_	_	GermanLemma=_
+14-15	wia'n	_	_	_	_	_	_	_	_
 14	wia	_	ADP	_	_	16	case	_	GermanLemma=wie
 15	'n	_	DET	_	_	16	det	_	GermanLemma=der
 16	Thomas	_	PROPN	_	_	13	nmod	_	GermanLemma=Thomas
@@ -5214,7 +5214,7 @@
 1	Du	_	PRON	_	_	7	nsubj	_	GermanLemma=du
 2	host	_	AUX	_	_	7	aux	_	GermanLemma=haben
 3	uns	_	PRON	_	_	7	obj	_	GermanLemma=uns
-4-5	zum	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	ADP	_	_	6	case	_	GermanLemma=zu
 5	m	_	DET	_	_	6	det	_	GermanLemma=der
 6	Noarn	_	NOUN	_	_	7	obl	_	GermanLemma=Narr
@@ -5230,7 +5230,7 @@
 # author = brauchinet
 1	Du	_	PRON	_	_	2	nsubj	_	GermanLemma=du
 2	zahst	_	VERB	_	_	0	root	_	GermanLemma=ziehen
-3-4	beim	_	_	_	_	_	_	_	GermanLemma=_
+3-4	beim	_	_	_	_	_	_	_	_
 3	bei	_	ADP	_	_	5	case	_	GermanLemma=bei
 4	m	_	DET	_	_	5	det	_	GermanLemma=das
 5	Oabeitn	_	NOUN	_	_	2	obl	_	GermanLemma=Arbeiten
@@ -5315,7 +5315,7 @@
 3	hot	_	AUX	_	_	9	aux	_	GermanLemma=haben
 4	die	_	DET	_	_	5	det	_	GermanLemma=die
 5	Opfibutzen	_	NOUN	_	_	9	obj	_	GermanLemma=Apfelbutzen
-6-7	in'	_	_	_	_	_	_	_	GermanLemma=_
+6-7	in'	_	_	_	_	_	_	_	_
 6	in	_	ADP	_	_	8	case	_	GermanLemma=in
 7	'	_	DET	_	_	8	det	_	GermanLemma=der
 8	Biomükübi	_	NOUN	_	_	9	obl	_	GermanLemma=Biomüllkübel
@@ -5356,7 +5356,7 @@
 3	net	_	PART	_	_	2	advmod	_	GermanLemma=nicht|SpaceAfter=No
 4	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
 5	wos	_	PRON	_	_	8	nsubj	_	GermanLemma=was
-6-7	zum	_	_	_	_	_	_	_	GermanLemma=_
+6-7	zum	_	_	_	_	_	_	_	_
 6	zu	_	PART	_	_	8	mark	_	GermanLemma=zu
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Tuan	_	NOUN	_	_	2	ccomp	_	GermanLemma=Tun
@@ -5557,11 +5557,11 @@
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
 2	Thomas	_	PROPN	_	_	3	nsubj	_	GermanLemma=Thomas
 3	foahrt	_	VERB	_	_	0	root	_	GermanLemma=fahren
-4-5	mitn	_	_	_	_	_	_	_	GermanLemma=_
+4-5	mitn	_	_	_	_	_	_	_	_
 4	mit	_	ADP	_	_	6	case	_	GermanLemma=mit
 5	n	_	DET	_	_	6	det	_	GermanLemma=das
 6	Radl	_	NOUN	_	_	3	obl	_	GermanLemma=Rad
-7-8	aufm	_	_	_	_	_	_	_	GermanLemma=_
+7-8	aufm	_	_	_	_	_	_	_	_
 7	auf	_	ADP	_	_	9	case	_	GermanLemma=auf
 8	m	_	DET	_	_	9	det	_	GermanLemma=der
 9	Gehsteig	_	NOUN	_	_	3	obl	_	GermanLemma=Gehsteig|SpaceAfter=No
@@ -5686,7 +5686,7 @@
 # author = brauchinet
 1	An	_	ADP	_	_	2	case	_	GermanLemma=eine
 2	Zwüfi	_	NOUN	_	_	7	parataxis	_	GermanLemma=Zwiebel
-3-4	am	_	_	_	_	_	_	_	GermanLemma=_
+3-4	am	_	_	_	_	_	_	_	_
 3	a	_	ADP	_	_	5	case	_	GermanLemma=an
 4	m	_	DET	_	_	5	det	_	GermanLemma=der
 5	Tog	_	NOUN	_	_	2	nmod	_	GermanLemma=Tag|SpaceAfter=No
@@ -5813,7 +5813,7 @@
 # dialect_group = central
 # location = Munich
 # source = https://bar.wikipedia.org/wiki/Minga
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Sidn	_	NOUN	_	_	4	obl	_	GermanLemma=Süden
@@ -6036,7 +6036,7 @@
 # source = https://bar.wikipedia.org/wiki/Minga
 1	Minga	_	PROPN	_	_	2	nsubj	_	GermanLemma=München
 2	liegt	_	VERB	_	_	0	root	_	GermanLemma=liegen
-3-4	am	_	_	_	_	_	_	_	GermanLemma=_
+3-4	am	_	_	_	_	_	_	_	_
 3	a	_	ADP	_	_	5	case	_	GermanLemma=an
 4	m	_	DET	_	_	5	det	_	GermanLemma=der
 5	Iwagang	_	NOUN	_	_	2	obl	_	GermanLemma=Übergang
@@ -6238,13 +6238,13 @@
 # source = https://bar.wikipedia.org/wiki/Minga
 1	So	_	ADV	_	_	2	advmod	_	GermanLemma=so
 2	sogt	_	VERB	_	_	0	root	_	GermanLemma=sagen
-3-4	zum	_	_	_	_	_	_	_	GermanLemma=_
+3-4	zum	_	_	_	_	_	_	_	_
 3	zu	_	ADP	_	_	5	case	_	GermanLemma=zu
 4	m	_	DET	_	_	5	det	_	GermanLemma=das
 5	Beispui	_	NOUN	_	_	2	obl	_	GermanLemma=Beispiel
 6	a	_	DET	_	_	7	det	_	GermanLemma=ein
 7	Mingara	_	NOUN	_	_	2	nsubj	_	GermanLemma=Münchner
-8-9	zum	_	_	_	_	_	_	_	GermanLemma=_
+8-9	zum	_	_	_	_	_	_	_	_
 8	zu	_	ADP	_	_	10	case	_	GermanLemma=zu
 9	m	_	DET	_	_	10	det	_	GermanLemma=ein
 10	Frankn	_	NOUN	_	_	2	obl	_	GermanLemma=Franke
@@ -6260,7 +6260,7 @@
 20	,	_	PUNCT	_	_	26	punct	_	GermanLemma=,
 21	weand	_	SCONJ	_	_	26	mark	_	GermanLemma=wenn
 22	a	_	PRON	_	_	26	nsubj	_	GermanLemma=er
-23-24	zum	_	_	_	_	_	_	_	GermanLemma=_
+23-24	zum	_	_	_	_	_	_	_	_
 23	zu	_	ADP	_	_	25	case	_	GermanLemma=zu
 24	m	_	DET	_	_	25	det	_	GermanLemma=ein
 25	Schwobinga	_	NOUN	_	_	26	obl	_	GermanLemma=Schwabinger
@@ -6331,7 +6331,7 @@
 # source = https://bar.wikipedia.org/wiki/Minga
 1	S'	_	DET	_	_	2	det	_	GermanLemma=das|SpaceAfter=No
 2	typische	_	NOUN	_	_	8	nsubj	_	GermanLemma=Typische
-3-4	am	_	_	_	_	_	_	_	GermanLemma=_
+3-4	am	_	_	_	_	_	_	_	_
 3	a	_	ADP	_	_	5	case	_	GermanLemma=an
 4	m	_	DET	_	_	5	det	_	GermanLemma=der
 5	Mingara	_	NOUN	_	_	2	nmod	_	GermanLemma=Münchner
@@ -7053,7 +7053,7 @@
 # location = Upper Austria
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Adverb)
 1	Ge	_	VERB	_	_	0	root	_	GermanLemma=gehen
-2-3	ins	_	_	_	_	_	_	_	GermanLemma=_
+2-3	ins	_	_	_	_	_	_	_	_
 2	in	_	ADP	_	_	4	case	_	GermanLemma=in
 3	s	_	DET	_	_	4	det	_	GermanLemma=das
 4	Haus	_	NOUN	_	_	1	obl	_	GermanLemma=Haus
@@ -7066,7 +7066,7 @@
 # location = Upper Austria
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Adverb)
 1	ge	_	VERB	_	_	0	root	_	GermanLemma=gehen
-2-3	ins	_	_	_	_	_	_	_	GermanLemma=_
+2-3	ins	_	_	_	_	_	_	_	_
 2	in	_	ADP	_	_	4	case	_	GermanLemma=in
 3	s	_	DET	_	_	4	det	_	GermanLemma=das
 4	Haus	_	NOUN	_	_	1	obl	_	GermanLemma=Haus
@@ -7083,7 +7083,7 @@
 2	hul	_	VERB	_	_	0	root	_	GermanLemma=holen
 3	mai	_	DET	_	_	4	det:poss	_	GermanLemma=mein
 4	Gwånd	_	NOUN	_	_	2	obj	_	GermanLemma=Gewand
-5-6	asn	_	_	_	_	_	_	_	GermanLemma=_
+5-6	asn	_	_	_	_	_	_	_	_
 5	as	_	ADP	_	_	7	case	_	GermanLemma=aus
 6	n	_	DET	_	_	7	det	_	GermanLemma=der
 7	Kloiderkåstn	_	NOUN	_	_	2	obl	_	GermanLemma=Kleiderkasten|SpaceAfter=No
@@ -7172,7 +7172,7 @@
 2	Quölln	_	NOUN	_	_	7	nsubj	_	GermanLemma=Quelle
 3	is	_	AUX	_	_	7	cop	_	GermanLemma=sein
 4	drowerhål	_	ADV	_	_	7	advmod	_	GermanLemma=überhalb
-5-6	von	_	_	_	_	_	_	_	GermanLemma=_
+5-6	von	_	_	_	_	_	_	_	_
 5	vo	_	ADP	_	_	7	case	_	GermanLemma=von
 6	n	_	DET	_	_	7	det	_	GermanLemma=ein
 7	Boch	_	NOUN	_	_	0	root	_	GermanLemma=Bach|SpaceAfter=No
@@ -7211,7 +7211,7 @@
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pr%C3%A4positiona)
 1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
 2	schau	_	VERB	_	_	0	root	_	GermanLemma=schauen
-3-4	bån	_	_	_	_	_	_	_	GermanLemma=_
+3-4	bån	_	_	_	_	_	_	_	_
 3	bå	_	ADP	_	_	5	case	_	GermanLemma=bei
 4	n	_	DET	_	_	5	det	_	GermanLemma=das
 5	Fenster	_	NOUN	_	_	2	obl	_	GermanLemma=Fenster
@@ -7544,7 +7544,7 @@
 6	lech	_	VERB	_	_	0	root	_	GermanLemma=legen|SpaceAfter=No
 7	'e	_	PRON	_	_	6	nsubj	_	GermanLemma=ich|SpaceAfter=No
 8	'me	_	PRON	_	_	6	obj	_	GermanLemma=mich
-9-10	ins	_	_	_	_	_	_	_	GermanLemma=_
+9-10	ins	_	_	_	_	_	_	_	_
 9	in	_	ADP	_	_	11	case	_	GermanLemma=in
 10	s	_	DET	_	_	11	det	_	GermanLemma=das
 11	Bett	_	NOUN	_	_	6	obl	_	GermanLemma=Bett|SpaceAfter=No
@@ -7582,7 +7582,7 @@
 7	,	_	PUNCT	_	_	5	punct	_	GermanLemma=,
 8	fangt	_	VERB	_	_	0	root	_	GermanLemma=fangen|SpaceAfter=No
 9	s	_	PRON	_	_	8	expl	_	GermanLemma=es
-10-11	zan	_	_	_	_	_	_	_	GermanLemma=_
+10-11	zan	_	_	_	_	_	_	_	_
 10	za	_	PART	_	_	12	mark	_	GermanLemma=zu
 11	n	_	DET	_	_	12	det	_	GermanLemma=das
 12	renga	_	NOUN	_	_	8	obl	_	GermanLemma=Regnen
@@ -7675,7 +7675,7 @@
 7	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 8	war	_	AUX	_	_	13	aux	_	GermanLemma=sein
 9	I	_	PRON	_	_	13	nsubj	_	GermanLemma=ich
-10-11	afd	_	_	_	_	_	_	_	GermanLemma=_
+10-11	afd	_	_	_	_	_	_	_	_
 10	af	_	ADP	_	_	12	case	_	GermanLemma=auf
 11	d	_	DET	_	_	12	det	_	GermanLemma=die
 12	Wiesn	_	NOUN	_	_	13	obl	_	GermanLemma=Wiesn
@@ -7760,7 +7760,7 @@
 # source = https://bar.wikipedia.org/wiki/Dazzlwuam
 1	Aundane	_	DET	_	_	2	det	_	GermanLemma=anderer
 2	Naumen	_	NOUN	_	_	9	nsubj	_	GermanLemma=Name
-3-4	fian	_	_	_	_	_	_	_	GermanLemma=_
+3-4	fian	_	_	_	_	_	_	_	_
 3	fia	_	ADP	_	_	5	case	_	GermanLemma=für
 4	n	_	DET	_	_	5	det	_	GermanLemma=der
 5	Dazzlwuam	_	NOUN	_	_	2	nmod	_	GermanLemma=Tatzelwurm
@@ -7817,12 +7817,12 @@
 3	a	_	DET	_	_	5	det	_	GermanLemma=ein
 4	gloana	_	ADJ	_	_	5	amod	_	GermanLemma=klein
 5	Vawandta	_	NOUN	_	_	0	root	_	GermanLemma=Verwandter
-6-7	vom	_	_	_	_	_	_	_	GermanLemma=_
+6-7	vom	_	_	_	_	_	_	_	_
 6	vo	_	ADP	_	_	8	case	_	GermanLemma=von
 7	m	_	DET	_	_	8	det	_	GermanLemma=der
 8	Drackn	_	NOUN	_	_	5	nmod	_	GermanLemma=Drache
 9	bzw.	_	CCONJ	_	_	12	cc	_	CorrectSpaceAfter=Yes|GermanLemma=bzw.|SpaceAfter=No
-10-11	vom	_	_	_	_	_	_	_	GermanLemma=_
+10-11	vom	_	_	_	_	_	_	_	_
 10	vo	_	ADP	_	_	12	case	_	GermanLemma=von
 11	m	_	DET	_	_	12	det	_	GermanLemma=der
 12	Lindwuam	_	NOUN	_	_	8	conj	_	GermanLemma=Lindwurm|SpaceAfter=No
@@ -7893,7 +7893,7 @@
 31	des	_	PRON	_	_	36	nsubj	_	GermanLemma=das
 32	hauptsechli	_	ADJ	_	_	36	advmod	_	GermanLemma=hauptsächlich
 33	daun	_	ADV	_	_	36	advmod	_	GermanLemma=dann
-34-35	zum	_	_	_	_	_	_	_	GermanLemma=_
+34-35	zum	_	_	_	_	_	_	_	_
 34	zu	_	PART	_	_	36	mark	_	GermanLemma=zu
 35	m	_	DET	_	_	36	det	_	GermanLemma=das
 36	seng	_	NOUN	_	_	23	conj	_	GermanLemma=Sehen
@@ -7901,7 +7901,7 @@
 38	,	_	PUNCT	_	_	45	punct	_	GermanLemma=,
 39	waun	_	SCONJ	_	_	45	mark	_	GermanLemma=wenn
 40	s	_	PRON	_	_	45	expl	_	GermanLemma=es
-41-42	im	_	_	_	_	_	_	_	GermanLemma=_
+41-42	im	_	_	_	_	_	_	_	_
 41	i	_	ADP	_	_	43	case	_	GermanLemma=in
 42	m	_	DET	_	_	43	det	_	GermanLemma=der
 43	Suma	_	NOUN	_	_	45	obl	_	GermanLemma=Sommer
@@ -8024,7 +8024,7 @@
 # dialect_group = unk (central/southcentral)
 # location = East Austria
 # source = https://bar.wikipedia.org/wiki/Dazzlwuam
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Gengsoz	_	NOUN	_	_	29	advcl	_	GermanLemma=Gegensatz
@@ -8040,7 +8040,7 @@
 13	miassn	_	AUX	_	_	29	aux	_	GermanLemma=müssen
 14	de	_	DET	_	_	15	det	_	GermanLemma=die
 15	Gschicht	_	NOUN	_	_	29	nsubj	_	GermanLemma=Geschichte
-16-17	fum	_	_	_	_	_	_	_	GermanLemma=_
+16-17	fum	_	_	_	_	_	_	_	_
 16	fu	_	ADP	_	_	18	case	_	GermanLemma=von
 17	m	_	DET	_	_	18	det	_	GermanLemma=der
 18	Dazzlwuam	_	NOUN	_	_	15	nmod	_	GermanLemma=Tatzelwurm
@@ -8173,11 +8173,11 @@
 1	es	_	PRON	_	_	2	expl	_	GermanLemma=es
 2	gibt	_	VERB	_	_	0	root	_	GermanLemma=geben
 3	bis	_	ADP	_	_	6	case	_	GermanLemma=bis
-4-5	zum	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	ADP	_	_	6	case	_	GermanLemma=zu
 5	m	_	DET	_	_	6	det	_	GermanLemma=der
 6	Aunfaung	_	NOUN	_	_	2	obl	_	GermanLemma=Anfang
-7-8	fum	_	_	_	_	_	_	_	GermanLemma=_
+7-8	fum	_	_	_	_	_	_	_	_
 7	fu	_	ADP	_	_	10	case	_	GermanLemma=von
 8	m	_	DET	_	_	10	det	_	GermanLemma=das
 9	20.	_	ADJ	_	_	10	amod	_	GermanLemma=20.|SpaceAfter=No
@@ -8236,7 +8236,7 @@
 16	,	_	PUNCT	_	_	2	punct	_	GermanLemma=,
 17	gibt	_	VERB	_	_	0	root	_	GermanLemma=geben
 18	s	_	PRON	_	_	17	expl	_	GermanLemma=es
-19-20	im	_	_	_	_	_	_	_	GermanLemma=_
+19-20	im	_	_	_	_	_	_	_	_
 19	i	_	ADP	_	_	22	case	_	GermanLemma=in
 20	m	_	DET	_	_	22	det	_	GermanLemma=das
 21	19.	_	ADJ	_	_	22	amod	_	GermanLemma=19.|SpaceAfter=No
@@ -8347,7 +8347,7 @@
 16	auf	_	ADP	_	_	18	case	_	GermanLemma=auf
 17	oa	_	DET	_	_	18	det	_	GermanLemma=ein
 18	Moi	_	NOUN	_	_	22	obl	_	GermanLemma=Mal
-19-20	zum	_	_	_	_	_	_	_	GermanLemma=_
+19-20	zum	_	_	_	_	_	_	_	_
 19	zu	_	PART	_	_	21	mark	_	GermanLemma=zu
 20	m	_	DET	_	_	21	det	_	GermanLemma=das
 21	rian	_	NOUN	_	_	22	obl	_	GermanLemma=Rühren
@@ -8545,7 +8545,7 @@
 25	wiagli	_	ADJ	_	_	26	advmod	_	GermanLemma=wirklich
 26	gibt	_	VERB	_	_	20	advcl:relcl	_	GermanLemma=geben
 27	-	_	PUNCT	_	_	30	punct	_	GermanLemma=-
-28-29	zum	_	_	_	_	_	_	_	GermanLemma=_
+28-29	zum	_	_	_	_	_	_	_	_
 28	zu	_	ADP	_	_	30	case	_	GermanLemma=zu
 29	m	_	DET	_	_	30	det	_	GermanLemma=das
 30	Baischbü	_	NOUN	_	_	20	parataxis	_	GermanLemma=Beispiel
@@ -8634,7 +8634,7 @@
 5	de	_	DET	_	_	7	det	_	GermanLemma=die
 6	aungeblichn	_	ADJ	_	_	7	amod	_	GermanLemma=angeblich
 7	Sichdungen	_	NOUN	_	_	4	nsubj	_	GermanLemma=Sichtung
-8-9	im	_	_	_	_	_	_	_	GermanLemma=_
+8-9	im	_	_	_	_	_	_	_	_
 8	i	_	ADP	_	_	11	case	_	GermanLemma=in
 9	m	_	DET	_	_	11	det	_	GermanLemma=das
 10	20.	_	ADJ	_	_	11	amod	_	GermanLemma=20.|SpaceAfter=No
@@ -8757,7 +8757,7 @@
 17	Sidtirouler	_	NOUN	_	_	15	obl	_	GermanLemma=Südtiroler
 18	sein	_	AUX	_	_	15	cop	_	GermanLemma=sein|SpaceAfter=No
 19	,	_	PUNCT	_	_	22	punct	_	GermanLemma=,
-20-21	zum	_	_	_	_	_	_	_	GermanLemma=_
+20-21	zum	_	_	_	_	_	_	_	_
 20	zu	_	ADP	_	_	22	case	_	GermanLemma=zu
 21	m	_	DET	_	_	22	det	_	GermanLemma=das
 22	Beispil	_	NOUN	_	_	24	nmod	_	GermanLemma=Beispiel
@@ -8797,7 +8797,7 @@
 1	Die	_	DET	_	_	2	det	_	GermanLemma=die
 2	Wortwurzl	_	NOUN	_	_	3	nsubj	_	GermanLemma=Wortwurzel
 3	kimp	_	VERB	_	_	0	root	_	GermanLemma=kommen
-4-5	van	_	_	_	_	_	_	_	GermanLemma=_
+4-5	van	_	_	_	_	_	_	_	_
 4	va	_	ADP	_	_	8	case	_	GermanLemma=von
 5	n	_	DET	_	_	8	det	_	GermanLemma=das
 6	oidboarischn	_	ADJ	_	_	8	amod	_	GermanLemma=altbairisch
@@ -8850,7 +8850,7 @@
 16	i	_	ADP	_	_	18	case	_	GermanLemma=in
 17	n	_	DET	_	_	18	det	_	GermanLemma=der
 18	Sidn	_	NOUN	_	_	23	obj	_	GermanLemma=Süden
-19-20	van	_	_	_	_	_	_	_	GermanLemma=_
+19-20	van	_	_	_	_	_	_	_	_
 19	va	_	ADP	_	_	22	case	_	GermanLemma=von
 20	n	_	DET	_	_	22	det	_	GermanLemma=das
 21	heitign	_	ADJ	_	_	22	amod	_	GermanLemma=heutig
@@ -8955,7 +8955,7 @@
 13	;	_	PUNCT	_	_	25	punct	_	GermanLemma=;
 14	die	_	DET	_	_	15	det	_	GermanLemma=der
 15	Schlawn	_	NOUN	_	_	25	obj	_	GermanLemma=Slave
-16-17	zun	_	_	_	_	_	_	_	GermanLemma=_
+16-17	zun	_	_	_	_	_	_	_	_
 16	zu	_	ADP	_	_	18	case	_	GermanLemma=zu
 17	n	_	DET	_	_	18	det	_	GermanLemma=das
 18	Beischpiel	_	NOUN	_	_	15	nmod	_	GermanLemma=Beispiel
@@ -8983,7 +8983,7 @@
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	n	_	DET	_	_	8	det	_	GermanLemma=das
 8	Nomen	_	NOUN	_	_	4	obl	_	GermanLemma=Nomen
-9-10	van	_	_	_	_	_	_	_	GermanLemma=_
+9-10	van	_	_	_	_	_	_	_	_
 9	va	_	ADP	_	_	12	case	_	GermanLemma=von
 10	n	_	DET	_	_	12	det	_	GermanLemma=das
 11	britischn	_	ADJ	_	_	12	amod	_	GermanLemma=britisch
@@ -9119,7 +9119,7 @@
 2	isch	_	AUX	_	_	4	cop	_	GermanLemma=sein
 3	der	_	DET	_	_	4	det	_	GermanLemma=der
 4	Gegnsătz	_	NOUN	_	_	0	root	_	GermanLemma=Gegensatz
-5-6	zun	_	_	_	_	_	_	_	GermanLemma=_
+5-6	zun	_	_	_	_	_	_	_	_
 5	zu	_	PART	_	_	8	mark	_	GermanLemma=zu
 6	n	_	DET	_	_	8	det	_	GermanLemma=das
 7	deitschn	_	ADJ	_	_	8	amod	_	GermanLemma=deutsch
@@ -9248,7 +9248,7 @@
 # source = https://bar.wikipedia.org/wiki/Schneckn
 1	Se	_	PRON	_	_	2	nsubj	_	GermanLemma=sie
 2	lebm	_	VERB	_	_	0	root	_	GermanLemma=leben
-3-4	aufn	_	_	_	_	_	_	_	GermanLemma=_
+3-4	aufn	_	_	_	_	_	_	_	_
 3	auf	_	ADP	_	_	5	case	_	GermanLemma=auf
 4	n	_	DET	_	_	5	det	_	GermanLemma=das
 5	Laund	_	NOUN	_	_	2	obl	_	GermanLemma=Land
@@ -9257,7 +9257,7 @@
 8	so	_	ADV	_	_	9	advmod	_	GermanLemma=so
 9	ois	_	SCONJ	_	_	13	case	_	GermanLemma=als
 10	wiar	_	SCONJ	_	_	9	fixed	_	GermanLemma=wie
-11-12	im	_	_	_	_	_	_	_	GermanLemma=_
+11-12	im	_	_	_	_	_	_	_	_
 11	i	_	ADP	_	_	13	case	_	GermanLemma=in
 12	m	_	DET	_	_	13	det	_	GermanLemma=das
 13	Wossa	_	NOUN	_	_	2	obl	_	GermanLemma=Wasser|SpaceAfter=No
@@ -9312,7 +9312,7 @@
 3	kennd	_	VERB	_	_	0	root	_	GermanLemma=kennen
 4	ma	_	PRON	_	_	3	nsubj	_	GermanLemma=man
 5	Schneckn	_	NOUN	_	_	3	obj	_	GermanLemma=Schnecke
-6-7	seidn	_	_	_	_	_	_	_	GermanLemma=_
+6-7	seidn	_	_	_	_	_	_	_	_
 6	seid	_	ADP	_	_	8	case	_	GermanLemma=seit
 7	n	_	DET	_	_	8	det	_	GermanLemma=das
 8	Kambrium	_	PROPN	_	_	3	obl	_	GermanLemma=Kambrium|SpaceAfter=No
@@ -9515,14 +9515,14 @@
 4	vo	_	ADP	_	_	5	case	_	GermanLemma=von
 5	untn	_	ADV	_	_	17	obl	_	GermanLemma=unten
 6	her	_	ADP	_	_	5	case	_	GermanLemma=her
-7-8	vom	_	_	_	_	_	_	_	GermanLemma=_
+7-8	vom	_	_	_	_	_	_	_	_
 7	vo	_	ADP	_	_	9	case	_	GermanLemma=von
 8	m	_	DET	_	_	9	det	_	GermanLemma=der
 9	Waachkeapa	_	NOUN	_	_	17	obl	_	GermanLemma=Weichkörper|SpaceAfter=No
 10	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
 11	und	_	CCONJ	_	_	15	cc	_	GermanLemma=und
 12	zwoar	_	ADV	_	_	15	advmod	_	GermanLemma=zwar
-13-14	vom	_	_	_	_	_	_	_	GermanLemma=_
+13-14	vom	_	_	_	_	_	_	_	_
 13	vo	_	ADP	_	_	15	case	_	GermanLemma=von
 14	m	_	DET	_	_	15	det	_	GermanLemma=der
 15	Mauntl	_	NOUN	_	_	9	appos	_	GermanLemma=Mantel|SpaceAfter=No
@@ -9536,7 +9536,7 @@
 # dialect_group = unk (central/southcentral)
 # location = East Austria
 # source = https://bar.wikipedia.org/wiki/Schneckn
-1-2	Vom	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Vom	_	_	_	_	_	_	_	_
 1	Vo	_	ADP	_	_	3	case	_	GermanLemma=von
 2	m	_	DET	_	_	3	det	_	GermanLemma=das
 3	Ausschaung	_	NOUN	_	_	5	obl	_	GermanLemma=Aussehen
@@ -9582,7 +9582,7 @@
 # dialect_group = unk (central/southcentral)
 # location = East Austria
 # source = https://bar.wikipedia.org/wiki/Schneckn
-1-2	Bein	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Bein	_	_	_	_	_	_	_	_
 1	Bei	_	ADP	_	_	3	case	_	GermanLemma=bei
 2	n	_	DET	_	_	3	det	_	GermanLemma=das
 3	Gwind	_	NOUN	_	_	15	obl	_	GermanLemma=Gewinde
@@ -9609,12 +9609,12 @@
 1	In	_	ADP	_	_	3	case	_	GermanLemma=in
 2	da	_	DET	_	_	3	det	_	GermanLemma=die
 3	Middn	_	NOUN	_	_	0	root	_	GermanLemma=Mitte
-4-5	vom	_	_	_	_	_	_	_	GermanLemma=_
+4-5	vom	_	_	_	_	_	_	_	_
 4	vo	_	ADP	_	_	6	case	_	GermanLemma=von
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Gwind	_	NOUN	_	_	3	nmod	_	GermanLemma=Gewinde|SpaceAfter=No
 7	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
-8-9	im	_	_	_	_	_	_	_	GermanLemma=_
+8-9	im	_	_	_	_	_	_	_	_
 8	i	_	ADP	_	_	10	case	_	GermanLemma=in
 9	m	_	DET	_	_	10	det	_	GermanLemma=das
 10	Heisl	_	NOUN	_	_	11	obl	_	GermanLemma=Häuschen
@@ -9633,11 +9633,11 @@
 # source = https://bar.wikipedia.org/wiki/Schneckn
 1	Is	_	DET	_	_	2	det	_	GermanLemma=das
 2	Looch	_	NOUN	_	_	9	obj	_	GermanLemma=Loch
-3-4	aum	_	_	_	_	_	_	_	GermanLemma=_
+3-4	aum	_	_	_	_	_	_	_	_
 3	au	_	ADP	_	_	5	case	_	GermanLemma=an
 4	m	_	DET	_	_	5	det	_	GermanLemma=das
 5	End	_	NOUN	_	_	2	nmod	_	GermanLemma=Ende
-6-7	vom	_	_	_	_	_	_	_	GermanLemma=_
+6-7	vom	_	_	_	_	_	_	_	_
 6	vo	_	ADP	_	_	8	case	_	GermanLemma=von
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Heisl	_	NOUN	_	_	5	nmod	_	GermanLemma=Häuschen
@@ -9699,7 +9699,7 @@
 17	und	_	CCONJ	_	_	19	cc	_	GermanLemma=und
 18	in	_	DET	_	_	19	det	_	GermanLemma=ein
 19	Eingeweidesogg	_	NOUN	_	_	14	conj	_	GermanLemma=Eingeweidesack
-20-21	midn	_	_	_	_	_	_	_	GermanLemma=_
+20-21	midn	_	_	_	_	_	_	_	_
 20	mid	_	ADP	_	_	22	case	_	GermanLemma=mit
 21	n	_	DET	_	_	22	det	_	GermanLemma=der
 22	Mauntl	_	NOUN	_	_	19	nmod	_	GermanLemma=Mantel|SpaceAfter=No
@@ -9721,7 +9721,7 @@
 8	kaa	_	DET	_	_	10	det	_	GermanLemma=keine
 9	guade	_	ADJ	_	_	10	amod	_	GermanLemma=gut
 10	Isoliarung	_	NOUN	_	_	7	obj	_	GermanLemma=Isolierung
-11-12	gengas	_	_	_	_	_	_	_	GermanLemma=_
+11-12	gengas	_	_	_	_	_	_	_	_
 11	genga	_	ADP	_	_	13	case	_	GermanLemma=gegen
 12	s	_	DET	_	_	13	det	_	GermanLemma=das
 13	Ausdrickan	_	NOUN	_	_	10	nmod	_	GermanLemma=Austrocknen|SpaceAfter=No
@@ -9753,7 +9753,7 @@
 # dialect_group = unk (central/southcentral)
 # location = East Austria
 # source = https://bar.wikipedia.org/wiki/Schneckn
-1-2	Aufn	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Aufn	_	_	_	_	_	_	_	_
 1	Auf	_	ADP	_	_	3	case	_	GermanLemma=auf
 2	n	_	DET	_	_	3	det	_	GermanLemma=der
 3	Koobf	_	NOUN	_	_	0	root	_	GermanLemma=Kopf
@@ -9813,7 +9813,7 @@
 8	sitzn	_	VERB	_	_	0	root	_	GermanLemma=sitzen
 9	de	_	DET	_	_	10	det	_	GermanLemma=das
 10	Eigln	_	NOUN	_	_	8	nsubj	_	GermanLemma=Auge
-11-12	aufn	_	_	_	_	_	_	_	GermanLemma=_
+11-12	aufn	_	_	_	_	_	_	_	_
 11	auf	_	ADP	_	_	16	case	_	GermanLemma=auf
 12	n	_	DET	_	_	16	det	_	GermanLemma=das
 13	owaren	_	ADJ	_	_	16	amod	_	GermanLemma=oberer|SpaceAfter=No
@@ -9836,7 +9836,7 @@
 # dialect_group = unk (central/southcentral)
 # location = East Austria
 # source = https://bar.wikipedia.org/wiki/Schneckn
-1-2	Midn	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Midn	_	_	_	_	_	_	_	_
 1	Mid	_	ADP	_	_	3	case	_	GermanLemma=mit
 2	n	_	DET	_	_	3	det	_	GermanLemma=das
 3	Eigl	_	NOUN	_	_	13	obl	_	GermanLemma=Auge
@@ -9862,7 +9862,7 @@
 # dialect_group = unk (central/southcentral)
 # location = East Austria
 # source = https://bar.wikipedia.org/wiki/Schneckn
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=das
 3	Meu	_	NOUN	_	_	0	root	_	GermanLemma=Maul
@@ -9896,7 +9896,7 @@
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
 2	Fuaß	_	NOUN	_	_	7	nsubj	_	GermanLemma=Fuß
 3	is	_	AUX	_	_	7	cop	_	GermanLemma=sein
-4-5	zan	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zan	_	_	_	_	_	_	_	_
 4	za	_	PART	_	_	6	mark	_	GermanLemma=zu
 5	n	_	DET	_	_	6	det	_	GermanLemma=das
 6	Greun	_	NOUN	_	_	7	obl	_	GermanLemma=Kriechen
@@ -10055,7 +10055,7 @@
 # dialect_group = unk (central/southcentral)
 # location = East Austria
 # source = https://bar.wikipedia.org/wiki/Schneckn
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Eingeweidesogg	_	NOUN	_	_	8	obl	_	GermanLemma=Eingeweidesack
@@ -10120,7 +10120,7 @@
 15	denan	_	PRON	_	_	27	obl	_	GermanLemma=die
 16	a	_	DET	_	_	17	det	_	GermanLemma=ein
 17	Deu	_	NOUN	_	_	27	nsubj	_	GermanLemma=Teil
-18-19	vom	_	_	_	_	_	_	_	GermanLemma=_
+18-19	vom	_	_	_	_	_	_	_	_
 18	vo	_	ADP	_	_	20	case	_	GermanLemma=von
 19	m	_	DET	_	_	20	det	_	GermanLemma=das
 20	Mauntlgewewe	_	NOUN	_	_	17	nmod	_	GermanLemma=Mantelgewebe
@@ -10360,7 +10360,7 @@
 7	dabei	_	ADV	_	_	6	advmod	_	GermanLemma=dabei
 8	z.	_	ADP	_	_	9	case	_	GermanLemma=z.|SpaceAfter=No
 9	B.	_	NOUN	_	_	6	obl	_	GermanLemma=B.
-10-11	mitn	_	_	_	_	_	_	_	GermanLemma=_
+10-11	mitn	_	_	_	_	_	_	_	_
 10	mit	_	ADP	_	_	13	case	_	GermanLemma=mit
 11	n	_	DET	_	_	13	det	_	GermanLemma=der
 12	ausgstüübtn	_	ADJ	_	_	13	amod	_	GermanLemma=ausgestülpt
@@ -10540,7 +10540,7 @@
 # dialect_group = unk (central/southcentral)
 # location = East Austria
 # source = https://bar.wikipedia.org/wiki/Schneckn
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=das
 3	wesantlichn	_	ADJ	_	_	8	obl	_	GermanLemma=wesentlich
@@ -10569,7 +10569,7 @@
 3	entgüütige	_	ADJ	_	_	11	amod	_	GermanLemma=entgültig|SpaceAfter=No
 4	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
 5	aar	_	ADV	_	_	10	advmod	_	GermanLemma=auch
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Deteu	_	NOUN	_	_	10	obl	_	GermanLemma=Detail
@@ -10666,7 +10666,7 @@
 6	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
 7	s’	_	DET	_	_	8	det	_	GermanLemma=das|SpaceAfter=No
 8	Auto	_	NOUN	_	_	5	xcomp	_	GermanLemma=Auto
-9-10	zum	_	_	_	_	_	_	_	GermanLemma=_
+9-10	zum	_	_	_	_	_	_	_	_
 9	zu	_	PART	_	_	11	mark	_	GermanLemma=zu
 10	m	_	DET	_	_	11	det	_	GermanLemma=das
 11	waschn	_	NOUN	_	_	8	nmod	_	GermanLemma=Waschen|SpaceAfter=No
@@ -10680,7 +10680,7 @@
 # location = Upper Bavaria
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
 2	Nachbar	_	NOUN	_	_	10	nsubj	_	GermanLemma=Nachbar
-3-4	vom	_	_	_	_	_	_	_	GermanLemma=_
+3-4	vom	_	_	_	_	_	_	_	_
 3	vo	_	ADP	_	_	5	case	_	GermanLemma=von
 4	m	_	DET	_	_	5	det	_	GermanLemma=der
 5	Bäda	_	PROPN	_	_	2	nmod	_	GermanLemma=Peter
@@ -10843,7 +10843,7 @@
 9	und	_	CCONJ	_	_	15	cc	_	GermanLemma=und
 10	san	_	AUX	_	_	15	aux	_	GermanLemma=sein
 11	dann	_	ADV	_	_	15	advmod	_	GermanLemma=dann
-12-13	ausm	_	_	_	_	_	_	_	GermanLemma=_
+12-13	ausm	_	_	_	_	_	_	_	_
 12	aus	_	ADP	_	_	14	case	_	GermanLemma=aus
 13	m	_	DET	_	_	14	det	_	GermanLemma=das
 14	Zimmer	_	NOUN	_	_	15	obl	_	GermanLemma=Zimmer
@@ -10905,7 +10905,7 @@
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
 2	Briaf	_	NOUN	_	_	6	nsubj	_	GermanLemma=Brief
 3	is	_	AUX	_	_	6	cop	_	GermanLemma=sein
-4-5	vom	_	_	_	_	_	_	_	GermanLemma=_
+4-5	vom	_	_	_	_	_	_	_	_
 4	vo	_	ADP	_	_	6	case	_	GermanLemma=von
 5	m	_	DET	_	_	6	det	_	GermanLemma=der
 6	Bäda	_	PROPN	_	_	0	root	_	GermanLemma=Peter
@@ -10945,7 +10945,7 @@
 1	Es	_	PRON	_	_	6	expl	_	GermanLemma=es
 2	is	_	AUX	_	_	6	cop	_	GermanLemma=sein
 3	net	_	PART	_	_	6	advmod	_	GermanLemma=nicht
-4-5	zum	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	PART	_	_	6	mark	_	GermanLemma=zu
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Glaubm	_	NOUN	_	_	0	root	_	GermanLemma=Glauben|SpaceAfter=No
@@ -10961,7 +10961,7 @@
 1	Es	_	PRON	_	_	2	expl	_	GermanLemma=es
 2	faungt	_	VERB	_	_	0	root	_	GermanLemma=fangen
 3	friah	_	ADV	_	_	2	advmod	_	GermanLemma=früh
-4-5	zum	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	PART	_	_	6	mark	_	GermanLemma=zu
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Tagln	_	NOUN	_	_	2	obl	_	GermanLemma=Tagen
@@ -11032,7 +11032,7 @@
 11	warum	_	ADV	_	_	17	advmod	_	GermanLemma=warum
 12	d‘	_	DET	_	_	13	det	_	GermanLemma=das
 13	Augen	_	NOUN	_	_	17	nsubj	_	GermanLemma=Auge
-14-15	zum	_	_	_	_	_	_	_	GermanLemma=_
+14-15	zum	_	_	_	_	_	_	_	_
 14	zu	_	ADP	_	_	16	case	_	GermanLemma=zu
 15	m	_	DET	_	_	16	det	_	GermanLemma=das
 16	Gfrieß	_	NOUN	_	_	17	obl	_	GermanLemma=Gesicht
@@ -11073,7 +11073,7 @@
 8	uns	_	PRON	_	_	14	obl:arg	_	GermanLemma=uns
 9	des	_	DET	_	_	10	det	_	GermanLemma=das
 10	Viech	_	NOUN	_	_	14	nsubj	_	GermanLemma=Viech
-11-12	ins	_	_	_	_	_	_	_	GermanLemma=_
+11-12	ins	_	_	_	_	_	_	_	_
 11	in	_	ADP	_	_	13	case	_	GermanLemma=in
 12	s	_	DET	_	_	13	det	_	GermanLemma=das
 13	Haus	_	NOUN	_	_	14	obl	_	GermanLemma=Haus
@@ -11110,7 +11110,7 @@
 # author = brauchinet
 1	Gö	_	INTJ	_	_	6	discourse	_	GermanLemma=Geh|SpaceAfter=No
 2	,	_	PUNCT	_	_	1	punct	_	GermanLemma=,
-3-4	mitm	_	_	_	_	_	_	_	GermanLemma=_
+3-4	mitm	_	_	_	_	_	_	_	_
 3	mit	_	ADP	_	_	5	case	_	GermanLemma=mit
 4	m	_	DET	_	_	5	det	_	GermanLemma=das
 5	Auzahn	_	NOUN	_	_	6	obl	_	GermanLemma=Anziehen/Beeilen
@@ -11319,7 +11319,7 @@
 1	„	_	PUNCT	_	_	9	punct	_	GermanLemma=„|SpaceAfter=No
 2	Rosi	_	PROPN	_	_	9	vocative	_	GermanLemma=Rosi|SpaceAfter=No
 3	,	_	PUNCT	_	_	2	punct	_	GermanLemma=,
-4-5	zum	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	PART	_	_	6	mark	_	GermanLemma=zu
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Denkn	_	NOUN	_	_	9	obl	_	GermanLemma=Denken
@@ -11854,7 +11854,7 @@
 # dialect_group = north
 # location = unk
 # source = https://bar.wikipedia.org/wiki/J-Pop
-1-2	Baim	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Baim	_	_	_	_	_	_	_	_
 1	Bai	_	ADP	_	_	3	case	_	GermanLemma=bei
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Inhajt	_	NOUN	_	_	4	obl	_	GermanLemma=Inhalt
@@ -11983,7 +11983,7 @@
 3	Raum	_	NOUN	_	_	10	obl	_	GermanLemma=Raum
 4	is	_	AUX	_	_	10	cop	_	GermanLemma=sein
 5	J-Pop	_	PROPN	_	_	10	nsubj	_	GermanLemma=J-Pop
-6-7	vorajm	_	_	_	_	_	_	_	GermanLemma=_
+6-7	vorajm	_	_	_	_	_	_	_	_
 6	vor	_	ADP	_	_	7	case	_	GermanLemma=vor
 7	ajm	_	DET	_	_	10	obl	_	GermanLemma=allem
 8	bai	_	ADP	_	_	9	case	_	GermanLemma=bei
@@ -12080,7 +12080,7 @@
 # location = Vienna
 # source = https://tatoeba.org/en/sentences/show/5113686
 # author = legume
-1-2	Wengam	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Wengam	_	_	_	_	_	_	_	_
 1	Weng	_	ADP	_	_	3	case	_	GermanLemma=wegen
 2	am	_	DET	_	_	3	det	_	GermanLemma=der
 3	Reng	_	NOUN	_	_	8	obl	_	GermanLemma=Regen
@@ -12215,7 +12215,7 @@
 # source = https://tatoeba.org/en/sentences/show/5166997
 # author = brauchinet
 1	"	_	PUNCT	_	_	4	punct	_	GermanLemma="|SpaceAfter=No
-2-3	Durchs	_	_	_	_	_	_	_	GermanLemma=_
+2-3	Durchs	_	_	_	_	_	_	_	_
 2	Durch	_	ADP	_	_	4	case	_	GermanLemma=durch
 3	s	_	DET	_	_	4	det	_	GermanLemma=das
 4	Fensta	_	NOUN	_	_	0	root	_	GermanLemma=Fenster|SpaceAfter=No
@@ -12495,7 +12495,7 @@
 5	a	_	DET	_	_	7	det	_	GermanLemma=ein
 6	einaktig's	_	ADJ	_	_	7	amod	_	GermanLemma=einaktig
 7	Vuag'spül	_	NOUN	_	_	0	root	_	GermanLemma=Vorspiel
-8-9	vom	_	_	_	_	_	_	_	GermanLemma=_
+8-9	vom	_	_	_	_	_	_	_	_
 8	vo	_	ADP	_	_	10	case	_	GermanLemma=von
 9	m	_	DET	_	_	10	det	_	GermanLemma=der
 10	Johann	_	PROPN	_	_	7	obl	_	GermanLemma=Johann
@@ -12516,7 +12516,7 @@
 6	eahm	_	PRON	_	_	7	obl:agent	_	GermanLemma=ihn
 7	g'schrieb'n	_	VERB	_	_	0	root	_	GermanLemma=schreiben
 8	und	_	CCONJ	_	_	22	cc	_	GermanLemma=und
-9-10	aum	_	_	_	_	_	_	_	GermanLemma=_
+9-10	aum	_	_	_	_	_	_	_	_
 9	au	_	ADP	_	_	11	case	_	GermanLemma=an
 10	m	_	DET	_	_	11	det	_	GermanLemma=der
 11	15.	_	ADJ	_	_	22	obl	_	GermanLemma=15.|SpaceAfter=No
@@ -12524,7 +12524,7 @@
 13	in	_	ADP	_	_	15	case	_	GermanLemma=in
 14	sölb'n	_	DET	_	_	15	det	_	GermanLemma=selbes
 15	Joahr	_	NOUN	_	_	11	flat	_	GermanLemma=Jahr
-16-17	im	_	_	_	_	_	_	_	GermanLemma=_
+16-17	im	_	_	_	_	_	_	_	_
 16	i	_	ADP	_	_	19	case	_	GermanLemma=in
 17	m	_	DET	_	_	19	det	_	GermanLemma=das
 18	ständischn	_	ADJ	_	_	19	amod	_	GermanLemma=ständisch
@@ -12549,7 +12549,7 @@
 6	Andres	_	PROPN	_	_	5	appos	_	GermanLemma=Andres
 7	untahoid'n	_	VERB	_	_	0	root	_	GermanLemma=unterhalten
 8	se	_	PRON	_	_	7	expl:pv	_	GermanLemma=sich
-9-10	beim	_	_	_	_	_	_	_	GermanLemma=_
+9-10	beim	_	_	_	_	_	_	_	_
 9	bei	_	ADP	_	_	11	case	_	GermanLemma=bei
 10	m	_	DET	_	_	11	det	_	GermanLemma=das
 11	Woat'n	_	NOUN	_	_	7	obl	_	GermanLemma=Warten
@@ -12652,7 +12652,7 @@
 3	bringt	_	VERB	_	_	0	root	_	GermanLemma=bringen|SpaceAfter=No
 4	's	_	PRON	_	_	3	obj	_	GermanLemma=es
 5	daunn	_	ADV	_	_	3	advmod	_	GermanLemma=dann
-6-7	auf'n	_	_	_	_	_	_	_	GermanLemma=_
+6-7	auf'n	_	_	_	_	_	_	_	_
 6	auf	_	ADP	_	_	8	case	_	GermanLemma=auf
 7	'n	_	DET	_	_	8	det	_	GermanLemma=der
 8	Punkt	_	NOUN	_	_	3	obl	_	GermanLemma=Punkt|SpaceAfter=No
@@ -12664,11 +12664,11 @@
 # dialect_group = central
 # location = Vienna
 # source = https://bar.wikipedia.org/wiki/Der_Zetteltr%C3%A4ger_Papp
-1-2	Beim	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Beim	_	_	_	_	_	_	_	_
 1	Bei	_	ADP	_	_	3	case	_	GermanLemma=bei
 2	m	_	DET	_	_	3	det	_	GermanLemma=das
 3	Streit'n	_	NOUN	_	_	7	obl	_	GermanLemma=Streiten
-4-5	mit'n	_	_	_	_	_	_	_	GermanLemma=_
+4-5	mit'n	_	_	_	_	_	_	_	_
 4	mit	_	ADP	_	_	6	case	_	GermanLemma=mit
 5	'n	_	DET	_	_	6	det	_	GermanLemma=der
 6	Haushofmasta	_	NOUN	_	_	3	nmod	_	GermanLemma=Haushofmeister
@@ -12678,7 +12678,7 @@
 10	üwa	_	ADP	_	_	12	case	_	GermanLemma=über
 11	de	_	DET	_	_	12	det	_	GermanLemma=die
 12	Unsitt'n	_	NOUN	_	_	7	obl	_	GermanLemma=Unsitte
-13-14	vom	_	_	_	_	_	_	_	GermanLemma=_
+13-14	vom	_	_	_	_	_	_	_	_
 13	vo	_	ADP	_	_	16	case	_	GermanLemma=von
 14	m	_	DET	_	_	16	det	_	GermanLemma=das
 15	daumålich'n	_	ADJ	_	_	16	amod	_	GermanLemma=zeitgenössisch
@@ -12687,11 +12687,11 @@
 18	spoart	_	VERB	_	_	7	conj	_	GermanLemma=sparen
 19	aa	_	ADV	_	_	18	advmod	_	GermanLemma=auch
 20	ned	_	PART	_	_	18	advmod	_	GermanLemma=nicht
-21-22	mit'n	_	_	_	_	_	_	_	GermanLemma=_
+21-22	mit'n	_	_	_	_	_	_	_	_
 21	mit	_	ADP	_	_	23	case	_	GermanLemma=mit
 22	'n	_	DET	_	_	23	det	_	GermanLemma=das
 23	Keppel'n	_	NOUN	_	_	18	obl	_	GermanLemma=Keiferei
-24-25	üwa's	_	_	_	_	_	_	_	GermanLemma=_
+24-25	üwa's	_	_	_	_	_	_	_	_
 24	üwa	_	ADP	_	_	26	case	_	GermanLemma=über
 25	's	_	DET	_	_	26	det	_	GermanLemma=das
 26	Publekum	_	NOUN	_	_	18	obl	_	GermanLemma=Publikum|SpaceAfter=No
@@ -12707,13 +12707,13 @@
 2	håt	_	AUX	_	_	14	aux	_	GermanLemma=haben
 3	ihr	_	DET	_	_	4	det:poss	_	GermanLemma=ihr
 4	Premier'	_	NOUN	_	_	14	obj	_	GermanLemma=Premier
-5-6	aum	_	_	_	_	_	_	_	GermanLemma=_
+5-6	aum	_	_	_	_	_	_	_	_
 5	au	_	ADP	_	_	7	case	_	GermanLemma=an
 6	m	_	DET	_	_	7	det	_	GermanLemma=der
 7	28.	_	ADJ	_	_	14	obl	_	GermanLemma=28.|SpaceAfter=No
 8	Novemba	_	NOUN	_	_	7	flat	_	GermanLemma=November
 9	1822	_	NUM	_	_	7	flat	_	GermanLemma=1822
-10-11	im	_	_	_	_	_	_	_	GermanLemma=_
+10-11	im	_	_	_	_	_	_	_	_
 10	i	_	ADP	_	_	13	case	_	GermanLemma=in
 11	m	_	DET	_	_	13	det	_	GermanLemma=das
 12	Leopoldstädta	_	ADJ	_	_	13	amod	_	GermanLemma=Leopoldstädter
@@ -12721,7 +12721,7 @@
 14	g'hobt	_	VERB	_	_	0	root	_	GermanLemma=haben|SpaceAfter=No
 15	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
 16	umg'schrieb'n	_	VERB	_	_	14	parataxis	_	GermanLemma=umschreiben
-17-18	vom	_	_	_	_	_	_	_	GermanLemma=_
+17-18	vom	_	_	_	_	_	_	_	_
 17	vo	_	ADP	_	_	19	case	_	GermanLemma=von
 18	m	_	DET	_	_	19	det	_	GermanLemma=der
 19	Ferdinand	_	PROPN	_	_	16	obl	_	GermanLemma=Ferdinand
@@ -12771,7 +12771,7 @@
 7	ana	_	DET	_	_	9	det	_	GermanLemma=eine
 8	zugkräftich'n	_	ADJ	_	_	9	amod	_	GermanLemma=zugkräftig
 9	Parodie	_	NOUN	_	_	13	obl	_	GermanLemma=Parodie
-10-11	auf's	_	_	_	_	_	_	_	GermanLemma=_
+10-11	auf's	_	_	_	_	_	_	_	_
 10	auf	_	ADP	_	_	12	case	_	GermanLemma=auf
 11	's	_	DET	_	_	12	det	_	GermanLemma=das
 12	Theata	_	NOUN	_	_	9	nmod	_	GermanLemma=Theater
@@ -12874,7 +12874,7 @@
 7	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
 8	a	_	DET	_	_	9	det	_	GermanLemma=ein
 9	Theata	_	NOUN	_	_	6	conj	_	GermanLemma=Theater
-10-11	im	_	_	_	_	_	_	_	GermanLemma=_
+10-11	im	_	_	_	_	_	_	_	_
 10	i	_	ADP	_	_	12	case	_	GermanLemma=ich
 11	m	_	DET	_	_	12	det	_	GermanLemma=das
 12	Theata	_	NOUN	_	_	9	nmod	_	GermanLemma=Theater|SpaceAfter=No
@@ -12899,7 +12899,7 @@
 31	dem	_	DET	_	_	32	det	_	GermanLemma=der
 32	doda	_	ADV	_	_	27	parataxis	_	GermanLemma=da
 33	bis	_	ADP	_	_	38	case	_	GermanLemma=bis
-34-35	zum	_	_	_	_	_	_	_	GermanLemma=_
+34-35	zum	_	_	_	_	_	_	_	_
 34	zu	_	ADP	_	_	38	case	_	GermanLemma=zu
 35	m	_	DET	_	_	38	det	_	GermanLemma=das
 36	vül	_	ADV	_	_	37	advmod	_	GermanLemma=viel
@@ -13020,7 +13020,7 @@
 9	is	_	AUX	_	_	18	cop	_	GermanLemma=sein
 10	wödweit	_	ADJ	_	_	18	advmod	_	GermanLemma=weltweit
 11	–	_	PUNCT	_	_	14	punct	_	GermanLemma=–
-12-13	nochn	_	_	_	_	_	_	_	GermanLemma=_
+12-13	nochn	_	_	_	_	_	_	_	_
 12	noch	_	ADP	_	_	14	case	_	GermanLemma=nach
 13	n	_	DET	_	_	14	det	_	GermanLemma=das
 14	Eadöö	_	NOUN	_	_	18	parataxis	_	GermanLemma=Erdöl
@@ -13049,7 +13049,7 @@
 11	da	_	DET	_	_	12	det	_	GermanLemma=die
 12	Region	_	NOUN	_	_	19	obl	_	GermanLemma=Region
 13	Kaffa	_	NOUN	_	_	12	flat	_	GermanLemma=Kaffa
-14-15	im	_	_	_	_	_	_	_	GermanLemma=_
+14-15	im	_	_	_	_	_	_	_	_
 14	i	_	ADP	_	_	16	case	_	GermanLemma=ich
 15	m	_	DET	_	_	16	det	_	GermanLemma=der
 16	Sidwestn	_	NOUN	_	_	19	obl	_	GermanLemma=Südwesten
@@ -13069,7 +13069,7 @@
 3	da	_	DET	_	_	4	det	_	GermanLemma=der
 4	Kafää	_	NOUN	_	_	10	nsubj:pass	_	GermanLemma=Kaffee
 5	scho	_	ADV	_	_	10	advmod	_	GermanLemma=schon
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	9	case	_	GermanLemma=in
 7	m	_	DET	_	_	9	det	_	GermanLemma=das
 8	9.	_	ADJ	_	_	9	amod	_	GermanLemma=9.
@@ -13089,7 +13089,7 @@
 3	isa	_	AUX	_	_	14	aux	_	GermanLemma=sein
 4	daun	_	ADV	_	_	14	advmod	_	GermanLemma=dann
 5	woascheinlich	_	ADJ	_	_	14	advmod	_	GermanLemma=wahrscheinlich
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	9	case	_	GermanLemma=in
 7	m	_	DET	_	_	9	det	_	GermanLemma=das
 8	14.	_	ADJ	_	_	9	amod	_	GermanLemma=14.
@@ -13157,7 +13157,7 @@
 11	des	_	DET	_	_	13	det	_	GermanLemma=das
 12	heitige	_	ADJ	_	_	13	amod	_	GermanLemma=heutig
 13	al-Mukha	_	PROPN	_	_	4	appos	_	GermanLemma=al-Mukha
-14-15	im	_	_	_	_	_	_	_	GermanLemma=_
+14-15	im	_	_	_	_	_	_	_	_
 14	i	_	ADP	_	_	16	case	_	GermanLemma=in
 15	m	_	DET	_	_	16	det	_	GermanLemma=der
 16	Jemen	_	PROPN	_	_	13	nmod	_	GermanLemma=Jemen|SpaceAfter=No
@@ -13179,7 +13179,7 @@
 8	de	_	DET	_	_	9	det	_	GermanLemma=die
 9	uaspringlichste	_	ADJ	_	_	0	root	_	GermanLemma=ursprünglichste|SpaceAfter=No
 10	:	_	PUNCT	_	_	24	punct	_	GermanLemma=:
-11-12	Nochm	_	_	_	_	_	_	_	GermanLemma=_
+11-12	Nochm	_	_	_	_	_	_	_	_
 11	Noch	_	ADP	_	_	13	case	_	GermanLemma=nach
 12	m	_	DET	_	_	13	det	_	GermanLemma=das
 13	Rässdn	_	NOUN	_	_	24	obl	_	GermanLemma=Rösten
@@ -13239,7 +13239,7 @@
 # dialect_group = central
 # location = Vienna
 # source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
-1-2	Vaum	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Vaum	_	_	_	_	_	_	_	_
 1	Vau	_	ADP	_	_	3	case	_	GermanLemma=von
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Goethe	_	NOUN	_	_	4	obl	_	GermanLemma=Goethe
@@ -13283,7 +13283,7 @@
 # dialect_group = central
 # location = Vienna
 # source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	4	case	_	GermanLemma=in
 2	m	_	DET	_	_	4	det	_	GermanLemma=das
 3	15.	_	ADJ	_	_	4	amod	_	GermanLemma=15.
@@ -13294,7 +13294,7 @@
 8	in	_	ADP	_	_	9	case	_	GermanLemma=in
 9	Persien	_	PROPN	_	_	15	obl	_	GermanLemma=Persien
 10	sowia	_	CCONJ	_	_	14	cc	_	GermanLemma=sowie
-11-12	im	_	_	_	_	_	_	_	GermanLemma=_
+11-12	im	_	_	_	_	_	_	_	_
 11	i	_	ADP	_	_	14	case	_	GermanLemma=in
 12	m	_	DET	_	_	14	det	_	GermanLemma=das
 13	Osmanische	_	ADJ	_	_	14	amod	_	GermanLemma=Osmanische
@@ -13365,7 +13365,7 @@
 # source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
 1	1554	_	NUM	_	_	20	obl:arg	_	GermanLemma=1554
 2	is	_	AUX	_	_	20	aux:pass	_	GermanLemma=sein
-3-4	gengan	_	_	_	_	_	_	_	GermanLemma=_
+3-4	gengan	_	_	_	_	_	_	_	_
 3	geng	_	ADP	_	_	5	case	_	GermanLemma=gegen
 4	an	_	DET	_	_	5	det	_	GermanLemma=der
 5	Wiedastaund	_	NOUN	_	_	20	obl	_	GermanLemma=Wiederstand
@@ -13397,11 +13397,11 @@
 2	Murad	_	PROPN	_	_	14	nsubj	_	GermanLemma=Murad
 3	III.	_	PROPN	_	_	2	flat	_	GermanLemma=III.
 4	hod	_	AUX	_	_	14	aux	_	GermanLemma=haben
-5-6	am	_	_	_	_	_	_	_	GermanLemma=_
+5-6	am	_	_	_	_	_	_	_	_
 5	a	_	ADP	_	_	7	case	_	GermanLemma=an
 6	m	_	DET	_	_	7	det	_	GermanLemma=das
 7	End	_	NOUN	_	_	14	obl	_	GermanLemma=Ende
-8-9	vom	_	_	_	_	_	_	_	GermanLemma=_
+8-9	vom	_	_	_	_	_	_	_	_
 8	vo	_	ADP	_	_	11	case	_	GermanLemma=von
 9	m	_	DET	_	_	11	det	_	GermanLemma=das
 10	16	_	ADJ	_	_	11	amod	_	GermanLemma=16.
@@ -13478,14 +13478,14 @@
 # location = Vienna
 # source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
 1	Eascht	_	ADV	_	_	17	advmod	_	GermanLemma=erst
-2-3	im	_	_	_	_	_	_	_	GermanLemma=_
+2-3	im	_	_	_	_	_	_	_	_
 2	i	_	ADP	_	_	4	case	_	GermanLemma=in
 3	m	_	DET	_	_	4	det	_	GermanLemma=das
 4	Zug	_	NOUN	_	_	17	obl	_	GermanLemma=Zug
 5	vo	_	ADP	_	_	7	case	_	GermanLemma=von
 6	da	_	DET	_	_	7	det	_	GermanLemma=die
 7	Reformpolitik	_	NOUN	_	_	4	nmod	_	GermanLemma=Reformpolitik
-8-9	vom	_	_	_	_	_	_	_	GermanLemma=_
+8-9	vom	_	_	_	_	_	_	_	_
 8	vo	_	ADP	_	_	10	case	_	GermanLemma=von
 9	m	_	DET	_	_	10	det	_	GermanLemma=das
 10	Tanzimat	_	NOUN	_	_	7	nmod	_	GermanLemma=Tanzimat
@@ -13532,7 +13532,7 @@
 8	Arabien	_	PROPN	_	_	6	conj	_	GermanLemma=Arabien
 9	hods	_	AUX	_	_	23	aux	_	GermanLemma=haben
 10	eascht	_	ADJ	_	_	23	advmod	_	GermanLemma=erst
-11-12	im	_	_	_	_	_	_	_	GermanLemma=_
+11-12	im	_	_	_	_	_	_	_	_
 11	i	_	ADP	_	_	14	case	_	GermanLemma=in
 12	m	_	DET	_	_	14	det	_	GermanLemma=das
 13	17.	_	ADJ	_	_	14	amod	_	GermanLemma=17.
@@ -13554,7 +13554,7 @@
 # dialect_group = central
 # location = Vienna
 # source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	4	case	_	GermanLemma=in
 2	m	_	DET	_	_	4	det	_	GermanLemma=das
 3	18.	_	ADJ	_	_	4	amod	_	GermanLemma=18.
@@ -13671,11 +13671,11 @@
 10	echta	_	ADJ	_	_	11	amod	_	GermanLemma=echt
 11	Baunankafää	_	NOUN	_	_	8	appos	_	GermanLemma=Bohnenkaffee|SpaceAfter=No
 12	"	_	PUNCT	_	_	11	punct	_	GermanLemma="
-13-14	im	_	_	_	_	_	_	_	GermanLemma=_
+13-14	im	_	_	_	_	_	_	_	_
 13	i	_	ADP	_	_	15	case	_	GermanLemma=in
 14	m	_	DET	_	_	15	det	_	GermanLemma=der
 15	Untaschied	_	NOUN	_	_	5	obl	_	GermanLemma=Unterschied
-16-17	zum	_	_	_	_	_	_	_	GermanLemma=_
+16-17	zum	_	_	_	_	_	_	_	_
 16	zu	_	ADP	_	_	18	case	_	GermanLemma=zu
 17	m	_	DET	_	_	18	det	_	GermanLemma=der
 18	Easotzkafää	_	NOUN	_	_	15	nmod	_	GermanLemma=Ersatzkaffee|SpaceAfter=No
@@ -13697,8 +13697,8 @@
 8	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
 9	genau	_	ADJ	_	_	10	amod	_	GermanLemma=genau
 10	60	_	NUM	_	_	11	nummod	_	GermanLemma=60
-1	Kafääbaunan	_	NOUN	_	_	6	acl	_	GermanLemma=Kaffeebohne
-12-13	zum	_	_	_	_	_	_	_	GermanLemma=_
+11	Kafääbaunan	_	NOUN	_	_	6	acl	_	GermanLemma=Kaffeebohne
+12-13	zum	_	_	_	_	_	_	_	_
 12	zu	_	PART	_	_	14	mark	_	GermanLemma=zu
 13	m	_	DET	_	_	14	det	_	GermanLemma=das
 14	oozöön	_	NOUN	_	_	11	nmod	_	GermanLemma=Abzählen|SpaceAfter=No
@@ -13722,7 +13722,7 @@
 1	Des	_	DET	_	_	3	det	_	GermanLemma=das
 2	easchte	_	ADJ	_	_	3	amod	_	GermanLemma=erste
 3	Experiment	_	NOUN	_	_	16	obj	_	GermanLemma=Experiment
-4-5	zua	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zua	_	_	_	_	_	_	_	_
 4	zu	_	ADP	_	_	7	case	_	GermanLemma=zu
 5	a	_	DET	_	_	7	det	_	GermanLemma=die
 6	gsundheitlichn	_	ADJ	_	_	7	amod	_	GermanLemma=gesundheitlich
@@ -13785,7 +13785,7 @@
 8	hod	_	AUX	_	_	24	aux	_	GermanLemma=haben
 9	a	_	PRON	_	_	24	nsubj	_	GermanLemma=er
 10	zwa	_	NUM	_	_	15	nummod	_	GermanLemma=zwei
-11-12	zum	_	_	_	_	_	_	_	GermanLemma=_
+11-12	zum	_	_	_	_	_	_	_	_
 11	zu	_	ADP	_	_	13	case	_	GermanLemma=zu
 12	m	_	DET	_	_	13	det	_	GermanLemma=der
 13	Tod	_	NOUN	_	_	14	obl	_	GermanLemma=Tod
@@ -13847,7 +13847,7 @@
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
 2	Täädrinka	_	NOUN	_	_	13	nsubj	_	GermanLemma=Teetrinker
 3	is	_	AUX	_	_	13	aux	_	GermanLemma=sein
-4-5	im	_	_	_	_	_	_	_	GermanLemma=_
+4-5	im	_	_	_	_	_	_	_	_
 4	i	_	ADP	_	_	6	case	_	GermanLemma=in
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Oida	_	NOUN	_	_	13	obl	_	GermanLemma=Alter
@@ -13952,7 +13952,7 @@
 15	kumman	_	VERB	_	_	13	conj	_	GermanLemma=kommen
 16	oisa	_	ADP	_	_	17	case	_	GermanLemma=als
 17	Gaunza	_	NOUN	_	_	15	obl	_	GermanLemma=Ganzer
-18-19	beim	_	_	_	_	_	_	_	GermanLemma=_
+18-19	beim	_	_	_	_	_	_	_	_
 18	bei	_	ADP	_	_	20	case	_	GermanLemma=bei
 19	m	_	DET	_	_	20	det	_	GermanLemma=das
 20	Viech	_	NOUN	_	_	15	obl	_	GermanLemma=Viech
@@ -13994,7 +13994,7 @@
 7	Kilo	_	NOUN	_	_	8	nsubj	_	GermanLemma=Kilo
 8	kost	_	VERB	_	_	3	advcl	_	GermanLemma=kosten
 9	nachan	_	ADV	_	_	8	advmod	_	GermanLemma=nachher
-10-11	umma	_	_	_	_	_	_	_	GermanLemma=_
+10-11	umma	_	_	_	_	_	_	_	_
 10	umm	_	ADP	_	_	13	case	_	GermanLemma=um
 11	a	_	DET	_	_	13	det	_	GermanLemma=ein
 12	800	_	NUM	_	_	13	nummod	_	GermanLemma=800
@@ -14016,7 +14016,7 @@
 7	des	_	PRON	_	_	9	nsubj	_	GermanLemma=das
 8	da	_	DET	_	_	9	det	_	GermanLemma=der
 9	Kaffää	_	NOUN	_	_	4	ccomp	_	GermanLemma=Kaffee
-10-11	min	_	_	_	_	_	_	_	GermanLemma=_
+10-11	min	_	_	_	_	_	_	_	_
 10	mi	_	ADP	_	_	13	case	_	GermanLemma=mit
 11	n	_	DET	_	_	13	det	_	GermanLemma=der
 12	bestn	_	ADJ	_	_	13	amod	_	GermanLemma=gut
@@ -14033,7 +14033,7 @@
 1	De	_	DET	_	_	2	det	_	GermanLemma=die
 2	Kafääpflaunzn	_	NOUN	_	_	3	nsubj	_	GermanLemma=Kaffeepflanze
 3	ghean	_	VERB	_	_	0	root	_	GermanLemma=gehören
-4-5	zua	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zua	_	_	_	_	_	_	_	_
 4	zu	_	ADP	_	_	7	case	_	GermanLemma=zu
 5	a	_	DET	_	_	7	det	_	GermanLemma=die
 6	botanischen	_	ADJ	_	_	7	amod	_	GermanLemma=botanisch
@@ -15031,13 +15031,13 @@
 6	Hausschlochtung	_	NOUN	_	_	2	obl	_	GermanLemma=Hausschlachtung
 7	den	_	DET	_	_	13	det	_	GermanLemma=der
 8	oft	_	ADV	_	_	12	advmod	_	GermanLemma=oft
-9-10	vorm	_	_	_	_	_	_	_	GermanLemma=_
+9-10	vorm	_	_	_	_	_	_	_	_
 9	vor	_	ADP	_	_	11	case	_	GermanLemma=vor
 10	m	_	DET	_	_	11	det	_	GermanLemma=der
 11	Stoll	_	NOUN	_	_	12	obl	_	GermanLemma=Stall
 12	hingställten	_	ADJ	_	_	13	amod	_	GermanLemma=hinstellen
 13	Kopf	_	NOUN	_	_	2	obj	_	GermanLemma=Kopf
-14-15	zum	_	_	_	_	_	_	_	GermanLemma=_
+14-15	zum	_	_	_	_	_	_	_	_
 14	zu	_	PART	_	_	16	mark	_	GermanLemma=zu
 15	m	_	DET	_	_	16	det	_	GermanLemma=das
 16	fladern	_	NOUN	_	_	2	obl	_	GermanLemma=Stehlen|SpaceAfter=No
@@ -15059,7 +15059,7 @@
 1	Waunn	_	SCONJ	_	_	7	mark	_	GermanLemma=wenn
 2	des	_	DET	_	_	3	det	_	GermanLemma=das
 3	Vaschwinden	_	NOUN	_	_	7	nsubj	_	GermanLemma=Verschwinden
-4-5	vom	_	_	_	_	_	_	_	GermanLemma=_
+4-5	vom	_	_	_	_	_	_	_	_
 4	vo	_	ADP	_	_	6	case	_	GermanLemma=von
 5	m	_	DET	_	_	6	det	_	GermanLemma=der
 6	Schädl	_	NOUN	_	_	3	nmod	_	GermanLemma=Schädel
@@ -15109,7 +15109,7 @@
 1	Danoch	_	ADV	_	_	2	advmod	_	GermanLemma=danach
 2	gibt	_	VERB	_	_	0	root	_	GermanLemma=geben|SpaceAfter=No
 3	s	_	PRON	_	_	2	expl	_	GermanLemma=es
-4-5	beim	_	_	_	_	_	_	_	GermanLemma=_
+4-5	beim	_	_	_	_	_	_	_	_
 4	bei	_	ADP	_	_	6	case	_	GermanLemma=bei
 5	m	_	DET	_	_	6	det	_	GermanLemma=der
 6	Durfwirtn	_	NOUN	_	_	2	obl	_	GermanLemma=Dorfwirt
@@ -15168,7 +15168,7 @@
 15	weit	_	ADJ	_	_	21	advmod	_	GermanLemma=weit
 16	wia	_	SCONJ	_	_	17	mark	_	GermanLemma=wie
 17	megli	_	ADJ	_	_	15	advcl	_	GermanLemma=möglich
-18-19	vom	_	_	_	_	_	_	_	GermanLemma=_
+18-19	vom	_	_	_	_	_	_	_	_
 18	vo	_	ADP	_	_	20	case	_	GermanLemma=von
 19	m	_	DET	_	_	20	det	_	GermanLemma=der
 20	Sauschädl	_	NOUN	_	_	21	obl	_	GermanLemma=Sauschädel
@@ -15201,7 +15201,7 @@
 11	und	_	CCONJ	_	_	23	cc	_	GermanLemma=und
 12	oft	_	ADV	_	_	23	advmod	_	GermanLemma=oft
 13	wern	_	AUX	_	_	23	aux:pass	_	GermanLemma=werden
-14-15	vom	_	_	_	_	_	_	_	GermanLemma=_
+14-15	vom	_	_	_	_	_	_	_	_
 14	vo	_	ADP	_	_	16	case	_	GermanLemma=von
 15	m	_	DET	_	_	16	det	_	GermanLemma=der
 16	Richta	_	NOUN	_	_	23	obl:agent	_	GermanLemma=Richter
@@ -15248,7 +15248,7 @@
 2	muaß	_	AUX	_	_	9	aux	_	GermanLemma=müssen
 3	da	_	DET	_	_	4	det	_	GermanLemma=der
 4	Bsitzer	_	NOUN	_	_	9	nsubj	_	GermanLemma=Besitzer
-5-6	vom	_	_	_	_	_	_	_	GermanLemma=_
+5-6	vom	_	_	_	_	_	_	_	_
 5	vo	_	ADP	_	_	7	case	_	GermanLemma=von
 6	m	_	DET	_	_	7	det	_	GermanLemma=der
 7	Sauschädl	_	NOUN	_	_	4	nmod	_	GermanLemma=Sauschädel
@@ -15372,7 +15372,7 @@
 19	fia	_	ADP	_	_	21	case	_	GermanLemma=für
 20	die	_	DET	_	_	21	det	_	GermanLemma=die
 21	Beliabtheit	_	NOUN	_	_	18	nmod	_	GermanLemma=Beliebtheit
-22-23	vom	_	_	_	_	_	_	_	GermanLemma=_
+22-23	vom	_	_	_	_	_	_	_	_
 22	vo	_	ADP	_	_	24	case	_	GermanLemma=von
 23	m	_	DET	_	_	24	det	_	GermanLemma=der
 24	Wirtn	_	NOUN	_	_	21	nmod	_	GermanLemma=Wirt|SpaceAfter=No
@@ -15468,7 +15468,7 @@
 23	schlogt	_	VERB	_	_	16	acl:relcl	_	GermanLemma=schlagen
 24	und	_	CCONJ	_	_	29	cc	_	GermanLemma=und
 25	a	_	ADV	_	_	29	advmod	_	GermanLemma=auch
-26-27	zum	_	_	_	_	_	_	_	GermanLemma=_
+26-27	zum	_	_	_	_	_	_	_	_
 26	zu	_	ADP	_	_	28	case	_	GermanLemma=zu
 27	m	_	DET	_	_	28	det	_	GermanLemma=das
 28	Schädlwäh	_	NOUN	_	_	29	obl	_	GermanLemma=Kopfweh
@@ -15542,7 +15542,7 @@
 14	vo	_	ADP	_	_	16	case	_	GermanLemma=von
 15	d'	_	DET	_	_	16	det	_	GermanLemma=der|SpaceAfter=No
 16	Mench	_	NOUN	_	_	7	conj	_	GermanLemma=Mönch
-17-18	aus'm	_	_	_	_	_	_	_	GermanLemma=_
+17-18	aus'm	_	_	_	_	_	_	_	_
 17	aus	_	ADP	_	_	19	case	_	GermanLemma=aus
 18	'm	_	DET	_	_	19	det	_	GermanLemma=das
 19	Klosta	_	NOUN	_	_	16	nmod	_	GermanLemma=Kloster
@@ -15567,7 +15567,7 @@
 # dialect_group = central
 # location = Munich
 # source = https://bar.wikipedia.org/wiki/Minga
-1-2	Zua	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Zua	_	_	_	_	_	_	_	_
 1	Zu	_	ADP	_	_	3	case	_	GermanLemma=zu
 2	a	_	DET	_	_	3	det	_	GermanLemma=die
 3	Wiesn	_	NOUN	_	_	4	obl	_	GermanLemma=Wiesn
@@ -15630,7 +15630,7 @@
 5	z'	_	ADP	_	_	6	case	_	GermanLemma=zu|SpaceAfter=No
 6	Minga	_	PROPN	_	_	4	nmod	_	GermanLemma=München
 7	kuaz	_	ADV	_	_	8	advmod	_	GermanLemma=kurz
-8-9	vorn	_	_	_	_	_	_	_	GermanLemma=_
+8-9	vorn	_	_	_	_	_	_	_	_
 8	vor	_	ADP	_	_	10	case	_	GermanLemma=vor
 9	n	_	DET	_	_	10	det	_	GermanLemma=das
 10	Aussteam	_	NOUN	_	_	0	root	_	GermanLemma=Aussterben|SpaceAfter=No
@@ -15647,12 +15647,12 @@
 3	boarische	_	ADJ	_	_	4	amod	_	GermanLemma=bairisch
 4	Kuitusministerium	_	NOUN	_	_	14	nsubj	_	GermanLemma=Kultusministerium
 5	scho	_	ADV	_	_	14	advmod	_	GermanLemma=schon
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	m	_	DET	_	_	8	det	_	GermanLemma=der
 8	Jenna	_	NOUN	_	_	14	obl	_	GermanLemma=Januar
 9	2001	_	NUM	_	_	8	nmod	_	GermanLemma=2001
-10-11	im	_	_	_	_	_	_	_	GermanLemma=_
+10-11	im	_	_	_	_	_	_	_	_
 10	i	_	ADP	_	_	12	case	_	GermanLemma=in
 11	m	_	DET	_	_	12	det	_	GermanLemma=der
 12	Landdog	_	NOUN	_	_	14	obl	_	GermanLemma=Landtag
@@ -15726,7 +15726,7 @@
 14	damit	_	SCONJ	_	_	19	mark	_	GermanLemma=damit
 15	is	_	AUX	_	_	19	cop	_	GermanLemma=sein
 16	Minga	_	PROPN	_	_	19	nsubj	_	GermanLemma=München
-17-18	zua	_	_	_	_	_	_	_	GermanLemma=_
+17-18	zua	_	_	_	_	_	_	_	_
 17	zu	_	ADP	_	_	19	case	_	GermanLemma=zu
 18	a	_	DET	_	_	19	det	_	GermanLemma=eine
 19	Großstod	_	NOUN	_	_	12	advcl	_	GermanLemma=Großstadt
@@ -15790,7 +15790,7 @@
 8	d'	_	DET	_	_	10	det	_	GermanLemma=die|SpaceAfter=No
 9	drittgresste	_	ADJ	_	_	10	amod	_	GermanLemma=drittgrößte
 10	Stod	_	NOUN	_	_	15	obj	_	GermanLemma=Stadt
-11-12	im	_	_	_	_	_	_	_	GermanLemma=_
+11-12	im	_	_	_	_	_	_	_	_
 11	i	_	ADP	_	_	14	case	_	GermanLemma=in
 12	m	_	DET	_	_	14	det	_	GermanLemma=das
 13	Deitschn	_	ADJ	_	_	14	amod	_	GermanLemma=Deutsche
@@ -15832,7 +15832,7 @@
 5	da	_	DET	_	_	6	det	_	GermanLemma=die
 6	Eihwohnazoi	_	NOUN	_	_	3	nmod	_	GermanLemma=Einwohnerzahl
 7	hods	_	AUX	_	_	15	aux	_	GermanLemma=haben
-8-9	im	_	_	_	_	_	_	_	GermanLemma=_
+8-9	im	_	_	_	_	_	_	_	_
 8	i	_	ADP	_	_	11	case	_	GermanLemma=in
 9	m	_	DET	_	_	11	det	_	GermanLemma=das
 10	olympischn	_	ADJ	_	_	11	amod	_	GermanLemma=olympisch
@@ -15857,7 +15857,7 @@
 6	ganga	_	VERB	_	_	0	root	_	GermanLemma=gehen|SpaceAfter=No
 7	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 8	oba	_	CCONJ	_	_	13	cc	_	GermanLemma=aber
-9-10	seitn	_	_	_	_	_	_	_	GermanLemma=_
+9-10	seitn	_	_	_	_	_	_	_	_
 9	seit	_	ADP	_	_	11	case	_	GermanLemma=seit
 10	n	_	DET	_	_	11	det	_	GermanLemma=das
 11	Joar	_	NOUN	_	_	13	obl	_	GermanLemma=Jahr
@@ -15875,7 +15875,7 @@
 # dialect_group = central
 # location = Munich
 # source = https://bar.wikipedia.org/wiki/Minga
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
 3	Mai	_	NOUN	_	_	21	obl	_	GermanLemma=Mai
@@ -16060,7 +16060,7 @@
 8	friah	_	NOUN	_	_	5	nmod	_	GermanLemma=Früh
 9	es	_	DET	_	_	10	det	_	GermanLemma=das
 10	Mittogessen	_	NOUN	_	_	1	obj	_	GermanLemma=Mittagessen
-11-12	firn	_	_	_	_	_	_	_	GermanLemma=_
+11-12	firn	_	_	_	_	_	_	_	_
 11	fir	_	ADP	_	_	13	case	_	GermanLemma=für
 12	n	_	DET	_	_	13	det	_	GermanLemma=der
 13	Dan	_	PROPN	_	_	10	nmod	_	GermanLemma=Dan
@@ -16079,7 +16079,7 @@
 3	Erinnerung	_	NOUN	_	_	1	obj	_	GermanLemma=Erinnerung
 4	um	_	ADP	_	_	10	mark	_	GermanLemma=um
 5	speter	_	ADJ	_	_	10	advmod	_	GermanLemma=später
-6-7	zin	_	_	_	_	_	_	_	GermanLemma=_
+6-7	zin	_	_	_	_	_	_	_	_
 6	zi	_	ADP	_	_	8	case	_	GermanLemma=zu
 7	n	_	DET	_	_	8	det	_	GermanLemma=der
 8	Supermarkt	_	NOUN	_	_	10	obl	_	GermanLemma=Supermarkt
@@ -16240,7 +16240,7 @@
 1	Lesch	_	VERB	_	_	0	root	_	GermanLemma=löschen
 2	die	_	DET	_	_	3	det	_	GermanLemma=die
 3	Erinnerung	_	NOUN	_	_	1	obj	_	GermanLemma=Erinnerung
-4-5	firs	_	_	_	_	_	_	_	GermanLemma=_
+4-5	firs	_	_	_	_	_	_	_	_
 4	fir	_	ADP	_	_	6	case	_	GermanLemma=für
 5	s	_	DET	_	_	6	det	_	GermanLemma=das
 6	Treffen	_	NOUN	_	_	3	nmod	_	GermanLemma=Treffen
@@ -16258,7 +16258,7 @@
 2	die	_	DET	_	_	3	det	_	GermanLemma=die
 3	Temperatur	_	NOUN	_	_	1	nsubj	_	GermanLemma=Temperatur
 4	heint	_	ADV	_	_	1	advmod	_	GermanLemma=heute
-5-6	untern	_	_	_	_	_	_	_	GermanLemma=_
+5-6	untern	_	_	_	_	_	_	_	_
 5	unter	_	ADP	_	_	7	case	_	GermanLemma=unter
 6	n	_	DET	_	_	7	det	_	GermanLemma=der
 7	Gefrierpunkt	_	NOUN	_	_	1	obl	_	GermanLemma=Gefrierpunkt|SpaceAfter=No
@@ -16369,7 +16369,7 @@
 1	Stell	_	VERB	_	_	0	root	_	GermanLemma=stellen
 2	an	_	DET	_	_	3	det	_	GermanLemma=ein
 3	Wecker	_	NOUN	_	_	1	obj	_	GermanLemma=Wecker
-4-5	firn	_	_	_	_	_	_	_	GermanLemma=_
+4-5	firn	_	_	_	_	_	_	_	_
 4	fir	_	ADP	_	_	6	case	_	GermanLemma=für
 5	n	_	DET	_	_	6	det	_	GermanLemma=der
 6	Mittig	_	NOUN	_	_	3	nmod	_	GermanLemma=Mittwoch
@@ -16495,12 +16495,12 @@
 2	isch	_	AUX	_	_	1	cop	_	GermanLemma=sein
 3	die	_	DET	_	_	4	det	_	GermanLemma=die
 4	Wettervorhersoge	_	NOUN	_	_	1	nsubj	_	GermanLemma=Wettervorhersage
-5-6	firs	_	_	_	_	_	_	_	GermanLemma=_
+5-6	firs	_	_	_	_	_	_	_	_
 5	fir	_	ADP	_	_	8	case	_	GermanLemma=für
 6	s	_	DET	_	_	8	det	_	GermanLemma=der
 7	negste	_	ADJ	_	_	8	amod	_	GermanLemma=nah
 8	Munit	_	NOUN	_	_	4	nmod	_	GermanLemma=Monat
-9-10	firn	_	_	_	_	_	_	_	GermanLemma=_
+9-10	firn	_	_	_	_	_	_	_	_
 9	fir	_	ADP	_	_	11	case	_	GermanLemma=für
 10	n	_	DET	_	_	11	det	_	GermanLemma=der
 11	Ort	_	NOUN	_	_	4	nmod	_	GermanLemma=Ort
@@ -16627,7 +16627,7 @@
 13	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 14	de	_	PRON	_	_	19	nsubj	_	GermanLemma=die
 15	wo	_	SCONJ	_	_	19	mark	_	GermanLemma=wo
-16-17	im	_	_	_	_	_	_	_	GermanLemma=_
+16-17	im	_	_	_	_	_	_	_	_
 16	i	_	ADP	_	_	18	case	_	GermanLemma=in
 17	m	_	DET	_	_	18	det	_	GermanLemma=das
 18	Wossa	_	NOUN	_	_	19	obl	_	GermanLemma=Wasser
@@ -16758,7 +16758,7 @@
 2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
 3	des	_	DET	_	_	4	det	_	GermanLemma=das
 4	liad	_	NOUN	_	_	1	obj	_	GermanLemma=Lied
-5-6	vom	_	_	_	_	_	_	_	GermanLemma=_
+5-6	vom	_	_	_	_	_	_	_	_
 5	vo	_	ADP	_	_	7	case	_	GermanLemma=von
 6	m	_	DET	_	_	7	det	_	GermanLemma=der
 7	Elvis	_	PROPN	_	_	4	nmod	_	GermanLemma=Elvis
@@ -16885,12 +16885,12 @@
 8	fia	_	ADP	_	_	9	case	_	GermanLemma=für
 9	di	_	PRON	_	_	7	nmod	_	GermanLemma=dich|SpaceAfter=No
 10	“	_	PUNCT	_	_	5	punct	_	GermanLemma=“
-11-12	vom	_	_	_	_	_	_	_	GermanLemma=_
+11-12	vom	_	_	_	_	_	_	_	_
 11	vo	_	ADP	_	_	13	case	_	GermanLemma=von
 12	m	_	DET	_	_	13	det	_	GermanLemma=der
 13	Andreas	_	PROPN	_	_	5	nmod	_	GermanLemma=Andreas
 14	Gabalier	_	PROPN	_	_	13	flat	_	GermanLemma=Gabalier
-15-16	ind	_	_	_	_	_	_	_	GermanLemma=_
+15-16	ind	_	_	_	_	_	_	_	_
 15	in	_	ADP	_	_	17	case	_	GermanLemma=in
 16	d	_	DET	_	_	17	det	_	GermanLemma=die
 17	Playlist	_	NOUN	_	_	18	obl	_	GermanLemma=Playlist
@@ -16995,7 +16995,7 @@
 8	Leid	_	NOUN	_	_	5	nmod	_	GermanLemma=Leute
 9	um	_	ADP	_	_	10	case	_	GermanLemma=um
 10	Simme	_	NUM	_	_	5	nmod	_	GermanLemma=sieben
-11-12	beim	_	_	_	_	_	_	_	GermanLemma=_
+11-12	beim	_	_	_	_	_	_	_	_
 11	bei	_	ADP	_	_	13	case	_	GermanLemma=bei
 12	m	_	DET	_	_	13	det	_	GermanLemma=das
 13	Sale	_	PROPN	_	_	5	nmod	_	GermanLemma=Sale
@@ -17016,11 +17016,11 @@
 3	bitte	_	ADV	_	_	1	advmod	_	GermanLemma=bitte
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Zeitlos	_	NOUN	_	_	5	nmod	_	GermanLemma=Zeitlos
-9-10	fürn	_	_	_	_	_	_	_	GermanLemma=_
+9-10	fürn	_	_	_	_	_	_	_	_
 9	für	_	ADP	_	_	11	case	_	GermanLemma=für
 10	n	_	DET	_	_	11	det	_	GermanLemma=der
 11	Brunch	_	NOUN	_	_	5	nmod	_	GermanLemma=Brunch|SpaceAfter=No
@@ -17049,7 +17049,7 @@
 # location = unk
 1	ruaf	_	VERB	_	_	0	root	_	GermanLemma=rufen
 2	bitte	_	ADV	_	_	1	advmod	_	GermanLemma=bitte
-3-4	beim	_	_	_	_	_	_	_	GermanLemma=_
+3-4	beim	_	_	_	_	_	_	_	_
 3	bei	_	ADP	_	_	5	case	_	GermanLemma=bei
 4	m	_	DET	_	_	5	det	_	GermanLemma=das
 5	mings	_	PROPN	_	_	1	obl	_	GermanLemma=Mings
@@ -17077,7 +17077,7 @@
 3	gearn	_	ADV	_	_	14	advmod	_	GermanLemma=gern
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Disch	_	NOUN	_	_	14	obj	_	GermanLemma=Tisch
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Steirawirt	_	PROPN	_	_	5	nmod	_	GermanLemma=Steirawirt
@@ -17098,7 +17098,7 @@
 3	bitte	_	ADV	_	_	1	advmod	_	GermanLemma=bitte
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Zeitsprung	_	NOUN	_	_	5	nmod	_	GermanLemma=Zeitsprung
@@ -17228,7 +17228,7 @@
 # location = unk
 1	spui	_	VERB	_	_	0	root	_	GermanLemma=spielen
 2	ebs	_	PRON	_	_	1	obj	_	GermanLemma=etwas
-3-4	vom	_	_	_	_	_	_	_	GermanLemma=_
+3-4	vom	_	_	_	_	_	_	_	_
 3	vo	_	ADP	_	_	5	case	_	GermanLemma=von
 4	m	_	DET	_	_	5	det	_	GermanLemma=der
 5	Gabalier	_	PROPN	_	_	2	nmod	_	GermanLemma=Gabalier
@@ -17255,7 +17255,7 @@
 1	Gib	_	VERB	_	_	0	root	_	GermanLemma=geben
 2	dem	_	DET	_	_	3	det	_	GermanLemma=das
 3	biache	_	NOUN	_	_	1	obl:arg	_	GermanLemma=Buch
-4-5	vom	_	_	_	_	_	_	_	GermanLemma=_
+4-5	vom	_	_	_	_	_	_	_	_
 4	vo	_	ADP	_	_	7	case	_	GermanLemma=von
 5	m	_	DET	_	_	7	det	_	GermanLemma=das
 6	"	_	PUNCT	_	_	7	punct	_	GermanLemma="|SpaceAfter=No
@@ -17406,7 +17406,7 @@
 4	für	_	ADP	_	_	6	case	_	GermanLemma=für
 5	4	_	NUM	_	_	6	nummod	_	GermanLemma=4
 6	Leid	_	NOUN	_	_	3	nmod	_	GermanLemma=Leute
-7-8	im	_	_	_	_	_	_	_	GermanLemma=_
+7-8	im	_	_	_	_	_	_	_	_
 7	i	_	ADP	_	_	9	case	_	GermanLemma=in
 8	m	_	DET	_	_	9	det	_	GermanLemma=das
 9	Noah	_	PROPN	_	_	3	nmod	_	GermanLemma=Noah
@@ -17500,7 +17500,7 @@
 3	des	_	DET	_	_	5	det	_	GermanLemma=das
 4	neie	_	ADJ	_	_	5	amod	_	GermanLemma=neu
 5	Album	_	NOUN	_	_	9	nsubj	_	GermanLemma=Album
-6-7	vom	_	_	_	_	_	_	_	GermanLemma=_
+6-7	vom	_	_	_	_	_	_	_	_
 6	vo	_	ADP	_	_	8	case	_	GermanLemma=von
 7	m	_	DET	_	_	8	det	_	GermanLemma=der
 8	Gabalier	_	PROPN	_	_	5	nmod	_	GermanLemma=Gabalier
@@ -17541,7 +17541,7 @@
 5	"	_	PUNCT	_	_	6	punct	_	GermanLemma="|SpaceAfter=No
 6	Avatar	_	PROPN	_	_	4	nsubj	_	GermanLemma=Avatar|SpaceAfter=No
 7	"	_	PUNCT	_	_	6	punct	_	GermanLemma="
-8-9	im	_	_	_	_	_	_	_	GermanLemma=_
+8-9	im	_	_	_	_	_	_	_	_
 8	i	_	ADP	_	_	10	case	_	GermanLemma=in
 9	m	_	DET	_	_	10	det	_	GermanLemma=das
 10	Kino	_	NOUN	_	_	4	obl	_	GermanLemma=Kino|SpaceAfter=No
@@ -17558,7 +17558,7 @@
 4	neie	_	ADJ	_	_	6	amod	_	GermanLemma=neu
 5	eberhofer	_	PROPN	_	_	6	compound	_	GermanLemma=Eberhofer
 6	Krimi	_	NOUN	_	_	2	nsubj	_	GermanLemma=Krimi
-7-8	im	_	_	_	_	_	_	_	GermanLemma=_
+7-8	im	_	_	_	_	_	_	_	_
 7	i	_	ADP	_	_	9	case	_	GermanLemma=in
 8	m	_	DET	_	_	9	det	_	GermanLemma=das
 9	kino	_	NOUN	_	_	2	obl	_	GermanLemma=Kino
@@ -17605,7 +17605,7 @@
 3	"	_	PUNCT	_	_	4	punct	_	GermanLemma="|SpaceAfter=No
 4	Minions	_	PROPN	_	_	2	nsubj	_	GermanLemma=Minions|SpaceAfter=No
 5	"	_	PUNCT	_	_	4	punct	_	GermanLemma="
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Cineplex	_	PROPN	_	_	2	obl	_	GermanLemma=Cineplex
@@ -17636,7 +17636,7 @@
 5	"	_	PUNCT	_	_	6	punct	_	GermanLemma="|SpaceAfter=No
 6	Avatar	_	PROPN	_	_	2	nsubj	_	GermanLemma=Avatar|SpaceAfter=No
 7	"	_	PUNCT	_	_	6	punct	_	GermanLemma="
-8-9	im	_	_	_	_	_	_	_	GermanLemma=_
+8-9	im	_	_	_	_	_	_	_	_
 8	i	_	ADP	_	_	10	case	_	GermanLemma=in
 9	m	_	DET	_	_	10	det	_	GermanLemma=das
 10	Kino	_	NOUN	_	_	2	obl	_	GermanLemma=Kino|SpaceAfter=No
@@ -17652,7 +17652,7 @@
 3	Avatar	_	PROPN	_	_	2	nsubj	_	GermanLemma=Avatar
 4	in	_	ADP	_	_	5	case	_	GermanLemma=in
 5	Burghausen	_	PROPN	_	_	2	obl	_	GermanLemma=Burghausen
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Kino	_	NOUN	_	_	5	nmod	_	GermanLemma=Kino|SpaceAfter=No
@@ -17666,7 +17666,7 @@
 1	was	_	PRON	_	_	2	nsubj	_	GermanLemma=was
 2	laft	_	VERB	_	_	0	root	_	GermanLemma=laufen
 3	grod	_	ADV	_	_	2	advmod	_	GermanLemma=gerade
-4-5	im	_	_	_	_	_	_	_	GermanLemma=_
+4-5	im	_	_	_	_	_	_	_	_
 4	i	_	ADP	_	_	6	case	_	GermanLemma=in
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Theater	_	NOUN	_	_	2	obl	_	GermanLemma=Theater|SpaceAfter=No
@@ -17688,7 +17688,7 @@
 9	„	_	PUNCT	_	_	10	punct	_	GermanLemma=„|SpaceAfter=No
 10	Titanic	_	PROPN	_	_	15	obj	_	GermanLemma=Titanic|SpaceAfter=No
 11	“	_	PUNCT	_	_	10	punct	_	GermanLemma=“
-12-13	im	_	_	_	_	_	_	_	GermanLemma=_
+12-13	im	_	_	_	_	_	_	_	_
 12	i	_	ADP	_	_	14	case	_	GermanLemma=in
 13	m	_	DET	_	_	14	det	_	GermanLemma=das
 14	Kino	_	NOUN	_	_	15	obl	_	GermanLemma=Kino
@@ -17910,7 +17910,7 @@
 1	Reservier	_	VERB	_	_	0	root	_	GermanLemma=reservieren
 2	an	_	DET	_	_	3	det	_	GermanLemma=ein
 3	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
-4-5	beim	_	_	_	_	_	_	_	GermanLemma=_
+4-5	beim	_	_	_	_	_	_	_	_
 4	bei	_	ADP	_	_	6	case	_	GermanLemma=bei
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Müllerbräu	_	PROPN	_	_	3	nmod	_	GermanLemma=Müllerbräu
@@ -17981,7 +17981,7 @@
 3	gern	_	ADV	_	_	12	advmod	_	GermanLemma=gern
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Disch	_	NOUN	_	_	12	obj	_	GermanLemma=Tisch
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Tuderinger	_	PROPN	_	_	5	nmod	_	GermanLemma=Tuderinger
@@ -18003,7 +18003,7 @@
 5	moang	_	ADV	_	_	7	advmod	_	GermanLemma=morgen
 6	um	_	ADP	_	_	7	case	_	GermanLemma=um
 7	12	_	NUM	_	_	1	obl	_	GermanLemma=12
-8-9	beim	_	_	_	_	_	_	_	GermanLemma=_
+8-9	beim	_	_	_	_	_	_	_	_
 8	bei	_	ADP	_	_	10	case	_	GermanLemma=bei
 9	m	_	DET	_	_	10	det	_	GermanLemma=das
 10	Bartsch	_	PROPN	_	_	1	obl	_	GermanLemma=Bartsch
@@ -18017,7 +18017,7 @@
 2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
 3	an	_	DET	_	_	4	det	_	GermanLemma=ein
 4	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
-5-6	beim	_	_	_	_	_	_	_	GermanLemma=_
+5-6	beim	_	_	_	_	_	_	_	_
 5	bei	_	ADP	_	_	7	case	_	GermanLemma=bei
 6	m	_	DET	_	_	7	det	_	GermanLemma=der
 7	Inder	_	NOUN	_	_	4	nmod	_	GermanLemma=Inder
@@ -18096,7 +18096,7 @@
 # location = unk
 1	Des	_	DET	_	_	2	det	_	GermanLemma=das
 2	Buch	_	NOUN	_	_	6	nsubj	_	GermanLemma=Buch
-3-4	vom	_	_	_	_	_	_	_	GermanLemma=_
+3-4	vom	_	_	_	_	_	_	_	_
 3	vo	_	ADP	_	_	5	case	_	GermanLemma=von
 4	m	_	DET	_	_	5	det	_	GermanLemma=der
 5	Irlmayer	_	PROPN	_	_	2	nmod	_	GermanLemma=Irlmayer
@@ -18289,7 +18289,7 @@
 5	Hotzenplotz	_	PROPN	_	_	4	appos	_	GermanLemma=Hotzenplotz
 6	in	_	ADP	_	_	7	case	_	GermanLemma=in
 7	Eggenfeldn	_	PROPN	_	_	2	nmod	_	GermanLemma=Eggenfelden
-8-9	im	_	_	_	_	_	_	_	GermanLemma=_
+8-9	im	_	_	_	_	_	_	_	_
 8	i	_	ADP	_	_	10	case	_	GermanLemma=in
 9	m	_	DET	_	_	10	det	_	GermanLemma=das
 10	Kino	_	NOUN	_	_	2	obl	_	GermanLemma=Kino|SpaceAfter=No
@@ -18306,7 +18306,7 @@
 4	Romeo	_	PROPN	_	_	10	nsubj	_	GermanLemma=Romeo
 5	und	_	CCONJ	_	_	6	cc	_	GermanLemma=und
 6	Julia	_	PROPN	_	_	4	conj	_	GermanLemma=Julia
-7-8	im	_	_	_	_	_	_	_	GermanLemma=_
+7-8	im	_	_	_	_	_	_	_	_
 7	i	_	ADP	_	_	9	case	_	GermanLemma=in
 8	m	_	DET	_	_	9	det	_	GermanLemma=das
 9	Theater	_	NOUN	_	_	10	obl	_	GermanLemma=Theater
@@ -18336,7 +18336,7 @@
 4	Mario	_	PROPN	_	_	3	flat	_	GermanLemma=Mario
 5	nächste	_	ADJ	_	_	6	amod	_	GermanLemma=nah
 6	Woch	_	NOUN	_	_	2	obl:arg	_	GermanLemma=Woche
-7-8	im	_	_	_	_	_	_	_	GermanLemma=_
+7-8	im	_	_	_	_	_	_	_	_
 7	i	_	ADP	_	_	9	case	_	GermanLemma=in
 8	m	_	DET	_	_	9	det	_	GermanLemma=das
 9	Kino	_	NOUN	_	_	2	obl	_	GermanLemma=Kino|SpaceAfter=No
@@ -18690,7 +18690,7 @@
 3	Erinnerung	_	NOUN	_	_	1	obj	_	GermanLemma=Erinnerung
 4	vor	_	ADP	_	_	5	case	_	GermanLemma=vor
 5	moang	_	ADV	_	_	1	obl	_	GermanLemma=morgen
-6-7	zum	_	_	_	_	_	_	_	GermanLemma=_
+6-7	zum	_	_	_	_	_	_	_	_
 6	zu	_	PART	_	_	8	mark	_	GermanLemma=zu
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Eikaufa	_	NOUN	_	_	1	obl	_	GermanLemma=Einkaufen
@@ -18747,7 +18747,7 @@
 8	Minuten	_	NOUN	_	_	14	obl	_	GermanLemma=Minute
 9	d'	_	DET	_	_	10	det	_	GermanLemma=die|SpaceAfter=No
 10	wasch	_	NOUN	_	_	14	obj	_	GermanLemma=Wäsche
-11-12	ausm	_	_	_	_	_	_	_	GermanLemma=_
+11-12	ausm	_	_	_	_	_	_	_	_
 11	aus	_	ADP	_	_	13	case	_	GermanLemma=aus
 12	m	_	DET	_	_	13	det	_	GermanLemma=der
 13	Keller	_	NOUN	_	_	14	obl	_	GermanLemma=Keller
@@ -18773,14 +18773,14 @@
 1	wos	_	PRON	_	_	13	nsubj	_	GermanLemma=was
 2	war	_	AUX	_	_	13	aux	_	GermanLemma=sein
 3	den	_	ADV	_	_	13	advmod	_	GermanLemma=denn
-4-5	am	_	_	_	_	_	_	_	GermanLemma=_
+4-5	am	_	_	_	_	_	_	_	_
 4	a	_	ADP	_	_	7	case	_	GermanLemma=an
 5	m	_	DET	_	_	7	det	_	GermanLemma=der
 6	letzten	_	ADJ	_	_	7	amod	_	GermanLemma=letzte
 7	Freidog	_	NOUN	_	_	13	obl	_	GermanLemma=Freitag
 8	um	_	ADP	_	_	9	case	_	GermanLemma=um
 9	achte	_	NUM	_	_	7	nmod	_	GermanLemma=acht
-10-11	im	_	_	_	_	_	_	_	GermanLemma=_
+10-11	im	_	_	_	_	_	_	_	_
 10	i	_	ADP	_	_	12	case	_	GermanLemma=in
 11	m	_	DET	_	_	12	det	_	GermanLemma=der
 12	Kalenda	_	NOUN	_	_	7	nmod	_	GermanLemma=Kalender
@@ -18910,7 +18910,7 @@
 # location = Upper Bavaria
 1	Brauch	_	VERB	_	_	0	root	_	GermanLemma=brauchen
 2	i	_	PRON	_	_	1	nsubj	_	GermanLemma=ich
-3-4	am	_	_	_	_	_	_	_	GermanLemma=_
+3-4	am	_	_	_	_	_	_	_	_
 3	a	_	ADP	_	_	5	case	_	GermanLemma=an
 4	m	_	DET	_	_	5	det	_	GermanLemma=der
 5	Mittwoch	_	NOUN	_	_	1	obl	_	GermanLemma=Mittwoch
@@ -19146,7 +19146,7 @@
 6	um	_	SCONJ	_	_	11	mark	_	GermanLemma=um
 7	Reisen	_	NOUN	_	_	11	obj	_	GermanLemma=Reisen
 8	gfährlich	_	ADJ	_	_	11	advmod	_	GermanLemma=gefährlich
-9-10	zum	_	_	_	_	_	_	_	GermanLemma=_
+9-10	zum	_	_	_	_	_	_	_	_
 9	zu	_	PART	_	_	11	mark	_	GermanLemma=zu
 10	m	_	DET	_	_	11	det	_	GermanLemma=das
 11	macha	_	NOUN	_	_	1	xcomp	_	GermanLemma=Machen|SpaceAfter=No
@@ -19268,7 +19268,7 @@
 2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
 3	d	_	DET	_	_	4	det	_	GermanLemma=die
 4	Stephanie	_	PROPN	_	_	8	obj	_	GermanLemma=Stephanie
-5-6	am	_	_	_	_	_	_	_	GermanLemma=_
+5-6	am	_	_	_	_	_	_	_	_
 5	a	_	ADP	_	_	7	case	_	GermanLemma=an
 6	m	_	DET	_	_	7	det	_	GermanLemma=der
 7	Dienstag	_	NOUN	_	_	8	obl	_	GermanLemma=Dienstag
@@ -19307,7 +19307,7 @@
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
 2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
-3-4	am	_	_	_	_	_	_	_	GermanLemma=_
+3-4	am	_	_	_	_	_	_	_	_
 3	a	_	ADP	_	_	6	case	_	GermanLemma=an
 4	m	_	DET	_	_	6	det	_	GermanLemma=der
 5	21.	_	ADJ	_	_	6	amod	_	GermanLemma=21.|SpaceAfter=No
@@ -19315,11 +19315,11 @@
 7	um	_	ADP	_	_	8	case	_	GermanLemma=um
 8	3	_	NUM	_	_	6	nmod	_	GermanLemma=3
 9	nammiddog	_	NOUN	_	_	8	appos	_	GermanLemma=nachmittag
-10-11	zum	_	_	_	_	_	_	_	GermanLemma=_
+10-11	zum	_	_	_	_	_	_	_	_
 10	zu	_	ADP	_	_	12	case	_	GermanLemma=zu
 11	m	_	DET	_	_	12	det	_	GermanLemma=der
 12	Dokta	_	NOUN	_	_	1	obl	_	GermanLemma=Doktor
-13-14	zum	_	_	_	_	_	_	_	GermanLemma=_
+13-14	zum	_	_	_	_	_	_	_	_
 13	zu	_	PART	_	_	15	mark	_	GermanLemma=zu
 14	m	_	DET	_	_	15	det	_	GermanLemma=das
 15	geh	_	NOUN	_	_	12	nmod	_	GermanLemma=Gehen
@@ -19341,7 +19341,7 @@
 10	in	_	ADP	_	_	12	case	_	GermanLemma=in
 11	da	_	DET	_	_	12	det	_	GermanLemma=die
 12	fria	_	NOUN	_	_	9	nmod	_	GermanLemma=Früh
-13-14	zum	_	_	_	_	_	_	_	GermanLemma=_
+13-14	zum	_	_	_	_	_	_	_	_
 13	zu	_	PART	_	_	15	mark	_	GermanLemma=zu
 14	m	_	DET	_	_	15	det	_	GermanLemma=das
 15	nehma	_	NOUN	_	_	7	obl	_	GermanLemma=nehmen
@@ -19399,7 +19399,7 @@
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
 2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
 3	eikaufa	_	VERB	_	_	1	xcomp	_	GermanLemma=einkaufen
-4-5	zum	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	PART	_	_	6	mark	_	GermanLemma=zu
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	geh	_	NOUN	_	_	3	obl	_	GermanLemma=Gehen
@@ -19461,7 +19461,7 @@
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
 2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
 3	Miete	_	NOUN	_	_	1	obl:arg	_	GermanLemma=Miete
-4-5	zum	_	_	_	_	_	_	_	GermanLemma=_
+4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	PART	_	_	6	mark	_	GermanLemma=zu
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	zoin	_	NOUN	_	_	3	nmod	_	GermanLemma=Zahlen|SpaceAfter=No
@@ -19573,11 +19573,11 @@
 2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
 3	moang	_	ADV	_	_	1	advmod	_	GermanLemma=morgen
 4	Papiertaschentücher	_	NOUN	_	_	1	obl	_	GermanLemma=Papiertaschentuch
-5-6	im	_	_	_	_	_	_	_	GermanLemma=_
+5-6	im	_	_	_	_	_	_	_	_
 5	i	_	ADP	_	_	7	case	_	GermanLemma=in
 6	m	_	DET	_	_	7	det	_	GermanLemma=der
 7	Ladn	_	NOUN	_	_	4	nmod	_	GermanLemma=Laden
-8-9	zum	_	_	_	_	_	_	_	GermanLemma=_
+8-9	zum	_	_	_	_	_	_	_	_
 8	zu	_	PART	_	_	10	mark	_	GermanLemma=zu
 9	m	_	DET	_	_	10	det	_	GermanLemma=das
 10	hoin	_	NOUN	_	_	7	nmod	_	GermanLemma=Holen
@@ -19764,7 +19764,7 @@
 8	Holz	_	NOUN	_	_	4	obj	_	GermanLemma=Holz
 9	und	_	CCONJ	_	_	10	cc	_	GermanLemma=und
 10	äbbs	_	PRON	_	_	8	conj	_	GermanLemma=etwas
-11-12	zun	_	_	_	_	_	_	_	GermanLemma=_
+11-12	zun	_	_	_	_	_	_	_	_
 11	zu	_	PART	_	_	13	mark	_	GermanLemma=zu
 12	n	_	DET	_	_	13	det	_	GermanLemma=das
 13	Essn	_	NOUN	_	_	10	nmod	_	GermanLemma=Essen|SpaceAfter=No
@@ -19855,7 +19855,7 @@
 8	wem	_	SCONJ	_	_	14	mark	_	GermanLemma=wenn|SpaceAfter=No
 9	má	_	PRON	_	_	14	nsubj	_	GermanLemma=man|SpaceAfter=No
 10	s	_	PRON	_	_	14	obj	_	GermanLemma=es
-11-12	mid'n	_	_	_	_	_	_	_	GermanLemma=_
+11-12	mid'n	_	_	_	_	_	_	_	_
 11	mid	_	ADP	_	_	13	case	_	GermanLemma=mit
 12	'n	_	DET	_	_	13	det	_	GermanLemma=der
 13	Pickl	_	NOUN	_	_	14	obl	_	GermanLemma=Pickel
@@ -20336,7 +20336,7 @@
 19	,	_	PUNCT	_	_	21	punct	_	GermanLemma=,
 20	voa	_	ADP	_	_	21	case	_	GermanLemma=vor
 21	oim	_	DET	_	_	18	appos	_	GermanLemma=allem
-22-23	im	_	_	_	_	_	_	_	GermanLemma=_
+22-23	im	_	_	_	_	_	_	_	_
 22	i	_	ADP	_	_	24	case	_	GermanLemma=in
 23	m	_	DET	_	_	24	det	_	GermanLemma=das
 24	Pinzgau	_	PROPN	_	_	21	nmod	_	GermanLemma=Pinzgau|SpaceAfter=No
@@ -20356,7 +20356,7 @@
 3	Obwaller	_	PROPN	_	_	2	appos	_	GermanLemma=Obwaller
 4	is	_	AUX	_	_	10	aux	_	GermanLemma=sein
 5	a	_	ADV	_	_	10	advmod	_	GermanLemma=auch
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	m	_	DET	_	_	8	det	_	GermanLemma=der
 8	Nationalsozialismus	_	NOUN	_	_	10	obl	_	GermanLemma=Nationalsozialismus
@@ -20408,7 +20408,7 @@
 6	See	_	NOUN	_	_	4	flat	_	GermanLemma=See
 7	is	_	AUX	_	_	8	cop	_	GermanLemma=sein
 8	deckungsgleich	_	ADJ	_	_	0	root	_	GermanLemma=deckungsgleich
-9-10	mim	_	_	_	_	_	_	_	GermanLemma=_
+9-10	mim	_	_	_	_	_	_	_	_
 9	mi	_	ADP	_	_	11	case	_	GermanLemma=mit
 10	m	_	DET	_	_	11	det	_	GermanLemma=das
 11	Pinzgau	_	PROPN	_	_	8	obl	_	GermanLemma=Pinzgau|SpaceAfter=No
@@ -20418,7 +20418,7 @@
 15	dia	_	DET	_	_	17	det	_	GermanLemma=die
 16	fymbf	_	NUM	_	_	17	nummod	_	GermanLemma=fünf
 17	Gai	_	NOUN	_	_	13	nmod	_	GermanLemma=Gäu
-18-19	vam	_	_	_	_	_	_	_	GermanLemma=_
+18-19	vam	_	_	_	_	_	_	_	_
 18	va	_	ADP	_	_	21	case	_	GermanLemma=von
 19	m	_	DET	_	_	21	det	_	GermanLemma=das
 20	estareichischen	_	ADJ	_	_	21	amod	_	GermanLemma=österreichisch
@@ -20454,7 +20454,7 @@
 # dialect_group = southcentral
 # location = Pinzgau
 # source = https://bar.wikipedia.org/wiki/Pinzgau
-1-2	An	_	_	_	_	_	_	_	GermanLemma=_
+1-2	An	_	_	_	_	_	_	_	_
 1	A	_	ADP	_	_	3	case	_	GermanLemma=an
 2	n	_	DET	_	_	3	det	_	GermanLemma=der
 3	Osten	_	NOUN	_	_	5	obl	_	GermanLemma=Osten
@@ -20466,7 +20466,7 @@
 9	an	_	ADP	_	_	10	case	_	GermanLemma=der
 10	Pongau	_	PROPN	_	_	5	obl	_	GermanLemma=Pongau|SpaceAfter=No
 11	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
-12-13	an	_	_	_	_	_	_	_	GermanLemma=_
+12-13	an	_	_	_	_	_	_	_	_
 12	a	_	ADP	_	_	14	case	_	GermanLemma=an
 13	n	_	DET	_	_	14	det	_	GermanLemma=der
 14	Westen	_	NOUN	_	_	5	conj	_	GermanLemma=Westen
@@ -20474,7 +20474,7 @@
 16	an	_	ADP	_	_	17	case	_	GermanLemma=an
 17	Nordtiroi	_	PROPN	_	_	14	orphan	_	GermanLemma=Nordtirol|SpaceAfter=No
 18	,	_	PUNCT	_	_	21	punct	_	GermanLemma=,
-19-20	an	_	_	_	_	_	_	_	GermanLemma=_
+19-20	an	_	_	_	_	_	_	_	_
 19	a	_	ADP	_	_	21	case	_	GermanLemma=an
 20	n	_	DET	_	_	21	det	_	GermanLemma=der
 21	Norn	_	NOUN	_	_	5	conj	_	GermanLemma=Norden
@@ -20484,7 +20484,7 @@
 25	Boarn	_	PROPN	_	_	23	appos	_	GermanLemma=Bayern|SpaceAfter=No
 26	)	_	PUNCT	_	_	25	punct	_	GermanLemma=)
 27	und	_	CCONJ	_	_	30	cc	_	GermanLemma=und
-28-29	im	_	_	_	_	_	_	_	GermanLemma=_
+28-29	im	_	_	_	_	_	_	_	_
 28	i	_	ADP	_	_	30	case	_	GermanLemma=in
 29	m	_	DET	_	_	30	det	_	GermanLemma=der
 30	Sidn	_	NOUN	_	_	5	conj	_	GermanLemma=Süden
@@ -20508,7 +20508,7 @@
 # dialect_group = southcentral
 # location = Pinzgau
 # source = https://bar.wikipedia.org/wiki/Pinzgau
-1-2	An	_	_	_	_	_	_	_	GermanLemma=_
+1-2	An	_	_	_	_	_	_	_	_
 1	A	_	ADP	_	_	3	case	_	GermanLemma=in
 2	n	_	DET	_	_	3	det	_	GermanLemma=das
 3	Joar	_	NOUN	_	_	15	obl	_	GermanLemma=Jahr
@@ -20537,7 +20537,7 @@
 3	s	_	PRON	_	_	5	nsubj	_	GermanLemma=es
 4	a	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Toi	_	NOUN	_	_	0	root	_	GermanLemma=Teil
-6-7	vam	_	_	_	_	_	_	_	GermanLemma=_
+6-7	vam	_	_	_	_	_	_	_	_
 6	va	_	ADP	_	_	8	case	_	GermanLemma=von
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
 8	Lond	_	NOUN	_	_	5	nmod	_	GermanLemma=Land
@@ -20551,7 +20551,7 @@
 16	vo	_	ADP	_	_	17	case	_	GermanLemma=von
 17	1328	_	NUM	_	_	25	obl	_	GermanLemma=1328
 18	bis	_	ADP	_	_	17	case	_	GermanLemma=bis
-19-20	zan	_	_	_	_	_	_	_	GermanLemma=_
+19-20	zan	_	_	_	_	_	_	_	_
 19	za	_	ADP	_	_	21	case	_	GermanLemma=zu
 20	n	_	DET	_	_	21	det	_	GermanLemma=das
 21	Joar	_	NOUN	_	_	17	nmod	_	GermanLemma=Jahr
@@ -20605,7 +20605,7 @@
 1	Mid	_	ADP	_	_	3	case	_	GermanLemma=mit
 2	da	_	DET	_	_	3	det	_	GermanLemma=die
 3	Gryndung	_	NOUN	_	_	16	obl	_	GermanLemma=Gründung
-4-5	vam	_	_	_	_	_	_	_	GermanLemma=_
+4-5	vam	_	_	_	_	_	_	_	_
 4	va	_	ADP	_	_	6	case	_	GermanLemma=von
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Kronlond	_	NOUN	_	_	3	nmod	_	GermanLemma=Kronland
@@ -20661,7 +20661,7 @@
 14	wiader	_	ADV	_	_	20	advmod	_	GermanLemma=wieder
 15	nouch	_	ADP	_	_	16	case	_	GermanLemma=nach
 16	Zej	_	PROPN	_	_	20	obl	_	GermanLemma=Zell
-17-18	am	_	_	_	_	_	_	_	GermanLemma=_
+17-18	am	_	_	_	_	_	_	_	_
 17	a	_	ADP	_	_	19	case	_	GermanLemma=an
 18	m	_	DET	_	_	19	det	_	GermanLemma=der
 19	See	_	NOUN	_	_	16	nmod	_	GermanLemma=See
@@ -20757,7 +20757,7 @@
 8	oam	_	PRON	_	_	14	obl:arg	_	GermanLemma=einer
 9	des	_	DET	_	_	10	det	_	GermanLemma=das
 10	Zeigl	_	NOUN	_	_	14	nsubj	_	GermanLemma=Zeug
-11-12	beim	_	_	_	_	_	_	_	GermanLemma=_
+11-12	beim	_	_	_	_	_	_	_	_
 11	bei	_	ADP	_	_	13	case	_	GermanLemma=bei
 12	m	_	DET	_	_	13	det	_	GermanLemma=das
 13	Denga	_	NOUN	_	_	14	obl	_	GermanLemma=Denken
@@ -20821,7 +20821,7 @@
 16	und	_	CCONJ	_	_	18	cc	_	GermanLemma=und
 17	de	_	DET	_	_	18	det	_	GermanLemma=das
 18	Mineralien	_	NOUN	_	_	12	conj	_	GermanLemma=Mineral
-19-20	vom	_	_	_	_	_	_	_	GermanLemma=_
+19-20	vom	_	_	_	_	_	_	_	_
 19	vo	_	ADP	_	_	21	case	_	GermanLemma=von
 20	m	_	DET	_	_	21	det	_	GermanLemma=der
 21	Kärpa	_	NOUN	_	_	18	nmod	_	GermanLemma=Körper
@@ -20915,7 +20915,7 @@
 10	doss	_	SCONJ	_	_	17	mark	_	GermanLemma=dass
 11	ma	_	PRON	_	_	17	nsubj	_	GermanLemma=man|SpaceAfter=No
 12	s	_	PRON	_	_	17	obj	_	GermanLemma=es
-13-14	wärndm	_	_	_	_	_	_	_	GermanLemma=_
+13-14	wärndm	_	_	_	_	_	_	_	_
 13	wärnd	_	ADP	_	_	15	case	_	GermanLemma=während
 14	m	_	DET	_	_	15	det	_	GermanLemma=das
 15	Läsn	_	NOUN	_	_	17	obl	_	GermanLemma=Lesen
@@ -20938,7 +20938,7 @@
 6	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
 7	wann	_	SCONJ	_	_	14	mark	_	GermanLemma=wenn
 8	ma	_	PRON	_	_	14	nsubj	_	GermanLemma=man
-9-10	voram	_	_	_	_	_	_	_	GermanLemma=_
+9-10	voram	_	_	_	_	_	_	_	_
 9	vor	_	ADP	_	_	11	case	_	GermanLemma=vor
 10	am	_	DET	_	_	11	det	_	GermanLemma=das
 11	Examen	_	NOUN	_	_	14	obl	_	GermanLemma=Examen
@@ -20949,7 +20949,7 @@
 16	se	_	PRON	_	_	21	expl:pv	_	GermanLemma=sich
 17	wos	_	PRON	_	_	21	obj	_	GermanLemma=was
 18	gscheids	_	ADJ	_	_	17	amod	_	GermanLemma=gescheit
-19-20	zum	_	_	_	_	_	_	_	GermanLemma=_
+19-20	zum	_	_	_	_	_	_	_	_
 19	zu	_	PART	_	_	21	mark	_	GermanLemma=zu
 20	m	_	DET	_	_	21	det	_	GermanLemma=das
 21	kocha	_	NOUN	_	_	14	xcomp	_	GermanLemma=Kochen|SpaceAfter=No
@@ -21002,7 +21002,7 @@
 17	des	_	DET	_	_	18	det	_	GermanLemma=das
 18	"ö"-Thema	_	NOUN	_	_	15	nsubj	_	GermanLemma="ö"-Thema
 19	(	_	PUNCT	_	_	23	punct	_	GermanLemma=(|SpaceAfter=No
-20-21	min	_	_	_	_	_	_	_	GermanLemma=_
+20-21	min	_	_	_	_	_	_	_	_
 20	mi	_	ADP	_	_	23	case	_	GermanLemma=mit
 21	n	_	DET	_	_	23	det	_	GermanLemma=das
 22	"	_	PUNCT	_	_	23	punct	_	GermanLemma="|SpaceAfter=No
@@ -21037,7 +21037,7 @@
 14	Ethymologische	_	ADJ	_	_	15	amod	_	GermanLemma=ethymologisch
 15	Schreibweis	_	NOUN	_	_	0	root	_	GermanLemma=Schreibweise|SpaceAfter=No
 16	"	_	PUNCT	_	_	15	punct	_	GermanLemma="
-17-18	von	_	_	_	_	_	_	_	GermanLemma=_
+17-18	von	_	_	_	_	_	_	_	_
 17	vo	_	ADP	_	_	19	case	_	GermanLemma=von
 18	n	_	DET	_	_	19	det	_	GermanLemma=das
 19	Boarischen	_	NOUN	_	_	15	nmod	_	GermanLemma=Bairische|SpaceAfter=No
@@ -21069,7 +21069,7 @@
 1	Und	_	CCONJ	_	_	13	cc	_	GermanLemma=und
 2	sie	_	PRON	_	_	13	nsubj	_	GermanLemma=sie
 3	is	_	AUX	_	_	13	cop	_	GermanLemma=sein
-4-5	im	_	_	_	_	_	_	_	GermanLemma=_
+4-5	im	_	_	_	_	_	_	_	_
 4	i	_	ADP	_	_	7	case	_	GermanLemma=in
 5	m	_	DET	_	_	7	det	_	GermanLemma=der
 6	einglichen	_	ADJ	_	_	7	amod	_	GermanLemma=eigentlich
@@ -21393,7 +21393,7 @@
 # source = https://bar.wikipedia.org/wiki/Dischkrian:Bairische_Buechspraach
 1	Deswengn	_	ADV	_	_	6	advmod	_	GermanLemma=deswegen
 2	is	_	AUX	_	_	6	cop	_	GermanLemma=sein
-3-4	im	_	_	_	_	_	_	_	GermanLemma=_
+3-4	im	_	_	_	_	_	_	_	_
 3	i	_	ADP	_	_	5	case	_	GermanLemma=in
 4	m	_	DET	_	_	5	det	_	GermanLemma=das
 5	Prizip	_	NOUN	_	_	6	obl	_	GermanLemma=Prinzip
@@ -21457,7 +21457,7 @@
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=das
 3	Standarddaitschn	_	NOUN	_	_	10	obl	_	GermanLemma=Standarddeutsch
@@ -21484,7 +21484,7 @@
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=das
 3	Westmittlboarischn	_	NOUN	_	_	7	obl	_	GermanLemma=Westmittelbairische
@@ -21517,7 +21517,7 @@
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
-1-2	Im	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Im	_	_	_	_	_	_	_	_
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=das
 3	Nordboarischn	_	NOUN	_	_	7	obl	_	GermanLemma=Nordbairische
@@ -21526,7 +21526,7 @@
 6	s	_	PRON	_	_	7	nsubj	_	GermanLemma=es
 7	mèjer	_	DET	_	_	0	root	_	GermanLemma=mehr
 8	wej	_	SCONJ	_	_	7	fixed	_	GermanLemma=wie
-9-10	im	_	_	_	_	_	_	_	GermanLemma=_
+9-10	im	_	_	_	_	_	_	_	_
 9	i	_	ADP	_	_	11	case	_	GermanLemma=in
 10	m	_	DET	_	_	11	det	_	GermanLemma=das
 11	Standarddaitschn	_	NOUN	_	_	7	obl	_	GermanLemma=Standarddeutsch|SpaceAfter=No
@@ -21689,7 +21689,7 @@
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
 1	Und	_	CCONJ	_	_	4	cc	_	GermanLemma=und
-2-3	zum	_	_	_	_	_	_	_	GermanLemma=_
+2-3	zum	_	_	_	_	_	_	_	_
 2	zu	_	ADP	_	_	4	case	_	GermanLemma=zu
 3	m	_	DET	_	_	4	det	_	GermanLemma=das
 4	Versl	_	NOUN	_	_	12	parataxis	_	GermanLemma=Verschen
@@ -21888,7 +21888,7 @@
 3	hòb	_	AUX	_	_	9	aux	_	GermanLemma=haben
 4	i	_	PRON	_	_	9	nsubj	_	GermanLemma=ich
 5	òiwei	_	ADV	_	_	9	advmod	_	GermanLemma=immer
-6-7	im	_	_	_	_	_	_	_	GermanLemma=_
+6-7	im	_	_	_	_	_	_	_	_
 6	i	_	ADP	_	_	8	case	_	GermanLemma=in
 7	m	_	DET	_	_	8	det	_	GermanLemma=der
 8	Browser	_	NOUN	_	_	9	obl	_	GermanLemma=Browser
@@ -21969,7 +21969,7 @@
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
 1	Blos	_	ADV	_	_	14	advmod	_	GermanLemma=bloß
-2-3	beim	_	_	_	_	_	_	_	GermanLemma=_
+2-3	beim	_	_	_	_	_	_	_	_
 2	bei	_	ADP	_	_	4	case	_	GermanLemma=bei
 3	m	_	DET	_	_	4	det	_	GermanLemma=das
 4	Schaung	_	NOUN	_	_	14	obl	_	GermanLemma=Schauen
@@ -22027,7 +22027,7 @@
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
-1-2	Unt'ra	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Unt'ra	_	_	_	_	_	_	_	_
 1	Unt	_	ADP	_	_	3	case	_	GermanLemma=unter
 2	'ra	_	DET	_	_	3	det	_	GermanLemma=die
 3	Installationsroutine	_	NOUN	_	_	4	obl	_	GermanLemma=Installationsroutine
@@ -22099,7 +22099,7 @@
 8	drin	_	ADP	_	_	4	compound:prt	_	GermanLemma=drin|SpaceAfter=No
 9	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 10	oba	_	CCONJ	_	_	19	cc	_	GermanLemma=aber
-11-12	im	_	_	_	_	_	_	_	GermanLemma=_
+11-12	im	_	_	_	_	_	_	_	_
 11	i	_	ADP	_	_	13	case	_	GermanLemma=in
 12	m	_	DET	_	_	13	det	_	GermanLemma=der
 13	Dischkurs	_	NOUN	_	_	19	obl	_	GermanLemma=Diskurs
@@ -22137,12 +22137,12 @@
 18	Werta	_	NOUN	_	_	0	root	_	GermanLemma=Wort
 19	de	_	PRON	_	_	29	obj	_	GermanLemma=das
 20	ma	_	PRON	_	_	29	nsubj	_	GermanLemma=man
-21-22	im	_	_	_	_	_	_	_	GermanLemma=_
+21-22	im	_	_	_	_	_	_	_	_
 21	i	_	ADP	_	_	23	case	_	GermanLemma=in
 22	m	_	DET	_	_	23	det	_	GermanLemma=das
 23	Hochdeitschn	_	NOUN	_	_	29	obl	_	GermanLemma=Hochdeutsch
 24	und	_	CCONJ	_	_	27	cc	_	GermanLemma=und
-25-26	im	_	_	_	_	_	_	_	GermanLemma=_
+25-26	im	_	_	_	_	_	_	_	_
 25	i	_	ADP	_	_	27	case	_	GermanLemma=in
 26	m	_	DET	_	_	27	det	_	GermanLemma=das
 27	Boarischn	_	NOUN	_	_	23	conj	_	GermanLemma=Bairisch
@@ -22209,14 +22209,14 @@
 10	neie	_	ADJ	_	_	12	amod	_	GermanLemma=neu
 11	eibirgate	_	ADJ	_	_	12	amod	_	GermanLemma=eingebürgert
 12	Werta	_	NOUN	_	_	3	parataxis	_	GermanLemma=Wort
-13-14	im	_	_	_	_	_	_	_	GermanLemma=_
+13-14	im	_	_	_	_	_	_	_	_
 13	i	_	ADP	_	_	15	case	_	GermanLemma=in
 14	m	_	DET	_	_	15	det	_	GermanLemma=das
 15	Boarischn	_	NOUN	_	_	12	nmod	_	GermanLemma=Bairische
 16	und	_	CCONJ	_	_	18	cc	_	GermanLemma=und
 17	heit	_	ADV	_	_	18	advmod	_	GermanLemma=heute
 18	sogt	_	VERB	_	_	12	conj	_	GermanLemma=sagen
-19-20	im	_	_	_	_	_	_	_	GermanLemma=_
+19-20	im	_	_	_	_	_	_	_	_
 19	i	_	ADP	_	_	21	case	_	GermanLemma=in
 20	m	_	DET	_	_	21	det	_	GermanLemma=das
 21	Boairischn	_	NOUN	_	_	18	obl	_	GermanLemma=Bairische
@@ -22387,7 +22387,7 @@
 5	hot	_	AUX	_	_	12	aux	_	GermanLemma=haben
 6	se	_	PRON	_	_	12	expl:pv	_	GermanLemma=sie|SpaceAfter=No
 7	's	_	PRON	_	_	12	nsubj	_	GermanLemma=es
-8-9	zum	_	_	_	_	_	_	_	GermanLemma=_
+8-9	zum	_	_	_	_	_	_	_	_
 8	zu	_	ADP	_	_	10	case	_	GermanLemma=zu
 9	m	_	DET	_	_	10	det	_	GermanLemma=das
 10	Beispui	_	NOUN	_	_	12	obl	_	GermanLemma=Beispiel
@@ -22464,7 +22464,7 @@
 11	ma	_	PRON	_	_	18	nsubj	_	GermanLemma=man
 12	de	_	DET	_	_	13	det	_	GermanLemma=das
 13	Werta	_	NOUN	_	_	18	obj	_	GermanLemma=Wort
-14-15	im	_	_	_	_	_	_	_	GermanLemma=_
+14-15	im	_	_	_	_	_	_	_	_
 14	i	_	ADP	_	_	16	case	_	GermanLemma=in
 15	m	_	DET	_	_	16	det	_	GermanLemma=das
 16	Boairschn	_	NOUN	_	_	18	obl	_	GermanLemma=Bairische
@@ -22552,7 +22552,7 @@
 1	I	_	PRON	_	_	3	nsubj	_	GermanLemma=ich
 2	bin	_	AUX	_	_	3	cop	_	GermanLemma=sein
 3	no	_	ADV	_	_	0	root	_	GermanLemma=noch
-4-5	am	_	_	_	_	_	_	_	GermanLemma=_
+4-5	am	_	_	_	_	_	_	_	_
 4	a	_	PART	_	_	6	mark	_	GermanLemma=an
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Überlegen	_	NOUN	_	_	3	nmod	_	GermanLemma=Überlegen
@@ -22596,7 +22596,7 @@
 7	in	_	ADP	_	_	9	case	_	GermanLemma=in
 8	"	_	PUNCT	_	_	9	punct	_	GermanLemma="|SpaceAfter=No
 9	Unwörter	_	NOUN	_	_	19	obl	_	GermanLemma=Unwort
-10-11	im	_	_	_	_	_	_	_	GermanLemma=_
+10-11	im	_	_	_	_	_	_	_	_
 10	i	_	ADP	_	_	12	case	_	GermanLemma=in
 11	m	_	DET	_	_	12	det	_	GermanLemma=das
 12	Boarischn	_	NOUN	_	_	9	nmod	_	GermanLemma=Bairische|SpaceAfter=No
@@ -22618,7 +22618,7 @@
 1	Statt	_	ADP	_	_	3	case	_	GermanLemma=statt
 2	"	_	PUNCT	_	_	3	punct	_	GermanLemma="|SpaceAfter=No
 3	Unwörter	_	NOUN	_	_	21	obl	_	GermanLemma=Unwort
-4-5	im	_	_	_	_	_	_	_	GermanLemma=_
+4-5	im	_	_	_	_	_	_	_	_
 4	i	_	ADP	_	_	6	case	_	GermanLemma=in
 5	m	_	DET	_	_	6	det	_	GermanLemma=das
 6	Boarischn	_	NOUN	_	_	3	nmod	_	GermanLemma=Bairische|SpaceAfter=No
@@ -22629,7 +22629,7 @@
 11	"	_	PUNCT	_	_	13	punct	_	GermanLemma="|SpaceAfter=No
 12	Wichtige	_	ADJ	_	_	13	amod	_	GermanLemma=wichtig
 13	Unterschied	_	NOUN	_	_	21	obj	_	GermanLemma=Unterschied
-14-15	zur	_	_	_	_	_	_	_	GermanLemma=_
+14-15	zur	_	_	_	_	_	_	_	_
 14	zu	_	ADP	_	_	19	case	_	GermanLemma=zu
 15	r	_	DET	_	_	19	det	_	GermanLemma=die
 16	mittl-	_	ADJ	_	_	19	amod	_	GermanLemma=mittel-
@@ -22766,7 +22766,7 @@
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Text:Eisenhans_(1857)
-1-2	Am	_	_	_	_	_	_	_	GermanLemma=_
+1-2	Am	_	_	_	_	_	_	_	_
 1	A	_	ADP	_	_	4	case	_	GermanLemma=an
 2	m	_	DET	_	_	4	det	_	GermanLemma=der
 3	naxtn	_	ADJ	_	_	4	amod	_	GermanLemma=nah
@@ -22806,7 +22806,7 @@
 1	Do	_	ADV	_	_	12	advmod	_	GermanLemma=da
 2	hod	_	AUX	_	_	12	aux	_	GermanLemma=haben
 3	a	_	PRON	_	_	12	nsubj	_	GermanLemma=er
-4-5	am	_	_	_	_	_	_	_	GermanLemma=_
+4-5	am	_	_	_	_	_	_	_	_
 4	a	_	ADP	_	_	7	case	_	GermanLemma=an
 5	m	_	DET	_	_	7	det	_	GermanLemma=der
 6	drittn	_	ADJ	_	_	7	amod	_	GermanLemma=dritter
