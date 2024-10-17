@@ -10585,6 +10585,7 @@
 
 # sent_id = cairo_1
 # text = S’Mädl hod an Briaf an sei Freindin gschrim.
+# text_en = The girl wrote a letter to her friend.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10601,6 +10602,7 @@
 
 # sent_id = cairo_2
 # text = I deng es regnd.
+# text_en = I think that it is raining.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10612,6 +10614,7 @@
 
 # sent_id = cairo_3
 # text = Er hod vasuacht s’Raucha und Saufa aufzumhearn.
+# text_en = He tried to stop smoking and drinking.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10627,6 +10630,7 @@
 
 # sent_id = cairo_4
 # text = Mogst geh?
+# text_en = Do you want to go?
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10636,6 +10640,7 @@
 
 # sent_id = cairo_5
 # text = Sam, machs Fensta auf!
+# text_en = Sam, open the window!
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10649,6 +10654,7 @@
 
 # sent_id = cairo_6
 # text = Sie hod ihram Mo ogschafft, s’Auto zum waschn.
+# text_en = She made her husband wash the car.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10668,6 +10674,7 @@
 
 # sent_id = cairo_7
 # text = Da Nachbar vom Bäda hod an Zaun rot ogmoid.
+# text_en = Peter’s neighbor painted the fence red.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10686,6 +10693,7 @@
 
 # sent_id = cairo_8
 # text = Mei Papa is cooler wia deina.
+# text_en = My dad is cooler than yours.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10699,6 +10707,7 @@
 
 # sent_id = cairo_9
 # text = D’Maria hod Bronze gwunna, da Bäda Suiba und d’Jane Goid.
+# text_en = Mary won bronze, Peter silver, and Jane gold.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10719,6 +10728,7 @@
 
 # sent_id = cairo_10
 # text = Is Iguazu a großs oder a gloans Land?
+# text_en = Is Iguazu a big or a small country?
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10734,6 +10744,7 @@
 
 # sent_id = cairo_11
 # text = Weder da Schmidt Bäda no d’Braun Maria hom ausgweid wern kinna.
+# text_en = Neither Peter Smith nor Mary Brown could be selected.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10753,6 +10764,7 @@
 
 # sent_id = cairo_12
 # text = Sie ham koa Ahnung, wer des gschrim hod.
+# text_en = They have no idea who wrote it.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10769,6 +10781,7 @@
 
 # sent_id = cairo_13
 # text = Wos schaust da o?
+# text_en = What are you looking at?
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10780,6 +10793,7 @@
 
 # sent_id = cairo_14
 # text = Wann moanst, dass d’kema konnst?
+# text_en = When do you think you can come?
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10794,6 +10808,7 @@
 
 # sent_id = cairo_15
 # text = Er hod a Auto kauft, aber sei Bruada nur a Radl.
+# text_en = He bought a car but his brother just a bike.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10813,6 +10828,7 @@
 
 # sent_id = cairo_16
 # text = Da Bäda und d’Maria hom sie umarmt und san dann ausm Zimmer ganga.
+# text_en = Peter and Mary hugged each other and then left the room.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10836,6 +10852,7 @@
 
 # sent_id = cairo_17
 # text = Sie häd ihre Hoar macha soin, aber hods aus irgendoam Grund an dem Dog ned gmacht.
+# text_en = She should have been doing her hair but for some reason she wouldn't that day.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10861,6 +10878,7 @@
 
 # sent_id = cairo_18
 # text = I hob ned mithoidn kinna, weil a z’schnei glaufa is.
+# text_en = I wasn't able to keep up, because he ran too fast.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10880,6 +10898,7 @@
 
 # sent_id = cairo_19
 # text = Da Briaf is vom Bäda und is gestern gliefad woarn.
+# text_en = This letter is from Peter and it was delivered yesterday.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria
@@ -10899,6 +10918,7 @@
 
 # sent_id = cairo_20
 # text = Sie is in Paris, da Hauptstadt vo Frankreich, aufgwachsn.
+# text_en = She grew up in Paris, the capital of France.
 # genre = grammar-examples
 # dialect_group = central
 # location = Upper Bavaria

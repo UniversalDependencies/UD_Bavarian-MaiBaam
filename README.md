@@ -13,6 +13,7 @@ We include sentence-level metadata:
 - `location`: The city or municipality if known, else the state or province, else the country, else *unk* (unknown). 
 - `source`: For sentences from Wikipedia or Tatoeba, we include the source URL.
 - `author`: The username of a Tatoeba sentence’s author, per [Tatoeba's usage conditions](https://tatoeba.org/en/terms_of_use#section-6).
+- `text_en`: The original English sentence, for sentences translated from English (xsid, cairo).
 
 The `sent_id`s indicate what source a sentence was taken from (see below).
 
