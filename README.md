@@ -1,6 +1,6 @@
 # Summary
 
-MaiBaam is manually annotated with part-of-speech tags and syntactic dependencies.
+MaiBaam is manually annotated with part-of-speech tag, syntactic dependencies, and German lemmas.
 The treebank encompasses diverse text genres (wiki articles and discussions, grammar examples, fiction, and commands for virtual assistants) and dialects from the North, Central and South Bavarian areas as well as the dialectal transition areas in between.
 
 # Introduction
@@ -15,6 +15,8 @@ We include sentence-level metadata:
 - `author`: The username of a Tatoeba sentence’s author, per [Tatoeba's usage conditions](https://tatoeba.org/en/terms_of_use#section-6).
 
 The `sent_id`s indicate what source a sentence was taken from (see below).
+
+The `MISC` column contains German-language lemmas (`GermanLemma=...`) and, where appropriate, `SpaceAfter=No`.
 
 # Acknowledgments
 
@@ -32,7 +34,7 @@ We include sentences from the following sources, as indicated by different `sent
 The data collection and annotation, as well as initial ML experiments are described in the following paper, which also contains a data statement.
 Please cite this paper when using the treebank:
 
-- Verena Blaschke, Barbara Kovačić, Siyao Peng, Hinrich Schütze & Barbara Plank. 2024. *MaiBaam: A multi-dialectal Bavarian Universal Dependency treebank.* LREC-COLING 2024. ([pdf](https://arxiv.org/pdf/2403.10293.pdf))
+- Verena Blaschke, Barbara Kovačić, Siyao Peng, Hinrich Schütze & Barbara Plank. 2024. *MaiBaam: A multi-dialectal Bavarian Universal Dependency treebank.* LREC-COLING 2024. ([pdf](https://aclanthology.org/2024.lrec-main.953/))
 
 For detailed annotation guidelines, please read the following report:
 
@@ -41,6 +43,8 @@ For detailed annotation guidelines, please read the following report:
 
 # Changelog
 
+* 2024-11-15 v2.15
+  * German lemmas added; minor corrections to dependency/POS annotations.
 * 2024-05-15 v2.14
   * Initial release in Universal Dependencies.
 
@@ -56,7 +60,7 @@ UPOS: manual native
 XPOS: not available
 Features: not available
 Relations: manual native
-Contributors: Blaschke, Verena; Kovačić, Barbara; Peng, Siyao; Plank, Barbara
+Contributors: Blaschke, Verena; Kovačić, Barbara; Peng, Siyao; Winkler, Miriam; Plank, Barbara
 Contributing: here
 Contact: verena.blaschke@cis.lmu.de
 ===============================================================================
