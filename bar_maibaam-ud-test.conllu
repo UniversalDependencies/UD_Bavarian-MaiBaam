@@ -21539,7 +21539,7 @@
 1	Vo	_	ADP	_	_	2	case	_	GermanLemma=von
 2	dòu	_	ADV	_	_	6	advmod	_	GermanLemma=da
 3	her	_	ADV	_	_	2	advmod	_	GermanLemma=her
-4	wàrs	_	AUX	_	_	6	cop	_	GermanLemma=sein|SpaceAfter=No
+4	wàr	_	AUX	_	_	6	cop	_	GermanLemma=sein|SpaceAfter=No
 5	s	_	PRON	_	_	6	expl	_	GermanLemma=es
 6	ghupft	_	ADJ	_	_	0	root	_	GermanLemma=gehüpft
 7	wej	_	SCONJ	_	_	8	mark	_	GermanLemma=wie
@@ -21681,7 +21681,7 @@
 13	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_8
-# text = Und zum Versl vom Herbert Gschwendtner: Des is zwòr schej, dàß ß d Umschrift aggràtt wern soll, ower dej Änderei seit ara W? l (in da Bar- und in da De-Wikipedia) iwerzeigt nemma.
+# text = Und zum Versl vom Herbert Gschwendtner: Des is zwòr schej, dàß ß d Umschrift aggràtt wern soll, ower dej Änderei seit ara Wàl (in da Bar- und in da De-Wikipedia) iwerzeigt nemma.
 # genre = social
 # dialect_group = unk
 # location = unk
@@ -21712,7 +21712,7 @@
 23	Änderei	_	NOUN	_	_	36	nsubj	_	GermanLemma=Änderei
 24	seit	_	ADP	_	_	26	case	_	GermanLemma=seit
 25	ara	_	DET	_	_	26	det:poss	_	GermanLemma=die
-26	W?	_	NOUN	_	_	23	nmod	_	GermanLemma=l Wahl
+26	Wàl	_	NOUN	_	_	23	nmod	_	GermanLemma=Wahl
 27	(	_	PUNCT	_	_	30	punct	_	GermanLemma=(|SpaceAfter=No
 28	in	_	ADP	_	_	30	case	_	GermanLemma=in
 29	da	_	DET	_	_	30	det	_	GermanLemma=die
