@@ -632,7 +632,7 @@
 34	m	_	DET	_	_	35	det	_	GermanLemma=das
 35	Hoiz	_	NOUN	_	_	37	obl	_	GermanLemma=Holz
 36	dareißn	_	VERB	_	_	37	xcomp	_	GermanLemma=reißen
-37	dadn	_	VERB	_	_	28	advcl:relcl	_	GermanLemma=werden|SpaceAfter=No
+37	dadn	_	VERB	_	_	28	advcl:relcl	_	GermanLemma=tun|SpaceAfter=No
 38	.	_	PUNCT	_	_	13	punct	_	GermanLemma=.|SpaceAfter=No
 39	"	_	PUNCT	_	_	13	punct	_	GermanLemma="
 
@@ -2358,17 +2358,15 @@
 2	is	_	AUX	_	_	7	cop	_	GermanLemma=sein
 3	dea	_	PRON	_	_	7	nsubj	_	GermanLemma=der
 4	rachts	_	ADV	_	_	5	advmod	_	GermanLemma=rechts
-5-6	vom	_	_	_	_	_	_	_	_
-5	vo	_	ADP	_	_	6	case	_	GermanLemma=von
-6	m	_	DET	_	_	6	det	_	GermanLemma=der
-7	Geba	_	NOUN	_	_	3	nmod	_	GermanLemma=Geber
-8	dro	_	ADV	_	_	0	root	_	GermanLemma=dran|SpaceAfter=No
-9	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
-10	dann	_	ADV	_	_	11	advmod	_	GermanLemma=dann
-11	de	_	DET	_	_	11	det	_	GermanLemma=der
-12	Geba	_	NOUN	_	_	7	conj	_	GermanLemma=Geber
-13	sölba	_	DET	_	_	11	advmod	_	GermanLemma=selber|SpaceAfter=No
-14	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+5	vom	_	ADP	_	_	6	case	_	GermanLemma=von
+6	Geba	_	NOUN	_	_	3	nmod	_	GermanLemma=Geber
+7	dro	_	ADV	_	_	0	root	_	GermanLemma=dran|SpaceAfter=No
+8	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+9	dann	_	ADV	_	_	11	advmod	_	GermanLemma=dann
+10	de	_	DET	_	_	11	det	_	GermanLemma=der
+11	Geba	_	NOUN	_	_	7	conj	_	GermanLemma=Geber
+12	sölba	_	DET	_	_	11	advmod	_	GermanLemma=selber|SpaceAfter=No
+13	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
 
 # sent_id = wiki_Haferltarock_17
 # text = Wenn koana spuin wui wiad zamgschmissn und da naxde mou gem.
@@ -3435,7 +3433,7 @@
 14	sein	_	DET	_	_	15	det:poss	_	GermanLemma=sein
 15	Nam	_	NOUN	_	_	16	obj	_	GermanLemma=Name
 16	vadodln	_	VERB	_	_	9	advcl	_	GermanLemma=verdaddeln/verunstalten
-17	dätn	_	AUX	_	_	16	aux	_	GermanLemma=werden|SpaceAfter=No
+17	dätn	_	AUX	_	_	16	aux	_	GermanLemma=tun|SpaceAfter=No
 18	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Ödenburg_9
@@ -6554,7 +6552,7 @@
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Verbn)
 1	D	_	DET	_	_	2	det	_	GermanLemma=die
 2	Muater	_	NOUN	_	_	4	nsubj	_	GermanLemma=Mutter
-3	dad	_	AUX	_	_	4	aux	_	GermanLemma=werden
+3	dad	_	AUX	_	_	4	aux	_	GermanLemma=tun
 4	essn	_	VERB	_	_	0	root	_	GermanLemma=essen|SpaceAfter=No
 5	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
 
@@ -6594,7 +6592,7 @@
 3	om	_	DET	_	_	5	det	_	GermanLemma=ein
 4	scheena	_	ADJ	_	_	5	amod	_	GermanLemma=schön
 5	Dog	_	NOUN	_	_	10	obl	_	GermanLemma=Tag
-6	dad	_	AUX	_	_	10	aux	_	GermanLemma=werden
+6	dad	_	AUX	_	_	10	aux	_	GermanLemma=tun
 7	i	_	PRON	_	_	10	nsubj	_	GermanLemma=ich
 8	long	_	ADJ	_	_	9	advmod	_	GermanLemma=lang
 9	spozian	_	VERB	_	_	10	xcomp	_	GermanLemma=spazieren
@@ -6670,53 +6668,53 @@
 11	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = wikisample_Boarische-Grammatik-Pronomen_20
-# text = Dee hamd si gscheid v? da!
+# text = Dee hamd si gscheid vàda!
 # genre = grammar-examples
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pronomen)
-1	Dee	_	PRON	_	_	5	nsubj	_	GermanLemma=sie
+1	Dee	_	PRON	_	_	5	nsubj	_	GermanLemma=die
 2	hamd	_	AUX	_	_	5	aux	_	GermanLemma=haben
 3	si	_	PRON	_	_	5	expl:pv	_	GermanLemma=sich
 4	gscheid	_	ADJ	_	_	5	advmod	_	GermanLemma=richtig
-5	v?	_	VERB	_	_	0	root	_	GermanLemma=da vertun|SpaceAfter=No
+5	vàda	_	VERB	_	_	0	root	_	GermanLemma=vertun|SpaceAfter=No
 6	!	_	PUNCT	_	_	5	punct	_	GermanLemma=!
 
 # sent_id = wikisample_Boarische-Grammatik-Pronomen_21
-# text = Do ham s? ' si owa gscheid v? da!
+# text = Do ham sà' si owa gscheid vàda!
 # genre = grammar-examples
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pronomen)
 1	Do	_	ADV	_	_	7	advmod	_	GermanLemma=da
 2	ham	_	AUX	_	_	7	aux	_	GermanLemma=haben
-3	s?	_	PRON	_	_	7	nsubj	_	GermanLemma=' sie
+3	sà'	_	PRON	_	_	7	nsubj	_	GermanLemma=sie
 4	si	_	PRON	_	_	7	expl:pv	_	GermanLemma=sich
 5	owa	_	ADV	_	_	7	advmod	_	GermanLemma=aber
 6	gscheid	_	ADJ	_	_	7	advmod	_	GermanLemma=richtig
-7	v?	_	VERB	_	_	0	root	_	GermanLemma=da vertun|SpaceAfter=No
+7	vàda	_	VERB	_	_	0	root	_	GermanLemma=vertun|SpaceAfter=No
 8	!	_	PUNCT	_	_	7	punct	_	GermanLemma=!
 
 # sent_id = wikisample_Boarische-Grammatik-Pronomen_22
-# text = Hosd ? s scha gmochd?
+# text = Hosd às scha gmochd?
 # genre = grammar-examples
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pronomen)
 1	Hosd	_	AUX	_	_	4	aux	_	GermanLemma=haben
-2	?	_	PRON	_	_	4	obj	_	GermanLemma=s es
+2	às	_	PRON	_	_	4	obj	_	GermanLemma=es
 3	scha	_	ADV	_	_	4	advmod	_	GermanLemma=schon
 4	gmochd	_	VERB	_	_	0	root	_	GermanLemma=machen|SpaceAfter=No
 5	?	_	PUNCT	_	_	4	punct	_	GermanLemma=?
 
 # sent_id = wikisample_Boarische-Grammatik-Pronomen_23
-# text = Hosd? s scha agruafa?
+# text = Hosdàs scha agruafa?
 # genre = grammar-examples
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pronomen)
 1	Hosd	_	AUX	_	_	4	aux	_	GermanLemma=haben|SpaceAfter=No
-2	?	_	PRON	_	_	4	obj	_	GermanLemma=s sie
+2	às	_	PRON	_	_	4	obj	_	GermanLemma=sie
 3	scha	_	ADV	_	_	4	advmod	_	GermanLemma=schon
 4	agruafa	_	VERB	_	_	0	root	_	GermanLemma=anrufen|SpaceAfter=No
 5	?	_	PUNCT	_	_	4	punct	_	GermanLemma=?
@@ -12169,7 +12167,7 @@
 3	du	_	PRON	_	_	9	advcl	_	GermanLemma=du
 4	wa	_	AUX	_	_	3	cop	_	GermanLemma=sein|SpaceAfter=No
 5	,	_	PUNCT	_	_	3	punct	_	GermanLemma=,
-6	tarat	_	AUX	_	_	9	aux	_	GermanLemma=werden
+6	tarat	_	AUX	_	_	9	aux	_	GermanLemma=tun
 7	i	_	PRON	_	_	9	nsubj	_	GermanLemma=ich|SpaceAfter=No
 8	'n	_	PRON	_	_	9	obj	_	GermanLemma=ihn
 9	frogn	_	VERB	_	_	0	root	_	GermanLemma=fragen|SpaceAfter=No
@@ -14381,7 +14379,7 @@
 # source = https://tatoeba.org/en/sentences/show/5225706
 # author = brauchinet
 1	Wos	_	PRON	_	_	4	nsubj	_	GermanLemma=was
-2	taratst	_	AUX	_	_	4	aux	_	GermanLemma=werden|SpaceAfter=No
+2	taratst	_	AUX	_	_	4	aux	_	GermanLemma=tun|SpaceAfter=No
 3	'n	_	ADV	_	_	4	advmod	_	GermanLemma=_
 4	tuan	_	VERB	_	_	0	root	_	GermanLemma=tun|SpaceAfter=No
 5	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
@@ -15047,7 +15045,7 @@
 20	da	_	DET	_	_	21	det	_	GermanLemma=der
 21	Bsitzer	_	NOUN	_	_	22	nsubj	_	GermanLemma=Besitzer
 22	merken	_	VERB	_	_	2	advcl	_	GermanLemma=merken
-23	dad	_	AUX	_	_	22	aux	_	GermanLemma=werden|SpaceAfter=No
+23	dad	_	AUX	_	_	22	aux	_	GermanLemma=tun|SpaceAfter=No
 24	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = wiki_Sauschädelstöhln_4
@@ -16181,7 +16179,7 @@
 # dialect_group = south
 # location = South Tyrol
 1	I	_	PRON	_	_	12	nsubj	_	GermanLemma=ich
-2	tat	_	AUX	_	_	12	aux	_	GermanLemma=werden
+2	tat	_	AUX	_	_	12	aux	_	GermanLemma=tun
 3	in	_	DET	_	_	4	det	_	GermanLemma=der
 4	Film	_	NOUN	_	_	12	obl:arg	_	GermanLemma=Film
 5	Half	_	PROPN	_	_	4	appos	_	GermanLemma=Half
@@ -16875,7 +16873,7 @@
 # genre = non-fiction
 # dialect_group = unk (central/southcentral/south)
 # location = unk
-1	Dads	_	AUX	_	_	18	aux	_	GermanLemma=werden
+1	Dads	_	AUX	_	_	18	aux	_	GermanLemma=tun
 2	ma	_	PRON	_	_	18	obl:arg	_	GermanLemma=mir
 3	„	_	PUNCT	_	_	5	punct	_	GermanLemma=„|SpaceAfter=No
 4	I	_	PRON	_	_	5	nsubj	_	GermanLemma=ich
@@ -16933,7 +16931,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	I	_	PRON	_	_	11	nsubj	_	GermanLemma=ich
-2	dad	_	AUX	_	_	11	aux	_	GermanLemma=werden
+2	dad	_	AUX	_	_	11	aux	_	GermanLemma=tun
 3	gern	_	ADV	_	_	11	advmod	_	GermanLemma=gern
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Disch	_	NOUN	_	_	11	obj	_	GermanLemma=Tisch
@@ -16986,7 +16984,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	I	_	PRON	_	_	18	nsubj	_	GermanLemma=ich
-2	dad	_	AUX	_	_	18	aux	_	GermanLemma=werden
+2	dad	_	AUX	_	_	18	aux	_	GermanLemma=tun
 3	gern	_	ADV	_	_	18	advmod	_	GermanLemma=gern
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Disch	_	NOUN	_	_	18	obj	_	GermanLemma=Tisch
@@ -17073,7 +17071,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	I	_	PRON	_	_	14	nsubj	_	GermanLemma=ich
-2	darat	_	AUX	_	_	14	aux	_	GermanLemma=werden
+2	darat	_	AUX	_	_	14	aux	_	GermanLemma=tun
 3	gearn	_	ADV	_	_	14	advmod	_	GermanLemma=gern
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Disch	_	NOUN	_	_	14	obj	_	GermanLemma=Tisch
@@ -20165,12 +20163,12 @@
 16	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
 
 # sent_id = wiki_Jazz-Rap_5
-# text = ? nfänglich håbm in die 1980er verschiedene Interpretn zu ålte Jazznummern d'rzua g'räppet.
+# text = Ånfänglich håbm  in die 1980er verschiedene Interpretn zu ålte Jazznummern d'rzua g'räppet.
 # genre = wiki
 # dialect_group = south
 # location = South Tyrol
 # source = https://bar.wikipedia.org/wiki/Jazz-Rap
-1	?	_	ADJ	_	_	12	advmod	_	GermanLemma=nfänglich anfänglich
+1	Ånfänglich	_	ADJ	_	_	12	advmod	_	GermanLemma=anfänglich
 2	håbm	_	AUX	_	_	12	aux	_	GermanLemma=haben
 3	in	_	ADP	_	_	5	case	_	GermanLemma=in
 4	die	_	DET	_	_	5	det	_	GermanLemma=die
@@ -21185,11 +21183,11 @@
 33	"	_	PUNCT	_	_	32	punct	_	GermanLemma="
 34	oder	_	CCONJ	_	_	36	cc	_	GermanLemma=oder
 35	"	_	PUNCT	_	_	36	punct	_	GermanLemma="|SpaceAfter=No
-36	daadl	_	ADV	_	_	26	conj	_	GermanLemma=werden|SpaceAfter=No
+36	daadl	_	ADV	_	_	26	conj	_	GermanLemma=tun|SpaceAfter=No
 37	"	_	PUNCT	_	_	36	punct	_	GermanLemma="
 38	mit	_	ADP	_	_	40	case	_	GermanLemma=mit
 39	"	_	PUNCT	_	_	40	punct	_	GermanLemma="|SpaceAfter=No
-40	daada	_	ADV	_	_	36	orphan	_	GermanLemma=werden|SpaceAfter=No
+40	daada	_	ADV	_	_	36	orphan	_	GermanLemma=tun|SpaceAfter=No
 41	"	_	PUNCT	_	_	40	punct	_	GermanLemma="
 42	(	_	PUNCT	_	_	45	punct	_	GermanLemma=(|SpaceAfter=No
 43	bei	_	ADP	_	_	44	case	_	GermanLemma=bei
@@ -21200,7 +21198,7 @@
 48	oafach	_	ADJ	_	_	45	advmod	_	GermanLemma=einfach
 49	koa	_	DET	_	_	51	det	_	GermanLemma=kein
 50	"	_	PUNCT	_	_	51	punct	_	GermanLemma="|SpaceAfter=No
-51	daal	_	ADV	_	_	45	obj	_	GermanLemma=werden|SpaceAfter=No
+51	daal	_	ADV	_	_	45	obj	_	GermanLemma=tun|SpaceAfter=No
 52	"	_	PUNCT	_	_	51	punct	_	GermanLemma="|SpaceAfter=No
 53	)	_	PUNCT	_	_	45	punct	_	GermanLemma=)|SpaceAfter=No
 54	,	_	PUNCT	_	_	56	punct	_	GermanLemma=,
@@ -21452,7 +21450,7 @@
 3	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_1
-# text = Im Standarddaitschn h? n kurze "e" normalerweis offat, und långe "e" normalerweis gschlossn.
+# text = Im Standarddaitschn hàn kurze "e" normalerweis offat, und långe "e" normalerweis gschlossn.
 # genre = social
 # dialect_group = unk
 # location = unk
@@ -21461,7 +21459,7 @@
 1	I	_	ADP	_	_	3	case	_	GermanLemma=in
 2	m	_	DET	_	_	3	det	_	GermanLemma=das
 3	Standarddaitschn	_	NOUN	_	_	10	obl	_	GermanLemma=Standarddeutsch
-4	h?	_	AUX	_	_	10	cop	_	GermanLemma=n sein
+4	hàn	_	AUX	_	_	10	cop	_	GermanLemma=sein
 5	kurze	_	ADJ	_	_	7	amod	_	GermanLemma=kurz
 6	"	_	PUNCT	_	_	7	punct	_	GermanLemma="|SpaceAfter=No
 7	e	_	X	_	_	10	nsubj	_	GermanLemma=e|SpaceAfter=No
@@ -21533,7 +21531,7 @@
 12	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_4
-# text = Vo dòu her w? rs ghupft wej gsprunga, obma des System "è - e" nehmad oder des System "e - é", w? ls in deam Sinn wej vo Dir ågsprocha koa Àsnåhm git.
+# text = Vo dòu her wàrs ghupft wej gsprunga, obma des System "è - e" nehmad oder des System "e - é", wàls in deam Sinn wej vo Dir ågsprocha koa Àsnåhm git.
 # genre = social
 # dialect_group = unk
 # location = unk
@@ -21541,7 +21539,7 @@
 1	Vo	_	ADP	_	_	2	case	_	GermanLemma=von
 2	dòu	_	ADV	_	_	6	advmod	_	GermanLemma=da
 3	her	_	ADV	_	_	2	advmod	_	GermanLemma=her
-4	w?	_	AUX	_	_	6	cop	_	GermanLemma=r sein|SpaceAfter=No
+4	wàrs	_	AUX	_	_	6	cop	_	GermanLemma=sein|SpaceAfter=No
 5	s	_	PRON	_	_	6	expl	_	GermanLemma=es
 6	ghupft	_	ADJ	_	_	0	root	_	GermanLemma=gehüpft
 7	wej	_	SCONJ	_	_	8	mark	_	GermanLemma=wie
@@ -21566,7 +21564,7 @@
 26	é	_	X	_	_	24	appos	_	GermanLemma=é|SpaceAfter=No
 27	"	_	PUNCT	_	_	24	punct	_	GermanLemma="|SpaceAfter=No
 28	,	_	PUNCT	_	_	40	punct	_	GermanLemma=,
-29	w?	_	SCONJ	_	_	40	mark	_	GermanLemma=l weil|SpaceAfter=No
+29	wàl	_	SCONJ	_	_	40	mark	_	GermanLemma=weil|SpaceAfter=No
 30	s	_	PRON	_	_	40	expl	_	GermanLemma=es
 31	in	_	ADP	_	_	33	case	_	GermanLemma=in
 32	deam	_	DET	_	_	33	det	_	GermanLemma=dem
@@ -21581,7 +21579,7 @@
 41	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_5
-# text = Mit de esterreichischn Dialekte kenname niat so ? s.
+# text = Mit de esterreichischn Dialekte kenname niat so às.
 # genre = social
 # dialect_group = unk
 # location = unk
@@ -21594,11 +21592,11 @@
 6	me	_	PRON	_	_	5	expl:pv	_	GermanLemma=mich
 7	niat	_	PART	_	_	5	advmod	_	GermanLemma=nicht
 8	so	_	ADV	_	_	5	advmod	_	GermanLemma=so
-9	?	_	ADP	_	_	5	compound:prt	_	GermanLemma=s aus|SpaceAfter=No
+9	às	_	ADP	_	_	5	compound:prt	_	GermanLemma=aus|SpaceAfter=No
 10	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_6
-# text = Ower wenn des tåtsächle aso is, d? ß gschlossne "e" in de esterreich-boarischn Dialekte Àsnåhma h? n und durtn ? ? òllgemein koa Unterschied zwischa "å" und "ò" gmåcht wird, nòu zejngma hòlt a Umschrift-Grenz zwischa Òltbayern und Esterreich und måcha zwoa Umschrift-Systeme, wos i ower ho vameidn wolln.
+# text = Ower wenn des tåtsächle aso is, dàß gschlossne "e" in de esterreich-boarischn Dialekte Àsnåhma hàn und durtn àà òllgemein koa Unterschied zwischa "å" und "ò" gmåcht wird, nòu zejngma hòlt a Umschrift-Grenz zwischa Òltbayern und Esterreich und måcha zwoa Umschrift-Systeme, wos i ower ho vameidn wolln.
 # genre = social
 # dialect_group = unk
 # location = unk
@@ -21611,7 +21609,7 @@
 6	so	_	ADV	_	_	38	advcl	_	GermanLemma=so
 7	is	_	AUX	_	_	6	cop	_	GermanLemma=sein|SpaceAfter=No
 8	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
-9	d?	_	SCONJ	_	_	19	mark	_	GermanLemma=ß dass
+9	dàß	_	SCONJ	_	_	19	mark	_	GermanLemma=dass
 10	gschlossne	_	ADJ	_	_	12	amod	_	GermanLemma=geschlossen
 11	"	_	PUNCT	_	_	12	punct	_	GermanLemma="|SpaceAfter=No
 12	e	_	X	_	_	19	nsubj	_	GermanLemma=e|SpaceAfter=No
@@ -21621,10 +21619,10 @@
 16	esterreich-boarischn	_	ADJ	_	_	17	amod	_	GermanLemma=österreich-bairisch
 17	Dialekte	_	NOUN	_	_	19	obl	_	GermanLemma=Dialekt
 18	Àsnåhma	_	NOUN	_	_	19	obj	_	GermanLemma=Ausnahme
-19	h?	_	VERB	_	_	6	advcl	_	GermanLemma=n sein
+19	hàn	_	VERB	_	_	6	advcl	_	GermanLemma=sein
 20	und	_	CCONJ	_	_	34	cc	_	GermanLemma=und
 21	durtn	_	ADV	_	_	34	advmod	_	GermanLemma=dort
-22	?	_	ADV	_	_	34	advmod	_	GermanLemma=? auch
+22	àà	_	ADV	_	_	34	advmod	_	GermanLemma=auch
 23	òllgemein	_	ADJ	_	_	34	advmod	_	GermanLemma=allgemein
 24	koa	_	DET	_	_	25	det	_	GermanLemma=kein
 25	Unterschied	_	NOUN	_	_	34	nsubj	_	GermanLemma=Unterschied
@@ -21683,7 +21681,7 @@
 13	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_8
-# text = Und zum Versl vom Herbert Gschwendtner: Des is zwòr schej, d? ß d Umschrift aggr? tt wern soll, ower dej Änderei seit ara W? l (in da Bar- und in da De-Wikipedia) iwerzeigt nemma.
+# text = Und zum Versl vom Herbert Gschwendtner: Des is zwòr schej, dàß ß d Umschrift aggràtt wern soll, ower dej Änderei seit ara W? l (in da Bar- und in da De-Wikipedia) iwerzeigt nemma.
 # genre = social
 # dialect_group = unk
 # location = unk
@@ -21702,10 +21700,10 @@
 11	zwòr	_	ADV	_	_	12	advmod	_	GermanLemma=zwar
 12	schej	_	ADJ	_	_	0	root	_	GermanLemma=schön|SpaceAfter=No
 13	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
-14	d?	_	SCONJ	_	_	17	mark	_	GermanLemma=ß dass
+14	dàß	_	SCONJ	_	_	17	mark	_	GermanLemma=dass
 15	d	_	DET	_	_	16	det	_	GermanLemma=die
 16	Umschrift	_	NOUN	_	_	17	nsubj:pass	_	GermanLemma=Umschrift
-17	aggr?	_	VERB	_	_	12	advcl	_	GermanLemma=tt akurat
+17	aggràtt	_	VERB	_	_	12	advcl	_	GermanLemma=akurat
 18	wern	_	AUX	_	_	17	aux:pass	_	GermanLemma=werden
 19	soll	_	AUX	_	_	17	aux	_	GermanLemma=soll|SpaceAfter=No
 20	,	_	PUNCT	_	_	36	punct	_	GermanLemma=,
@@ -21730,7 +21728,7 @@
 39	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_9
-# text = De oanzich richtiche Schreibweis is do dej, wejs da Autor - òlso in deam Fòll da Herbert Gschwendtner - gschriem hòut oder schreim d? d, wenna dej Umschrift dòu herinn hernehmad.
+# text = De oanzich richtiche Schreibweis is do dej, wejs da Autor - òlso in deam Fòll da Herbert Gschwendtner - gschriem hòut oder schreim dàd, wenna dej Umschrift dòu herinn hernehmad.
 # genre = social
 # dialect_group = unk
 # location = unk
@@ -21759,7 +21757,7 @@
 22	hòut	_	AUX	_	_	21	aux	_	GermanLemma=haben
 23	oder	_	CCONJ	_	_	24	cc	_	GermanLemma=oder
 24	schreim	_	VERB	_	_	21	conj	_	GermanLemma=schreiben
-25	d?	_	AUX	_	_	24	aux	_	GermanLemma=d werden|SpaceAfter=No
+25	dàd	_	AUX	_	_	24	aux	_	GermanLemma=tun|SpaceAfter=No
 26	,	_	PUNCT	_	_	33	punct	_	GermanLemma=,
 27	wenn	_	SCONJ	_	_	33	mark	_	GermanLemma=wenn|SpaceAfter=No
 28	a	_	PRON	_	_	33	nsubj	_	GermanLemma=er
@@ -21896,7 +21894,7 @@
 10	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_17
-# text = Fiar an gscheidn Editor wo i de Tastn umbeleng ko d? ? d i mi òba scho intressiern.
+# text = Fiar an gscheidn Editor wo i de Tastn umbeleng ko dààd i mi òba scho intressiern.
 # genre = social
 # dialect_group = unk
 # location = unk
@@ -21911,7 +21909,7 @@
 8	Tastn	_	NOUN	_	_	9	obj	_	GermanLemma=Taste
 9	umbeleng	_	VERB	_	_	4	acl:relcl	_	GermanLemma=umbelegen
 10	ko	_	AUX	_	_	9	aux	_	GermanLemma=können
-11	d?	_ werden	AUX	_	_	16	aux	GermanLemma=? d	_
+11	dààd	_	AUX	_	_	16	aux	_	GermanLemma=tun
 12	i	_	PRON	_	_	16	nsubj	_	GermanLemma=ich
 13	mi	_	PRON	_	_	16	expl:pv	_	GermanLemma=mich
 14	òba	_	ADV	_	_	16	advmod	_	GermanLemma=aber
@@ -21920,12 +21918,12 @@
 17	.	_	PUNCT	_	_	16	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_18
-# text = W? ? r auf jedn Fòi huifreich, wanns a Òleitung dafia g? ? b.
+# text = Wààr auf jedn Fòi huifreich, wanns a Òleitung dafia gààb.
 # genre = social
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
-1	W?	_ sein	AUX	_	_	5	cop	GermanLemma=? r	_
+1	Wààr	_	AUX	_	_	5	cop	_	GermanLemma=sein
 2	auf	_	ADP	_	_	4	case	_	GermanLemma=auf
 3	jedn	_	DET	_	_	4	det	_	GermanLemma=jeder
 4	Fòi	_	NOUN	_	_	5	obl	_	GermanLemma=Fall
@@ -21936,11 +21934,11 @@
 9	a	_	DET	_	_	10	det	_	GermanLemma=eine
 10	Òleitung	_	NOUN	_	_	12	obj	_	GermanLemma=Anleitung
 11	dafia	_	ADV	_	_	12	advmod	_	GermanLemma=dafür
-12	g?	_ geben	VERB	_	_	5	advcl	GermanLemma=? b	SpaceAfter=No
+12	gààb	_	VERB	_	_	5	advcl	_	GermanLemma=geben|SpaceAfter=No
 13	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_19
-# text = Da Emacs schaugt jò guad aus, wei a auf recht vui vaschiadne System l? ? fft.
+# text = Da Emacs schaugt jò guad aus, wei a auf recht vui vaschiadne System lààfft.
 # genre = social
 # dialect_group = unk
 # location = unk
@@ -21959,7 +21957,7 @@
 12	vui	_	DET	_	_	14	det	_	GermanLemma=viel
 13	vaschiadne	_	ADJ	_	_	14	amod	_	GermanLemma=verschieden
 14	System	_	NOUN	_	_	15	obl	_	GermanLemma=System
-15	l?	_ laufen	VERB	_	_	3	advcl	GermanLemma=? fft	SpaceAfter=No
+15	lààfft	_	VERB	_	_	3	advcl	_	GermanLemma=laufen|SpaceAfter=No
 16	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_20
