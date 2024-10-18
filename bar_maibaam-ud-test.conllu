@@ -514,7 +514,7 @@
 15	sei	_	DET	_	_	16	det:poss	_	GermanLemma=sein
 16	Wei	_	NOUN	_	_	19	nsubj	_	GermanLemma=Weib
 17	zu	_	ADP	_	_	18	case	_	GermanLemma=zu
-18	eam	_	PRON	_	_	19	obl	_	GermanLemma=ihn
+18	eam	_	PRON	_	_	19	obl	_	GermanLemma=er
 19	gsogt	_	VERB	_	_	0	root	_	GermanLemma=sagen|SpaceAfter=No
 20	:	_	PUNCT	_	_	19	punct	_	GermanLemma=:
 
@@ -750,7 +750,7 @@
 5	Gretl	_	PROPN	_	_	3	vocative	_	GermanLemma=Gretl|SpaceAfter=No
 6	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
 7	mach	_	VERB	_	_	3	parataxis	_	GermanLemma=machen
-8	da	_	PRON	_	_	7	expl:pv	_	GermanLemma=dir
+8	da	_	PRON	_	_	7	expl:pv	_	GermanLemma=du
 9	nix	_	PRON	_	_	7	obj	_	GermanLemma=nichts
 10	draus	_	ADV	_	_	7	advmod	_	GermanLemma=daraus|SpaceAfter=No
 11	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
@@ -848,7 +848,7 @@
 11	:	_	PUNCT	_	_	13	punct	_	GermanLemma=:
 12	"	_	PUNCT	_	_	13	punct	_	GermanLemma="|SpaceAfter=No
 13	tröst	_	VERB	_	_	10	ccomp	_	GermanLemma=trösten
-14	di	_	PRON	_	_	13	expl:pv	_	GermanLemma=dich|SpaceAfter=No
+14	di	_	PRON	_	_	13	expl:pv	_	GermanLemma=du|SpaceAfter=No
 15	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
 16	Gretl	_	PROPN	_	_	13	vocative	_	GermanLemma=Gretl|SpaceAfter=No
 17	,	_	PUNCT	_	_	18	punct	_	GermanLemma=,
@@ -1086,7 +1086,7 @@
 21	Doch	_	NOUN	_	_	22	obl	_	GermanLemma=Dach
 22	sitz	_	VERB	_	_	14	acl:relcl	_	GermanLemma=sitzen
 23	und	_	CCONJ	_	_	26	cc	_	GermanLemma=und
-24	mia	_	PRON	_	_	26	obl:arg	_	GermanLemma=mir
+24	mia	_	PRON	_	_	26	obl:arg	_	GermanLemma=ich
 25	Bfiade	_	INTJ	_	_	26	obj	_	GermanLemma=Tschüss
 26	song	_	VERB	_	_	22	conj	_	GermanLemma=sagen
 27	wui	_	AUX	_	_	26	aux	_	GermanLemma=wollen|SpaceAfter=No
@@ -1253,7 +1253,7 @@
 19	"	_	PUNCT	_	_	21	punct	_	GermanLemma="|SpaceAfter=No
 20	iatz	_	ADV	_	_	21	advmod	_	GermanLemma=jetzt
 21	legts	_	VERB	_	_	17	ccomp	_	GermanLemma=legen
-22	eich	_	PRON	_	_	21	expl:pv	_	GermanLemma=euch
+22	eich	_	PRON	_	_	21	expl:pv	_	GermanLemma=ihr
 23-24	ans	_	_	_	_	_	_	_	_
 23	an	_	ADP	_	_	25	case	_	GermanLemma=an
 24	s	_	DET	_	_	25	det	_	GermanLemma=das
@@ -1287,7 +1287,7 @@
 7	da	_	ADV	_	_	2	advcl	_	GermanLemma=da
 8	sand	_	AUX	_	_	7	cop	_	GermanLemma=sein
 9	und	_	CCONJ	_	_	11	cc	_	GermanLemma=und
-10	eich	_	PRON	_	_	11	obj	_	GermanLemma=euch
+10	eich	_	PRON	_	_	11	obj	_	GermanLemma=ihr
 11	abhoin	_	VERB	_	_	7	conj	_	GermanLemma=abholen|SpaceAfter=No
 12	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.|SpaceAfter=No
 13	"	_	PUNCT	_	_	2	punct	_	GermanLemma="
@@ -2250,7 +2250,7 @@
 13	wej	_	SCONJ	_	_	17	mark	_	GermanLemma=wo
 14	rechts	_	ADV	_	_	15	advmod	_	GermanLemma=rechts
 15	vo	_	ADP	_	_	16	case	_	GermanLemma=von
-16	eam	_	PRON	_	_	17	obl	_	GermanLemma=ihn
+16	eam	_	PRON	_	_	17	obl	_	GermanLemma=er
 17	sitzt	_	VERB	_	_	9	acl:relcl	_	GermanLemma=sitzen|SpaceAfter=No
 18	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
 
@@ -2809,7 +2809,7 @@
 5	is	_	AUX	_	_	4	aux:pass	_	GermanLemma=sein|SpaceAfter=No
 6	,	_	PUNCT	_	_	4	punct	_	GermanLemma=,
 7	grejgt	_	VERB	_	_	0	root	_	GermanLemma=kriegen
-8	na	_	PRON	_	_	7	obj	_	GermanLemma=ihn
+8	na	_	PRON	_	_	7	obj	_	GermanLemma=er
 9	dea	_	PRON	_	_	7	nsubj	_	GermanLemma=der|SpaceAfter=No
 10	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 11	wej	_	SCONJ	_	_	19	mark	_	GermanLemma=wo
@@ -3073,7 +3073,7 @@
 13	grejgt	_	VERB	_	_	0	root	_	GermanLemma=kriegen
 14	oana	_	DET	_	_	13	nsubj	_	GermanLemma=einer
 15	vo	_	ADP	_	_	16	case	_	GermanLemma=von
-16	eam	_	PRON	_	_	14	nmod	_	GermanLemma=ihn
+16	eam	_	PRON	_	_	14	nmod	_	GermanLemma=er
 17	a	_	DET	_	_	18	det	_	GermanLemma=ein
 18	Fümfal	_	NOUN	_	_	13	obj	_	GermanLemma=Fünferl/5-Cent-Münze|SpaceAfter=No
 19	,	_	PUNCT	_	_	30	punct	_	GermanLemma=,
@@ -3324,12 +3324,12 @@
 # source = https://bar.wikipedia.org/wiki/Dischkrian:%C3%96denburg
 1	Des	_	PRON	_	_	2	nsubj	_	GermanLemma=das
 2	sterad	_	VERB	_	_	0	root	_	GermanLemma=stören
-3	mi	_	PRON	_	_	2	obj	_	GermanLemma=mich
+3	mi	_	PRON	_	_	2	obj	_	GermanLemma=ich
 4	weniga	_	ADJ	_	_	2	advmod	_	GermanLemma=wenig|SpaceAfter=No
 5	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
 6	oba	_	CCONJ	_	_	16	cc	_	GermanLemma=aber
 7	wos	_	PRON	_	_	11	nsubj	_	GermanLemma=wo
-8	ma	_	PRON	_	_	11	obl:arg	_	GermanLemma=mir
+8	ma	_	PRON	_	_	11	obl:arg	_	GermanLemma=ich
 9	an	_	DET	_	_	10	det	_	GermanLemma=der
 10	Gachn	_	NOUN	_	_	11	obj	_	GermanLemma=Jähzorn
 11	afstöd	_	VERB	_	_	16	csubj	_	GermanLemma=aufstellen
@@ -3421,7 +3421,7 @@
 2	moa	_	VERB	_	_	0	root	_	GermanLemma=meinen
 3	es	_	PRON	_	_	9	expl	_	GermanLemma=es
 4	wa	_	AUX	_	_	9	cop	_	GermanLemma=sein
-5	da	_	PRON	_	_	9	obl:arg	_	GermanLemma=dir
+5	da	_	PRON	_	_	9	obl:arg	_	GermanLemma=du
 6	sicha	_	ADJ	_	_	9	advmod	_	GermanLemma=sicher
 7	a	_	ADV	_	_	9	advmod	_	GermanLemma=auch
 8	ned	_	PART	_	_	9	advmod	_	GermanLemma=nicht
@@ -3633,7 +3633,7 @@
 14	Madtin	_	PROPN	_	_	11	obj	_	GermanLemma=Martin
 15	Luada	_	PROPN	_	_	14	flat	_	GermanLemma=Luther
 16	fir	_	ADP	_	_	17	case	_	GermanLemma=für
-17	mi	_	PRON	_	_	11	obl	_	Bug=no-PronType|GermanLemma=mich|SpaceAfter=No
+17	mi	_	PRON	_	_	11	obl	_	Bug=no-PronType|GermanLemma=ich|SpaceAfter=No
 18	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Ödenburg_18
@@ -4773,7 +4773,7 @@
 3	Ottomanen	_	NOUN	_	_	9	obl	_	GermanLemma=Ottomane
 4	bi	_	AUX	_	_	9	cop	_	GermanLemma=sein
 5	i	_	PRON	_	_	9	nsubj	_	GermanLemma=ich
-6	mia	_	PRON	_	_	9	obl:arg	_	GermanLemma=mir
+6	mia	_	PRON	_	_	9	obl:arg	_	GermanLemma=ich
 7	fei	_	ADV	_	_	9	advmod	_	GermanLemma=aber
 8	net	_	PART	_	_	9	advmod	_	GermanLemma=nicht
 9	sicha	_	ADJ	_	_	0	root	_	GermanLemma=sicher|SpaceAfter=No
@@ -5044,7 +5044,7 @@
 # source = https://tatoeba.org/en/sentences/show/5657152
 # author = Marilenium
 1	Hau	_	VERB	_	_	0	root	_	GermanLemma=hauen
-2	di	_	PRON	_	_	1	obj	_	GermanLemma=dich
+2	di	_	PRON	_	_	1	obj	_	GermanLemma=du
 3	üba	_	ADP	_	_	5	case	_	GermanLemma=über
 4	d'	_	DET	_	_	5	det	_	GermanLemma=das|SpaceAfter=No
 5	Heisa	_	NOUN	_	_	1	obl	_	GermanLemma=Haus|SpaceAfter=No
@@ -5090,7 +5090,7 @@
 # location = Austria
 # source = https://tatoeba.org/en/sentences/show/5798325
 # author = brauchinet
-1	Mi	_	PRON	_	_	4	expl:pv	_	GermanLemma=mich
+1	Mi	_	PRON	_	_	4	expl:pv	_	GermanLemma=ich
 2	hot	_	AUX	_	_	4	aux	_	GermanLemma=haben
 3	kana	_	DET	_	_	4	nsubj	_	GermanLemma=keiner
 4	gfrogt	_	VERB	_	_	0	root	_	GermanLemma=fragen|SpaceAfter=No
@@ -5212,7 +5212,7 @@
 # author = brauchinet
 1	Du	_	PRON	_	_	7	nsubj	_	GermanLemma=du
 2	host	_	AUX	_	_	7	aux	_	GermanLemma=haben
-3	uns	_	PRON	_	_	7	obj	_	GermanLemma=uns
+3	uns	_	PRON	_	_	7	obj	_	GermanLemma=wir
 4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	ADP	_	_	6	case	_	GermanLemma=zu
 5	m	_	DET	_	_	6	det	_	GermanLemma=der
@@ -5246,14 +5246,14 @@
 # source = https://tatoeba.org/en/sentences/show/6198105
 # author = brauchinet
 1	Weng	_	ADP	_	_	2	case	_	GermanLemma=wegen
-2	uns	_	PRON	_	_	3	obl	_	GermanLemma=uns
+2	uns	_	PRON	_	_	3	obl	_	GermanLemma=wir
 3	brauchst	_	VERB	_	_	0	root	_	GermanLemma=brauchen
 4	di	_	PRON	_	_	3	expl:pv	_	GermanLemma=du
 5	net	_	PART	_	_	3	advmod	_	GermanLemma=nicht
 6	owituan	_	VERB	_	_	3	xcomp	_	GermanLemma=runtertun|SpaceAfter=No
 7	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 8	vo	_	ADP	_	_	9	case	_	GermanLemma=von
-9	uns	_	PRON	_	_	13	obl	_	GermanLemma=uns
+9	uns	_	PRON	_	_	13	obl	_	GermanLemma=wir
 10	is	_	AUX	_	_	13	cop	_	GermanLemma=sein
 11	eh	_	ADV	_	_	13	advmod	_	GermanLemma=eh
 12	kana	_	DET	_	_	13	nsubj	_	GermanLemma=keiner
@@ -5277,7 +5277,7 @@
 1	„	_	PUNCT	_	_	3	punct	_	GermanLemma=„
 2	I	_	PRON	_	_	3	nsubj	_	GermanLemma=ich
 3	hau	_	VERB	_	_	0	root	_	GermanLemma=hauen
-4	mi	_	PRON	_	_	3	expl:pv	_	GermanLemma=mich
+4	mi	_	PRON	_	_	3	expl:pv	_	GermanLemma=ich
 5	üba	_	ADP	_	_	7	case	_	GermanLemma=über
 6	d'	_	DET	_	_	7	det	_	GermanLemma=das|SpaceAfter=No
 7	Heisa	_	NOUN	_	_	3	obl	_	GermanLemma=Haus|SpaceAfter=No
@@ -5329,7 +5329,7 @@
 # source = https://tatoeba.org/en/sentences/show/6400830
 # author = brauchinet
 1	Hot	_	AUX	_	_	6	aux	_	GermanLemma=haben
-2	da	_	PRON	_	_	6	obl:arg	_	GermanLemma=dir
+2	da	_	PRON	_	_	6	obl:arg	_	GermanLemma=du
 3	da	_	DET	_	_	4	det	_	GermanLemma=der
 4	Tom	_	PROPN	_	_	6	nsubj	_	GermanLemma=Tom
 5	amoi	_	ADV	_	_	6	advmod	_	GermanLemma=einmal
@@ -5394,7 +5394,7 @@
 1	„	_	PUNCT	_	_	5	punct	_	GermanLemma=„|SpaceAfter=No
 2	Dass	_	SCONJ	_	_	5	mark	_	GermanLemma=dass
 3	d‘	_	X	_	_	2	goeswith	_	GermanLemma=_
-4	di	_	PRON	_	_	5	expl:pv	_	GermanLemma=dich
+4	di	_	PRON	_	_	5	expl:pv	_	GermanLemma=du
 5	schleichen	_	VERB	_	_	0	root	_	GermanLemma=schleichen
 6	soist	_	AUX	_	_	5	aux	_	GermanLemma=sollen|SpaceAfter=No
 7	!	_	PUNCT	_	_	5	punct	_	GermanLemma=!|SpaceAfter=No
@@ -5408,7 +5408,7 @@
 # source = https://tatoeba.org/en/sentences/show/6602207
 # author = brauchinet
 1	Schau	_	VERB	_	_	0	root	_	GermanLemma=schauen
-2	da	_	PRON	_	_	1	expl:pv	_	GermanLemma=dir
+2	da	_	PRON	_	_	1	expl:pv	_	GermanLemma=du
 3	amoi	_	ADV	_	_	1	advmod	_	GermanLemma=einmal
 4	die	_	DET	_	_	6	det	_	GermanLemma=die
 5	grausliche	_	ADJ	_	_	6	amod	_	GermanLemma=grauslich
@@ -5439,7 +5439,7 @@
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
 2	Thomas	_	PROPN	_	_	3	nsubj	_	GermanLemma=Thomas
 3	geht	_	VERB	_	_	0	root	_	GermanLemma=gehen
-4	ma	_	PRON	_	_	3	obl:arg	_	GermanLemma=mir
+4	ma	_	PRON	_	_	3	obl:arg	_	GermanLemma=ich
 5	net	_	PART	_	_	3	advmod	_	GermanLemma=nicht
 6	o	_	ADP	_	_	3	compound:prt	_	GermanLemma=an|SpaceAfter=No
 7	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
@@ -5482,7 +5482,7 @@
 4	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
 5	wia	_	SCONJ	_	_	9	mark	_	GermanLemma=wie|SpaceAfter=No
 6	's	_	PRON	_	_	9	nsubj	_	GermanLemma=es
-7	ma	_	PRON	_	_	9	obl:arg	_	GermanLemma=mir|SpaceAfter=No
+7	ma	_	PRON	_	_	9	obl:arg	_	GermanLemma=ich|SpaceAfter=No
 8	's	_	PRON	_	_	9	expl	_	GermanLemma=es
 9	aungschofft	_	VERB	_	_	3	advcl	_	GermanLemma=anschaffen
 10	ham	_	AUX	_	_	9	aux	_	GermanLemma=haben|SpaceAfter=No
@@ -5500,7 +5500,7 @@
 3	tau	_	VERB	_	_	0	root	_	GermanLemma=tun|SpaceAfter=No
 4	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
 5	wos	_	PRON	_	_	7	obj	_	GermanLemma=was
-6	ma	_	PRON	_	_	7	nsubj	_	GermanLemma=mir
+6	ma	_	PRON	_	_	7	nsubj	_	GermanLemma=ich
 7	augschofft	_	VERB	_	_	3	ccomp	_	GermanLemma=anschaffen
 8	hom	_	AUX	_	_	7	aux	_	GermanLemma=haben|SpaceAfter=No
 9	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
@@ -5592,7 +5592,7 @@
 # author = brauchinet
 1	Wos	_	PRON	_	_	2	nsubj	_	GermanLemma=was
 2	zohlatst	_	VERB	_	_	0	root	_	GermanLemma=zahlen
-3	ma	_	PRON	_	_	2	obl:arg	_	GermanLemma=mir
+3	ma	_	PRON	_	_	2	obl:arg	_	GermanLemma=ich
 4	denn	_	ADV	_	_	2	advmod	_	GermanLemma=denn|SpaceAfter=No
 5	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
 
@@ -5670,7 +5670,7 @@
 # author = brauchinet
 1	Des	_	DET	_	_	2	nsubj	_	GermanLemma=das
 2	mocht	_	VERB	_	_	0	root	_	GermanLemma=machen
-3	di	_	PRON	_	_	2	obj	_	GermanLemma=dich
+3	di	_	PRON	_	_	2	obj	_	GermanLemma=du
 4	narrisch	_	ADV	_	_	2	advmod	_	GermanLemma=verrückt|SpaceAfter=No
 5	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
 6	gö	_	INTJ	_	_	2	discourse	_	GermanLemma=gell|SpaceAfter=No
@@ -5713,7 +5713,7 @@
 6	und	_	CCONJ	_	_	8	cc	_	GermanLemma=und
 7	es	_	PRON	_	_	8	expl	_	GermanLemma=es
 8	trifft	_	VERB	_	_	2	conj	_	GermanLemma=treffen
-9	di	_	PRON	_	_	8	obj	_	GermanLemma=dich
+9	di	_	PRON	_	_	8	obj	_	GermanLemma=du
 10	nia	_	ADV	_	_	8	advmod	_	GermanLemma=nicht
 11	da	_	DET	_	_	12	det	_	GermanLemma=der
 12	Schlog	_	NOUN	_	_	8	nsubj	_	GermanLemma=Schlag|SpaceAfter=No
@@ -5746,7 +5746,7 @@
 1	Glei	_	ADV	_	_	2	advmod	_	GermanLemma=gleich
 2	gib	_	VERB	_	_	0	root	_	GermanLemma=geben
 3	i	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
-4	da	_	PRON	_	_	2	obl:arg	_	GermanLemma=dir|SpaceAfter=No
+4	da	_	PRON	_	_	2	obl:arg	_	GermanLemma=du|SpaceAfter=No
 5	's	_	PRON	_	_	2	obj	_	GermanLemma=es|SpaceAfter=No
 6	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
@@ -5761,7 +5761,7 @@
 2	gib	_	VERB	_	_	0	root	_	GermanLemma=geben
 3	i	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
 4	s'	_	PRON	_	_	2	obj	_	GermanLemma=es|SpaceAfter=No
-5	da	_	PRON	_	_	2	obl:arg	_	GermanLemma=dir|SpaceAfter=No
+5	da	_	PRON	_	_	2	obl:arg	_	GermanLemma=du|SpaceAfter=No
 6	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = tatoeba_7259746
@@ -5802,7 +5802,7 @@
 1	Fost	_	ADV	_	_	5	advmod	_	GermanLemma=fast
 2	warat	_	AUX	_	_	5	aux	_	GermanLemma=sein|SpaceAfter=No
 3	s	_	PRON	_	_	5	expl	_	GermanLemma=es
-4	ma	_	PRON	_	_	5	obl:arg	_	GermanLemma=mir
+4	ma	_	PRON	_	_	5	obl:arg	_	GermanLemma=ich
 5	auskumma	_	VERB	_	_	0	root	_	GermanLemma=auskommen|SpaceAfter=No
 6	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
@@ -7029,7 +7029,7 @@
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Adverb)
 1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
 2	denk	_	VERB	_	_	0	root	_	GermanLemma=denken|SpaceAfter=No
-3	'ma	_	PRON	_	_	2	expl:pv	_	GermanLemma=mir|SpaceAfter=No
+3	'ma	_	PRON	_	_	2	expl:pv	_	GermanLemma=ich|SpaceAfter=No
 4	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
 5	das	_	SCONJ	_	_	7	mark	_	GermanLemma=dass
 6	des	_	PRON	_	_	7	nsubj	_	GermanLemma=das
@@ -7240,7 +7240,7 @@
 13	Arwat	_	NOUN	_	_	14	obl	_	GermanLemma=Arbeit
 14	gunn	_	VERB	_	_	4	conj	_	GermanLemma=gönnen|SpaceAfter=No
 15	'a	_	PRON	_	_	14	nsubj	_	GermanLemma=ich|SpaceAfter=No
-16	'mar	_	PRON	_	_	14	obl:arg	_	GermanLemma=mir
+16	'mar	_	PRON	_	_	14	obl:arg	_	GermanLemma=ich
 17	a	_	DET	_	_	18	det	_	GermanLemma=eine
 18	Flaschl	_	NOUN	_	_	14	obj	_	GermanLemma=Flasche|SpaceAfter=No
 19	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
@@ -7544,7 +7544,7 @@
 5	nou	_	ADV	_	_	6	advmod	_	GermanLemma=nachher
 6	lech	_	VERB	_	_	0	root	_	GermanLemma=legen|SpaceAfter=No
 7	'e	_	PRON	_	_	6	nsubj	_	GermanLemma=ich|SpaceAfter=No
-8	'me	_	PRON	_	_	6	obj	_	GermanLemma=mich
+8	'me	_	PRON	_	_	6	obj	_	GermanLemma=ich
 9-10	ins	_	_	_	_	_	_	_	_
 9	in	_	ADP	_	_	11	case	_	GermanLemma=in
 10	s	_	DET	_	_	11	det	_	GermanLemma=das
@@ -7800,7 +7800,7 @@
 4	Oipm	_	PROPN	_	_	5	obl	_	GermanLemma=Alpen
 5	nenan	_	VERB	_	_	0	root	_	GermanLemma=nennen
 6	s	_	PRON	_	_	5	nsubj	_	GermanLemma=sie
-7	n	_	PRON	_	_	5	obj	_	GermanLemma=ihn
+7	n	_	PRON	_	_	5	obj	_	GermanLemma=er
 8	a	_	ADV	_	_	5	advmod	_	GermanLemma=auch
 9	"	_	PUNCT	_	_	10	punct	_	GermanLemma="|SpaceAfter=No
 10	Arassas	_	PROPN	_	_	5	xcomp	_	GermanLemma=Arassas|SpaceAfter=No
@@ -8281,7 +8281,7 @@
 2	hod	_	AUX	_	_	6	aux	_	GermanLemma=haben
 3	nia	_	ADV	_	_	6	advmod	_	GermanLemma=nie
 4	oana	_	DET	_	_	6	nsubj	_	GermanLemma=einer
-5	an	_	DET	_	_	6	obj	_	GermanLemma=ihn
+5	an	_	DET	_	_	6	obj	_	GermanLemma=er
 6	aifaunga	_	VERB	_	_	0	root	_	GermanLemma=einfangen
 7	kina	_	AUX	_	_	6	aux	_	GermanLemma=können
 8	oda	_	CCONJ	_	_	12	cc	_	GermanLemma=oder
@@ -8380,13 +8380,13 @@
 16	grent	_	VERB	_	_	6	conj	_	GermanLemma=rennen|SpaceAfter=No
 17	,	_	PUNCT	_	_	22	punct	_	GermanLemma=,
 18	wai	_	SCONJ	_	_	22	mark	_	GermanLemma=weil
-19	eam	_	PRON	_	_	22	obl:arg	_	GermanLemma=ihn
+19	eam	_	PRON	_	_	22	obl:arg	_	GermanLemma=er
 20	da	_	DET	_	_	21	det	_	GermanLemma=der
 21	Dazlwuam	_	NOUN	_	_	22	nsubj	_	GermanLemma=Tatzelwurm
 22	noch	_	ADV	_	_	6	advcl	_	GermanLemma=nach
 23	is	_	AUX	_	_	22	cop	_	GermanLemma=sein
 24	und	_	CCONJ	_	_	26	cc	_	GermanLemma=und
-25	eam	_	PRON	_	_	26	obj	_	GermanLemma=ihn
+25	eam	_	PRON	_	_	26	obj	_	GermanLemma=er
 26	baissn	_	VERB	_	_	22	conj	_	GermanLemma=beißen
 27	woit	_	AUX	_	_	26	aux	_	GermanLemma=wollen|SpaceAfter=No
 28	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
@@ -10978,7 +10978,7 @@
 # author = brauchinet
 1	I	_	PRON	_	_	7	nsubj	_	GermanLemma=ich
 2	hob	_	AUX	_	_	7	aux	_	GermanLemma=haben
-3	ma	_	PRON	_	_	7	expl:pv	_	GermanLemma=mir
+3	ma	_	PRON	_	_	7	expl:pv	_	GermanLemma=ich
 4	grod	_	ADV	_	_	7	advmod	_	GermanLemma=gerade
 5	a	_	DET	_	_	6	det	_	GermanLemma=eine
 6	Watschn	_	NOUN	_	_	7	obj	_	GermanLemma=Ohrfeige
@@ -11071,7 +11071,7 @@
 5	net	_	PART	_	_	3	advmod	_	GermanLemma=nicht|SpaceAfter=No
 6	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
 7	dass	_	SCONJ	_	_	14	mark	_	GermanLemma=dass
-8	uns	_	PRON	_	_	14	obl:arg	_	GermanLemma=uns
+8	uns	_	PRON	_	_	14	obl:arg	_	GermanLemma=wir
 9	des	_	DET	_	_	10	det	_	GermanLemma=das
 10	Viech	_	NOUN	_	_	14	nsubj	_	GermanLemma=Viech
 11-12	ins	_	_	_	_	_	_	_	_
@@ -11183,7 +11183,7 @@
 # author = brauchinet
 1	I	_	PRON	_	_	4	nsubj	_	GermanLemma=ich
 2	hob	_	AUX	_	_	4	aux	_	GermanLemma=haben
-3	ma	_	PRON	_	_	4	expl:pv	_	GermanLemma=mir
+3	ma	_	PRON	_	_	4	expl:pv	_	GermanLemma=ich
 4	docht	_	VERB	_	_	0	root	_	GermanLemma=denken|SpaceAfter=No
 5	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
 6	i	_	PRON	_	_	7	nsubj	_	GermanLemma=ich
@@ -11269,7 +11269,7 @@
 5	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
 6	wos	_	PRON	_	_	9	obj	_	GermanLemma=was|SpaceAfter=No
 7	'd	_	PRON	_	_	9	nsubj	_	GermanLemma=du
-8	ma	_	PRON	_	_	9	obl:arg	_	GermanLemma=mir
+8	ma	_	PRON	_	_	9	obl:arg	_	GermanLemma=ich
 9	gsogt	_	VERB	_	_	3	acl:relcl	_	GermanLemma=sagen
 10	host	_	AUX	_	_	9	aux	_	GermanLemma=haben|SpaceAfter=No
 11	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
@@ -11302,7 +11302,7 @@
 3	,	_	PUNCT	_	_	2	punct	_	GermanLemma=,
 4	I	_	PRON	_	_	7	nsubj	_	GermanLemma=ich
 5	hob	_	AUX	_	_	7	aux	_	GermanLemma=haben
-6	ma	_	PRON	_	_	7	expl:pv	_	GermanLemma=mir
+6	ma	_	PRON	_	_	7	expl:pv	_	GermanLemma=ich
 7	denkt	_	VERB	_	_	0	root	_	GermanLemma=denken|SpaceAfter=No
 8	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
 9	mia	_	PRON	_	_	10	nsubj	_	GermanLemma=wir
@@ -11355,7 +11355,7 @@
 # author = brauchinet
 1	Wer	_	PRON	_	_	6	nsubj	_	GermanLemma=wer
 2	hot	_	AUX	_	_	6	aux	_	GermanLemma=haben
-3	da	_	PRON	_	_	6	obl:arg	_	GermanLemma=dir
+3	da	_	PRON	_	_	6	obl:arg	_	GermanLemma=du
 4	's	_	DET	_	_	5	det	_	GermanLemma=das
 5	Haxl	_	NOUN	_	_	6	obj	_	GermanLemma=Bein
 6	gstölt	_	VERB	_	_	0	root	_	GermanLemma=stellen|SpaceAfter=No
@@ -11398,7 +11398,7 @@
 3	,	_	PUNCT	_	_	2	punct	_	GermanLemma=,
 4	bring	_	VERB	_	_	0	root	_	GermanLemma=bringen
 5	i	_	PRON	_	_	4	nsubj	_	GermanLemma=ich
-6	di	_	PRON	_	_	4	obj	_	GermanLemma=dich
+6	di	_	PRON	_	_	4	obj	_	GermanLemma=du
 7	um	_	ADP	_	_	4	compound:prt	_	GermanLemma=um|SpaceAfter=No
 8	!	_	PUNCT	_	_	4	punct	_	GermanLemma=!
 
@@ -11468,7 +11468,7 @@
 16	/	_	PUNCT	_	_	18	punct	_	GermanLemma=/
 17	owa	_	CCONJ	_	_	18	cc	_	GermanLemma=aber
 18	frogts	_	VERB	_	_	15	conj	_	Bug=no-VerbForm,multi-obj|GermanLemma=fragen
-19	mi	_	PRON	_	_	18	obj	_	Bug=no-PronType|GermanLemma=mich
+19	mi	_	PRON	_	_	18	obj	_	Bug=no-PronType|GermanLemma=ich
 20	ned	_	PART	_	_	18	advmod	_	GermanLemma=nicht
 21	wia	_	ADV	_	_	18	ccomp	_	GermanLemma=wie|SpaceAfter=No
 22	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
@@ -11541,7 +11541,7 @@
 # author = brauchinet
 1	I	_	PRON	_	_	5	nsubj	_	GermanLemma=ich
 2	hob	_	AUX	_	_	5	aux	_	GermanLemma=haben
-3	ma	_	PRON	_	_	5	expl:pv	_	GermanLemma=mir|SpaceAfter=No
+3	ma	_	PRON	_	_	5	expl:pv	_	GermanLemma=ich|SpaceAfter=No
 4	's	_	PRON	_	_	5	obj	_	GermanLemma=es
 5	aufgschriebm	_	VERB	_	_	0	root	_	GermanLemma=aufschreiben|SpaceAfter=No
 6	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
@@ -11556,7 +11556,7 @@
 1	I	_	PRON	_	_	5	nsubj	_	GermanLemma=ich
 2	hob	_	AUX	_	_	5	aux	_	GermanLemma=haben|SpaceAfter=No
 3	's	_	PRON	_	_	5	obj	_	GermanLemma=es
-4	ma	_	PRON	_	_	5	expl:pv	_	GermanLemma=mir
+4	ma	_	PRON	_	_	5	expl:pv	_	GermanLemma=ich
 5	aufgeschriebm	_	VERB	_	_	0	root	_	GermanLemma=aufschreiben|SpaceAfter=No
 6	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
@@ -11574,7 +11574,7 @@
 5	,	_	PUNCT	_	_	3	punct	_	GermanLemma=,
 6	des	_	PRON	_	_	9	obj	_	GermanLemma=das
 7	kinnts	_	AUX	_	_	9	aux	_	GermanLemma=können
-8	eng	_	PRON	_	_	9	expl:pv	_	GermanLemma=euch
+8	eng	_	PRON	_	_	9	expl:pv	_	GermanLemma=ihr
 9	denga	_	VERB	_	_	0	root	_	GermanLemma=denken|SpaceAfter=No
 10	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
 
@@ -11605,7 +11605,7 @@
 # source = https://tatoeba.org/en/sentences/show/10476402
 # author = brauchinet
 1	Kumm	_	VERB	_	_	0	root	_	GermanLemma=kommen
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	net	_	PART	_	_	1	advmod	_	GermanLemma=nicht
 4	mit	_	ADP	_	_	5	case	_	GermanLemma=mit
 5	Gschichtln	_	NOUN	_	_	1	obl	_	GermanLemma=Geschichte|SpaceAfter=No
@@ -11730,7 +11730,7 @@
 # source = https://tatoeba.org/en/sentences/show/10638346
 # author = brauchinet
 1	Gib	_	VERB	_	_	0	root	_	GermanLemma=geben
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir|SpaceAfter=No
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich|SpaceAfter=No
 3	's	_	PRON	_	_	1	obj	_	GermanLemma=es|SpaceAfter=No
 4	!	_	PUNCT	_	_	1	punct	_	GermanLemma=!
 
@@ -11743,7 +11743,7 @@
 # author = brauchinet
 1	Gib	_	VERB	_	_	0	root	_	GermanLemma=geben|SpaceAfter=No
 2	's	_	PRON	_	_	1	obj	_	GermanLemma=es
-3	mir	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir|SpaceAfter=No
+3	mir	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich|SpaceAfter=No
 4	!	_	PUNCT	_	_	1	punct	_	GermanLemma=!
 
 # sent_id = tatoeba_10673747-1
@@ -11756,7 +11756,7 @@
 1	Do	_	ADV	_	_	11	advmod	_	GermanLemma=da
 2	hot	_	AUX	_	_	11	aux	_	GermanLemma=haben|SpaceAfter=No
 3	's	_	PRON	_	_	11	expl	_	GermanLemma=es
-4	di	_	PRON	_	_	11	obj	_	GermanLemma=dich
+4	di	_	PRON	_	_	11	obj	_	GermanLemma=du
 5	wieda	_	ADV	_	_	11	advmod	_	GermanLemma=wieder
 6	amoi	_	ADV	_	_	11	advmod	_	GermanLemma=einmal
 7	gscheid	_	ADV	_	_	11	advmod	_	GermanLemma=gescheit
@@ -11802,7 +11802,7 @@
 # author = brauchinet
 1	Setz	_	VERB	_	_	0	root	_	GermanLemma=setzen
 2	ma	_	PRON	_	_	1	nsubj	_	GermanLemma=wir
-3	uns	_	PRON	_	_	1	expl:pv	_	GermanLemma=uns
+3	uns	_	PRON	_	_	1	expl:pv	_	GermanLemma=wir
 4	a	_	DET	_	_	6	advmod	_	GermanLemma=ein
 5	wengal	_	ADV	_	_	4	fixed	_	GermanLemma=wenig
 6	weida	_	ADV	_	_	7	advmod	_	GermanLemma=weiter
@@ -12107,7 +12107,7 @@
 # author = legume
 1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
 2	deng	_	VERB	_	_	0	root	_	GermanLemma=denken|SpaceAfter=No
-3	ma	_	ADV	_	_	2	advmod	_	GermanLemma=mir|SpaceAfter=No
+3	ma	_	ADV	_	_	2	advmod	_	GermanLemma=mal|SpaceAfter=No
 4	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
 5	da	_	DET	_	_	6	det	_	GermanLemma=der
 6	Tommi	_	PROPN	_	_	9	nsubj	_	GermanLemma=Tommi
@@ -12178,7 +12178,7 @@
 5	,	_	PUNCT	_	_	3	punct	_	GermanLemma=,
 6	tarat	_	AUX	_	_	9	aux	_	GermanLemma=tun
 7	i	_	PRON	_	_	9	nsubj	_	GermanLemma=ich|SpaceAfter=No
-8	'n	_	PRON	_	_	9	obj	_	GermanLemma=ihn
+8	'n	_	PRON	_	_	9	obj	_	GermanLemma=er
 9	frogn	_	VERB	_	_	0	root	_	GermanLemma=fragen|SpaceAfter=No
 10	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
 
@@ -12239,7 +12239,7 @@
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
 2	Hund	_	NOUN	_	_	7	nsubj	_	GermanLemma=Hund
 3	is	_	AUX	_	_	7	aux	_	GermanLemma=sein
-4	eam	_	PRON	_	_	7	obl:arg	_	GermanLemma=ihn
+4	eam	_	PRON	_	_	7	obl:arg	_	GermanLemma=er
 5	überoi	_	ADV	_	_	7	advmod	_	GermanLemma=überall
 6	hi	_	ADP	_	_	5	case	_	GermanLemma=hin
 7	nochgaunga	_	VERB	_	_	0	root	_	GermanLemma=nachgehen|SpaceAfter=No
@@ -12369,7 +12369,7 @@
 # author = brauchinet
 1	Ihr	_	PRON	_	_	4	nsubj	_	GermanLemma=ihr
 2	miassts	_	AUX	_	_	4	aux	_	GermanLemma=müssen
-3	ihr	_	PRON	_	_	4	obl:arg	_	GermanLemma=ihr
+3	ihr	_	PRON	_	_	4	obl:arg	_	GermanLemma=sie
 4	höfn	_	VERB	_	_	0	root	_	GermanLemma=helfen|SpaceAfter=No
 5	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
 6	und	_	CCONJ	_	_	8	cc	_	GermanLemma=und
@@ -12432,7 +12432,7 @@
 4	und	_	CCONJ	_	_	5	cc	_	GermanLemma=und
 5	setz	_	VERB	_	_	1	conj	_	GermanLemma=setzen
 6	ma	_	PRON	_	_	5	nsubj	_	GermanLemma=wir
-7	uns	_	PRON	_	_	5	expl:pv	_	GermanLemma=uns
+7	uns	_	PRON	_	_	5	expl:pv	_	GermanLemma=wir
 8	in	_	ADP	_	_	10	case	_	GermanLemma=in
 9	d'	_	DET	_	_	10	det	_	GermanLemma=die|SpaceAfter=No
 10	Sunn	_	NOUN	_	_	5	obl	_	GermanLemma=Sonne|SpaceAfter=No
@@ -12464,7 +12464,7 @@
 # author = brauchinet
 1	Dass	_	SCONJ	_	_	6	mark	_	GermanLemma=dass
 2	ma	_	PRON	_	_	6	nsubj	_	GermanLemma=wir
-3	uns	_	PRON	_	_	6	expl:pv	_	GermanLemma=uns
+3	uns	_	PRON	_	_	6	expl:pv	_	GermanLemma=wir
 4	net	_	PART	_	_	6	advmod	_	GermanLemma=nicht
 5	dabei	_	ADV	_	_	6	advmod	_	GermanLemma=dabei
 6	dawischen	_	VERB	_	_	0	root	_	GermanLemma=erwischen
@@ -12520,7 +12520,7 @@
 3	is	_	AUX	_	_	7	aux	_	GermanLemma=sein
 4	1827	_	NUM	_	_	7	obl:arg	_	GermanLemma=1827
 5	von	_	ADP	_	_	6	case	_	GermanLemma=von
-6	eahm	_	PRON	_	_	7	obl:agent	_	GermanLemma=ihn
+6	eahm	_	PRON	_	_	7	obl:agent	_	GermanLemma=er
 7	g'schrieb'n	_	VERB	_	_	0	root	_	GermanLemma=schreiben
 8	und	_	CCONJ	_	_	22	cc	_	GermanLemma=und
 9-10	aum	_	_	_	_	_	_	_	_
@@ -12606,7 +12606,7 @@
 28	das	_	PRON	_	_	29	obj	_	GermanLemma=das
 29	spielen	_	VERB	_	_	25	conj	_	GermanLemma=spielen
 30	sie	_	PRON	_	_	29	nsubj	_	GermanLemma=sie
-31	mir	_	PRON	_	_	29	expl:pv	_	GermanLemma=mir
+31	mir	_	PRON	_	_	29	expl:pv	_	GermanLemma=ich
 32	schon	_	ADV	_	_	29	advmod	_	GermanLemma=schon
 33	seit	_	ADP	_	_	35	case	_	GermanLemma=seit
 34	12	_	NUM	_	_	35	nummod	_	GermanLemma=12
@@ -14326,7 +14326,7 @@
 2	eh	_	ADV	_	_	1	advmod	_	GermanLemma=eh
 3	ois	_	DET	_	_	1	nsubj	_	GermanLemma=alles
 4	bei	_	ADP	_	_	5	case	_	GermanLemma=bei
-5	eahm	_	PRON	_	_	1	obl	_	GermanLemma=ihn|SpaceAfter=No
+5	eahm	_	PRON	_	_	1	obl	_	GermanLemma=er|SpaceAfter=No
 6	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
 
 # sent_id = tatoeba_5195373
@@ -14355,7 +14355,7 @@
 5	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
 6	ois	_	SCONJ	_	_	9	mark	_	GermanLemma=als
 7	i	_	PRON	_	_	9	nsubj	_	GermanLemma=ich
-8	ma	_	PRON	_	_	9	expl:pv	_	GermanLemma=mir
+8	ma	_	PRON	_	_	9	expl:pv	_	GermanLemma=ich
 9	docht	_	VERB	_	_	4	ccomp	_	GermanLemma=denken
 10	hob	_	AUX	_	_	9	aux	_	GermanLemma=haben|SpaceAfter=No
 11	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
@@ -14385,7 +14385,7 @@
 # author = brauchinet
 1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
 2	schau	_	VERB	_	_	0	root	_	GermanLemma=schauen
-3	ma	_	PRON	_	_	2	expl:pv	_	GermanLemma=mir
+3	ma	_	PRON	_	_	2	expl:pv	_	GermanLemma=ich
 4	gern	_	ADV	_	_	2	advmod	_	GermanLemma=gern
 5	Goifspün	_	NOUN	_	_	2	obj	_	GermanLemma=Golfspiel
 6	au	_	ADP	_	_	2	compound:prt	_	GermanLemma=an|SpaceAfter=No
@@ -14566,7 +14566,7 @@
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
 2	Thomas	_	PROPN	_	_	6	nsubj	_	GermanLemma=Thomas
 3	hot	_	AUX	_	_	6	aux	_	GermanLemma=haben
-4	ma	_	PRON	_	_	6	obl:arg	_	GermanLemma=mir
+4	ma	_	PRON	_	_	6	obl:arg	_	GermanLemma=ich
 5	ois	_	DET	_	_	6	obj	_	GermanLemma=alles
 6	gem	_	VERB	_	_	0	root	_	GermanLemma=geben|SpaceAfter=No
 7	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
@@ -14586,7 +14586,7 @@
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
 2	Thomas	_	PROPN	_	_	6	nsubj	_	GermanLemma=Thomas
 3	hot	_	AUX	_	_	6	aux	_	GermanLemma=haben
-4	ma	_	PRON	_	_	6	obl:arg	_	GermanLemma=mir
+4	ma	_	PRON	_	_	6	obl:arg	_	GermanLemma=ich
 5	ois	_	DET	_	_	6	obj	_	GermanLemma=alles
 6	gem	_	VERB	_	_	0	root	_	GermanLemma=geben|SpaceAfter=No
 7	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
@@ -14635,7 +14635,7 @@
 # source = https://tatoeba.org/en/sentences/show/5341678
 # author = brauchinet
 1	Setzts	_	VERB	_	_	0	root	_	GermanLemma=setzen
-2	eich	_	PRON	_	_	1	expl:pv	_	GermanLemma=euch
+2	eich	_	PRON	_	_	1	expl:pv	_	GermanLemma=ihr
 3	hi	_	ADP	_	_	1	compound:prt	_	GermanLemma=hin|SpaceAfter=No
 4	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
 
@@ -14965,7 +14965,7 @@
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
 2	Thomas	_	PROPN	_	_	7	nsubj	_	GermanLemma=Thomas
 3	hot	_	AUX	_	_	7	aux	_	GermanLemma=haben
-4	ma	_	PRON	_	_	7	obl:arg	_	GermanLemma=mir
+4	ma	_	PRON	_	_	7	obl:arg	_	GermanLemma=ich
 5	a	_	DET	_	_	6	det	_	GermanLemma=ein
 6	Göd	_	NOUN	_	_	7	obj	_	GermanLemma=Geld
 7	gfladert	_	VERB	_	_	0	root	_	GermanLemma=stehlen|SpaceAfter=No
@@ -15009,7 +15009,7 @@
 5	,	_	PUNCT	_	_	3	punct	_	GermanLemma=,
 6	des	_	PRON	_	_	9	nsubj	_	GermanLemma=das
 7	kinnts	_	AUX	_	_	9	aux	_	GermanLemma=können
-8	eich	_	PRON	_	_	9	expl:pv	_	GermanLemma=euch
+8	eich	_	PRON	_	_	9	expl:pv	_	GermanLemma=ihr
 9	denga	_	VERB	_	_	0	root	_	GermanLemma=denken|SpaceAfter=No
 10	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
 
@@ -15444,7 +15444,7 @@
 # source = https://bar.wikipedia.org/wiki/Minga
 1	'S	_	DET	_	_	2	expl	_	GermanLemma=es
 2	fejt	_	VERB	_	_	0	root	_	GermanLemma=fehlen
-3	eam	_	PRON	_	_	2	expl:pv	_	GermanLemma=ihn
+3	eam	_	PRON	_	_	2	expl:pv	_	GermanLemma=er
 4	grod	_	ADV	_	_	2	advmod	_	GermanLemma=nur
 5	s'	_	DET	_	_	6	det	_	GermanLemma=das|SpaceAfter=No
 6	wichtigste	_	ADJ	_	_	2	obj	_	GermanLemma=wichtig
@@ -16012,7 +16012,7 @@
 # location = South Tyrol
 1	Buach	_	VERB	_	_	0	root	_	GermanLemma=buchen
 2	für	_	ADP	_	_	3	case	_	GermanLemma=für
-3	mi	_	PRON	_	_	1	obl	_	GermanLemma=mich
+3	mi	_	PRON	_	_	1	obl	_	GermanLemma=ich
 4	und	_	CCONJ	_	_	6	cc	_	GermanLemma=und
 5	mein	_	DET	_	_	6	det:poss	_	GermanLemma=mein
 6	Stiefonkel	_	NOUN	_	_	3	nmod	_	GermanLemma=Stiefonkel
@@ -16031,7 +16031,7 @@
 # dialect_group = south
 # location = South Tyrol
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	expl:pv	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	expl:pv	_	GermanLemma=ich
 3	an	_	ADP	_	_	5	case	_	GermanLemma=an
 4	di	_	DET	_	_	5	det	_	GermanLemma=die
 5	Hochzeit	_	NOUN	_	_	1	obl	_	GermanLemma=Hochzeit
@@ -16043,7 +16043,7 @@
 # dialect_group = south
 # location = South Tyrol
 1	erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	expl:pv	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	expl:pv	_	GermanLemma=ich
 3	heint	_	ADV	_	_	1	advmod	_	GermanLemma=heute
 4	gschnochts	_	ADV	_	_	1	advmod	_	GermanLemma=abends
 5	Milch	_	NOUN	_	_	1	obj	_	GermanLemma=Milch
@@ -16057,7 +16057,7 @@
 # dialect_group = south
 # location = South Tyrol
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	expl:pv	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	expl:pv	_	GermanLemma=ich
 3	Mama	_	PROPN	_	_	1	obj	_	GermanLemma=Mama
 4	heint	_	ADV	_	_	1	advmod	_	GermanLemma=heute
 5	nomittog	_	ADV	_	_	1	advmod	_	GermanLemma=nachmittag
@@ -16072,7 +16072,7 @@
 # dialect_group = south
 # location = South Tyrol
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	expl:pv	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	expl:pv	_	GermanLemma=ich
 3	morgn	_	ADV	_	_	1	advmod	_	GermanLemma=morgen
 4	um	_	ADP	_	_	5	case	_	GermanLemma=um
 5	7:30	_	NUM	_	_	1	obl	_	GermanLemma=7:30
@@ -16152,7 +16152,7 @@
 7	Uhr	_	NOUN	_	_	2	obl	_	GermanLemma=Uhr|SpaceAfter=No
 8	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 9	um	_	ADP	_	_	13	mark	_	GermanLemma=um
-10	mi	_	PRON	_	_	13	expl:pv	_	GermanLemma=mich
+10	mi	_	PRON	_	_	13	expl:pv	_	GermanLemma=ich
 11	drun	_	ADV	_	_	13	advmod	_	GermanLemma=dran
 12	zi	_	PART	_	_	13	mark	_	GermanLemma=zu
 13	erinnern	_	VERB	_	_	2	advcl	_	GermanLemma=erinnern|SpaceAfter=No
@@ -16244,7 +16244,7 @@
 # dialect_group = south
 # location = South Tyrol
 1	Konnsch	_	AUX	_	_	3	aux	_	GermanLemma=können
-2	mir	_	PRON	_	_	3	expl:pv	_	GermanLemma=mir
+2	mir	_	PRON	_	_	3	expl:pv	_	GermanLemma=ich
 3	sogn	_	VERB	_	_	0	root	_	GermanLemma=sagen
 4	wia	_	SCONJ	_	_	8	mark	_	GermanLemma=wie
 5	es	_	DET	_	_	6	det	_	GermanLemma=das
@@ -16344,7 +16344,7 @@
 # dialect_group = south
 # location = South Tyrol
 1	Sog	_	VERB	_	_	0	root	_	GermanLemma=sagen
-2	mir	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	mir	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	die	_	DET	_	_	4	det	_	GermanLemma=die
 4	Wettervorhersoge	_	NOUN	_	_	1	obj	_	GermanLemma=Wettervorhersage
 5	für	_	ADP	_	_	9	case	_	GermanLemma=für
@@ -16608,7 +16608,7 @@
 # dialect_group = south
 # location = South Tyrol
 1	Zoag	_	VERB	_	_	0	root	_	GermanLemma=zeigen
-2	mir	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	mir	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	olle	_	DET	_	_	5	det	_	GermanLemma=alle
 4	meine	_	DET	_	_	5	det:poss	_	GermanLemma=mein
 5	Weckzeiten	_	NOUN	_	_	1	obj	_	GermanLemma=Weckzeit
@@ -16750,7 +16750,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Dua	_	VERB	_	_	0	root	_	GermanLemma=tun
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	des	_	DET	_	_	4	det	_	GermanLemma=das
 4	Liad	_	NOUN	_	_	1	obj	_	GermanLemma=Lied
 5	in	_	ADP	_	_	7	case	_	GermanLemma=in
@@ -16776,7 +16776,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Spui	_	VERB	_	_	0	root	_	GermanLemma=spielen
-2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	des	_	DET	_	_	4	det	_	GermanLemma=das
 4	liad	_	NOUN	_	_	1	obj	_	GermanLemma=Lied
 5-6	vom	_	_	_	_	_	_	_	_
@@ -16897,14 +16897,14 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Dads	_	AUX	_	_	18	aux	_	GermanLemma=tun
-2	ma	_	PRON	_	_	18	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	18	obl:arg	_	GermanLemma=ich
 3	„	_	PUNCT	_	_	5	punct	_	GermanLemma=„|SpaceAfter=No
 4	I	_	PRON	_	_	5	nsubj	_	GermanLemma=ich
 5	sing	_	VERB	_	_	18	obj	_	GermanLemma=singen
 6	a	_	DET	_	_	7	det	_	GermanLemma=ein
 7	Liad	_	NOUN	_	_	5	obj	_	GermanLemma=Liad
 8	fia	_	ADP	_	_	9	case	_	GermanLemma=für
-9	di	_	PRON	_	_	7	nmod	_	GermanLemma=dich|SpaceAfter=No
+9	di	_	PRON	_	_	7	nmod	_	GermanLemma=du|SpaceAfter=No
 10	“	_	PUNCT	_	_	5	punct	_	GermanLemma=“
 11-12	vom	_	_	_	_	_	_	_	_
 11	vo	_	ADP	_	_	13	case	_	GermanLemma=von
@@ -16989,7 +16989,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Reservier	_	VERB	_	_	0	root	_	GermanLemma=reservieren
-2	mia	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	mia	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	an	_	DET	_	_	4	det	_	GermanLemma=ein
 4	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
 5	für	_	ADP	_	_	7	case	_	GermanLemma=für
@@ -17033,7 +17033,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	reservierst	_	VERB	_	_	0	root	_	GermanLemma=reservieren
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	bitte	_	ADV	_	_	1	advmod	_	GermanLemma=bitte
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
@@ -17115,7 +17115,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Reservier	_	VERB	_	_	0	root	_	GermanLemma=reservieren
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	bitte	_	ADV	_	_	1	advmod	_	GermanLemma=bitte
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
@@ -17135,7 +17135,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	kaunst	_	AUX	_	_	11	aux	_	GermanLemma=können
-2	ma	_	PRON	_	_	11	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	11	obl:arg	_	GermanLemma=ich
 3	du	_	PRON	_	_	11	nsubj	_	GermanLemma=du
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	tisch	_	NOUN	_	_	11	obj	_	GermanLemma=Tisch
@@ -17153,7 +17153,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Spui	_	VERB	_	_	0	root	_	GermanLemma=spielen
-2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	lost	_	PROPN	_	_	1	obj	_	GermanLemma=Lost
 4	von	_	ADP	_	_	5	case	_	GermanLemma=von
 5	linkin	_	PROPN	_	_	3	nmod	_	GermanLemma=Linkin
@@ -17165,7 +17165,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Spui	_	VERB	_	_	0	root	_	GermanLemma=spielen
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	Rockmusik	_	NOUN	_	_	1	obj	_	GermanLemma=Rockmusik|SpaceAfter=No
 4	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
 
@@ -17225,7 +17225,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Spü	_	VERB	_	_	0	root	_	GermanLemma=spielen
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	bitte	_	ADV	_	_	1	advmod	_	GermanLemma=bitte
 4	irgendwos	_	PRON	_	_	1	obj	_	GermanLemma=irgendwas
 5	von	_	ADP	_	_	6	case	_	GermanLemma=von
@@ -17237,7 +17237,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	spui	_	VERB	_	_	0	root	_	GermanLemma=spielen
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	moi	_	DET	_	_	4	det:poss	_	GermanLemma=mal
 4	Rockmusik	_	NOUN	_	_	1	obj	_	GermanLemma=Rockmusik|SpaceAfter=No
 5	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
@@ -17762,7 +17762,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	weck	_	VERB	_	_	0	root	_	GermanLemma=wecken
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	moing	_	ADV	_	_	1	advmod	_	GermanLemma=morgen
 4	doch	_	ADV	_	_	5	advmod	_	GermanLemma=doch
 5	ned	_	PART	_	_	1	advmod	_	GermanLemma=nicht
@@ -17884,7 +17884,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	weck	_	VERB	_	_	0	root	_	GermanLemma=wecken
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	moing	_	ADV	_	_	1	advmod	_	GermanLemma=morgen
 4	doch	_	ADV	_	_	1	advmod	_	GermanLemma=doch
 5	liaba	_	ADV	_	_	1	advmod	_	GermanLemma=lieber
@@ -17981,7 +17981,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Reservier	_	VERB	_	_	0	root	_	GermanLemma=reservieren
-2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	doch	_	ADV	_	_	1	advmod	_	GermanLemma=doch
 4	an	_	DET	_	_	5	det	_	GermanLemma=ein
 5	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
@@ -17989,7 +17989,7 @@
 7	Oiching	_	PROPN	_	_	5	nmod	_	GermanLemma=Eiching
 8	am	_	ADP	_	_	9	reparandum	_	GermanLemma=am
 9	für	_	ADP	_	_	11	case	_	GermanLemma=für
-10	uns	_	PRON	_	_	11	det	_	GermanLemma=uns
+10	uns	_	PRON	_	_	11	det	_	GermanLemma=wir
 11	fünfe	_	NUM	_	_	5	nmod	_	GermanLemma=fünf
 
 # sent_id = sid_de-ba_natural_213
@@ -18035,7 +18035,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	bstoi	_	VERB	_	_	0	root	_	GermanLemma=bestellen
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	an	_	DET	_	_	4	det	_	GermanLemma=ein
 4	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
 5-6	beim	_	_	_	_	_	_	_	_
@@ -18054,7 +18054,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Resavia	_	VERB	_	_	0	root	_	GermanLemma=reservieren
-2	mia	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	mia	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	an	_	DET	_	_	4	det	_	GermanLemma=ein
 4	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
 5	um	_	ADP	_	_	6	case	_	GermanLemma=um
@@ -18069,7 +18069,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Spui	_	VERB	_	_	0	root	_	GermanLemma=spielen
-2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	wos	_	PRON	_	_	1	obj	_	GermanLemma=was
 4	von	_	ADP	_	_	6	case	_	GermanLemma=von
 5	de	_	DET	_	_	6	det	_	GermanLemma=die
@@ -18106,7 +18106,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Spui	_	VERB	_	_	0	root	_	GermanLemma=spielen
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	wos	_	PRON	_	_	1	obj	_	GermanLemma=was
 4	romantisches	_	ADJ	_	_	3	amod	_	GermanLemma=romantisch
 
@@ -18123,7 +18123,7 @@
 5	Irlmayer	_	PROPN	_	_	2	nmod	_	GermanLemma=Irlmayer
 6	griagt	_	VERB	_	_	0	root	_	GermanLemma=kriegen
 7	von	_	ADP	_	_	8	case	_	GermanLemma=von
-8	mia	_	PRON	_	_	6	obl	_	GermanLemma=mir
+8	mia	_	PRON	_	_	6	obl	_	GermanLemma=ich
 9	5	_	NUM	_	_	10	nummod	_	GermanLemma=5
 10	Sterndal	_	NOUN	_	_	6	obj	_	GermanLemma=Stern
 
@@ -18369,7 +18369,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Weck	_	VERB	_	_	0	root	_	GermanLemma=wecken
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	morgn	_	ADV	_	_	1	advmod	_	GermanLemma=morgen
 4	um	_	ADP	_	_	5	case	_	GermanLemma=um
 5	sime	_	NUM	_	_	1	obl	_	GermanLemma=sieben
@@ -18409,7 +18409,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Weck	_	VERB	_	_	0	root	_	GermanLemma=wecken
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	morgn	_	ADV	_	_	1	advmod	_	GermanLemma=morgen
 4	erst	_	ADV	_	_	1	advmod	_	GermanLemma=erst
 5	um	_	ADP	_	_	6	case	_	GermanLemma=um
@@ -18478,9 +18478,9 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Sog	_	VERB	_	_	0	root	_	GermanLemma=sagen
-2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	wannst	_	SCONJ	_	_	5	mark	_	GermanLemma=wann
-4	mi	_	PRON	_	_	5	obj	_	GermanLemma=mich
+4	mi	_	PRON	_	_	5	obj	_	GermanLemma=ich
 5	auweckn	_	VERB	_	_	1	ccomp	_	GermanLemma=aufwecken
 6	konnst	_	AUX	_	_	5	aux	_	GermanLemma=können
 
@@ -18549,7 +18549,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	zoag	_	VERB	_	_	0	root	_	GermanLemma=zeigen
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	mein	_	DET	_	_	4	det:poss	_	GermanLemma=mein
 4	Wecka	_	NOUN	_	_	1	obj	_	GermanLemma=Wecker|SpaceAfter=No
 5	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
@@ -18560,7 +18560,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Weck	_	VERB	_	_	0	root	_	GermanLemma=wecken
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	in	_	ADP	_	_	5	case	_	GermanLemma=in
 4	zehn	_	NUM	_	_	5	nummod	_	GermanLemma=zehn
 5	Minutn	_	NOUN	_	_	1	obl	_	GermanLemma=Minute
@@ -18663,7 +18663,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Lösch	_	VERB	_	_	0	root	_	GermanLemma=löschen
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	de	_	DET	_	_	4	det	_	GermanLemma=die
 4	Erinnerung	_	NOUN	_	_	1	obj	_	GermanLemma=Erinnerung
 5	de	_	PRON	_	_	7	obj	_	GermanLemma=die
@@ -18722,7 +18722,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	dass	_	SCONJ	_	_	10	mark	_	GermanLemma=dass
 4	i	_	PRON	_	_	10	nsubj	_	GermanLemma=ich
 5	in	_	ADP	_	_	7	case	_	GermanLemma=in
@@ -18739,7 +18739,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	moi	_	ADV	_	_	1	advmod	_	GermanLemma=mal
 4	in	_	ADP	_	_	7	case	_	GermanLemma=in
 5	a	_	DET	_	_	7	det	_	GermanLemma=eine
@@ -18759,7 +18759,7 @@
 # dialect_group = unk (central/southcentral/south)
 # location = unk
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich|SpaceAfter=No
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich|SpaceAfter=No
 3	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
 4	dass	_	SCONJ	_	_	14	mark	_	GermanLemma=dass
 5	i	_	PRON	_	_	14	nsubj	_	GermanLemma=ich
@@ -18882,7 +18882,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Zoag	_	VERB	_	_	0	root	_	GermanLemma=zeigen
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	olle	_	DET	_	_	4	det	_	GermanLemma=alle
 4	Erinnerungen	_	NOUN	_	_	1	obj	_	GermanLemma=Erinnerung
 
@@ -18903,7 +18903,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Stei	_	VERB	_	_	0	root	_	GermanLemma=stellen
-2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=mir
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	a	_	DET	_	_	4	det	_	GermanLemma=eine
 4	Erinnerung	_	NOUN	_	_	1	obj	_	GermanLemma=Erinnerung
 5	füa	_	ADP	_	_	6	case	_	GermanLemma=für
@@ -18919,7 +18919,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	zu	_	PART	_	_	4	mark	_	GermanLemma=zu
 4	tankn	_	VERB	_	_	1	xcomp	_	GermanLemma=tanken|SpaceAfter=No
 5	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
@@ -18991,7 +18991,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obl:arg	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
 3	mit	_	ADP	_	_	4	case	_	GermanLemma=mit
 4	Ben	_	PROPN	_	_	8	obl	_	GermanLemma=Ben
 5	über	_	ADP	_	_	6	case	_	GermanLemma=über
@@ -19029,7 +19029,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	mei	_	DET	_	_	4	det:poss	_	GermanLemma=meine
 4	Schwesta	_	NOUN	_	_	6	obj	_	GermanLemma=Schwester
 5	moang	_	ADV	_	_	6	advmod	_	GermanLemma=morgen
@@ -19101,7 +19101,7 @@
 # location = Upper Bavaria
 1	Konnst	_	AUX	_	_	6	aux	_	GermanLemma=können
 2	du	_	PRON	_	_	6	nsubj	_	GermanLemma=du
-3	mia	_	PRON	_	_	6	obl:arg	_	GermanLemma=mir
+3	mia	_	PRON	_	_	6	obl:arg	_	GermanLemma=ich
 4	de	_	DET	_	_	5	det	_	GermanLemma=die
 5	Wegga	_	NOUN	_	_	6	obj	_	GermanLemma=Wecker
 6	ozoagn	_	VERB	_	_	0	root	_	GermanLemma=anzeigen|SpaceAfter=No
@@ -19248,7 +19248,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	moang	_	ADV	_	_	1	advmod	_	GermanLemma=morgen
 4	zu	_	ADP	_	_	6	case	_	GermanLemma=zu
 5	dera	_	DET	_	_	6	det	_	GermanLemma=diese
@@ -19263,7 +19263,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	de	_	DET	_	_	4	det	_	GermanLemma=die
 4	Miete	_	NOUN	_	_	5	obj	_	GermanLemma=Miete
 5	abzusetzen	_	VERB	_	_	1	xcomp	_	GermanLemma=absetzen
@@ -19286,7 +19286,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	d	_	DET	_	_	4	det	_	GermanLemma=die
 4	Stephanie	_	PROPN	_	_	8	obj	_	GermanLemma=Stephanie
 5-6	am	_	_	_	_	_	_	_	_
@@ -19327,7 +19327,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3-4	am	_	_	_	_	_	_	_	_
 3	a	_	ADP	_	_	6	case	_	GermanLemma=an
 4	m	_	DET	_	_	6	det	_	GermanLemma=der
@@ -19418,7 +19418,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	eikaufa	_	VERB	_	_	1	xcomp	_	GermanLemma=einkaufen
 4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	PART	_	_	6	mark	_	GermanLemma=zu
@@ -19469,7 +19469,7 @@
 5	zruck	_	ADP	_	_	1	compound:prt	_	GermanLemma=zurück
 6	und	_	CCONJ	_	_	7	cc	_	GermanLemma=und
 7	start	_	VERB	_	_	1	conj	_	GermanLemma=starten|SpaceAfter=No
-8	n	_	PRON	_	_	7	obj	_	GermanLemma=ihn
+8	n	_	PRON	_	_	7	obj	_	GermanLemma=er
 9	um	_	ADP	_	_	10	case	_	GermanLemma=um
 10	zwoa	_	NUM	_	_	7	obl	_	GermanLemma=zwei
 11	nammiddog	_	NOUN	_	_	10	appos	_	GermanLemma=nachmittag
@@ -19480,7 +19480,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	Miete	_	NOUN	_	_	1	obl:arg	_	GermanLemma=Miete
 4-5	zum	_	_	_	_	_	_	_	_
 4	zu	_	PART	_	_	6	mark	_	GermanLemma=zu
@@ -19591,7 +19591,7 @@
 # dialect_group = central
 # location = Upper Bavaria
 1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
 3	moang	_	ADV	_	_	1	advmod	_	GermanLemma=morgen
 4	Papiertaschentücher	_	NOUN	_	_	1	obl	_	GermanLemma=Papiertaschentuch
 5-6	im	_	_	_	_	_	_	_	_
@@ -20063,7 +20063,7 @@
 20	schaud	_	VERB	_	_	16	conj	_	GermanLemma=schauen|SpaceAfter=No
 21	,	_	PUNCT	_	_	36	punct	_	GermanLemma=,
 22	dass	_	SCONJ	_	_	36	mark	_	GermanLemma=dass
-23	eám	_	PRON	_	_	36	obl:arg	_	GermanLemma=ihm
+23	eám	_	PRON	_	_	36	obl:arg	_	GermanLemma=er
 24	da	_	DET	_	_	25	det	_	GermanLemma=der
 25	andá	_	DET	_	_	36	nsubj	_	GermanLemma=anderer
 26	2000	_	NUM	_	_	27	nummod	_	GermanLemma=2000
@@ -21213,7 +21213,7 @@
 41	"	_	PUNCT	_	_	40	punct	_	GermanLemma="
 42	(	_	PUNCT	_	_	45	punct	_	GermanLemma=(|SpaceAfter=No
 43	bei	_	ADP	_	_	44	case	_	GermanLemma=bei
-44	ins	_	PRON	_	_	45	obl	_	GermanLemma=uns
+44	ins	_	PRON	_	_	45	obl	_	GermanLemma=wir
 45	geit	_	VERB	_	_	9	parataxis	_	GermanLemma=geben|SpaceAfter=No
 46	s	_	PRON	_	_	45	expl	_	GermanLemma=es
 47	hoid	_	ADV	_	_	45	advmod	_	GermanLemma=halt
@@ -21468,7 +21468,7 @@
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Dischkrian:Bairische_Buechspraach
 1	Habds	_	VERB	_	_	0	root	_	GermanLemma=haben
-2	mi	_	PRON	_	_	1	obj	_	GermanLemma=mich|SpaceAfter=No
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich|SpaceAfter=No
 3	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_1
@@ -21611,7 +21611,7 @@
 3	esterreichischn	_	ADJ	_	_	4	amod	_	GermanLemma=österreichisch
 4	Dialekte	_	NOUN	_	_	5	obl	_	GermanLemma=Dialekt
 5	kenna	_	VERB	_	_	0	root	_	GermanLemma=kennen|SpaceAfter=No
-6	me	_	PRON	_	_	5	expl:pv	_	GermanLemma=mich
+6	me	_	PRON	_	_	5	expl:pv	_	GermanLemma=ich
 7	niat	_	PART	_	_	5	advmod	_	GermanLemma=nicht
 8	so	_	ADV	_	_	5	advmod	_	GermanLemma=so
 9	às	_	ADP	_	_	5	compound:prt	_	GermanLemma=aus|SpaceAfter=No
@@ -21802,7 +21802,7 @@
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
 1	Dank	_	VERB	_	_	0	root	_	GermanLemma=danken
-2	da	_	PRON	_	_	1	obl:arg	_	GermanLemma=dir
+2	da	_	PRON	_	_	1	obl:arg	_	GermanLemma=du
 3	recht	_	ADV	_	_	4	advmod	_	GermanLemma=recht
 4	schee	_	ADJ	_	_	1	advmod	_	GermanLemma=schön
 5	für	_	ADP	_	_	7	case	_	GermanLemma=für
@@ -21939,7 +21939,7 @@
 10	ko	_	AUX	_	_	9	aux	_	GermanLemma=können
 11	dààd	_	AUX	_	_	16	aux	_	GermanLemma=tun
 12	i	_	PRON	_	_	16	nsubj	_	GermanLemma=ich
-13	mi	_	PRON	_	_	16	expl:pv	_	GermanLemma=mich
+13	mi	_	PRON	_	_	16	expl:pv	_	GermanLemma=ich
 14	òba	_	ADV	_	_	16	advmod	_	GermanLemma=aber
 15	scho	_	ADV	_	_	16	advmod	_	GermanLemma=schon
 16	intressiern	_	VERB	_	_	0	root	_	GermanLemma=interessieren|SpaceAfter=No
@@ -22003,7 +22003,7 @@
 6	ra	_	DET	_	_	7	det	_	GermanLemma=eine
 7	Installationsdatei	_	NOUN	_	_	4	nmod	_	GermanLemma=Installationsdatei
 8	hòd	_	AUX	_	_	14	aux	_	GermanLemma=haben
-9	me	_	PRON	_	_	14	obj	_	GermanLemma=mich
+9	me	_	PRON	_	_	14	obj	_	GermanLemma=ich
 10	scho	_	ADV	_	_	14	advmod	_	GermanLemma=schon
 11	wieda	_	ADV	_	_	14	advmod	_	GermanLemma=wieder
 12	s'	_	DET	_	_	13	det	_	GermanLemma=das
@@ -22102,7 +22102,7 @@
 # source = https://bar.wikipedia.org/wiki/Dischkrian:Bsundaheitn_im_boarischn_Vokabular
 1	Du	_	PRON	_	_	7	nsubj	_	GermanLemma=du
 2	konnst	_	AUX	_	_	7	aux	_	GermanLemma=können
-3	mi	_	PRON	_	_	7	obj	_	GermanLemma=mich
+3	mi	_	PRON	_	_	7	obj	_	GermanLemma=ich
 4	fei	_	ADV	_	_	7	advmod	_	GermanLemma=fei/wirklich
 5	scho	_	ADV	_	_	7	advmod	_	GermanLemma=schon
 6	direkt	_	ADJ	_	_	7	advmod	_	GermanLemma=direkt
@@ -22200,7 +22200,7 @@
 16	stejt	_	VERB	_	_	0	root	_	GermanLemma=stellen
 17	se	_	PRON	_	_	16	expl:pv	_	GermanLemma=sich
 18	fir	_	ADP	_	_	19	case	_	GermanLemma=für
-19	mi	_	PRON	_	_	16	obl	_	GermanLemma=mich
+19	mi	_	PRON	_	_	16	obl	_	GermanLemma=ich
 20	de	_	DET	_	_	21	det	_	GermanLemma=die
 21	Frog	_	NOUN	_	_	16	nsubj	_	GermanLemma=Frage|SpaceAfter=No
 22	,	_	PUNCT	_	_	32	punct	_	GermanLemma=,
@@ -22691,7 +22691,7 @@
 17	heart	_	VERB	_	_	2	conj	_	GermanLemma=hören
 18	se	_	PRON	_	_	17	expl:pv	_	GermanLemma=sich
 19	fir	_	ADP	_	_	20	case	_	GermanLemma=für
-20	mi	_	PRON	_	_	17	obl	_	GermanLemma=mich
+20	mi	_	PRON	_	_	17	obl	_	GermanLemma=ich
 21	vui	_	ADV	_	_	23	advmod	_	GermanLemma=viel
 22	z'	_	ADV	_	_	23	advmod	_	GermanLemma=zu|SpaceAfter=No
 23	harmlos	_	ADJ	_	_	17	advmod	_	GermanLemma=harmlos
@@ -22774,7 +22774,7 @@
 3	sei	_	VERB	_	_	0	root	_	GermanLemma=sein|SpaceAfter=No
 4	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
 5	doss	_	SCONJ	_	_	8	mark	_	GermanLemma=dass
-6	eam	_	PRON	_	_	8	obl:arg	_	GermanLemma=ihn
+6	eam	_	PRON	_	_	8	obl:arg	_	GermanLemma=er
 7	wos	_	PRON	_	_	8	nsubj	_	GermanLemma=was
 8	bassiat	_	VERB	_	_	3	csubj	_	GermanLemma=passieren
 9	is	_	AUX	_	_	8	aux	_	GermanLemma=sein|SpaceAfter=No
@@ -22805,7 +22805,7 @@
 10	aussegschickt	_	VERB	_	_	0	root	_	GermanLemma=rausschicken|SpaceAfter=No
 11	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
 12	wo	_	SCONJ	_	_	14	mark	_	GermanLemma=wo
-13	eam	_	PRON	_	_	14	obj	_	GermanLemma=ihn
+13	eam	_	PRON	_	_	14	obj	_	GermanLemma=er
 14	suacha	_	VERB	_	_	9	acl:relcl	_	GermanLemma=suchen
 15	soitn	_	AUX	_	_	14	aux	_	GermanLemma=sollen|SpaceAfter=No
 16	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
