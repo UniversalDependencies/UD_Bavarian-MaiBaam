@@ -349,7 +349,7 @@
 20	,	_	PUNCT	_	_	21	punct	_	GermanLemma=,
 21	Erdba	_	NOUN	_	_	15	conj	_	GermanLemma=Erdbeere|SpaceAfter=No
 22	,	_	PUNCT	_	_	23	punct	_	GermanLemma=,
-23	Ribisl	_	NOUN	_	_	15	conj	_	GermanLemma=Ribisl/Johannisbeere
+23	Ribisl	_	NOUN	_	_	15	conj	_	GermanLemma=Johannisbeere
 24	etc.	_	NOUN	_	_	15	conj	_	GermanLemma=etc.|SpaceAfter=No
 25	)	_	PUNCT	_	_	14	punct	_	GermanLemma=)|SpaceAfter=No
 26	,	_	PUNCT	_	_	27	punct	_	GermanLemma=,
@@ -439,7 +439,7 @@
 10	gwohnt	_	VERB	_	_	0	root	_	GermanLemma=wohnen|SpaceAfter=No
 11	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 12	der	_	PRON	_	_	19	nsubj	_	GermanLemma=der
-13	nix	_	PRON	_	_	19	obj	_	GermanLemma=nix/nichts
+13	nix	_	PRON	_	_	19	obj	_	GermanLemma=nichts
 14-15	zum	_	_	_	_	_	_	_	_
 14	zu	_	PART	_	_	16	mark	_	GermanLemma=zu
 15	m	_	DET	_	_	16	det	_	GermanLemma=das
@@ -661,7 +661,7 @@
 # source = https://bar.wikipedia.org/wiki/Text:Hansl_und_Gretl
 1	Sie	_	PRON	_	_	3	nsubj	_	GermanLemma=sie
 2	hod	_	AUX	_	_	3	aux	_	GermanLemma=haben
-3	rumbenzt	_	VERB	_	_	0	root	_	GermanLemma=rumbenzen/rumjammern|SpaceAfter=No
+3	rumbenzt	_	VERB	_	_	0	root	_	GermanLemma=rumjammern|SpaceAfter=No
 4	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
 5	bis	_	SCONJ	_	_	8	mark	_	GermanLemma=bis
 6	a	_	PRON	_	_	8	nsubj	_	GermanLemma=er
@@ -721,7 +721,7 @@
 11	und	_	CCONJ	_	_	14	cc	_	GermanLemma=und
 12	hod	_	AUX	_	_	14	aux	_	GermanLemma=haben
 13	furchtbar	_	ADJ	_	_	14	advmod	_	GermanLemma=furchtbar
-14	trenzt	_	VERB	_	_	4	conj	_	GermanLemma=trenzen/weinen|SpaceAfter=No
+14	trenzt	_	VERB	_	_	4	conj	_	GermanLemma=weinen|SpaceAfter=No
 15	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
 
 # sent_id = wikisource_Hansl-und-Gretl_10
@@ -751,7 +751,7 @@
 6	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
 7	mach	_	VERB	_	_	3	parataxis	_	GermanLemma=machen
 8	da	_	PRON	_	_	7	expl:pv	_	GermanLemma=dir
-9	nix	_	PRON	_	_	7	obj	_	GermanLemma=nix/nichts
+9	nix	_	PRON	_	_	7	obj	_	GermanLemma=nichts
 10	draus	_	ADV	_	_	7	advmod	_	GermanLemma=daraus|SpaceAfter=No
 11	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 12	i	_	PRON	_	_	13	nsubj	_	GermanLemma=ich
@@ -1087,7 +1087,7 @@
 22	sitz	_	VERB	_	_	14	acl:relcl	_	GermanLemma=sitzen
 23	und	_	CCONJ	_	_	26	cc	_	GermanLemma=und
 24	mia	_	PRON	_	_	26	obl:arg	_	GermanLemma=mir
-25	Bfiade	_	INTJ	_	_	26	obj	_	GermanLemma=Pfiade/Tschüss
+25	Bfiade	_	INTJ	_	_	26	obj	_	GermanLemma=Tschüss
 26	song	_	VERB	_	_	22	conj	_	GermanLemma=sagen
 27	wui	_	AUX	_	_	26	aux	_	GermanLemma=wollen|SpaceAfter=No
 28	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.|SpaceAfter=No
@@ -1222,7 +1222,7 @@
 8	kloana	_	ADJ	_	_	9	amod	_	GermanLemma=klein
 9	Haufa	_	NOUN	_	_	12	obj	_	GermanLemma=Haufen
 10	voia	_	ADJ	_	_	11	amod	_	GermanLemma=voll
-11	Wied	_	NOUN	_	_	9	nmod	_	GermanLemma=Wied/Reisig
+11	Wied	_	NOUN	_	_	9	nmod	_	GermanLemma=Reisig
 12	zsamdrong	_	VERB	_	_	0	root	_	GermanLemma=zusammentragen|SpaceAfter=No
 13	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
 
@@ -1357,7 +1357,7 @@
 # source = https://bar.wikipedia.org/wiki/Text:Hansl_und_Gretl
 1	Ois	_	SCONJ	_	_	5	mark	_	GermanLemma=als
 2	dann	_	ADV	_	_	5	advmod	_	GermanLemma=dann
-3	dumpere	_	ADJ	_	_	4	amod	_	GermanLemma=dumper/dunkel
+3	dumpere	_	ADJ	_	_	4	amod	_	GermanLemma=dunkel
 4	Nacht	_	NOUN	_	_	5	nsubj	_	GermanLemma=Nacht
 5	wordn	_	VERB	_	_	11	advcl	_	GermanLemma=werden
 6	is	_	AUX	_	_	5	aux	_	GermanLemma=sein|SpaceAfter=No
@@ -1367,7 +1367,7 @@
 10	Gretl	_	PROPN	_	_	11	nsubj	_	GermanLemma=Gretel
 11	ofangt	_	VERB	_	_	0	root	_	GermanLemma=anfangen
 12	z'	_	PART	_	_	13	mark	_	GermanLemma=zu|SpaceAfter=No
-13	trenzn	_	VERB	_	_	11	xcomp	_	GermanLemma=trenzen/weinen|SpaceAfter=No
+13	trenzn	_	VERB	_	_	11	xcomp	_	GermanLemma=weinen|SpaceAfter=No
 14	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 15	owa	_	CCONJ	_	_	19	cc	_	GermanLemma=aber
 16	da	_	DET	_	_	17	det	_	GermanLemma=der
@@ -2937,7 +2937,7 @@
 11	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
 12	aus	_	ADP	_	_	14	case	_	GermanLemma=aus
 13	an	_	DET	_	_	14	det	_	GermanLemma=ein
-14	Haferl	_	NOUN	_	_	2	obl	_	GermanLemma=Haferl/Tasse|SpaceAfter=No
+14	Haferl	_	NOUN	_	_	2	obl	_	GermanLemma=Tasse|SpaceAfter=No
 15	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = wiki_Haferltarock_42
@@ -2982,7 +2982,7 @@
 11-12	ausn	_	_	_	_	_	_	_	_
 11	aus	_	ADP	_	_	13	case	_	GermanLemma=aus
 12	n	_	DET	_	_	13	det	_	GermanLemma=das
-13	Haferl	_	NOUN	_	_	16	obl	_	GermanLemma=Haferl/Tasse
+13	Haferl	_	NOUN	_	_	16	obl	_	GermanLemma=Tasse
 14	a	_	DET	_	_	15	det	_	GermanLemma=ein
 15	Fümferl	_	NOUN	_	_	16	obj	_	GermanLemma=Fünferl/5-Cent-Münze
 16	aussadou	_	VERB	_	_	0	root	_	GermanLemma=raustun|SpaceAfter=No
@@ -3048,7 +3048,7 @@
 22-23	ausn	_	_	_	_	_	_	_	_
 22	aus	_	ADP	_	_	24	case	_	GermanLemma=aus
 23	n	_	DET	_	_	24	det	_	GermanLemma=das
-24	haferl	_	NOUN	_	_	21	nmod	_	GermanLemma=Haferl/Tasse
+24	haferl	_	NOUN	_	_	21	nmod	_	GermanLemma=Tasse
 25	nemma	_	VERB	_	_	14	parataxis	_	GermanLemma=nehmen|SpaceAfter=No
 26	.	_	PUNCT	_	_	14	punct	_	GermanLemma=.
 
@@ -3086,7 +3086,7 @@
 26	vui	_	DET	_	_	27	det	_	GermanLemma=viel
 27	Fümfaln	_	NOUN	_	_	30	obj	_	GermanLemma=Fünferl/5-Cent-Münze
 28	aus	_	ADP	_	_	29	case	_	GermanLemma=aus
-29	Haferl	_	NOUN	_	_	27	nmod	_	GermanLemma=Haferl/Tasse
+29	Haferl	_	NOUN	_	_	27	nmod	_	GermanLemma=Tasse
 30	nemma	_	VERB	_	_	13	parataxis	_	GermanLemma=nehmen|SpaceAfter=No
 31	.	_	PUNCT	_	_	13	punct	_	GermanLemma=.
 
@@ -3118,7 +3118,7 @@
 # source = https://bar.wikipedia.org/wiki/Haferltarock
 1	Wenn	_	SCONJ	_	_	4	mark	_	GermanLemma=wenn
 2	s'	_	DET	_	_	3	det	_	GermanLemma=das|SpaceAfter=No
-3	Haferl	_	NOUN	_	_	4	nsubj	_	GermanLemma=Haferl/Tasse
+3	Haferl	_	NOUN	_	_	4	nsubj	_	GermanLemma=Tasse
 4	laar	_	ADJ	_	_	18	advcl	_	GermanLemma=leer
 5	is	_	AUX	_	_	4	cop	_	GermanLemma=sein
 6	owa	_	CCONJ	_	_	12	cc	_	GermanLemma=oder
@@ -3186,7 +3186,7 @@
 1	Dazua	_	ADV	_	_	9	advmod	_	GermanLemma=dazu
 2	wiad	_	AUX	_	_	9	aux:pass	_	GermanLemma=werden
 3	oft	_	ADV	_	_	9	advmod	_	GermanLemma=oft
-4	Germ	_	NOUN	_	_	9	nsubj:pass	_	GermanLemma=Germ/Hefe
+4	Germ	_	NOUN	_	_	9	nsubj:pass	_	GermanLemma=Hefe
 5	oda	_	CCONJ	_	_	6	cc	_	GermanLemma=oder
 6	Sauadag	_	NOUN	_	_	4	conj	_	GermanLemma=Sauerteig
 7	ois	_	SCONJ	_	_	8	case	_	GermanLemma=als
@@ -3273,7 +3273,7 @@
 9	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
 10	s	_	DET	_	_	11	det	_	GermanLemma=das
 11	Innare	_	ADJ	_	_	7	conj	_	GermanLemma=Innere
-12	Schmoin	_	NOUN	_	_	11	orphan	_	GermanLemma=Schmolle/Krume|SpaceAfter=No
+12	Schmoin	_	NOUN	_	_	11	orphan	_	GermanLemma=Krume|SpaceAfter=No
 13	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
 
 # sent_id = wiki_Brod_8
@@ -3366,7 +3366,7 @@
 1	Den	_	DET	_	_	3	det	_	GermanLemma=den
 2	oan	_	DET	_	_	3	det	_	GermanLemma=ein
 3	Famülineignam	_	NOUN	_	_	4	obj	_	GermanLemma=Familienname
-4	vahunzt	_	VERB	_	_	0	root	_	GermanLemma=verhunzen/verunstalten
+4	vahunzt	_	VERB	_	_	0	root	_	GermanLemma=verhunzen
 5	ma	_	PRON	_	_	4	nsubj	_	GermanLemma=man
 6	ned	_	PART	_	_	4	advmod	_	GermanLemma=nicht|SpaceAfter=No
 7	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
@@ -4165,7 +4165,7 @@
 7	Lindwurm	_	NOUN	_	_	12	nsubj	_	GermanLemma=Lindwurm
 8	(	_	PUNCT	_	_	10	punct	_	GermanLemma=(|SpaceAfter=No
 9	da	_	DET	_	_	10	det	_	GermanLemma=der
-10	Tatzlwurm	_	PROPN	_	_	7	appos	_	GermanLemma=Tatzlwurm|SpaceAfter=No
+10	Tatzlwurm	_	PROPN	_	_	7	appos	_	GermanLemma=Tatzelwurm|SpaceAfter=No
 11	)	_	PUNCT	_	_	10	punct	_	GermanLemma=)
 12	gleeb	_	VERB	_	_	0	root	_	GermanLemma=leben|SpaceAfter=No
 13	,	_	PUNCT	_	_	20	punct	_	GermanLemma=,
@@ -11113,7 +11113,7 @@
 3-4	mitm	_	_	_	_	_	_	_	_
 3	mit	_	ADP	_	_	5	case	_	GermanLemma=mit
 4	m	_	DET	_	_	5	det	_	GermanLemma=das
-5	Auzahn	_	NOUN	_	_	6	obl	_	GermanLemma=Anziehen/Beeilen
+5	Auzahn	_	NOUN	_	_	6	obl	_	GermanLemma=Beeilen
 6	host'	_	VERB	_	_	0	root	_	GermanLemma=haben
 7	es	_	PRON	_	_	6	obj	_	GermanLemma=es
 8	net	_	PART	_	_	6	advmod	_	GermanLemma=nicht
