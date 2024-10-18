@@ -17,7 +17,7 @@ We include sentence-level metadata:
 
 The `sent_id`s indicate what source a sentence was taken from (see below).
 
-The `MISC` column contains manually annotated German-language lemmas (`GermanLemma=...`) and, where appropriate, `SpaceAfter=No`.
+The `MISC` column contains manually annotated German-language lemmas (`GermanLemma=...`). Unknown lemmas are annotated with `GermanLemma=<unknown>`.
 
 # Acknowledgments
 

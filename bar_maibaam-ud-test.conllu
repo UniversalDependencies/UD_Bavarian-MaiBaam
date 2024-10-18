@@ -3407,7 +3407,7 @@
 # source = https://bar.wikipedia.org/wiki/Dischkrian:%C3%96denburg
 1	Bessad	_	VERB	_	_	0	root	_	GermanLemma=bessern
 2	des	_	PRON	_	_	1	obj	_	GermanLemma=das
-3	bitschen	_	ADJ	_	_	1	advmod	_	GermanLemma=bitteschön
+3	bitschen	_	ADV	_	_	1	advmod	_	GermanLemma=bitteschön
 4	aus	_	ADP	_	_	1	compound:prt	_	GermanLemma=aus|SpaceAfter=No
 5	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
 
@@ -3502,7 +3502,7 @@
 8	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Ödenburg_13
-# text = Ea schiasst nua maunchmoi iwas Zui a bissl ausse, moan I, wei as bsundas guad bzw.konsequent mocha wui.
+# text = Ea schiasst nua maunchmoi iwas Zui a bissl ausse, moan I, wei a s bsundas guad bzw.konsequent mocha wui.
 # genre = social
 # dialect_group = unk
 # location = unk
@@ -3521,16 +3521,17 @@
 11	,	_	PUNCT	_	_	2	punct	_	GermanLemma=,
 12	moan	_	VERB	_	_	0	root	_	GermanLemma=meinen
 13	I	_	PRON	_	_	12	nsubj	_	GermanLemma=ich|SpaceAfter=No
-14	,	_	PUNCT	_	_	21	punct	_	GermanLemma=,
-15	wei	_	SCONJ	_	_	21	mark	_	GermanLemma=weil
-16	as	_	PRON	_	_	21	obj	_	GermanLemma=er
-17	bsundas	_	ADV	_	_	18	advmod	_	GermanLemma=besonders
-18	guad	_	ADJ	_	_	21	advmod	_	GermanLemma=gut
-19	bzw.	_	CCONJ	_	_	20	cc	_	GermanLemma=beziehungsweise|SpaceAfter=No
-20	konsequent	_	ADJ	_	_	18	conj	_	GermanLemma=konsequent
-21	mocha	_	VERB	_	_	12	advcl	_	GermanLemma=machen
-22	wui	_	AUX	_	_	21	aux	_	GermanLemma=wollen|SpaceAfter=No
-23	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
+14	,	_	PUNCT	_	_	22	punct	_	GermanLemma=,
+15	wei	_	SCONJ	_	_	22	mark	_	GermanLemma=weil
+16	a	_	PRON	_	_	22	nsubj	_	GermanLemma=er
+17	s	_	PRON	_	_	22	obj	_	GermanLemma=es
+18	bsundas	_	ADV	_	_	19	advmod	_	GermanLemma=besonders
+19	guad	_	ADJ	_	_	22	advmod	_	GermanLemma=gut
+20	bzw.	_	CCONJ	_	_	21	cc	_	GermanLemma=beziehungsweise|SpaceAfter=No
+21	konsequent	_	ADJ	_	_	19	conj	_	GermanLemma=konsequent
+22	mocha	_	VERB	_	_	12	advcl	_	GermanLemma=machen
+23	wui	_	AUX	_	_	22	aux	_	GermanLemma=wollen|SpaceAfter=No
+24	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Ödenburg_14
 # text = Ea schreibt jo aa "Raumadaun" fia "Ramadan".
@@ -5378,7 +5379,7 @@
 2	Schau	_	VERB	_	_	0	root	_	GermanLemma=schauen|SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
 4	dass	_	SCONJ	_	_	6	mark	_	GermanLemma=dass
-5	d‘	_	X	_	_	4	goeswith	_	GermanLemma=du
+5	d‘	_	X	_	_	4	goeswith	_	GermanLemma=_
 6	weidakummst	_	VERB	_	_	2	ccomp	_	GermanLemma=weiterkommen|SpaceAfter=No
 7	!	_	PUNCT	_	_	2	punct	_	GermanLemma=!|SpaceAfter=No
 8	“	_	PUNCT	_	_	2	punct	_	GermanLemma=“
@@ -5392,7 +5393,7 @@
 # author = brauchinet
 1	„	_	PUNCT	_	_	5	punct	_	GermanLemma=„|SpaceAfter=No
 2	Dass	_	SCONJ	_	_	5	mark	_	GermanLemma=dass
-3	d‘	_	X	_	_	2	goeswith	_	GermanLemma=du
+3	d‘	_	X	_	_	2	goeswith	_	GermanLemma=_
 4	di	_	PRON	_	_	5	expl:pv	_	GermanLemma=dich
 5	schleichen	_	VERB	_	_	0	root	_	GermanLemma=schleichen
 6	soist	_	AUX	_	_	5	aux	_	GermanLemma=sollen|SpaceAfter=No
@@ -6897,7 +6898,7 @@
 6	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
 7	warum	_	ADV	_	_	11	advmod	_	GermanLemma=warum
 8	das	_	SCONJ	_	_	11	mark	_	GermanLemma=dass
-9	d	_	X	_	_	8	goeswith	_	GermanLemma=du
+9	d	_	X	_	_	8	goeswith	_	GermanLemma=_
 10	da	_	ADV	_	_	11	advmod	_	GermanLemma=da
 11	higehst	_	VERB	_	_	5	ccomp	_	GermanLemma=hingehen|SpaceAfter=No
 12	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
@@ -7767,23 +7768,23 @@
 6	han	_	AUX	_	_	9	cop	_	GermanLemma=sein|SpaceAfter=No
 7	:	_	PUNCT	_	_	9	punct	_	GermanLemma=:
 8	"	_	PUNCT	_	_	9	punct	_	GermanLemma="|SpaceAfter=No
-9	Brazlwuam	_	PROPN	_	_	0	root	_	GermanLemma=Tatzelwurm|SpaceAfter=No
+9	Brazlwuam	_	NOUN	_	_	0	root	_	GermanLemma=Tatzelwurm|SpaceAfter=No
 10	"	_	PUNCT	_	_	9	punct	_	GermanLemma="|SpaceAfter=No
 11	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 12	"	_	PUNCT	_	_	13	punct	_	GermanLemma="|SpaceAfter=No
-13	Schbringwuam	_	PROPN	_	_	9	conj	_	GermanLemma=Springwurm|SpaceAfter=No
+13	Schbringwuam	_	NOUN	_	_	9	conj	_	GermanLemma=Springwurm|SpaceAfter=No
 14	"	_	PUNCT	_	_	13	punct	_	GermanLemma="|SpaceAfter=No
 15	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
 16	"	_	PUNCT	_	_	17	punct	_	GermanLemma="|SpaceAfter=No
-17	Schdoakoz	_	PROPN	_	_	9	conj	_	GermanLemma=Steinkauz|SpaceAfter=No
+17	Schdoakoz	_	NOUN	_	_	9	conj	_	GermanLemma=Steinkauz|SpaceAfter=No
 18	"	_	PUNCT	_	_	17	punct	_	GermanLemma="|SpaceAfter=No
 19	,	_	PUNCT	_	_	21	punct	_	GermanLemma=,
 20	"	_	PUNCT	_	_	21	punct	_	GermanLemma="|SpaceAfter=No
-21	Schdoinwuam	_	PROPN	_	_	9	conj	_	GermanLemma=Steinwurm|SpaceAfter=No
+21	Schdoinwuam	_	NOUN	_	_	9	conj	_	GermanLemma=Steinwurm|SpaceAfter=No
 22	"	_	PUNCT	_	_	21	punct	_	GermanLemma="
 23	oda	_	CCONJ	_	_	25	cc	_	GermanLemma=oder
 24	"	_	PUNCT	_	_	25	punct	_	GermanLemma="|SpaceAfter=No
-25	Beagschduzn	_	PROPN	_	_	9	conj	_	GermanLemma=Bergstutzen|SpaceAfter=No
+25	Beagschduzn	_	NOUN	_	_	9	conj	_	GermanLemma=Bergstutzen|SpaceAfter=No
 26	"	_	PUNCT	_	_	25	punct	_	GermanLemma="|SpaceAfter=No
 27	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
 
@@ -9153,7 +9154,7 @@
 2	der	_	DET	_	_	5	det	_	GermanLemma=der
 3	"	_	PUNCT	_	_	5	punct	_	GermanLemma="|SpaceAfter=No
 4	Walschn	_	ADJ	_	_	5	amod	_	GermanLemma=walsch
-5	Kronkatkat	_	NOUN	_	_	7	obl	_	GermanLemma=Kronkatkat|SpaceAfter=No
+5	Kronkatkat	_	NOUN	_	_	7	obl	_	GermanLemma=<unknown>|SpaceAfter=No
 6	"	_	PUNCT	_	_	5	punct	_	GermanLemma="
 7	versteaht	_	VERB	_	_	0	root	_	GermanLemma=verstehen
 8	man	_	PRON	_	_	7	nsubj	_	GermanLemma=man
@@ -10341,7 +10342,7 @@
 2	Oatn	_	NOUN	_	_	3	nsubj	_	GermanLemma=Art
 3	haum	_	VERB	_	_	0	root	_	GermanLemma=haben
 4	recht	_	ADV	_	_	5	advmod	_	GermanLemma=recht
-5	gfeanzte	_	ADJ	_	_	6	amod	_	GermanLemma=unangenehm
+5	gfeanzte	_	ADJ	_	_	6	amod	_	GermanLemma=<unknown>
 6	Poarungsrituale	_	NOUN	_	_	3	obj	_	GermanLemma=Paarungsritual|SpaceAfter=No
 7	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
 
@@ -10801,7 +10802,7 @@
 2	moanst	_	VERB	_	_	0	root	_	GermanLemma=meinen|SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
 4	dass	_	SCONJ	_	_	6	mark	_	GermanLemma=dass
-5	d’	_	X	_	_	4	goeswith	_	CorrectSpaceAfter=Yes|GermanLemma=du|SpaceAfter=No
+5	d’	_	X	_	_	4	goeswith	_	CorrectSpaceAfter=Yes|GermanLemma=_|SpaceAfter=No
 6	kema	_	VERB	_	_	2	ccomp	_	GermanLemma=kommen
 7	konnst	_	AUX	_	_	6	aux	_	GermanLemma=können|SpaceAfter=No
 8	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
@@ -11588,7 +11589,7 @@
 2	dir	_	PRON	_	_	3	obl	_	GermanLemma=du
 3	geht	_	VERB	_	_	0	root	_	GermanLemma=gehen|SpaceAfter=No
 4	's	_	PRON	_	_	3	expl	_	GermanLemma=es
-5	lei	_	ADJ	_	_	3	advmod	_	GermanLemma=nur
+5	lei	_	ADJ	_	_	3	advmod	_	GermanLemma=<unknown>
 6	imma	_	ADV	_	_	3	advmod	_	GermanLemma=immer
 7	schen	_	ADV	_	_	8	advmod	_	GermanLemma=schön
 8	potschasn	_	ADJ	_	_	3	advmod	_	GermanLemma=gemächlich|SpaceAfter=No
@@ -11622,15 +11623,17 @@
 3	is	_	AUX	_	_	5	cop	_	GermanLemma=sein
 4	elendig	_	ADV	_	_	5	advmod	_	GermanLemma=elendig
 5	fad	_	ADJ	_	_	0	root	_	GermanLemma=langweilig|SpaceAfter=No
-6	;	_	PUNCT	_	_	13	punct	_	GermanLemma=;
-7	i	_	PRON	_	_	13	nsubj	_	GermanLemma=ich
-8	bin	_	AUX	_	_	13	cop	_	GermanLemma=sein
-9	imma	_	ADV	_	_	13	advmod	_	GermanLemma=immer
-10	nu	_	ADV	_	_	13	advmod	_	GermanLemma=noch
-11	beim	_	ADP	_	_	13	case	_	GermanLemma=beim
-12	erschtn	_	ADJ	_	_	13	amod	_	GermanLemma=erste
-13	Kapitel	_	NOUN	_	_	5	parataxis	_	GermanLemma=Kapitel|SpaceAfter=No
-14	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+6	;	_	PUNCT	_	_	14	punct	_	GermanLemma=;
+7	i	_	PRON	_	_	14	nsubj	_	GermanLemma=ich
+8	bin	_	AUX	_	_	14	cop	_	GermanLemma=sein
+9	imma	_	ADV	_	_	14	advmod	_	GermanLemma=immer
+10	nu	_	ADV	_	_	14	advmod	_	GermanLemma=noch
+11-12	beim	_	_	_	_	_	_	_	_
+11	bei	_	ADP	_	_	14	case	_	GermanLemma=beim
+12	m	_	DET	_	_	14	det	_	GermanLemma=das
+13	erschtn	_	ADJ	_	_	14	amod	_	GermanLemma=erste
+14	Kapitel	_	NOUN	_	_	5	parataxis	_	GermanLemma=Kapitel|SpaceAfter=No
+15	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = tatoeba_10489691-1
 # text = "Host du des echt scho amoi tau?"
@@ -11978,18 +11981,20 @@
 # dialect_group = north
 # location = unk
 # source = https://bar.wikipedia.org/wiki/J-Pop
-1	Im	_	ADP	_	_	3	case	_	GermanLemma=in
-2	deitschschbrouchign	_	ADJ	_	_	3	amod	_	GermanLemma=deutschsprachig
-3	Raum	_	NOUN	_	_	10	obl	_	GermanLemma=Raum
-4	is	_	AUX	_	_	10	cop	_	GermanLemma=sein
-5	J-Pop	_	PROPN	_	_	10	nsubj	_	GermanLemma=J-Pop
-6-7	vorajm	_	_	_	_	_	_	_	_
-6	vor	_	ADP	_	_	7	case	_	GermanLemma=vor
-7	ajm	_	DET	_	_	10	obl	_	GermanLemma=allem
-8	bai	_	ADP	_	_	9	case	_	GermanLemma=bei
-9	Anime-Fans	_	NOUN	_	_	10	obl	_	GermanLemma=Anime-Fan
-10	populer	_	ADJ	_	_	0	root	_	GermanLemma=populär|SpaceAfter=No
-11	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
+1-2	Im	_	_	_	_	_	_	_	_
+1	I	_	ADP	_	_	4	case	_	GermanLemma=in
+2	m	_	DET	_	_	4	det	_	GermanLemma=der
+3	deitschschbrouchign	_	ADJ	_	_	4	amod	_	GermanLemma=deutschsprachig
+4	Raum	_	NOUN	_	_	11	obl	_	GermanLemma=Raum
+5	is	_	AUX	_	_	11	cop	_	GermanLemma=sein
+6	J-Pop	_	PROPN	_	_	11	nsubj	_	GermanLemma=J-Pop
+7-8	vorajm	_	_	_	_	_	_	_	_
+7	vor	_	ADP	_	_	8	case	_	GermanLemma=vor
+8	ajm	_	DET	_	_	11	obl	_	GermanLemma=allem
+9	bai	_	ADP	_	_	10	case	_	GermanLemma=bei
+10	Anime-Fans	_	NOUN	_	_	11	obl	_	GermanLemma=Anime-Fan
+11	populer	_	ADJ	_	_	0	root	_	GermanLemma=populär|SpaceAfter=No
+12	.	_	PUNCT	_	_	11	punct	_	GermanLemma=.
 
 # sent_id = wiki_J-Pop_9
 # text = Des ligt dou dro, dass Komponistn und Gruppm, wou in Japan bekannt san, aa bai da Musik von Animeserien mitaawadn und dass vü prominente Anime-Synchronschbrecha aa ajs J-Pop-Künstla aftretn.
@@ -12060,18 +12065,20 @@
 2	J-Pop	_	PROPN	_	_	3	obl	_	GermanLemma=J-Pop
 3	untaschaidn	_	VERB	_	_	0	root	_	GermanLemma=unterscheiden
 4	se	_	PRON	_	_	3	expl:pv	_	GermanLemma=sich
-5	daj	_	DET	_	_	12	det	_	GermanLemma=die
-6	im	_	ADP	_	_	9	case	_	GermanLemma=in
-7	traditionöün	_	ADJ	_	_	8	advmod	_	GermanLemma=traditional
-8	japanischen	_	ADJ	_	_	9	amod	_	GermanLemma=japanisch
-9	Musiggstil	_	NOUN	_	_	10	obl	_	GermanLemma=Musikstil
-10	komponiertn	_	ADJ	_	_	12	amod	_	GermanLemma=komponiert
-11	japanischn	_	ADJ	_	_	12	amod	_	GermanLemma=japanisch
-12	Schlaga	_	NOUN	_	_	3	nsubj	_	GermanLemma=Schlager|SpaceAfter=No
-13	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
-14	d'	_	DET	_	_	15	det	_	GermanLemma=der|SpaceAfter=No
-15	Enka	_	PROPN	_	_	12	appos	_	GermanLemma=Enka|SpaceAfter=No
-16	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
+5	daj	_	DET	_	_	13	det	_	GermanLemma=die
+6-7	im	_	_	_	_	_	_	_	_
+6	i	_	ADP	_	_	10	case	_	GermanLemma=in
+7	m	_	DET	_	_	10	det	_	GermanLemma=der
+8	traditionöün	_	ADJ	_	_	9	advmod	_	GermanLemma=traditional
+9	japanischen	_	ADJ	_	_	10	amod	_	GermanLemma=japanisch
+10	Musiggstil	_	NOUN	_	_	11	obl	_	GermanLemma=Musikstil
+11	komponiertn	_	ADJ	_	_	13	amod	_	GermanLemma=komponiert
+12	japanischn	_	ADJ	_	_	13	amod	_	GermanLemma=japanisch
+13	Schlaga	_	NOUN	_	_	3	nsubj	_	GermanLemma=Schlager|SpaceAfter=No
+14	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
+15	d'	_	DET	_	_	16	det	_	GermanLemma=der|SpaceAfter=No
+16	Enka	_	PROPN	_	_	13	appos	_	GermanLemma=Enka|SpaceAfter=No
+17	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
 
 # sent_id = tatoeba_5113686
 # text = Wengam Reng håmas Picknick ohgsogt.
@@ -12681,7 +12688,7 @@
 13-14	vom	_	_	_	_	_	_	_	_
 13	vo	_	ADP	_	_	16	case	_	GermanLemma=von
 14	m	_	DET	_	_	16	det	_	GermanLemma=das
-15	daumålich'n	_	ADJ	_	_	16	amod	_	GermanLemma=zeitgenössisch
+15	daumålich'n	_	ADJ	_	_	16	amod	_	GermanLemma=damalig
 16	Theatabetrieb	_	NOUN	_	_	12	nmod	_	GermanLemma=Theaterbetrieb
 17	und	_	CCONJ	_	_	18	cc	_	GermanLemma=und
 18	spoart	_	VERB	_	_	7	conj	_	GermanLemma=sparen
@@ -13079,27 +13086,28 @@
 12	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
 
 # sent_id = wiki_Kafää_9
-# text = Vau Äthiopien isa daun woascheinlich im 14. Joahundat duach Sklavnhändla noch Arabien kumman.
+# text = Vau Äthiopien is a daun woascheinlich im 14. Joahundat duach Sklavnhändla noch Arabien kumman.
 # genre = wiki
 # dialect_group = central
 # location = Vienna
 # source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
 1	Vau	_	ADP	_	_	2	case	_	GermanLemma=von
-2	Äthiopien	_	NOUN	_	_	14	obl	_	GermanLemma=Äthiopien
-3	isa	_	AUX	_	_	14	aux	_	GermanLemma=sein
-4	daun	_	ADV	_	_	14	advmod	_	GermanLemma=dann
-5	woascheinlich	_	ADJ	_	_	14	advmod	_	GermanLemma=wahrscheinlich
-6-7	im	_	_	_	_	_	_	_	_
-6	i	_	ADP	_	_	9	case	_	GermanLemma=in
-7	m	_	DET	_	_	9	det	_	GermanLemma=das
-8	14.	_	ADJ	_	_	9	amod	_	GermanLemma=14.
-9	Joahundat	_	NOUN	_	_	14	obl	_	GermanLemma=Jahrhundert
-10	duach	_	ADP	_	_	11	case	_	GermanLemma=durch
-11	Sklavnhändla	_	NOUN	_	_	14	obl	_	GermanLemma=Sklavenhändler
-12	noch	_	ADP	_	_	13	case	_	GermanLemma=nach
-13	Arabien	_	NOUN	_	_	14	obl	_	GermanLemma=Arabien
-14	kumman	_	VERB	_	_	0	root	_	GermanLemma=kommen|SpaceAfter=No
-15	.	_	PUNCT	_	_	14	punct	_	GermanLemma=.
+2	Äthiopien	_	NOUN	_	_	15	obl	_	GermanLemma=Äthiopien
+3	is	_	AUX	_	_	15	aux	_	GermanLemma=sein
+4	a	_	PRON	_	_	15	nsubj	_	GermanLemma=er
+5	daun	_	ADV	_	_	15	advmod	_	GermanLemma=dann
+6	woascheinlich	_	ADJ	_	_	15	advmod	_	GermanLemma=wahrscheinlich
+7-8	im	_	_	_	_	_	_	_	_
+7	i	_	ADP	_	_	10	case	_	GermanLemma=in
+8	m	_	DET	_	_	10	det	_	GermanLemma=das
+9	14.	_	ADJ	_	_	10	amod	_	GermanLemma=14.
+10	Joahundat	_	NOUN	_	_	15	obl	_	GermanLemma=Jahrhundert
+11	duach	_	ADP	_	_	12	case	_	GermanLemma=durch
+12	Sklavnhändla	_	NOUN	_	_	15	obl	_	GermanLemma=Sklavenhändler
+13	noch	_	ADP	_	_	14	case	_	GermanLemma=nach
+14	Arabien	_	NOUN	_	_	15	obl	_	GermanLemma=Arabien
+15	kumman	_	VERB	_	_	0	root	_	GermanLemma=kommen|SpaceAfter=No
+16	.	_	PUNCT	_	_	15	punct	_	GermanLemma=.
 
 # sent_id = wiki_Kafää_10
 # text = Grässd und drungn hod man vamutlich do eascht ob da Mittn vom 15. Joahundat.
@@ -13173,35 +13181,37 @@
 # source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
 1	De	_	DET	_	_	3	det	_	GermanLemma=die
 2	äthiopische	_	ADJ	_	_	3	amod	_	GermanLemma=äthiopisch
-3	Mochoart	_	NOUN	_	_	9	nsubj	_	GermanLemma=Machart
-4	vaum	_	ADP	_	_	5	case	_	GermanLemma=von
-5	Kafää	_	NOUN	_	_	3	nmod	_	GermanLemma=Kaffee
-6	is	_	AUX	_	_	9	cop	_	GermanLemma=sein
-7	woascheinlich	_	ADJ	_	_	9	advmod	_	GermanLemma=wahrscheinlich
-8	de	_	DET	_	_	9	det	_	GermanLemma=die
-9	uaspringlichste	_	ADJ	_	_	0	root	_	GermanLemma=ursprünglichste|SpaceAfter=No
-10	:	_	PUNCT	_	_	24	punct	_	GermanLemma=:
-11-12	Nochm	_	_	_	_	_	_	_	_
-11	Noch	_	ADP	_	_	13	case	_	GermanLemma=nach
-12	m	_	DET	_	_	13	det	_	GermanLemma=das
-13	Rässdn	_	NOUN	_	_	24	obl	_	GermanLemma=Rösten
-14	vo	_	ADP	_	_	16	case	_	GermanLemma=von
-15	de	_	DET	_	_	16	det	_	GermanLemma=die
-16	Baunln	_	NOUN	_	_	13	nmod	_	GermanLemma=Bohne
-17	in	_	ADP	_	_	20	case	_	GermanLemma=in
-18	an	_	DET	_	_	20	det	_	GermanLemma=eine
-19	grossn	_	ADJ	_	_	20	amod	_	GermanLemma=groß
-20	Eisnpfandl	_	NOUN	_	_	13	nmod	_	GermanLemma=Pfanne
-21	wean	_	AUX	_	_	24	aux:pass	_	GermanLemma=werden
-22	de	_	PRON	_	_	24	nsubj:pass	_	GermanLemma=die
-23	grob	_	ADJ	_	_	24	advmod	_	GermanLemma=grob
-24	gmoin	_	VERB	_	_	9	parataxis	_	GermanLemma=mahlen
-25	und	_	CCONJ	_	_	29	cc	_	GermanLemma=und
-26	in	_	ADP	_	_	28	case	_	GermanLemma=in
-27	an	_	DET	_	_	28	det	_	GermanLemma=der
-28	Märsa	_	NOUN	_	_	29	obl	_	GermanLemma=Mörser
-29	zastaumpft	_	VERB	_	_	24	conj	_	GermanLemma=zerstampfen|SpaceAfter=No
-30	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
+3	Mochoart	_	NOUN	_	_	10	nsubj	_	GermanLemma=Machart
+4-5	vaum	_	_	_	_	_	_	_	_
+4	vau	_	ADP	_	_	6	case	_	GermanLemma=von
+5	m	_	DET	_	_	6	det	_	GermanLemma=der
+6	Kafää	_	NOUN	_	_	3	nmod	_	GermanLemma=Kaffee
+7	is	_	AUX	_	_	10	cop	_	GermanLemma=sein
+8	woascheinlich	_	ADJ	_	_	10	advmod	_	GermanLemma=wahrscheinlich
+9	de	_	DET	_	_	10	det	_	GermanLemma=die
+10	uaspringlichste	_	ADJ	_	_	0	root	_	GermanLemma=ursprünglichste|SpaceAfter=No
+11	:	_	PUNCT	_	_	25	punct	_	GermanLemma=:
+12-13	Nochm	_	_	_	_	_	_	_	_
+12	Noch	_	ADP	_	_	14	case	_	GermanLemma=nach
+13	m	_	DET	_	_	14	det	_	GermanLemma=das
+14	Rässdn	_	NOUN	_	_	25	obl	_	GermanLemma=Rösten
+15	vo	_	ADP	_	_	17	case	_	GermanLemma=von
+16	de	_	DET	_	_	17	det	_	GermanLemma=die
+17	Baunln	_	NOUN	_	_	14	nmod	_	GermanLemma=Bohne
+18	in	_	ADP	_	_	21	case	_	GermanLemma=in
+19	an	_	DET	_	_	21	det	_	GermanLemma=eine
+20	grossn	_	ADJ	_	_	21	amod	_	GermanLemma=groß
+21	Eisnpfandl	_	NOUN	_	_	14	nmod	_	GermanLemma=Pfanne
+22	wean	_	AUX	_	_	25	aux:pass	_	GermanLemma=werden
+23	de	_	PRON	_	_	25	nsubj:pass	_	GermanLemma=die
+24	grob	_	ADJ	_	_	25	advmod	_	GermanLemma=grob
+25	gmoin	_	VERB	_	_	10	parataxis	_	GermanLemma=mahlen
+26	und	_	CCONJ	_	_	30	cc	_	GermanLemma=und
+27	in	_	ADP	_	_	29	case	_	GermanLemma=in
+28	an	_	DET	_	_	29	det	_	GermanLemma=der
+29	Märsa	_	NOUN	_	_	30	obl	_	GermanLemma=Mörser
+30	zastaumpft	_	VERB	_	_	25	conj	_	GermanLemma=zerstampfen|SpaceAfter=No
+31	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
 
 # sent_id = wiki_Kafää_14
 # text = Des Moiguad wiad mit Wossa und Zugga in da sog. "Jabana" (an bauchign Tonkruag) aufkocht und in klaanan Schoin serviat.
@@ -14262,7 +14272,7 @@
 # author = brauchinet
 1	Wiaso	_	ADV	_	_	7	advmod	_	GermanLemma=wieso
 2	is	_	AUX	_	_	7	cop	_	GermanLemma=sein|SpaceAfter=No
-3	'n	_	ADV	_	_	7	advmod	_	GermanLemma=_
+3	'n	_	ADV	_	_	7	advmod	_	GermanLemma=denn
 4	des	_	PRON	_	_	7	nsubj	_	GermanLemma=das
 5	net	_	PART	_	_	7	advmod	_	GermanLemma=nicht
 6	auf	_	ADP	_	_	7	case	_	GermanLemma=auf
@@ -14390,7 +14400,7 @@
 # author = brauchinet
 1	Wos	_	PRON	_	_	4	nsubj	_	GermanLemma=was
 2	taratst	_	AUX	_	_	4	aux	_	GermanLemma=tun|SpaceAfter=No
-3	'n	_	ADV	_	_	4	advmod	_	GermanLemma=_
+3	'n	_	ADV	_	_	4	advmod	_	GermanLemma=denn
 4	tuan	_	VERB	_	_	0	root	_	GermanLemma=tun|SpaceAfter=No
 5	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
 6	waunst	_	ADV	_	_	9	advmod	_	GermanLemma=wenn
@@ -14411,7 +14421,7 @@
 2	Zu	_	ADP	_	_	3	case	_	GermanLemma=zu
 3	wem	_	PRON	_	_	4	obl	_	GermanLemma=wem
 4	hüfst	_	VERB	_	_	0	root	_	GermanLemma=helfen|SpaceAfter=No
-5	’n	_	ADV	_	_	4	advmod	_	GermanLemma=_
+5	’n	_	ADV	_	_	4	advmod	_	GermanLemma=denn
 6	du	_	PRON	_	_	4	nsubj	_	GermanLemma=du|SpaceAfter=No
 7	?	_	PUNCT	_	_	4	punct	_	GermanLemma=?
 
@@ -15438,12 +15448,14 @@
 4	grod	_	ADV	_	_	2	advmod	_	GermanLemma=nur
 5	s'	_	DET	_	_	6	det	_	GermanLemma=das|SpaceAfter=No
 6	wichtigste	_	ADJ	_	_	2	obj	_	GermanLemma=wichtig
-7	fian	_	ADP	_	_	8	case	_	GermanLemma=für
-8	Mingara	_	NOUN	_	_	6	nmod	_	GermanLemma=Münchner|SpaceAfter=No
-9	:	_	PUNCT	_	_	11	punct	_	GermanLemma=:
-10	sei	_	DET	_	_	11	det:poss	_	GermanLemma=seine
-11	Griawiga	_	NOUN	_	_	6	appos	_	GermanLemma=Gemütlichkeit|SpaceAfter=No
-12	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+7-8	fian	_	_	_	_	_	_	_	_
+7	fia	_	ADP	_	_	9	case	_	GermanLemma=für
+8	n	_	DET	_	_	9	det	_	GermanLemma=der
+9	Mingara	_	NOUN	_	_	6	nmod	_	GermanLemma=Münchner|SpaceAfter=No
+10	:	_	PUNCT	_	_	12	punct	_	GermanLemma=:
+11	sei	_	DET	_	_	12	det:poss	_	GermanLemma=seine
+12	Griawiga	_	NOUN	_	_	6	appos	_	GermanLemma=Gemütlichkeit|SpaceAfter=No
+13	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = wiki_Minga_43
 # text = Wos no dazua beitrogt, dass d'Mingara oft schlecht aufglegt waradn, is da Fön, dea wo si afs G'miat schlogt und a zum Schädlwäh fian ko.
@@ -15467,22 +15479,24 @@
 14	is	_	AUX	_	_	16	cop	_	GermanLemma=sein
 15	da	_	DET	_	_	16	det	_	GermanLemma=der
 16	Fön	_	NOUN	_	_	0	root	_	GermanLemma=Föhn|SpaceAfter=No
-17	,	_	PUNCT	_	_	23	punct	_	GermanLemma=,
-18	dea	_	PRON	_	_	23	nsubj	_	GermanLemma=der
-19	wo	_	SCONJ	_	_	23	mark	_	GermanLemma=wo
-20	si	_	PRON	_	_	23	expl:pv	_	GermanLemma=sich
-21	afs	_	ADP	_	_	22	case	_	GermanLemma=auf
-22	G'miat	_	NOUN	_	_	23	obl	_	GermanLemma=Gemüt
-23	schlogt	_	VERB	_	_	16	acl:relcl	_	GermanLemma=schlagen
-24	und	_	CCONJ	_	_	29	cc	_	GermanLemma=und
-25	a	_	ADV	_	_	29	advmod	_	GermanLemma=auch
-26-27	zum	_	_	_	_	_	_	_	_
-26	zu	_	ADP	_	_	28	case	_	GermanLemma=zu
-27	m	_	DET	_	_	28	det	_	GermanLemma=das
-28	Schädlwäh	_	NOUN	_	_	29	obl	_	GermanLemma=Kopfweh
-29	fian	_	VERB	_	_	23	conj	_	GermanLemma=führen
-30	ko	_	AUX	_	_	29	aux	_	GermanLemma=können|SpaceAfter=No
-31	.	_	PUNCT	_	_	16	punct	_	GermanLemma=.
+17	,	_	PUNCT	_	_	24	punct	_	GermanLemma=,
+18	dea	_	PRON	_	_	24	nsubj	_	GermanLemma=der
+19	wo	_	SCONJ	_	_	24	mark	_	GermanLemma=wo
+20	si	_	PRON	_	_	24	expl:pv	_	GermanLemma=sich
+21-22	afs	_	_	_	_	_	_	_	_
+21	af	_	ADP	_	_	23	case	_	GermanLemma=auf
+22	s	_	DET	_	_	23	det	_	GermanLemma=das
+23	G'miat	_	NOUN	_	_	24	obl	_	GermanLemma=Gemüt
+24	schlogt	_	VERB	_	_	16	acl:relcl	_	GermanLemma=schlagen
+25	und	_	CCONJ	_	_	30	cc	_	GermanLemma=und
+26	a	_	ADV	_	_	30	advmod	_	GermanLemma=auch
+27-28	zum	_	_	_	_	_	_	_	_
+27	zu	_	ADP	_	_	29	case	_	GermanLemma=zu
+28	m	_	DET	_	_	29	det	_	GermanLemma=das
+29	Schädlwäh	_	NOUN	_	_	30	obl	_	GermanLemma=Kopfweh
+30	fian	_	VERB	_	_	24	conj	_	GermanLemma=führen
+31	ko	_	AUX	_	_	30	aux	_	GermanLemma=können|SpaceAfter=No
+32	.	_	PUNCT	_	_	16	punct	_	GermanLemma=.
 
 # sent_id = wiki_Minga_44
 # text = As Nationaldrangl vo d'Mingara (Münchna) soit eigentle as Bia sei, s'wo ogeblich a Mingara (Münchna) erfundn hod.
@@ -20197,45 +20211,44 @@
 # dialect_group = south
 # location = South Tyrol
 # source = https://bar.wikipedia.org/wiki/Jazz-Rap
-1	D'	_	DET	_	_	2	det	_	GermanLemma=danach|SpaceAfter=No
-2	råfter	_	NOUN	_	_	17	obl	_	GermanLemma=_
-3	håbm	_	AUX	_	_	17	aux	_	GermanLemma=haben
-4	aa	_	ADV	_	_	17	advmod	_	GermanLemma=auch
-5	groaße	_	ADJ	_	_	6	amod	_	GermanLemma=groß
-6	Jazzer	_	NOUN	_	_	17	nsubj	_	GermanLemma=Jazzer
-7	wia	_	SCONJ	_	_	10	case	_	GermanLemma=wie
-8	eper	_	ADV	_	_	10	advmod	_	GermanLemma=etwa
-9	dor	_	DET	_	_	10	det	_	GermanLemma=der
-10	Miles	_	PROPN	_	_	6	nmod	_	GermanLemma=Miles
-11	Davis	_	PROPN	_	_	10	flat	_	GermanLemma=Davis
-12	oder	_	CCONJ	_	_	14	cc	_	GermanLemma=oder
-13	dor	_	DET	_	_	14	det	_	GermanLemma=der
-14	Herbie	_	PROPN	_	_	10	conj	_	GermanLemma=Herbie
-15	Hancock	_	PROPN	_	_	14	flat	_	GermanLemma=Hancock
-16	damit	_	ADV	_	_	17	advmod	_	GermanLemma=damit
-17	ûng'fången	_	VERB	_	_	0	root	_	GermanLemma=anfangen
-18	an	_	ADP	_	_	20	case	_	GermanLemma=ein
-19	gscheidn	_	ADJ	_	_	20	amod	_	GermanLemma=gescheit
-20	Jazz-Rap	_	NOUN	_	_	22	obl	_	GermanLemma=Jazz-Rap
-21	ze	_	PART	_	_	22	mark	_	GermanLemma=zu
-22	produziern	_	VERB	_	_	17	xcomp	_	GermanLemma=produzieren|SpaceAfter=No
-23	,	_	PUNCT	_	_	31	punct	_	GermanLemma=,
-24	nochdejm	_	ADV	_	_	31	advmod	_	GermanLemma=nachdem
-25	sè	_	PRON	_	_	31	nsubj	_	GermanLemma=sie
-26	schun	_	ADV	_	_	31	advmod	_	GermanLemma=schon
-27	in	_	DET	_	_	28	det	_	GermanLemma=in
-28	Jazzfunk	_	PROPN	_	_	31	obj	_	GermanLemma=Jazzfunk
-29	und	_	CCONJ	_	_	30	cc	_	GermanLemma=und
-30	Jazzrock	_	PROPN	_	_	28	conj	_	GermanLemma=Jazzrock
-31	augspielt	_	VERB	_	_	17	advcl	_	GermanLemma=spielen
-32	und	_	CCONJ	_	_	37	cc	_	GermanLemma=und
-33	nåch	_	ADP	_	_	36	case	_	GermanLemma=nach
-34	an	_	DET	_	_	36	det	_	GermanLemma=ein
-35	nuin	_	ADJ	_	_	36	amod	_	GermanLemma=neu
-36	Sound	_	NOUN	_	_	37	obl	_	GermanLemma=Sound
-37	gsuacht	_	VERB	_	_	31	conj	_	GermanLemma=suchen
-38	håbm	_	AUX	_	_	37	aux	_	GermanLemma=haben|SpaceAfter=No
-39	.	_	PUNCT	_	_	17	punct	_	GermanLemma=.
+1	D'råfter	__	ADV	_	_	16	advmod	_	GermanLemma=danach
+2	håbm	_	AUX	_	_	16	aux	_	GermanLemma=haben
+3	aa	_	ADV	_	_	16	advmod	_	GermanLemma=auch
+4	groaße	_	ADJ	_	_	5	amod	_	GermanLemma=groß
+5	Jazzer	_	NOUN	_	_	16	nsubj	_	GermanLemma=Jazzer
+6	wia	_	SCONJ	_	_	9	case	_	GermanLemma=wie
+7	eper	_	ADV	_	_	9	advmod	_	GermanLemma=etwa
+8	dor	_	DET	_	_	9	det	_	GermanLemma=der
+9	Miles	_	PROPN	_	_	5	nmod	_	GermanLemma=Miles
+10	Davis	_	PROPN	_	_	9	flat	_	GermanLemma=Davis
+11	oder	_	CCONJ	_	_	13	cc	_	GermanLemma=oder
+12	dor	_	DET	_	_	13	det	_	GermanLemma=der
+13	Herbie	_	PROPN	_	_	9	conj	_	GermanLemma=Herbie
+14	Hancock	_	PROPN	_	_	13	flat	_	GermanLemma=Hancock
+15	damit	_	ADV	_	_	16	advmod	_	GermanLemma=damit
+16	ûng'fången	_	VERB	_	_	0	root	_	GermanLemma=anfangen
+17	an	_	ADP	_	_	19	case	_	GermanLemma=ein
+18	gscheidn	_	ADJ	_	_	19	amod	_	GermanLemma=gescheit
+19	Jazz-Rap	_	NOUN	_	_	21	obl	_	GermanLemma=Jazz-Rap
+20	ze	_	PART	_	_	21	mark	_	GermanLemma=zu
+21	produziern	_	VERB	_	_	16	xcomp	_	GermanLemma=produzieren|SpaceAfter=No
+22	,	_	PUNCT	_	_	30	punct	_	GermanLemma=,
+23	nochdejm	_	ADV	_	_	30	advmod	_	GermanLemma=nachdem
+24	sè	_	PRON	_	_	30	nsubj	_	GermanLemma=sie
+25	schun	_	ADV	_	_	30	advmod	_	GermanLemma=schon
+26	in	_	DET	_	_	27	det	_	GermanLemma=in
+27	Jazzfunk	_	PROPN	_	_	30	obj	_	GermanLemma=Jazzfunk
+28	und	_	CCONJ	_	_	29	cc	_	GermanLemma=und
+29	Jazzrock	_	PROPN	_	_	27	conj	_	GermanLemma=Jazzrock
+30	augspielt	_	VERB	_	_	16	advcl	_	GermanLemma=spielen
+31	und	_	CCONJ	_	_	36	cc	_	GermanLemma=und
+32	nåch	_	ADP	_	_	35	case	_	GermanLemma=nach
+33	an	_	DET	_	_	35	det	_	GermanLemma=ein
+34	nuin	_	ADJ	_	_	35	amod	_	GermanLemma=neu
+35	Sound	_	NOUN	_	_	36	obl	_	GermanLemma=Sound
+36	gsuacht	_	VERB	_	_	30	conj	_	GermanLemma=suchen
+37	håbm	_	AUX	_	_	36	aux	_	GermanLemma=haben|SpaceAfter=No
+38	.	_	PUNCT	_	_	16	punct	_	GermanLemma=.
 
 # sent_id = wiki_Jazz-Rap_7
 # text = Groaßn Bekånntheitsgrôd håt die gånze Såch außerhålb vo Jazz- und Rapkreise obr nia g'håb.
@@ -20621,7 +20634,7 @@
 9	,	_	PUNCT	_	_	3	punct	_	GermanLemma=,
 10	is	_	AUX	_	_	16	aux	_	GermanLemma=sein
 11	dia	_	DET	_	_	12	det	_	GermanLemma=die
-12	Aussergoub	_	NOUN	_	_	16	nsubj	_	GermanLemma=Außergebiete
+12	Aussergoub	_	NOUN	_	_	16	nsubj	_	GermanLemma=Ausgabe
 13	vo	_	ADP	_	_	15	case	_	GermanLemma=von
 14	ner	_	DET	_	_	15	det	_	GermanLemma=einer
 15	Londesvafoussung	_	NOUN	_	_	12	nmod	_	GermanLemma=Landesverfassung
@@ -21738,6 +21751,8 @@
 39	ma	_	ADV	_	_	38	advmod	_	GermanLemma=mehr|SpaceAfter=No
 40	.	_	PUNCT	_	_	13	punct	_	GermanLemma=.
 
+# newdoc
+# newpar
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_9
 # text = De oanzich richtiche Schreibweis is do dej, wejs da Autor - òlso in deam Fòll da Herbert Gschwendtner - gschriem hòut oder schreim dàd, wenna dej Umschrift dòu herinn hernehmad.
 # genre = social
@@ -21751,33 +21766,34 @@
 5	is	_	AUX	_	_	7	cop	_	GermanLemma=sein
 6	do	_	ADV	_	_	7	advmod	_	GermanLemma=doch
 7	dej	_	PRON	_	_	0	root	_	GermanLemma=die|SpaceAfter=No
-8	,	_	PUNCT	_	_	21	punct	_	GermanLemma=,
-9	wejs	_	SCONJ	_	_	21	mark	_	GermanLemma=wie
-10	da	_	DET	_	_	11	det	_	GermanLemma=der
-11	Autor	_	NOUN	_	_	21	nsubj	_	GermanLemma=Autor
-12	-	_	PUNCT	_	_	16	punct	_	GermanLemma=-
-13	òlso	_	ADV	_	_	16	advmod	_	GermanLemma=also
-14	in	_	ADP	_	_	16	case	_	GermanLemma=in
-15	deam	_	DET	_	_	16	det	_	GermanLemma=der
-16	Fòll	_	NOUN	_	_	11	appos	_	GermanLemma=Fall
-17	da	_	DET	_	_	18	det	_	GermanLemma=der
-18	Herbert	_	PROPN	_	_	16	nmod	_	GermanLemma=Herbert
-19	Gschwendtner	_	PROPN	_	_	18	flat	_	GermanLemma=Gschwendtner
-20	-	_	PUNCT	_	_	16	punct	_	GermanLemma=-
-21	gschriem	_	VERB	_	_	7	acl	_	GermanLemma=schreiben
-22	hòut	_	AUX	_	_	21	aux	_	GermanLemma=haben
-23	oder	_	CCONJ	_	_	24	cc	_	GermanLemma=oder
-24	schreim	_	VERB	_	_	21	conj	_	GermanLemma=schreiben
-25	dàd	_	AUX	_	_	24	aux	_	GermanLemma=tun|SpaceAfter=No
-26	,	_	PUNCT	_	_	33	punct	_	GermanLemma=,
-27	wenn	_	SCONJ	_	_	33	mark	_	GermanLemma=wenn|SpaceAfter=No
-28	a	_	PRON	_	_	33	nsubj	_	GermanLemma=er
-29	dej	_	DET	_	_	30	det	_	GermanLemma=die
-30	Umschrift	_	NOUN	_	_	33	obj	_	GermanLemma=Umschrift
-31	dòu	_	ADV	_	_	33	advmod	_	GermanLemma=da
-32	herinn	_	ADV	_	_	31	advmod	_	GermanLemma=herinnen
-33	hernehmad	_	VERB	_	_	21	advcl	_	GermanLemma=hernehmen|SpaceAfter=No
-34	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+8	,	_	PUNCT	_	_	22	punct	_	GermanLemma=,
+9	wej	_	ADV	_	_	22	advmod	_	GermanLemma=wie|SpaceAfter=No
+10	s	_	PRON	_	_	22	obj	_	GermanLemma=sie
+11	da	_	DET	_	_	12	det	_	GermanLemma=der
+12	Autor	_	NOUN	_	_	22	nsubj	_	GermanLemma=Autor
+13	-	_	PUNCT	_	_	17	punct	_	GermanLemma=-
+14	òlso	_	ADV	_	_	17	advmod	_	GermanLemma=also
+15	in	_	ADP	_	_	17	case	_	GermanLemma=in
+16	deam	_	DET	_	_	17	det	_	GermanLemma=der
+17	Fòll	_	NOUN	_	_	12	appos	_	GermanLemma=Fall
+18	da	_	DET	_	_	19	det	_	GermanLemma=der
+19	Herbert	_	PROPN	_	_	17	nmod	_	GermanLemma=Herbert
+20	Gschwendtner	_	PROPN	_	_	19	flat	_	GermanLemma=Gschwendtner
+21	-	_	PUNCT	_	_	17	punct	_	GermanLemma=-
+22	gschriem	_	VERB	_	_	7	acl	_	GermanLemma=schreiben
+23	hòut	_	AUX	_	_	22	aux	_	GermanLemma=haben
+24	oder	_	CCONJ	_	_	25	cc	_	GermanLemma=oder
+25	schreim	_	VERB	_	_	22	conj	_	GermanLemma=schreiben
+26	dàd	_	AUX	_	_	25	aux	_	GermanLemma=tun|SpaceAfter=No
+27	,	_	PUNCT	_	_	34	punct	_	GermanLemma=,
+28	wenn	_	SCONJ	_	_	34	mark	_	GermanLemma=wenn|SpaceAfter=No
+29	a	_	PRON	_	_	34	nsubj	_	GermanLemma=er
+30	dej	_	DET	_	_	31	det	_	GermanLemma=die
+31	Umschrift	_	NOUN	_	_	34	obj	_	GermanLemma=Umschrift
+32	dòu	_	ADV	_	_	34	advmod	_	GermanLemma=da
+33	herinn	_	ADV	_	_	32	advmod	_	GermanLemma=herinnen
+34	hernehmad	_	VERB	_	_	25	advcl	_	GermanLemma=hernehmen|SpaceAfter=No
+35	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_10
 # text = Dank da recht schee für dein Tip.
@@ -21808,35 +21824,36 @@
 6	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_12
-# text = Hob man konvertiern kenna (iss doch guat, wann ma se jedn Blädsinn aufhebt) und sich jetzt koane Fragezeichn mehr.
+# text = Hob ma n konvertiern kenna (iss doch guat, wann ma se jedn Blädsinn aufhebt) und sich jetzt koane Fragezeichn mehr.
 # genre = social
 # dialect_group = unk
 # location = unk
 # source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
-1	Hob	_	AUX	_	_	3	aux	_	GermanLemma=haben
-2	man	_	PRON	_	_	3	nsubj	_	GermanLemma=mir
-3	konvertiern	_	VERB	_	_	0	root	_	GermanLemma=konvertieren
-4	kenna	_	AUX	_	_	3	aux	_	GermanLemma=können
-5	(	_	PUNCT	_	_	9	punct	_	GermanLemma=(|SpaceAfter=No
-6	is	_	AUX	_	_	9	cop	_	GermanLemma=sein|SpaceAfter=No
-7	s	_	PRON	_	_	9	expl	_	GermanLemma=es
-8	doch	_	ADV	_	_	9	advmod	_	GermanLemma=doch
-9	guat	_	ADJ	_	_	3	parataxis	_	GermanLemma=gut|SpaceAfter=No
-10	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
-11	wann	_	SCONJ	_	_	16	mark	_	GermanLemma=wenn
-12	ma	_	PRON	_	_	16	nsubj	_	GermanLemma=man
-13	se	_	PRON	_	_	16	expl:pv	_	GermanLemma=sich
-14	jedn	_	DET	_	_	15	det	_	GermanLemma=jeden
-15	Blädsinn	_	NOUN	_	_	16	obj	_	GermanLemma=Blödsinn
-16	aufhebt	_	VERB	_	_	9	advcl	_	GermanLemma=aufheben|SpaceAfter=No
-17	)	_	PUNCT	_	_	9	punct	_	GermanLemma=)
-18	und	_	CCONJ	_	_	19	cc	_	GermanLemma=und
-19	sich	_	VERB	_	_	3	conj	_	GermanLemma=sehen
-20	jetzt	_	ADV	_	_	19	advmod	_	GermanLemma=jetzt
-21	koane	_	DET	_	_	22	det	_	GermanLemma=kein
-22	Fragezeichn	_	NOUN	_	_	19	obj	_	GermanLemma=Fragezeichen
-23	mehr	_	ADV	_	_	19	advmod	_	GermanLemma=mehr|SpaceAfter=No
-24	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
+1	Hob	_	AUX	_	_	4	aux	_	GermanLemma=haben
+2	ma	_	PRON	_	_	4	obl:arg	_	GermanLemma=ich
+3	n	_	PRON	_	_	4	obj	_	GermanLemma=er
+4	konvertiern	_	VERB	_	_	0	root	_	GermanLemma=konvertieren
+5	kenna	_	AUX	_	_	4	aux	_	GermanLemma=können
+6	(	_	PUNCT	_	_	10	punct	_	GermanLemma=(|SpaceAfter=No
+7	is	_	AUX	_	_	10	cop	_	GermanLemma=sein|SpaceAfter=No
+8	s	_	PRON	_	_	10	expl	_	GermanLemma=es
+9	doch	_	ADV	_	_	10	advmod	_	GermanLemma=doch
+10	guat	_	ADJ	_	_	4	parataxis	_	GermanLemma=gut|SpaceAfter=No
+11	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
+12	wann	_	SCONJ	_	_	17	mark	_	GermanLemma=wenn
+13	ma	_	PRON	_	_	17	nsubj	_	GermanLemma=man
+14	se	_	PRON	_	_	17	expl:pv	_	GermanLemma=sich
+15	jedn	_	DET	_	_	16	det	_	GermanLemma=jeden
+16	Blädsinn	_	NOUN	_	_	17	obj	_	GermanLemma=Blödsinn
+17	aufhebt	_	VERB	_	_	10	advcl	_	GermanLemma=aufheben|SpaceAfter=No
+18	)	_	PUNCT	_	_	10	punct	_	GermanLemma=)
+19	und	_	CCONJ	_	_	20	cc	_	GermanLemma=und
+20	sich	_	VERB	_	_	4	conj	_	GermanLemma=sehen
+21	jetzt	_	ADV	_	_	20	advmod	_	GermanLemma=jetzt
+22	koane	_	DET	_	_	23	det	_	GermanLemma=kein
+23	Fragezeichn	_	NOUN	_	_	20	obj	_	GermanLemma=Fragezeichen
+24	mehr	_	ADV	_	_	20	advmod	_	GermanLemma=mehr|SpaceAfter=No
+25	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
 
 # sent_id = wikitalk_Dischkrian:Boarische-Umschrift_13
 # text = Blos mit de Tildn, do hots no wos.
