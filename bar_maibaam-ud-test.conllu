@@ -17,7 +17,7 @@
 11	dem	_	DET	_	_	14	obl	_	GermanLemma=der
 12	stoarke	_	ADJ	_	_	13	amod	_	GermanLemma=stark
 13	Aggressionen	_	NOUN	_	_	14	nsubj	_	GermanLemma=Aggression
-14	ausglebt	_	VERB	_	_	6	acl	_	GermanLemma=auslebe
+14	ausglebt	_	VERB	_	_	6	acl	_	GermanLemma=ausleben
 15	wean	_	AUX	_	_	14	aux:pass	_	GermanLemma=werden|SpaceAfter=No
 16	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
 
