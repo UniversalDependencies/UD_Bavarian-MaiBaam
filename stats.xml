@@ -10,14 +10,14 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1070</sentences><tokens>14678</tokens><words>15036</words><fused>358</fused></test>
   </size>
-  <lemmas unique="1" /><!-- __ -->
+  <lemmas unique="0" /><!--  -->
   <forms unique="4463" /><!-- ., ,, da, a, und, i, ", de, m, is, in, vo, des, an, ma -->
   <fusions unique="76" /><!-- im, vom, zum, am, beim, in, ins, zan, zua, aufn, an, fian, zun, auf'm, aum -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">798</tag><!-- _ -->
     <tag name="ADP">1417</tag><!-- _ -->
-    <tag name="ADV">1209</tag><!-- _, __ -->
+    <tag name="ADV">1209</tag><!-- _ -->
     <tag name="AUX">926</tag><!-- _ -->
     <tag name="CCONJ">380</tag><!-- _ -->
     <tag name="DET">1959</tag><!-- _ -->

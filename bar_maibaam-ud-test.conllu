@@ -478,11 +478,11 @@
 3	a	_	PRON	_	_	7	nsubj	_	GermanLemma=er
 4	aa	_	ADV	_	_	7	advmod	_	GermanLemma=auch
 5	des	_	PRON	_	_	7	obj	_	GermanLemma=das
-6	nimma	__	ADV	_	_	7	advmod	_	GermanLemma=nicht mehr
+6	nimma	_	ADV	_	_	7	advmod	_	GermanLemma=nicht mehr
 7	gschafft	_	VERB	_	_	0	root	_	GermanLemma=schaffen
 8	und	_	CCONJ	_	_	12	cc	_	GermanLemma=und
 9	hod	_	AUX	_	_	12	aux	_	GermanLemma=haben
-10	nimma	__	ADV	_	_	12	advmod	_	GermanLemma=nicht mehr
+10	nimma	_	ADV	_	_	12	advmod	_	GermanLemma=nicht mehr
 11	weidda	_	ADP	_	_	12	compound:prt	_	GermanLemma=weiter
 12	gwußt	_	VERB	_	_	7	conj	_	GermanLemma=wissen
 13	in	_	ADP	_	_	15	case	_	GermanLemma=in
@@ -2532,7 +2532,7 @@
 1	Wenn	_	SCONJ	_	_	5	mark	_	GermanLemma=wenn
 2	da	_	DET	_	_	3	det	_	GermanLemma=der
 3	Voadane	_	NOUN	_	_	5	nsubj	_	GermanLemma=Vordere
-4	nimma	__	ADV	_	_	5	advmod	_	GermanLemma=nicht mehr
+4	nimma	_	ADV	_	_	5	advmod	_	GermanLemma=nicht mehr
 5	midgejt	_	VERB	_	_	10	advcl	_	GermanLemma=mitgehen|SpaceAfter=No
 6	,	_	PUNCT	_	_	5	punct	_	GermanLemma=,
 7	mou	_	AUX	_	_	10	aux	_	GermanLemma=müssen
@@ -2550,7 +2550,7 @@
 1	Wenn	_	SCONJ	_	_	6	mark	_	GermanLemma=wenn
 2	da	_	DET	_	_	3	det	_	GermanLemma=der
 3	Hintane	_	NOUN	_	_	6	nsubj	_	GermanLemma=Hintere
-4	nimmer	__	ADV	_	_	6	advmod	_	GermanLemma=nicht mehr
+4	nimmer	_	ADV	_	_	6	advmod	_	GermanLemma=nicht mehr
 5	mehr	_	ADV	_	_	6	advmod	_	GermanLemma=mehr
 6	osong	_	VERB	_	_	12	advcl	_	GermanLemma=ansagen
 7	mog	_	AUX	_	_	6	aux	_	GermanLemma=mögen|SpaceAfter=No
@@ -15719,7 +15719,7 @@
 13	vastenga	_	VERB	_	_	6	acl:relcl	_	GermanLemma=verstehen|SpaceAfter=No
 14	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 15	owa	_	SCONJ	_	_	19	mark	_	GermanLemma=aber
-16	nimma	__	ADV	_	_	19	advmod	_	GermanLemma=nicht mehr
+16	nimma	_	ADV	_	_	19	advmod	_	GermanLemma=nicht mehr
 17	midarananda	_	ADV	_	_	19	advmod	_	GermanLemma=miteinander
 18	Boarisch	_	NOUN	_	_	19	obj	_	GermanLemma=Bairisch
 19	redn	_	VERB	_	_	2	xcomp	_	GermanLemma=reden|SpaceAfter=No
@@ -20211,7 +20211,7 @@
 # dialect_group = south
 # location = South Tyrol
 # source = https://bar.wikipedia.org/wiki/Jazz-Rap
-1	D'råfter	__	ADV	_	_	16	advmod	_	GermanLemma=danach
+1	D'råfter	_	ADV	_	_	16	advmod	_	GermanLemma=danach
 2	håbm	_	AUX	_	_	16	aux	_	GermanLemma=haben
 3	aa	_	ADV	_	_	16	advmod	_	GermanLemma=auch
 4	groaße	_	ADJ	_	_	5	amod	_	GermanLemma=groß
