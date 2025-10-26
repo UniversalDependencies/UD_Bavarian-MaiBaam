@@ -4780,7 +4780,7 @@
 10	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 11	ob	_	SCONJ	_	_	13	mark	_	GermanLemma=ob
 12	des	_	PRON	_	_	13	nsubj	_	GermanLemma=das
-13	des	_	DET	_	_	9	advcl	_	CorrectForm=dessäii|GermanLemma=dasselbe
+13	des	_	DET	_	Typo=Yes	9	advcl	_	CorrectForm=dessäii|GermanLemma=dasselbe
 14	säii	_	X	_	_	13	goeswith	_	_
 15	is	_	AUX	_	_	13	cop	_	GermanLemma=sein
 16	wier	_	ADP	_	_	18	case	_	GermanLemma=wie
@@ -5378,7 +5378,7 @@
 1	„	_	PUNCT	_	_	2	punct	_	GermanLemma=„|SpaceAfter=No
 2	Schau	_	VERB	_	_	0	root	_	GermanLemma=schauen|SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
-4	dass	_	SCONJ	_	_	6	mark	_	GermanLemma=dass
+4	dass	_	SCONJ	_	Typo=Yes	6	mark	_	GermanLemma=dass
 5	d‘	_	X	_	_	4	goeswith	_	_
 6	weidakummst	_	VERB	_	_	2	ccomp	_	GermanLemma=weiterkommen|SpaceAfter=No
 7	!	_	PUNCT	_	_	2	punct	_	GermanLemma=!|SpaceAfter=No
@@ -5392,7 +5392,7 @@
 # source = https://tatoeba.org/en/sentences/show/6539877
 # author = brauchinet
 1	„	_	PUNCT	_	_	5	punct	_	GermanLemma=„|SpaceAfter=No
-2	Dass	_	SCONJ	_	_	5	mark	_	GermanLemma=dass
+2	Dass	_	SCONJ	_	Typo=Yes	5	mark	_	GermanLemma=dass
 3	d‘	_	X	_	_	2	goeswith	_	_
 4	di	_	PRON	_	_	5	expl:pv	_	GermanLemma=du
 5	schleichen	_	VERB	_	_	0	root	_	GermanLemma=schleichen
@@ -6309,7 +6309,7 @@
 2	Minga	_	PROPN	_	_	10	nsubj	_	GermanLemma=München
 3	scho	_	ADV	_	_	10	advmod	_	GermanLemma=schon
 4	seit	_	ADP	_	_	5	case	_	GermanLemma=seit
-5	je	_	ADV	_	_	10	advmod	_	GermanLemma=jeher
+5	je	_	ADV	_	Typo=Yes	10	advmod	_	GermanLemma=jeher
 6	hea	_	X	_	_	5	goeswith	_	_
 7	an	_	DET	_	_	8	det	_	GermanLemma=ein
 8	Hauffa	_	NOUN	_	_	10	obj	_	GermanLemma=Haufen
@@ -6897,7 +6897,7 @@
 5	wissn	_	VERB	_	_	0	root	_	GermanLemma=wissen|SpaceAfter=No
 6	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
 7	warum	_	ADV	_	_	11	advmod	_	GermanLemma=warum
-8	das	_	SCONJ	_	_	11	mark	_	GermanLemma=dass
+8	das	_	SCONJ	_	Typo=Yes	11	mark	_	GermanLemma=dass
 9	d	_	X	_	_	8	goeswith	_	_
 10	da	_	ADV	_	_	11	advmod	_	GermanLemma=da
 11	higehst	_	VERB	_	_	5	ccomp	_	GermanLemma=hingehen|SpaceAfter=No
@@ -8140,7 +8140,7 @@
 12	Fich	_	NOUN	_	_	9	nmod	_	GermanLemma=Vieh
 13	realisdisch	_	ADJ	_	_	7	advmod	_	GermanLemma=realistisch
 14	(	_	PUNCT	_	_	17	punct	_	GermanLemma=(|SpaceAfter=No
-15	zu	_	ADV	_	_	17	advmod	_	CorrectForm=zumindest|GermanLemma=zumindest
+15	zu	_	ADV	_	Typo=Yes	17	advmod	_	CorrectForm=zumindest|GermanLemma=zumindest
 16	mindest	_	X	_	_	15	goeswith	_	_
 17	deoretisch	_	ADJ	_	_	7	parataxis	_	GermanLemma=theoretisch|SpaceAfter=No
 18	)	_	PUNCT	_	_	17	punct	_	GermanLemma=)
@@ -10801,7 +10801,7 @@
 1	Wann	_	ADV	_	_	2	advmod	_	GermanLemma=wann
 2	moanst	_	VERB	_	_	0	root	_	GermanLemma=meinen|SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
-4	dass	_	SCONJ	_	_	6	mark	_	GermanLemma=dass
+4	dass	_	SCONJ	_	Typo=Yes	6	mark	_	GermanLemma=dass
 5	d’	_	X	_	_	4	goeswith	_	CorrectSpaceAfter=Yes|SpaceAfter=No
 6	kema	_	VERB	_	_	2	ccomp	_	GermanLemma=kommen
 7	konnst	_	AUX	_	_	6	aux	_	GermanLemma=können|SpaceAfter=No
@@ -19979,7 +19979,7 @@
 7	Leid	_	NOUN	_	_	8	obj	_	GermanLemma=Leute
 8	mocha	_	VERB	_	_	0	root	_	GermanLemma=machen
 9	oda	_	CCONJ	_	_	13	cc	_	GermanLemma=oder
-10	irgánd	_	DET	_	_	12	det	_	CorrectForm=irgándán|GermanLemma=irgendein
+10	irgánd	_	DET	_	Typo=Yes	12	det	_	CorrectForm=irgándán|GermanLemma=irgendein
 11	án	_	X	_	_	10	goeswith	_	_
 12	Zeig	_	NOUN	_	_	13	obj	_	GermanLemma=Zeug
 13	erfoáschn	_	VERB	_	_	8	conj	_	GermanLemma=erforschen
