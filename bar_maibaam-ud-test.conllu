@@ -2178,7 +2178,7 @@
 10	Bungde	_	NOUN	_	_	5	obj	_	GermanLemma=Punkt|SpaceAfter=No
 11	,	_	PUNCT	_	_	18	punct	_	GermanLemma=,
 12	de	_	PRON	_	_	18	nsubj	_	GermanLemma=die
-13	owa	_	PRON	_	_	12	fixed	_	GermanLemma=aber
+13	owa	_	ADV	_	_	18	advmod	_	GermanLemma=aber
 14	ned	_	PART	_	_	18	advmod	_	GermanLemma=nicht
 15	Bungde	_	NOUN	_	_	18	obj	_	GermanLemma=Punkt
 16	sondan	_	CCONJ	_	_	17	cc	_	GermanLemma=sondern
@@ -13332,7 +13332,7 @@
 9	entstaundn	_	VERB	_	_	0	root	_	GermanLemma=entstehen|SpaceAfter=No
 10	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
 11	de	_	PRON	_	_	15	nsubj:pass	_	GermanLemma=die
-12	owa	_	CCONJ	_	_	15	cc	_	GermanLemma=aber
+12	owa	_	ADV	_	_	15	advmod	_	GermanLemma=aber
 13	boid	_	ADV	_	_	15	advmod	_	GermanLemma=bald
 14	wieda	_	ADV	_	_	15	advmod	_	GermanLemma=wieder
 15	gschlossn	_	VERB	_	_	9	advcl:relcl	_	GermanLemma=schließen
