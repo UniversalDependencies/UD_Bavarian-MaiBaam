@@ -21740,7 +21740,7 @@
 28	(	_	PUNCT	_	_	31	punct	_	GermanLemma=(|SpaceAfter=No
 29	in	_	ADP	_	_	31	case	_	GermanLemma=in
 30	da	_	DET	_	_	31	det	_	GermanLemma=die
-31	Bar-	_	NOUN	_	_	24	obl	_	GermanLemma=Bar
+31	Bar-	_	NOUN	_	_	24	nmod	_	GermanLemma=Bar
 32	und	_	CCONJ	_	_	35	cc	_	GermanLemma=und
 33	in	_	ADP	_	_	35	case	_	GermanLemma=in
 34	da	_	DET	_	_	35	det	_	GermanLemma=die
