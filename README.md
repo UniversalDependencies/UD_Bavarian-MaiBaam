@@ -44,6 +44,10 @@ For detailed annotation guidelines, please read the following report:
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Added Typo=Yes to goeswith
+  * Added ExtPos to MWE adverbs
+  * Minor corrections
 * 2024-11-15 v2.15
   * German lemmas added; minor corrections to dependency/POS annotations.
 * 2024-05-15 v2.14
