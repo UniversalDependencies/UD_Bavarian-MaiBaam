@@ -46,7 +46,7 @@ For detailed annotation guidelines, please read the following report:
 
 * 2025-11-15 v2.17
   * Added Typo=Yes to goeswith
-  * Added ExtPos to MWE adverbs
+  * Constructions like "durch/duach des" and "fir des" are no longer fixed
   * Minor corrections
 * 2024-11-15 v2.15
   * German lemmas added; minor corrections to dependency/POS annotations.

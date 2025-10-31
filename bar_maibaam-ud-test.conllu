@@ -7385,8 +7385,8 @@
 # dialect_group = north
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
-1	Fir	_	ADP	_	ExtPos=ADV	13	advmod	_	GermanLemma=für
-2	des	_	DET	_	_	1	fixed	_	GermanLemma=das
+1	Fir	_	ADP	_	_	2	case	_	GermanLemma=für
+2	des	_	PRON	_	_	13	obl	_	GermanLemma=das
 3	das	_	SCONJ	_	_	6	mark	_	GermanLemma=dass|SpaceAfter=No
 4	'a	_	PRON	_	_	6	nsubj	_	GermanLemma=er
 5	su	_	ADV	_	_	6	advmod	_	GermanLemma=so
@@ -7406,8 +7406,8 @@
 # dialect_group = north
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
-1	Durch	_	ADP	_	ExtPos=ADV	9	advmod	_	GermanLemma=durch
-2	des	_	DET	_	_	1	fixed	_	GermanLemma=das
+1	Durch	_	ADP	_	_	2	case	_	GermanLemma=durch
+2	des	_	PRON	_	_	9	obl	_	GermanLemma=das
 3	das	_	SCONJ	_	_	7	mark	_	GermanLemma=dass|SpaceAfter=No
 4	'a	_	PRON	_	_	7	nsubj	_	GermanLemma=er
 5	su	_	ADV	_	_	6	advmod	_	CorrectSpaceAfter=Yes|GermanLemma=so|SpaceAfter=No
@@ -9922,7 +9922,7 @@
 10	weida	_	ADP	_	_	5	compound:prt	_	GermanLemma=weiter|SpaceAfter=No
 11	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 12	duach	_	ADP	_	_	13	case	_	GermanLemma=durch
-13	des	_	PRON	_	_	5	advcl	_	GermanLemma=das|SpaceAfter=No
+13	des	_	PRON	_	_	5	obl	_	GermanLemma=das|SpaceAfter=No
 14	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 15	dass	_	SCONJ	_	_	19	mark	_	GermanLemma=dass
 16	ar	_	PRON	_	_	19	nsubj	_	GermanLemma=er
