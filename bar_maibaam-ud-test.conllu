@@ -7390,7 +7390,7 @@
 3	das	_	SCONJ	_	_	6	mark	_	GermanLemma=dass|SpaceAfter=No
 4	'a	_	PRON	_	_	6	nsubj	_	GermanLemma=er
 5	su	_	ADV	_	_	6	advmod	_	GermanLemma=so
-6	olt	_	ADJ	_	_	1	advcl	_	GermanLemma=alt
+6	olt	_	ADJ	_	_	2	ccomp	_	GermanLemma=alt
 7	is	_	AUX	_	_	6	cop	_	GermanLemma=sein|SpaceAfter=No
 8	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
 9	is	_	AUX	_	_	13	cop	_	GermanLemma=sein|SpaceAfter=No
@@ -7412,7 +7412,7 @@
 4	'a	_	PRON	_	_	7	nsubj	_	GermanLemma=er
 5	su	_	ADV	_	_	6	advmod	_	CorrectSpaceAfter=Yes|GermanLemma=so|SpaceAfter=No
 6	vül	_	ADV	_	_	7	advmod	_	GermanLemma=viel
-7	arwat	_	VERB	_	_	1	advcl	_	GermanLemma=arbeiten|SpaceAfter=No
+7	arwat	_	VERB	_	_	2	ccomp	_	GermanLemma=arbeiten|SpaceAfter=No
 8	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
 9	vadejnt	_	VERB	_	_	0	root	_	GermanLemma=verdienen|SpaceAfter=No
 10	'a	_	PRON	_	_	9	nsubj	_	GermanLemma=er
