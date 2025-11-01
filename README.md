@@ -10,7 +10,7 @@ Although Bavarian is closely related to Standard German, there are morphosyntact
 We include sentence-level metadata:
 - `genre`: One of *wiki* (Wikipedia articles), *social* (Wikipedia discussion pages), *fiction* (fairy tales), *grammar examples* (Tatoeba sentences, example sentences from Wikipedia pages about Bavarian grammar), *non-fiction* (queries for virtual assistants).
 - `dialect_group`: One of *north, northcentral, central, southcentral, south* if we know the dialect group (where, e.g., *southcentral* is the transition area between the South Bavarian and Central Bavarian dialect regions), *unk* (unknown) if we do not have any information on the dialect group, and a code like *unk (southcentral/south)* if we can narrow down the options to, in this case, South Bavarian or the South/Central transition area.
-- `location`: The city or municipality if known, else the state or province, else the country, else *unk* (unknown). 
+- `location`: The city or municipality if known, else the state or province, else the country, else *unk* (unknown).
 - `source`: For sentences from Wikipedia or Tatoeba, we include the source URL.
 - `author`: The username of a Tatoeba sentence’s author, per [Tatoeba's usage conditions](https://tatoeba.org/en/terms_of_use#section-6).
 - `text_en`: The original English sentence, for sentences translated from English (xsid, cairo).
@@ -59,7 +59,7 @@ For detailed annotation guidelines, please read the following report:
 Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
-Parallel: no
+Parallel: cairo
 Genre: wiki social fiction nonfiction grammar-examples
 Lemmas: not available
 UPOS: manual native

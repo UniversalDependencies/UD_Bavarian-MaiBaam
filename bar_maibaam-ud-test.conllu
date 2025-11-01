@@ -10585,6 +10585,7 @@
 17	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
 
 # sent_id = cairo_1
+# parallel_id = cairo/1
 # text = S’Mädl hod an Briaf an sei Freindin gschrim.
 # text_en = The girl wrote a letter to her friend.
 # genre = grammar-examples
@@ -10602,6 +10603,7 @@
 10	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
 
 # sent_id = cairo_2
+# parallel_id = cairo/2
 # text = I deng es regnd.
 # text_en = I think that it is raining.
 # genre = grammar-examples
@@ -10614,6 +10616,7 @@
 5	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = cairo_3
+# parallel_id = cairo/3
 # text = Er hod vasuacht s’Raucha und Saufa aufzumhearn.
 # text_en = He tried to stop smoking and drinking.
 # genre = grammar-examples
@@ -10630,6 +10633,7 @@
 9	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
 
 # sent_id = cairo_4
+# parallel_id = cairo/4
 # text = Mogst geh?
 # text_en = Do you want to go?
 # genre = grammar-examples
@@ -10640,6 +10644,7 @@
 3	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
 
 # sent_id = cairo_5
+# parallel_id = cairo/5
 # text = Sam, machs Fensta auf!
 # text_en = Sam, open the window!
 # genre = grammar-examples
@@ -10654,6 +10659,7 @@
 7	!	_	PUNCT	_	_	3	punct	_	GermanLemma=!
 
 # sent_id = cairo_6
+# parallel_id = cairo/6
 # text = Sie hod ihram Mo ogschafft, s’Auto zum waschn.
 # text_en = She made her husband wash the car.
 # genre = grammar-examples
@@ -10674,6 +10680,7 @@
 12	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = cairo_7
+# parallel_id = cairo/7
 # text = Da Nachbar vom Bäda hod an Zaun rot ogmoid.
 # text_en = Peter’s neighbor painted the fence red.
 # genre = grammar-examples
@@ -10693,6 +10700,7 @@
 11	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
 
 # sent_id = cairo_8
+# parallel_id = cairo/8
 # text = Mei Papa is cooler wia deina.
 # text_en = My dad is cooler than yours.
 # genre = grammar-examples
@@ -10707,6 +10715,7 @@
 7	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
 
 # sent_id = cairo_9
+# parallel_id = cairo/9
 # text = D’Maria hod Bronze gwunna, da Bäda Suiba und d’Jane Goid.
 # text_en = Mary won bronze, Peter silver, and Jane gold.
 # genre = grammar-examples
@@ -10728,6 +10737,7 @@
 14	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = cairo_10
+# parallel_id = cairo/10
 # text = Is Iguazu a großs oder a gloans Land?
 # text_en = Is Iguazu a big or a small country?
 # genre = grammar-examples
@@ -10744,6 +10754,7 @@
 9	?	_	PUNCT	_	_	4	punct	_	GermanLemma=?
 
 # sent_id = cairo_11
+# parallel_id = cairo/11
 # text = Weder da Schmidt Bäda no d’Braun Maria hom ausgweid wern kinna.
 # text_en = Neither Peter Smith nor Mary Brown could be selected.
 # genre = grammar-examples
@@ -10764,6 +10775,7 @@
 13	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
 
 # sent_id = cairo_12
+# parallel_id = cairo/12
 # text = Sie ham koa Ahnung, wer des gschrim hod.
 # text_en = They have no idea who wrote it.
 # genre = grammar-examples
@@ -10781,6 +10793,7 @@
 10	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = cairo_13
+# parallel_id = cairo/13
 # text = Wos schaust da o?
 # text_en = What are you looking at?
 # genre = grammar-examples
@@ -10793,6 +10806,7 @@
 5	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
 
 # sent_id = cairo_14
+# parallel_id = cairo/14
 # text = Wann moanst, dass d’kema konnst?
 # text_en = When do you think you can come?
 # genre = grammar-examples
@@ -10808,6 +10822,7 @@
 8	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
 
 # sent_id = cairo_15
+# parallel_id = cairo/15
 # text = Er hod a Auto kauft, aber sei Bruada nur a Radl.
 # text_en = He bought a car but his brother just a bike.
 # genre = grammar-examples
@@ -10828,6 +10843,7 @@
 13	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = cairo_16
+# parallel_id = cairo/16
 # text = Da Bäda und d’Maria hom sie umarmt und san dann ausm Zimmer ganga.
 # text_en = Peter and Mary hugged each other and then left the room.
 # genre = grammar-examples
@@ -10852,6 +10868,7 @@
 16	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
 
 # sent_id = cairo_17
+# parallel_id = cairo/17
 # text = Sie häd ihre Hoar macha soin, aber hods aus irgendoam Grund an dem Dog ned gmacht.
 # text_en = She should have been doing her hair but for some reason she wouldn't that day.
 # genre = grammar-examples
@@ -10878,6 +10895,7 @@
 19	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = cairo_18
+# parallel_id = cairo/18
 # text = I hob ned mithoidn kinna, weil a z’schnei glaufa is.
 # text_en = I wasn't able to keep up, because he ran too fast.
 # genre = grammar-examples
@@ -10898,6 +10916,7 @@
 13	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
 
 # sent_id = cairo_19
+# parallel_id = cairo/19
 # text = Da Briaf is vom Bäda und is gestern gliefad woarn.
 # text_en = This letter is from Peter and it was delivered yesterday.
 # genre = grammar-examples
@@ -10918,6 +10937,7 @@
 12	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
 
 # sent_id = cairo_20
+# parallel_id = cairo/20
 # text = Sie is in Paris, da Hauptstadt vo Frankreich, aufgwachsn.
 # text_en = She grew up in Paris, the capital of France.
 # genre = grammar-examples
