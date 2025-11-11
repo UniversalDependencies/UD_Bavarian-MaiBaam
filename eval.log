@@ -1,7 +1,51 @@
-Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
-Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
-Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
-Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
-from which this script is invoked and which also holds the validator.
-$0 == tools/evaluate_treebank.pl
-The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
+Running the following version of UD tools:
+commit 26e6c87a2f518322d15901a351199b6be6569062
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Bavarian-MaiBaam:
+commit 9c7e652bf2d072d6af883c1b826597fe1dd58de1
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 18:39:11 2025 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'bar_maibaam'
+Language code (from CoNLL-U file name) = 'bar'
+Found the following data files: bar_maibaam-ud-test.conllu
+Size: counted 15036 of 15036 words (nodes).
+Size: min(0, log((N/1000)**2)) = 5.42089465140386.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: '_' is the most frequent lemma.
+Universal POS tags: 17 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 8 out of 15036 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 34 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 5 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang bar --max-err=10 UD_Bavarian-MaiBaam/bar_maibaam-ud-test.conllu
+[Line 1381 Sent wikisource_Hansl-und-Gretl_33]: [L3 Warning fixed-without-extpos] Fixed expression 'a weng' does not have the 'ExtPos' feature
+[Line 1578 Sent wiki_Minga_4]: [L3 Warning fixed-without-extpos] Fixed expression 'mehra wia' does not have the 'ExtPos' feature
+[Line 1928 Sent wiki_Minga_16]: [L3 Warning fixed-without-extpos] Fixed expression 'a boar' does not have the 'ExtPos' feature
+[Line 2221 Sent wiki_Haferltarock_10]: [L3 Warning fixed-without-extpos] Fixed expression 'mea wej' does not have the 'ExtPos' feature
+[Line 2458 Sent wiki_Haferltarock_20]: [L3 Warning fixed-without-extpos] Fixed expression 'mea wej' does not have the 'ExtPos' feature
+[Line 2595 Sent wiki_Haferltarock_27]: [L3 Warning fixed-without-extpos] Fixed expression 'mea wej' does not have the 'ExtPos' feature
+[Line 3518 Sent wikitalk_Dischkrian:Ödenburg_13]: [L3 Warning fixed-without-extpos] Fixed expression 'a bissl' does not have the 'ExtPos' feature
+[Line 4283 Sent wiki_Toppmkorsee_16]: [L3 Warning fixed-without-extpos] Fixed expression 'ois wia' does not have the 'ExtPos' feature
+[Line 7 Sent wiki_Haberertanz_2]: [L3 Warning pron-det-without-prontype] The word 'Da' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 10 Sent wiki_Haberertanz_2]: [L3 Warning pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+Warnings: 3127
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.12) = 0.0133333333333333
+(weight=0.111111111111111) * (score{genres}=0.277777777777778) = 0.0308641975308642
+(weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
+(weight=0.37037037037037) * (score{size}=0.392377439013925) = 0.145324977412565
+(weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
+(weight=0.111111111111111) * (score{tags}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{udeprels}=0.918918918918919) = 0.102102102102102
+(TOTAL score=0.429032017786272) * (availability=1) * (validity=1) = 0.429032017786272
+STARS = 2
+UD_Bavarian-MaiBaam	0.429032017786272	2
