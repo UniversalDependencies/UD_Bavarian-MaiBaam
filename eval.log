@@ -1,56 +1,7 @@
-Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
-Evaluating the following revision of UD_Bavarian-MaiBaam:
-commit e78bb59997f10f030720d976f0b0233f7bf3ce03
-Merge: 71cae5e 7d0409b
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 15036 of 15036 words (nodes).
-Size: min(0, log((N/1000)**2)) = 5.42089465140386.
-Size: maximum value 13.815511 is for 1000000 words or more.
-Split: Did not find more than 10000 training words.
-Split: Did not find at least 10000 development words.
-Split: Found at least 10000 test words.
-Lemmas: '_' is the most frequent lemma.
-Universal POS tags: 17 out of 17 found in the corpus.
-Universal POS tags: source of annotation (from README) factor is 1.
-Features: 0 out of 15036 total words have one or more features.
-Features: source of annotation (from README) factor is 0.4.
-Universal relations: 34 out of 37 found in the corpus.
-Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL       4877
-Udapi: found 4877 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 15036 words.
-Genres: found 5 out of 18 known.
-/net/work/people/zeman/unidep/tools/validate.py --lang bar --max-err=10 UD_Bavarian-MaiBaam/bar_maibaam-ud-test.conllu
-[Line 1381 Sent wikisource_Hansl-und-Gretl_33 Node 24]: [L3 Warning fixed-without-extpos] Fixed expression 'a weng' does not have the 'ExtPos' feature
-[Line 1578 Sent wiki_Minga_4 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'mehra wia' does not have the 'ExtPos' feature
-[Line 1928 Sent wiki_Minga_16 Node 25]: [L3 Warning fixed-without-extpos] Fixed expression 'a boar' does not have the 'ExtPos' feature
-[Line 2180 Sent wiki_Haferltarock_8 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'de owa' does not have the 'ExtPos' feature
-[Line 2221 Sent wiki_Haferltarock_10 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'mea wej' does not have the 'ExtPos' feature
-[Line 2458 Sent wiki_Haferltarock_20 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'mea wej' does not have the 'ExtPos' feature
-[Line 2595 Sent wiki_Haferltarock_27 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'mea wej' does not have the 'ExtPos' feature
-[Line 3518 Sent wikitalk_Dischkrian:Ödenburg_13 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'a bissl' does not have the 'ExtPos' feature
-[Line 4283 Sent wiki_Toppmkorsee_16 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'ois wia' does not have the 'ExtPos' feature
-[Line 4871 Sent wikitalk_Dischkrian:Ottoman_6 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'erst moi' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-[Line 7388 Sent wikisample_Boarische-Grammatik-Konjunktiona_71 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Fir'
-[Line 7409 Sent wikisample_Boarische-Grammatik-Konjunktiona_72 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Durch'
-Syntax errors: 2
-Warnings: 39
-*** FAILED *** with 2 errors
-Exit code: 1
-Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.277777777777778) = 0.0213675213675214
-(weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
-(weight=0.256410256410256) * (score{size}=0.392377439013925) = 0.10060959974716
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
-(weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.918918918918919) = 0.0706860706860707
-(TOTAL score=0.291637550775111) * (availability=1) * (validity=0.01) = 0.00291637550775111
-STARS = 0
-UD_Bavarian-MaiBaam	0.00291637550775111	0
+Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
+Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
+Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
+Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
+from which this script is invoked and which also holds the validator.
+$0 == tools/evaluate_treebank.pl
+The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
