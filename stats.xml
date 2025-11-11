@@ -17,15 +17,15 @@
   <tags unique="17">
     <tag name="ADJ">798</tag><!-- _ -->
     <tag name="ADP">1417</tag><!-- _ -->
-    <tag name="ADV">1209</tag><!-- _ -->
+    <tag name="ADV">1211</tag><!-- _ -->
     <tag name="AUX">926</tag><!-- _ -->
-    <tag name="CCONJ">380</tag><!-- _ -->
-    <tag name="DET">1959</tag><!-- _ -->
+    <tag name="CCONJ">379</tag><!-- _ -->
+    <tag name="DET">1957</tag><!-- _ -->
     <tag name="INTJ">23</tag><!-- _ -->
     <tag name="NOUN">2272</tag><!-- _ -->
     <tag name="NUM">240</tag><!-- _ -->
     <tag name="PART">160</tag><!-- _ -->
-    <tag name="PRON">1133</tag><!-- _ -->
+    <tag name="PRON">1134</tag><!-- _ -->
     <tag name="PROPN">545</tag><!-- _ -->
     <tag name="PUNCT">2105</tag><!-- _ -->
     <tag name="SCONJ">340</tag><!-- _ -->
@@ -34,22 +34,23 @@
     <tag name="X">64</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="0">
+  <feats unique="1">
+    <feat name="Typo" value="Yes" upos="ADV,DET,SCONJ">8</feat><!-- dass, das, des, irgánd, je, zu -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="43">
     <dep name="acl">31</dep>
     <dep name="acl:relcl">88</dep>
-    <dep name="advcl">174</dep>
+    <dep name="advcl">171</dep>
     <dep name="advcl:relcl">21</dep>
     <dep name="advmod">1400</dep>
     <dep name="amod">468</dep>
     <dep name="appos">176</dep>
     <dep name="aux">575</dep>
     <dep name="aux:pass">81</dep>
-    <dep name="case">1329</dep>
-    <dep name="cc">377</dep>
-    <dep name="ccomp">99</dep>
+    <dep name="case">1331</dep>
+    <dep name="cc">376</dep>
+    <dep name="ccomp">101</dep>
     <dep name="compound">15</dep>
     <dep name="compound:prt">103</dep>
     <dep name="conj">467</dep>
@@ -62,16 +63,16 @@
     <dep name="dislocated">7</dep>
     <dep name="expl">110</dep>
     <dep name="expl:pv">107</dep>
-    <dep name="fixed">39</dep>
+    <dep name="fixed">36</dep>
     <dep name="flat">126</dep>
     <dep name="goeswith">8</dep>
     <dep name="mark">343</dep>
-    <dep name="nmod">446</dep>
+    <dep name="nmod">447</dep>
     <dep name="nsubj">1129</dep>
     <dep name="nsubj:pass">66</dep>
     <dep name="nummod">140</dep>
     <dep name="obj">674</dep>
-    <dep name="obl">798</dep>
+    <dep name="obl">800</dep>
     <dep name="obl:agent">11</dep>
     <dep name="obl:arg">106</dep>
     <dep name="orphan">30</dep>
