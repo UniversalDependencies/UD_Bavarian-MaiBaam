@@ -478,11 +478,11 @@
 3	a	_	PRON	_	_	7	nsubj	_	GermanLemma=er
 4	aa	_	ADV	_	_	7	advmod	_	GermanLemma=auch
 5	des	_	PRON	_	_	7	obj	_	GermanLemma=das
-6	nimma	__	ADV	_	_	7	advmod	_	GermanLemma=nicht mehr
+6	nimma	_	ADV	_	_	7	advmod	_	GermanLemma=nicht mehr
 7	gschafft	_	VERB	_	_	0	root	_	GermanLemma=schaffen
 8	und	_	CCONJ	_	_	12	cc	_	GermanLemma=und
 9	hod	_	AUX	_	_	12	aux	_	GermanLemma=haben
-10	nimma	__	ADV	_	_	12	advmod	_	GermanLemma=nicht mehr
+10	nimma	_	ADV	_	_	12	advmod	_	GermanLemma=nicht mehr
 11	weidda	_	ADP	_	_	12	compound:prt	_	GermanLemma=weiter
 12	gwußt	_	VERB	_	_	7	conj	_	GermanLemma=wissen
 13	in	_	ADP	_	_	15	case	_	GermanLemma=in
@@ -2178,7 +2178,7 @@
 10	Bungde	_	NOUN	_	_	5	obj	_	GermanLemma=Punkt|SpaceAfter=No
 11	,	_	PUNCT	_	_	18	punct	_	GermanLemma=,
 12	de	_	PRON	_	_	18	nsubj	_	GermanLemma=die
-13	owa	_	PRON	_	_	12	fixed	_	GermanLemma=aber
+13	owa	_	ADV	_	_	18	advmod	_	GermanLemma=aber
 14	ned	_	PART	_	_	18	advmod	_	GermanLemma=nicht
 15	Bungde	_	NOUN	_	_	18	obj	_	GermanLemma=Punkt
 16	sondan	_	CCONJ	_	_	17	cc	_	GermanLemma=sondern
@@ -2532,7 +2532,7 @@
 1	Wenn	_	SCONJ	_	_	5	mark	_	GermanLemma=wenn
 2	da	_	DET	_	_	3	det	_	GermanLemma=der
 3	Voadane	_	NOUN	_	_	5	nsubj	_	GermanLemma=Vordere
-4	nimma	__	ADV	_	_	5	advmod	_	GermanLemma=nicht mehr
+4	nimma	_	ADV	_	_	5	advmod	_	GermanLemma=nicht mehr
 5	midgejt	_	VERB	_	_	10	advcl	_	GermanLemma=mitgehen|SpaceAfter=No
 6	,	_	PUNCT	_	_	5	punct	_	GermanLemma=,
 7	mou	_	AUX	_	_	10	aux	_	GermanLemma=müssen
@@ -2550,7 +2550,7 @@
 1	Wenn	_	SCONJ	_	_	6	mark	_	GermanLemma=wenn
 2	da	_	DET	_	_	3	det	_	GermanLemma=der
 3	Hintane	_	NOUN	_	_	6	nsubj	_	GermanLemma=Hintere
-4	nimmer	__	ADV	_	_	6	advmod	_	GermanLemma=nicht mehr
+4	nimmer	_	ADV	_	_	6	advmod	_	GermanLemma=nicht mehr
 5	mehr	_	ADV	_	_	6	advmod	_	GermanLemma=mehr
 6	osong	_	VERB	_	_	12	advcl	_	GermanLemma=ansagen
 7	mog	_	AUX	_	_	6	aux	_	GermanLemma=mögen|SpaceAfter=No
@@ -4780,7 +4780,7 @@
 10	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 11	ob	_	SCONJ	_	_	13	mark	_	GermanLemma=ob
 12	des	_	PRON	_	_	13	nsubj	_	GermanLemma=das
-13	des	_	DET	_	_	9	advcl	_	CorrectForm=dessäii|GermanLemma=dasselbe
+13	des	_	DET	_	Typo=Yes	9	advcl	_	CorrectForm=dessäii|GermanLemma=dasselbe
 14	säii	_	X	_	_	13	goeswith	_	_
 15	is	_	AUX	_	_	13	cop	_	GermanLemma=sein
 16	wier	_	ADP	_	_	18	case	_	GermanLemma=wie
@@ -5378,7 +5378,7 @@
 1	„	_	PUNCT	_	_	2	punct	_	GermanLemma=„|SpaceAfter=No
 2	Schau	_	VERB	_	_	0	root	_	GermanLemma=schauen|SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
-4	dass	_	SCONJ	_	_	6	mark	_	GermanLemma=dass
+4	dass	_	SCONJ	_	Typo=Yes	6	mark	_	GermanLemma=dass
 5	d‘	_	X	_	_	4	goeswith	_	_
 6	weidakummst	_	VERB	_	_	2	ccomp	_	GermanLemma=weiterkommen|SpaceAfter=No
 7	!	_	PUNCT	_	_	2	punct	_	GermanLemma=!|SpaceAfter=No
@@ -5392,7 +5392,7 @@
 # source = https://tatoeba.org/en/sentences/show/6539877
 # author = brauchinet
 1	„	_	PUNCT	_	_	5	punct	_	GermanLemma=„|SpaceAfter=No
-2	Dass	_	SCONJ	_	_	5	mark	_	GermanLemma=dass
+2	Dass	_	SCONJ	_	Typo=Yes	5	mark	_	GermanLemma=dass
 3	d‘	_	X	_	_	2	goeswith	_	_
 4	di	_	PRON	_	_	5	expl:pv	_	GermanLemma=du
 5	schleichen	_	VERB	_	_	0	root	_	GermanLemma=schleichen
@@ -6309,7 +6309,7 @@
 2	Minga	_	PROPN	_	_	10	nsubj	_	GermanLemma=München
 3	scho	_	ADV	_	_	10	advmod	_	GermanLemma=schon
 4	seit	_	ADP	_	_	5	case	_	GermanLemma=seit
-5	je	_	ADV	_	_	10	advmod	_	GermanLemma=jeher
+5	je	_	ADV	_	Typo=Yes	10	advmod	_	GermanLemma=jeher
 6	hea	_	X	_	_	5	goeswith	_	_
 7	an	_	DET	_	_	8	det	_	GermanLemma=ein
 8	Hauffa	_	NOUN	_	_	10	obj	_	GermanLemma=Haufen
@@ -6897,7 +6897,7 @@
 5	wissn	_	VERB	_	_	0	root	_	GermanLemma=wissen|SpaceAfter=No
 6	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
 7	warum	_	ADV	_	_	11	advmod	_	GermanLemma=warum
-8	das	_	SCONJ	_	_	11	mark	_	GermanLemma=dass
+8	das	_	SCONJ	_	Typo=Yes	11	mark	_	GermanLemma=dass
 9	d	_	X	_	_	8	goeswith	_	_
 10	da	_	ADV	_	_	11	advmod	_	GermanLemma=da
 11	higehst	_	VERB	_	_	5	ccomp	_	GermanLemma=hingehen|SpaceAfter=No
@@ -7385,12 +7385,12 @@
 # dialect_group = north
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
-1	Fir	_	ADP	_	_	6	advmod	_	GermanLemma=für
-2	des	_	DET	_	_	1	fixed	_	GermanLemma=das
+1	Fir	_	ADP	_	_	2	case	_	GermanLemma=für
+2	des	_	PRON	_	_	13	obl	_	GermanLemma=das
 3	das	_	SCONJ	_	_	6	mark	_	GermanLemma=dass|SpaceAfter=No
 4	'a	_	PRON	_	_	6	nsubj	_	GermanLemma=er
 5	su	_	ADV	_	_	6	advmod	_	GermanLemma=so
-6	olt	_	ADJ	_	_	13	advcl	_	GermanLemma=alt
+6	olt	_	ADJ	_	_	2	ccomp	_	GermanLemma=alt
 7	is	_	AUX	_	_	6	cop	_	GermanLemma=sein|SpaceAfter=No
 8	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
 9	is	_	AUX	_	_	13	cop	_	GermanLemma=sein|SpaceAfter=No
@@ -7406,13 +7406,13 @@
 # dialect_group = north
 # location = Western North Bavarian area
 # source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
-1	Durch	_	ADP	_	_	7	advmod	_	GermanLemma=durch
-2	des	_	DET	_	_	1	fixed	_	GermanLemma=das
+1	Durch	_	ADP	_	_	2	case	_	GermanLemma=durch
+2	des	_	PRON	_	_	9	obl	_	GermanLemma=das
 3	das	_	SCONJ	_	_	7	mark	_	GermanLemma=dass|SpaceAfter=No
 4	'a	_	PRON	_	_	7	nsubj	_	GermanLemma=er
 5	su	_	ADV	_	_	6	advmod	_	CorrectSpaceAfter=Yes|GermanLemma=so|SpaceAfter=No
 6	vül	_	ADV	_	_	7	advmod	_	GermanLemma=viel
-7	arwat	_	VERB	_	_	9	advcl	_	GermanLemma=arbeiten|SpaceAfter=No
+7	arwat	_	VERB	_	_	2	ccomp	_	GermanLemma=arbeiten|SpaceAfter=No
 8	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
 9	vadejnt	_	VERB	_	_	0	root	_	GermanLemma=verdienen|SpaceAfter=No
 10	'a	_	PRON	_	_	9	nsubj	_	GermanLemma=er
@@ -8140,7 +8140,7 @@
 12	Fich	_	NOUN	_	_	9	nmod	_	GermanLemma=Vieh
 13	realisdisch	_	ADJ	_	_	7	advmod	_	GermanLemma=realistisch
 14	(	_	PUNCT	_	_	17	punct	_	GermanLemma=(|SpaceAfter=No
-15	zu	_	ADV	_	_	17	advmod	_	CorrectForm=zumindest|GermanLemma=zumindest
+15	zu	_	ADV	_	Typo=Yes	17	advmod	_	CorrectForm=zumindest|GermanLemma=zumindest
 16	mindest	_	X	_	_	15	goeswith	_	_
 17	deoretisch	_	ADJ	_	_	7	parataxis	_	GermanLemma=theoretisch|SpaceAfter=No
 18	)	_	PUNCT	_	_	17	punct	_	GermanLemma=)
@@ -9922,7 +9922,7 @@
 10	weida	_	ADP	_	_	5	compound:prt	_	GermanLemma=weiter|SpaceAfter=No
 11	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 12	duach	_	ADP	_	_	13	case	_	GermanLemma=durch
-13	des	_	PRON	_	_	5	advcl	_	GermanLemma=das|SpaceAfter=No
+13	des	_	PRON	_	_	5	obl	_	GermanLemma=das|SpaceAfter=No
 14	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 15	dass	_	SCONJ	_	_	19	mark	_	GermanLemma=dass
 16	ar	_	PRON	_	_	19	nsubj	_	GermanLemma=er
@@ -10585,6 +10585,7 @@
 17	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
 
 # sent_id = cairo_1
+# parallel_id = cairo/1
 # text = S’Mädl hod an Briaf an sei Freindin gschrim.
 # text_en = The girl wrote a letter to her friend.
 # genre = grammar-examples
@@ -10602,6 +10603,7 @@
 10	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
 
 # sent_id = cairo_2
+# parallel_id = cairo/2
 # text = I deng es regnd.
 # text_en = I think that it is raining.
 # genre = grammar-examples
@@ -10614,6 +10616,7 @@
 5	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = cairo_3
+# parallel_id = cairo/3
 # text = Er hod vasuacht s’Raucha und Saufa aufzumhearn.
 # text_en = He tried to stop smoking and drinking.
 # genre = grammar-examples
@@ -10630,6 +10633,7 @@
 9	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
 
 # sent_id = cairo_4
+# parallel_id = cairo/4
 # text = Mogst geh?
 # text_en = Do you want to go?
 # genre = grammar-examples
@@ -10640,6 +10644,7 @@
 3	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
 
 # sent_id = cairo_5
+# parallel_id = cairo/5
 # text = Sam, machs Fensta auf!
 # text_en = Sam, open the window!
 # genre = grammar-examples
@@ -10654,6 +10659,7 @@
 7	!	_	PUNCT	_	_	3	punct	_	GermanLemma=!
 
 # sent_id = cairo_6
+# parallel_id = cairo/6
 # text = Sie hod ihram Mo ogschafft, s’Auto zum waschn.
 # text_en = She made her husband wash the car.
 # genre = grammar-examples
@@ -10674,6 +10680,7 @@
 12	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = cairo_7
+# parallel_id = cairo/7
 # text = Da Nachbar vom Bäda hod an Zaun rot ogmoid.
 # text_en = Peter’s neighbor painted the fence red.
 # genre = grammar-examples
@@ -10693,6 +10700,7 @@
 11	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
 
 # sent_id = cairo_8
+# parallel_id = cairo/8
 # text = Mei Papa is cooler wia deina.
 # text_en = My dad is cooler than yours.
 # genre = grammar-examples
@@ -10707,6 +10715,7 @@
 7	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
 
 # sent_id = cairo_9
+# parallel_id = cairo/9
 # text = D’Maria hod Bronze gwunna, da Bäda Suiba und d’Jane Goid.
 # text_en = Mary won bronze, Peter silver, and Jane gold.
 # genre = grammar-examples
@@ -10728,6 +10737,7 @@
 14	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = cairo_10
+# parallel_id = cairo/10
 # text = Is Iguazu a großs oder a gloans Land?
 # text_en = Is Iguazu a big or a small country?
 # genre = grammar-examples
@@ -10744,6 +10754,7 @@
 9	?	_	PUNCT	_	_	4	punct	_	GermanLemma=?
 
 # sent_id = cairo_11
+# parallel_id = cairo/11
 # text = Weder da Schmidt Bäda no d’Braun Maria hom ausgweid wern kinna.
 # text_en = Neither Peter Smith nor Mary Brown could be selected.
 # genre = grammar-examples
@@ -10764,6 +10775,7 @@
 13	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
 
 # sent_id = cairo_12
+# parallel_id = cairo/12
 # text = Sie ham koa Ahnung, wer des gschrim hod.
 # text_en = They have no idea who wrote it.
 # genre = grammar-examples
@@ -10781,6 +10793,7 @@
 10	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = cairo_13
+# parallel_id = cairo/13
 # text = Wos schaust da o?
 # text_en = What are you looking at?
 # genre = grammar-examples
@@ -10793,6 +10806,7 @@
 5	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
 
 # sent_id = cairo_14
+# parallel_id = cairo/14
 # text = Wann moanst, dass d’kema konnst?
 # text_en = When do you think you can come?
 # genre = grammar-examples
@@ -10801,13 +10815,14 @@
 1	Wann	_	ADV	_	_	2	advmod	_	GermanLemma=wann
 2	moanst	_	VERB	_	_	0	root	_	GermanLemma=meinen|SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
-4	dass	_	SCONJ	_	_	6	mark	_	GermanLemma=dass
+4	dass	_	SCONJ	_	Typo=Yes	6	mark	_	GermanLemma=dass
 5	d’	_	X	_	_	4	goeswith	_	CorrectSpaceAfter=Yes|SpaceAfter=No
 6	kema	_	VERB	_	_	2	ccomp	_	GermanLemma=kommen
 7	konnst	_	AUX	_	_	6	aux	_	GermanLemma=können|SpaceAfter=No
 8	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
 
 # sent_id = cairo_15
+# parallel_id = cairo/15
 # text = Er hod a Auto kauft, aber sei Bruada nur a Radl.
 # text_en = He bought a car but his brother just a bike.
 # genre = grammar-examples
@@ -10828,6 +10843,7 @@
 13	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = cairo_16
+# parallel_id = cairo/16
 # text = Da Bäda und d’Maria hom sie umarmt und san dann ausm Zimmer ganga.
 # text_en = Peter and Mary hugged each other and then left the room.
 # genre = grammar-examples
@@ -10852,6 +10868,7 @@
 16	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
 
 # sent_id = cairo_17
+# parallel_id = cairo/17
 # text = Sie häd ihre Hoar macha soin, aber hods aus irgendoam Grund an dem Dog ned gmacht.
 # text_en = She should have been doing her hair but for some reason she wouldn't that day.
 # genre = grammar-examples
@@ -10878,6 +10895,7 @@
 19	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
 # sent_id = cairo_18
+# parallel_id = cairo/18
 # text = I hob ned mithoidn kinna, weil a z’schnei glaufa is.
 # text_en = I wasn't able to keep up, because he ran too fast.
 # genre = grammar-examples
@@ -10898,6 +10916,7 @@
 13	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
 
 # sent_id = cairo_19
+# parallel_id = cairo/19
 # text = Da Briaf is vom Bäda und is gestern gliefad woarn.
 # text_en = This letter is from Peter and it was delivered yesterday.
 # genre = grammar-examples
@@ -10918,6 +10937,7 @@
 12	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
 
 # sent_id = cairo_20
+# parallel_id = cairo/20
 # text = Sie is in Paris, da Hauptstadt vo Frankreich, aufgwachsn.
 # text_en = She grew up in Paris, the capital of France.
 # genre = grammar-examples
@@ -13332,7 +13352,7 @@
 9	entstaundn	_	VERB	_	_	0	root	_	GermanLemma=entstehen|SpaceAfter=No
 10	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
 11	de	_	PRON	_	_	15	nsubj:pass	_	GermanLemma=die
-12	owa	_	CCONJ	_	_	15	cc	_	GermanLemma=aber
+12	owa	_	ADV	_	_	15	advmod	_	GermanLemma=aber
 13	boid	_	ADV	_	_	15	advmod	_	GermanLemma=bald
 14	wieda	_	ADV	_	_	15	advmod	_	GermanLemma=wieder
 15	gschlossn	_	VERB	_	_	9	advcl:relcl	_	GermanLemma=schließen
@@ -15719,7 +15739,7 @@
 13	vastenga	_	VERB	_	_	6	acl:relcl	_	GermanLemma=verstehen|SpaceAfter=No
 14	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
 15	owa	_	SCONJ	_	_	19	mark	_	GermanLemma=aber
-16	nimma	__	ADV	_	_	19	advmod	_	GermanLemma=nicht mehr
+16	nimma	_	ADV	_	_	19	advmod	_	GermanLemma=nicht mehr
 17	midarananda	_	ADV	_	_	19	advmod	_	GermanLemma=miteinander
 18	Boarisch	_	NOUN	_	_	19	obj	_	GermanLemma=Bairisch
 19	redn	_	VERB	_	_	2	xcomp	_	GermanLemma=reden|SpaceAfter=No
@@ -19979,7 +19999,7 @@
 7	Leid	_	NOUN	_	_	8	obj	_	GermanLemma=Leute
 8	mocha	_	VERB	_	_	0	root	_	GermanLemma=machen
 9	oda	_	CCONJ	_	_	13	cc	_	GermanLemma=oder
-10	irgánd	_	DET	_	_	12	det	_	CorrectForm=irgándán|GermanLemma=irgendein
+10	irgánd	_	DET	_	Typo=Yes	12	det	_	CorrectForm=irgándán|GermanLemma=irgendein
 11	án	_	X	_	_	10	goeswith	_	_
 12	Zeig	_	NOUN	_	_	13	obj	_	GermanLemma=Zeug
 13	erfoáschn	_	VERB	_	_	8	conj	_	GermanLemma=erforschen
@@ -20211,7 +20231,7 @@
 # dialect_group = south
 # location = South Tyrol
 # source = https://bar.wikipedia.org/wiki/Jazz-Rap
-1	D'råfter	__	ADV	_	_	16	advmod	_	GermanLemma=danach
+1	D'råfter	_	ADV	_	_	16	advmod	_	GermanLemma=danach
 2	håbm	_	AUX	_	_	16	aux	_	GermanLemma=haben
 3	aa	_	ADV	_	_	16	advmod	_	GermanLemma=auch
 4	groaße	_	ADJ	_	_	5	amod	_	GermanLemma=groß
@@ -21740,7 +21760,7 @@
 28	(	_	PUNCT	_	_	31	punct	_	GermanLemma=(|SpaceAfter=No
 29	in	_	ADP	_	_	31	case	_	GermanLemma=in
 30	da	_	DET	_	_	31	det	_	GermanLemma=die
-31	Bar-	_	NOUN	_	_	24	obl	_	GermanLemma=Bar
+31	Bar-	_	NOUN	_	_	24	nmod	_	GermanLemma=Bar
 32	und	_	CCONJ	_	_	35	cc	_	GermanLemma=und
 33	in	_	ADP	_	_	35	case	_	GermanLemma=in
 34	da	_	DET	_	_	35	det	_	GermanLemma=die
