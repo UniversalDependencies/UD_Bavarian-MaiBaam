@@ -19181,7 +19181,7 @@
 1	Schneit	_	VERB	_	_	0	root	_	GermanLemma=schneien|SpaceAfter=No
 2	s	_	PRON	_	_	1	expl	_	GermanLemma=es
 3	heid	_	ADV	_	_	4	advmod	_	GermanLemma=heute
-4	Nacht	_	NOUN	_	_	1	obl:arg	_	GermanLemma=Nacht
+4	Nacht	_	NOUN	_	_	1	obl	_	GermanLemma=Nacht
 5	gnua	_	ADV	_	_	1	advmod	_	GermanLemma=genug
 6	um	_	SCONJ	_	_	11	mark	_	GermanLemma=um
 7	Reisen	_	NOUN	_	_	11	obj	_	GermanLemma=Reisen
