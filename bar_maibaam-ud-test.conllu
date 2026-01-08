@@ -8553,7 +8553,7 @@
 31	Baischbü	_	NOUN	_	_	20	parataxis	_	GermanLemma=Beispiel
 32	mid	_	ADP	_	_	34	case	_	GermanLemma=mit
 33	am	_	DET	_	_	34	det	_	GermanLemma=der
-34	Fischota	_	NOUN	_	_	30	nmod	_	GermanLemma=Fischotter
+34	Fischota	_	NOUN	_	_	31	nmod	_	GermanLemma=Fischotter
 35	(	_	PUNCT	_	_	36	punct	_	GermanLemma=(|SpaceAfter=No
 36	Lutra	_	X	_	_	34	appos	_	GermanLemma=Lutra
 37	lutra	_	X	_	_	36	flat	_	GermanLemma=lutra|SpaceAfter=No
