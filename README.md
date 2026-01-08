@@ -44,12 +44,15 @@ For detailed annotation guidelines, please read the following report:
 
 # Changelog
 
+* 2026-05-15 v2.18
+  * Minor corrections
 * 2025-11-15 v2.17
   * Added Typo=Yes to goeswith
   * Constructions like "durch/duach des" and "fir des" are no longer fixed
   * Minor corrections
 * 2024-11-15 v2.15
-  * German lemmas added; minor corrections to dependency/POS annotations.
+  * German lemmas added
+  * Minor corrections to dependency/POS annotations
 * 2024-05-15 v2.14
   * Initial release in Universal Dependencies.
 
