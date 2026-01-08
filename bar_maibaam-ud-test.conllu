@@ -629,8 +629,8 @@
 33	i	_	ADP	_	_	35	case	_	GermanLemma=in
 34	m	_	DET	_	_	35	det	_	GermanLemma=das
 35	Hoiz	_	NOUN	_	_	37	obl	_	GermanLemma=Holz
-36	dareißn	_	VERB	_	_	37	xcomp	_	GermanLemma=reißen
-37	dadn	_	VERB	_	_	28	advcl:relcl	_	GermanLemma=tun|SpaceAfter=No
+36	dareißn	_	VERB	_	_	28	advcl:relcl	_	GermanLemma=reißen
+37	dadn	_	AUX	_	_	36	aux	_	GermanLemma=tun|SpaceAfter=No
 38	.	_	PUNCT	_	_	13	punct	_	GermanLemma=.|SpaceAfter=No
 39	"	_	PUNCT	_	_	13	punct	_	GermanLemma="
 
@@ -5358,7 +5358,7 @@
 6-7	zum	_	_	_	_	_	_	_	_
 6	zu	_	PART	_	_	8	mark	_	GermanLemma=zu
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
-8	Tuan	_	NOUN	_	_	2	ccomp	_	GermanLemma=Tun
+8	Tuan	_	NOUN	_	_	2	ccomp	_	GermanLemma=tun
 9	is	_	AUX	_	_	8	cop	_	GermanLemma=sein|SpaceAfter=No
 10	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 11	und	_	CCONJ	_	_	13	cc	_	GermanLemma=und
@@ -12498,16 +12498,15 @@
 # location = Austria
 # source = https://tatoeba.org/en/sentences/show/5180500
 # author = brauchinet
-1	Tam	_	VERB	_	_	0	root	_	GermanLemma=Tun|SpaceAfter=No
-2	ma	_	PRON	_	_	1	nsubj	_	GermanLemma=wir
-3	des	_	DET	_	_	1	obj	_	GermanLemma=das|SpaceAfter=No
-4	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
-5	derwei	_	SCONJ	_	_	8	mark	_	GermanLemma=derweil|SpaceAfter=No
-6	's	_	PRON	_	_	8	nsubj	_	GermanLemma=es
-7	nu	_	ADV	_	_	8	advmod	_	GermanLemma=noch
-8	frisch	_	ADJ	_	_	1	advcl	_	GermanLemma=frisch
-9	is	_	AUX	_	_	8	cop	_	GermanLemma=sein|SpaceAfter=No
-10	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+1	Tamma	_	VERB	_	_	0	root	_	GermanLemma=tun
+2	des	_	DET	_	_	1	obj	_	GermanLemma=das|SpaceAfter=No
+3	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+4	derwei	_	SCONJ	_	_	7	mark	_	GermanLemma=derweil|SpaceAfter=No
+5	's	_	PRON	_	_	7	nsubj	_	GermanLemma=es
+6	nu	_	ADV	_	_	7	advmod	_	GermanLemma=noch
+7	frisch	_	ADJ	_	_	1	advcl	_	GermanLemma=frisch
+8	is	_	AUX	_	_	7	cop	_	GermanLemma=sein|SpaceAfter=No
+9	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
 
 # sent_id = wiki_Der-Zettelträger-Papp_2
 # text = Der Zettelträger Papp is a einaktig's Vuag'spül vom Johann Nestroy.
@@ -14226,14 +14225,13 @@
 # location = Austria
 # source = https://tatoeba.org/en/sentences/show/5180509
 # author = brauchinet
-1	Tam	_	VERB	_	_	0	root	_	GermanLemma=tun|SpaceAfter=No
-2	ma	_	PRON	_	_	1	nsubj	_	GermanLemma=wir|SpaceAfter=No
-3	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
-4	wos	_	PRON	_	_	6	obj	_	GermanLemma=was
-5	ma	_	PRON	_	_	6	nsubj	_	GermanLemma=wir
-6	tuan	_	VERB	_	_	1	ccomp	_	GermanLemma=tun
-7	miassn	_	AUX	_	_	6	aux	_	GermanLemma=müssen|SpaceAfter=No
-8	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+1	Tamma	_	VERB	_	_	0	root	_	GermanLemma=tun|SpaceAfter=No
+2	,	_	PUNCT	_	_	5	punct	_	GermanLemma=,
+3	wos	_	PRON	_	_	5	obj	_	GermanLemma=was
+4	ma	_	PRON	_	_	5	nsubj	_	GermanLemma=wir
+5	tuan	_	VERB	_	_	1	ccomp	_	GermanLemma=tun
+6	miassn	_	AUX	_	_	5	aux	_	GermanLemma=müssen|SpaceAfter=No
+7	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
 
 # sent_id = tatoeba_5180545
 # text = Hau ma glei o, waun da Thomas kummt.
@@ -14815,9 +14813,10 @@
 # source = https://tatoeba.org/en/sentences/show/5453736
 # author = brauchinet
 1	Mir	_	PRON	_	_	2	nsubj	_	GermanLemma=wir
-2	tuans	_	VERB	_	_	0	root	_	GermanLemma=tun
-3	mitanaund	_	ADV	_	_	2	advmod	_	GermanLemma=miteinander|SpaceAfter=No
-4	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+2	tuan	_	VERB	_	_	0	root	_	GermanLemma=tun|SpaceAfter=No
+3	s	_	VERB	_	_	1	obj	_	GermanLemma=es
+4	mitanaund	_	ADV	_	_	2	advmod	_	GermanLemma=miteinander|SpaceAfter=No
+5	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = tatoeba_5467693
 # text = Heit is neamd in d'Hockn kemma.
@@ -21225,11 +21224,11 @@
 33	"	_	PUNCT	_	_	32	punct	_	GermanLemma="
 34	oder	_	CCONJ	_	_	36	cc	_	GermanLemma=oder
 35	"	_	PUNCT	_	_	36	punct	_	GermanLemma="|SpaceAfter=No
-36	daadl	_	ADV	_	_	26	conj	_	GermanLemma=tun|SpaceAfter=No
+36	daadl	_	VERB	_	_	26	conj	_	GermanLemma=tun|SpaceAfter=No
 37	"	_	PUNCT	_	_	36	punct	_	GermanLemma="
 38	mit	_	ADP	_	_	40	case	_	GermanLemma=mit
 39	"	_	PUNCT	_	_	40	punct	_	GermanLemma="|SpaceAfter=No
-40	daada	_	ADV	_	_	36	orphan	_	GermanLemma=tun|SpaceAfter=No
+40	daada	_	VERB	_	_	36	orphan	_	GermanLemma=tun|SpaceAfter=No
 41	"	_	PUNCT	_	_	40	punct	_	GermanLemma="
 42	(	_	PUNCT	_	_	45	punct	_	GermanLemma=(|SpaceAfter=No
 43	bei	_	ADP	_	_	44	case	_	GermanLemma=bei
@@ -21240,7 +21239,7 @@
 48	oafach	_	ADJ	_	_	45	advmod	_	GermanLemma=einfach
 49	koa	_	DET	_	_	51	det	_	GermanLemma=kein
 50	"	_	PUNCT	_	_	51	punct	_	GermanLemma="|SpaceAfter=No
-51	daal	_	ADV	_	_	45	obj	_	GermanLemma=tun|SpaceAfter=No
+51	daal	_	VERB	_	_	45	obj	_	GermanLemma=tun|SpaceAfter=No
 52	"	_	PUNCT	_	_	51	punct	_	GermanLemma="|SpaceAfter=No
 53	)	_	PUNCT	_	_	45	punct	_	GermanLemma=)|SpaceAfter=No
 54	,	_	PUNCT	_	_	56	punct	_	GermanLemma=,
