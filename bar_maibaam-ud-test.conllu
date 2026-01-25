@@ -12082,24 +12082,26 @@
 # dialect_group = north
 # location = unk
 # source = https://bar.wikipedia.org/wiki/J-Pop
-1	Vum	_	ADP	_	_	2	case	_	GermanLemma=von
-2	J-Pop	_	PROPN	_	_	3	obl	_	GermanLemma=J-Pop
-3	untaschaidn	_	VERB	_	_	0	root	_	GermanLemma=unterscheiden
-4	se	_	PRON	_	_	3	expl:pv	_	GermanLemma=sich
-5	daj	_	DET	_	_	13	det	_	GermanLemma=die
-6-7	im	_	_	_	_	_	_	_	_
-6	i	_	ADP	_	_	10	case	_	GermanLemma=in
-7	m	_	DET	_	_	10	det	_	GermanLemma=der
-8	traditionöün	_	ADJ	_	_	9	advmod	_	GermanLemma=traditional
-9	japanischen	_	ADJ	_	_	10	amod	_	GermanLemma=japanisch
-10	Musiggstil	_	NOUN	_	_	11	obl	_	GermanLemma=Musikstil
-11	komponiertn	_	ADJ	_	_	13	amod	_	GermanLemma=komponiert
-12	japanischn	_	ADJ	_	_	13	amod	_	GermanLemma=japanisch
-13	Schlaga	_	NOUN	_	_	3	nsubj	_	GermanLemma=Schlager|SpaceAfter=No
-14	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
-15	d'	_	DET	_	_	16	det	_	GermanLemma=der|SpaceAfter=No
-16	Enka	_	PROPN	_	_	13	appos	_	GermanLemma=Enka|SpaceAfter=No
-17	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
+1-2	Vum	_	_	_	_	_	_	_	_
+1	Vu	_	ADP	_	_	3	case	_	GermanLemma=von
+2	m	_	DET	_	_	3	det	_	GermanLemma=der
+3	J-Pop	_	PROPN	_	_	4	obl	_	GermanLemma=J-Pop
+4	untaschaidn	_	VERB	_	_	0	root	_	GermanLemma=unterscheiden
+5	se	_	PRON	_	_	4	expl:pv	_	GermanLemma=sich
+6	daj	_	DET	_	_	14	det	_	GermanLemma=die
+7-8	im	_	_	_	_	_	_	_	_
+7	i	_	ADP	_	_	11	case	_	GermanLemma=in
+8	m	_	DET	_	_	11	det	_	GermanLemma=der
+9	traditionöün	_	ADJ	_	_	10	advmod	_	GermanLemma=traditional
+10	japanischen	_	ADJ	_	_	11	amod	_	GermanLemma=japanisch
+11	Musiggstil	_	NOUN	_	_	12	obl	_	GermanLemma=Musikstil
+12	komponiertn	_	ADJ	_	_	14	amod	_	GermanLemma=komponiert
+13	japanischn	_	ADJ	_	_	14	amod	_	GermanLemma=japanisch
+14	Schlaga	_	NOUN	_	_	4	nsubj	_	GermanLemma=Schlager|SpaceAfter=No
+15	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
+16	d'	_	DET	_	_	17	det	_	GermanLemma=der|SpaceAfter=No
+17	Enka	_	PROPN	_	_	14	appos	_	GermanLemma=Enka|SpaceAfter=No
+18	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
 
 # sent_id = tatoeba_5113686
 # text = Wengam Reng håmas Picknick ohgsogt.
@@ -12902,7 +12904,7 @@
 8	a	_	DET	_	_	9	det	_	GermanLemma=ein
 9	Theata	_	NOUN	_	_	6	conj	_	GermanLemma=Theater
 10-11	im	_	_	_	_	_	_	_	_
-10	i	_	ADP	_	_	12	case	_	GermanLemma=ich
+10	i	_	ADP	_	_	12	case	_	GermanLemma=in
 11	m	_	DET	_	_	12	det	_	GermanLemma=das
 12	Theata	_	NOUN	_	_	9	nmod	_	GermanLemma=Theater|SpaceAfter=No
 13	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
@@ -13077,7 +13079,7 @@
 12	Region	_	NOUN	_	_	19	obl	_	GermanLemma=Region
 13	Kaffa	_	NOUN	_	_	12	flat	_	GermanLemma=Kaffa
 14-15	im	_	_	_	_	_	_	_	_
-14	i	_	ADP	_	_	16	case	_	GermanLemma=ich
+14	i	_	ADP	_	_	16	case	_	GermanLemma=in
 15	m	_	DET	_	_	16	det	_	GermanLemma=der
 16	Sidwestn	_	NOUN	_	_	19	obl	_	GermanLemma=Südwesten
 17	vau	_	ADP	_	_	18	case	_	GermanLemma=von
