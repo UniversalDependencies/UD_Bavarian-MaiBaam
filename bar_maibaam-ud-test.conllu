@@ -13746,7 +13746,7 @@
 20	Schalal	_	NOUN	_	_	23	obj	_	GermanLemma=Schale
 21	Mokka	_	NOUN	_	_	20	appos	_	GermanLemma=Mokka
 22	z	_	PART	_	_	23	mark	_	GermanLemma=zu|SpaceAfter=No
-23	mochn	_	VERB	_	_	7	xcomp	_	GermanLemma=machen|SpaceAfter=No
+23	mochn	_	VERB	_	_	7	advcl	_	GermanLemma=machen|SpaceAfter=No
 24	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
 
 # sent_id = wiki_Kafää_33
@@ -16127,7 +16127,7 @@
 7	n	_	DET	_	_	8	det	_	GermanLemma=der
 8	Supermarkt	_	NOUN	_	_	10	obl	_	GermanLemma=Supermarkt
 9	zi	_	PART	_	_	10	mark	_	GermanLemma=zu
-10	gian	_	VERB	_	_	1	xcomp	_	GermanLemma=gehen
+10	gian	_	VERB	_	_	1	advcl	_	GermanLemma=gehen
 
 # sent_id = xsid_de-st_valid_125
 # text = erstell an nuidn Alarm fir Donnerstog um 1 nomittog
@@ -19192,7 +19192,7 @@
 9-10	zum	_	_	_	_	_	_	_	_
 9	zu	_	PART	_	_	11	mark	_	GermanLemma=zu
 10	m	_	DET	_	_	11	det	_	GermanLemma=das
-11	macha	_	NOUN	_	_	1	xcomp	_	GermanLemma=Machen|SpaceAfter=No
+11	macha	_	NOUN	_	_	1	advcl	_	GermanLemma=Machen|SpaceAfter=No
 12	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
 
 # sent_id = xsid_de-ba_test_42
