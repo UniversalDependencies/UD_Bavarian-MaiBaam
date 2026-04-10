@@ -17,7 +17,7 @@
 11	dem	_	DET	_	_	14	obl	_	GermanLemma=der
 12	stoarke	_	ADJ	_	_	13	amod	_	GermanLemma=stark
 13	Aggressionen	_	NOUN	_	_	14	nsubj	_	GermanLemma=Aggression
-14	ausglebt	_	VERB	_	_	6	acl	_	GermanLemma=ausleben
+14	ausglebt	_	VERB	_	_	6	acl:relcl	_	GermanLemma=ausleben
 15	wean	_	AUX	_	_	14	aux:pass	_	GermanLemma=werden|SpaceAfter=No
 16	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
 
@@ -9667,7 +9667,7 @@
 11	bei	_	ADP	_	_	13	case	_	GermanLemma=bei
 12	ausgwochsane	_	ADJ	_	_	13	amod	_	GermanLemma=ausgewachsen
 13	Viecha	_	NOUN	_	_	14	obl	_	GermanLemma=Viech
-14	do	_	ADV	_	_	3	acl	_	GermanLemma=da
+14	do	_	ADV	_	_	3	acl:relcl	_	GermanLemma=da
 15	is	_	AUX	_	_	14	cop	_	GermanLemma=sein|SpaceAfter=No
 16	;	_	PUNCT	_	_	18	punct	_	GermanLemma=;
 17	Jungviecha	_	NOUN	_	_	18	nsubj	_	GermanLemma=Jungtier
@@ -9796,7 +9796,7 @@
 21	owa	_	CCONJ	_	_	23	cc	_	GermanLemma=aber
 22	net	_	ADV	_	_	23	advmod	_	GermanLemma=nicht
 23	eiziagn	_	VERB	_	_	20	conj	_	GermanLemma=einziehen
-24	lossn	_	VERB	_	_	13	acl	_	GermanLemma=lassen|SpaceAfter=No
+24	lossn	_	VERB	_	_	13	acl:relcl	_	GermanLemma=lassen|SpaceAfter=No
 25	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
 
 # sent_id = wiki_Schneckn_26
@@ -10132,7 +10132,7 @@
 24	vo	_	ADP	_	_	26	case	_	GermanLemma=von
 25	de	_	DET	_	_	26	det	_	GermanLemma=das
 26	Laundwirweviecha	_	NOUN	_	_	23	nmod	_	GermanLemma=Landwirbeltier
-27	werklt	_	VERB	_	_	5	acl	_	GermanLemma=funktionieren|SpaceAfter=No
+27	werklt	_	VERB	_	_	5	acl:relcl	_	GermanLemma=funktionieren|SpaceAfter=No
 28	,	_	PUNCT	_	_	30	punct	_	GermanLemma=,
 29	des	_	PRON	_	_	30	nsubj	_	GermanLemma=das
 30	haaßt	_	VERB	_	_	27	parataxis	_	GermanLemma=heißen
@@ -14593,7 +14593,7 @@
 7	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
 8	wos	_	PRON	_	_	10	obj	_	GermanLemma=was
 9	i	_	PRON	_	_	10	nsubj	_	GermanLemma=ich
-10	hom	_	VERB	_	_	5	acl	_	GermanLemma=haben
+10	hom	_	VERB	_	_	5	acl:relcl	_	GermanLemma=haben
 11	woit	_	AUX	_	_	10	aux	_	GermanLemma=wollen|SpaceAfter=No
 12	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
 
@@ -14613,7 +14613,7 @@
 7	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
 8	wos	_	PRON	_	_	10	obj	_	GermanLemma=was
 9	i	_	PRON	_	_	10	nsubj	_	GermanLemma=ich
-10	braucht	_	VERB	_	_	5	acl	_	GermanLemma=brauchen
+10	braucht	_	VERB	_	_	5	acl:relcl	_	GermanLemma=brauchen
 11	hob	_	AUX	_	_	10	aux	_	GermanLemma=haben|SpaceAfter=No
 12	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
 
@@ -20159,7 +20159,7 @@
 8	iber	_	ADP	_	_	10	case	_	GermanLemma=über
 9	jazzige	_	ADJ	_	_	10	amod	_	GermanLemma=jazzig
 10	Liadln	_	NOUN	_	_	11	obl	_	GermanLemma=Lied
-11	gräppet	_	VERB	_	_	5	acl	_	GermanLemma=rappen
+11	gräppet	_	VERB	_	_	5	acl:relcl	_	GermanLemma=rappen
 12	werd	_	AUX	_	_	11	aux:pass	_	GermanLemma=werden|SpaceAfter=No
 13	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
