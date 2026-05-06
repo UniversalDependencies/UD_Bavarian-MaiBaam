@@ -5,7 +5,7 @@
 # location = Upper Bavaria
 # source = https://bar.wikipedia.org/wiki/Haberertanz
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
-2	Haberertanz	_	PROPN	_	_	6	nsubj	_	GermanLemma=Haberertanz
+2	Haberertanz	_	NOUN	_	_	6	nsubj	_	GermanLemma=Haberertanz
 3	is	_	AUX	_	_	6	cop	_	GermanLemma=sein
 4	a	_	DET	_	_	6	det	_	GermanLemma=ein
 5	haftiga	_	ADJ	_	_	6	amod	_	GermanLemma=heftig
@@ -17,7 +17,7 @@
 11	dem	_	DET	_	_	14	obl	_	GermanLemma=der
 12	stoarke	_	ADJ	_	_	13	amod	_	GermanLemma=stark
 13	Aggressionen	_	NOUN	_	_	14	nsubj	_	GermanLemma=Aggression
-14	ausglebt	_	VERB	_	_	6	acl	_	GermanLemma=ausleben
+14	ausglebt	_	VERB	_	_	6	acl:relcl	_	GermanLemma=ausleben
 15	wean	_	AUX	_	_	14	aux:pass	_	GermanLemma=werden|SpaceAfter=No
 16	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
 
@@ -79,7 +79,7 @@
 1-2	Beim	_	_	_	_	_	_	_	_
 1	Bei	_	ADP	_	_	3	case	_	GermanLemma=bei
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
-3	Haberertanz	_	PROPN	_	_	6	obl	_	GermanLemma=Haberertanz
+3	Haberertanz	_	NOUN	_	_	6	obl	_	GermanLemma=Haberertanz
 4	wean	_	AUX	_	_	6	aux:pass	_	GermanLemma=werden
 5	Hassgfui	_	NOUN	_	_	6	nsubj:pass	_	GermanLemma=Hassgefühle
 6	ausdruckt	_	VERB	_	_	0	root	_	GermanLemma=ausdrücken|SpaceAfter=No
@@ -138,7 +138,7 @@
 # location = Upper Bavaria
 # source = https://bar.wikipedia.org/wiki/Haberertanz
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
-2	Watschntanz	_	PROPN	_	_	6	nsubj	_	GermanLemma=Watschntanz
+2	Watschntanz	_	NOUN	_	_	6	nsubj	_	GermanLemma=Watschntanz
 3	is	_	AUX	_	_	6	cop	_	GermanLemma=sein
 4	aa	_	DET	_	_	6	det	_	GermanLemma=ein
 5	entfernta	_	ADJ	_	_	6	amod	_	GermanLemma=entfernt
@@ -621,16 +621,16 @@
 26	Viecha	_	NOUN	_	_	28	obl	_	GermanLemma=Viech
 27	z	_	PART	_	_	28	mark	_	GermanLemma=zu|SpaceAfter=No
 28	bringa	_	VERB	_	_	13	xcomp	_	GermanLemma=bringen|SpaceAfter=No
-29	,	_	PUNCT	_	_	37	punct	_	GermanLemma=,
-30	de	_	PRON	_	_	37	nsubj	_	GermanLemma=das
-31	wos	_	SCONJ	_	_	37	mark	_	GermanLemma=was
-32	boid	_	DET	_	_	37	obj	_	GermanLemma=bald
+29	,	_	PUNCT	_	_	36	punct	_	GermanLemma=,
+30	de	_	PRON	_	_	36	nsubj	_	GermanLemma=das
+31	wos	_	SCONJ	_	_	36	mark	_	GermanLemma=was
+32	boid	_	DET	_	_	36	obj	_	GermanLemma=bald
 33-34	im	_	_	_	_	_	_	_	_
 33	i	_	ADP	_	_	35	case	_	GermanLemma=in
 34	m	_	DET	_	_	35	det	_	GermanLemma=das
-35	Hoiz	_	NOUN	_	_	37	obl	_	GermanLemma=Holz
-36	dareißn	_	VERB	_	_	37	xcomp	_	GermanLemma=reißen
-37	dadn	_	VERB	_	_	28	advcl:relcl	_	GermanLemma=tun|SpaceAfter=No
+35	Hoiz	_	NOUN	_	_	36	obl	_	GermanLemma=Holz
+36	dareißn	_	VERB	_	_	28	advcl:relcl	_	GermanLemma=reißen
+37	dadn	_	AUX	_	_	36	aux	_	GermanLemma=tun|SpaceAfter=No
 38	.	_	PUNCT	_	_	13	punct	_	GermanLemma=.|SpaceAfter=No
 39	"	_	PUNCT	_	_	13	punct	_	GermanLemma="
 
@@ -5358,7 +5358,7 @@
 6-7	zum	_	_	_	_	_	_	_	_
 6	zu	_	PART	_	_	8	mark	_	GermanLemma=zu
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
-8	Tuan	_	NOUN	_	_	2	ccomp	_	GermanLemma=Tun
+8	Tuan	_	NOUN	_	_	2	ccomp	_	GermanLemma=tun
 9	is	_	AUX	_	_	8	cop	_	GermanLemma=sein|SpaceAfter=No
 10	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 11	und	_	CCONJ	_	_	13	cc	_	GermanLemma=und
@@ -8540,32 +8540,33 @@
 19	Ficha	_	NOUN	_	_	16	nmod	_	GermanLemma=Vieh
 20	gaundl	_	VERB	_	_	0	root	_	GermanLemma=handeln
 21	hom	_	AUX	_	_	20	aux	_	GermanLemma=haben|SpaceAfter=No
-22	,	_	PUNCT	_	_	26	punct	_	GermanLemma=,
-23	de	_	PRON	_	_	26	nsubj	_	GermanLemma=das
-24	woss	_	SCONJ	_	_	26	mark	_	GermanLemma=wo
-25	wiagli	_	ADJ	_	_	26	advmod	_	GermanLemma=wirklich
-26	gibt	_	VERB	_	_	20	advcl:relcl	_	GermanLemma=geben
-27	-	_	PUNCT	_	_	30	punct	_	GermanLemma=-
-28-29	zum	_	_	_	_	_	_	_	_
-28	zu	_	ADP	_	_	30	case	_	GermanLemma=zu
-29	m	_	DET	_	_	30	det	_	GermanLemma=das
-30	Baischbü	_	NOUN	_	_	20	parataxis	_	GermanLemma=Beispiel
-31	mid	_	ADP	_	_	33	case	_	GermanLemma=mit
-32	am	_	DET	_	_	33	det	_	GermanLemma=der
-33	Fischota	_	NOUN	_	_	30	nmod	_	GermanLemma=Fischotter
-34	(	_	PUNCT	_	_	35	punct	_	GermanLemma=(|SpaceAfter=No
-35	Lutra	_	X	_	_	33	appos	_	GermanLemma=Lutra
-36	lutra	_	X	_	_	35	flat	_	GermanLemma=lutra|SpaceAfter=No
-37	)	_	PUNCT	_	_	35	punct	_	GermanLemma=)|SpaceAfter=No
-38	,	_	PUNCT	_	_	41	punct	_	GermanLemma=,
-39	oda	_	CCONJ	_	_	41	cc	_	GermanLemma=oder
-40	ana	_	DET	_	_	41	det	_	GermanLemma=eine
-41	Graizzota	_	NOUN	_	_	33	conj	_	GermanLemma=Kreuzotter
-42	(	_	PUNCT	_	_	43	punct	_	GermanLemma=(|SpaceAfter=No
-43	Vipera	_	X	_	_	41	appos	_	GermanLemma=Vipera
-44	berus	_	X	_	_	43	flat	_	GermanLemma=berus|SpaceAfter=No
-45	)	_	PUNCT	_	_	43	punct	_	GermanLemma=)|SpaceAfter=No
-46	.	_	PUNCT	_	_	20	punct	_	GermanLemma=.
+22	,	_	PUNCT	_	_	27	punct	_	GermanLemma=,
+23	de	_	PRON	_	_	27	obj	_	GermanLemma=das
+24	wos	_	SCONJ	_	_	27	mark	_	GermanLemma=wo|SpaceAfter=No
+25	s	_	PRON	_	_	27	nsubj	_	GermanLemma=es
+26	wiagli	_	ADJ	_	_	27	advmod	_	GermanLemma=wirklich
+27	gibt	_	VERB	_	_	20	advcl:relcl	_	GermanLemma=geben
+28	-	_	PUNCT	_	_	31	punct	_	GermanLemma=-
+29-30	zum	_	_	_	_	_	_	_	_
+29	zu	_	ADP	_	_	31	case	_	GermanLemma=zu
+30	m	_	DET	_	_	31	det	_	GermanLemma=das
+31	Baischbü	_	NOUN	_	_	20	parataxis	_	GermanLemma=Beispiel
+32	mid	_	ADP	_	_	34	case	_	GermanLemma=mit
+33	am	_	DET	_	_	34	det	_	GermanLemma=der
+34	Fischota	_	NOUN	_	_	31	nmod	_	GermanLemma=Fischotter
+35	(	_	PUNCT	_	_	36	punct	_	GermanLemma=(|SpaceAfter=No
+36	Lutra	_	X	_	_	34	appos	_	GermanLemma=Lutra
+37	lutra	_	X	_	_	36	flat	_	GermanLemma=lutra|SpaceAfter=No
+38	)	_	PUNCT	_	_	36	punct	_	GermanLemma=)|SpaceAfter=No
+39	,	_	PUNCT	_	_	42	punct	_	GermanLemma=,
+40	oda	_	CCONJ	_	_	42	cc	_	GermanLemma=oder
+41	ana	_	DET	_	_	42	det	_	GermanLemma=eine
+42	Graizzota	_	NOUN	_	_	34	conj	_	GermanLemma=Kreuzotter
+43	(	_	PUNCT	_	_	44	punct	_	GermanLemma=(|SpaceAfter=No
+44	Vipera	_	X	_	_	42	appos	_	GermanLemma=Vipera
+45	berus	_	X	_	_	44	flat	_	GermanLemma=berus|SpaceAfter=No
+46	)	_	PUNCT	_	_	44	punct	_	GermanLemma=)|SpaceAfter=No
+47	.	_	PUNCT	_	_	20	punct	_	GermanLemma=.
 
 # sent_id = wiki_Dazzlwuam_31
 # text = Leit mid ana Schlaunganfobi keman soiche Ficha oft gressa und bedrohlicha fia, ois wia s wiakli san.
@@ -9666,7 +9667,7 @@
 11	bei	_	ADP	_	_	13	case	_	GermanLemma=bei
 12	ausgwochsane	_	ADJ	_	_	13	amod	_	GermanLemma=ausgewachsen
 13	Viecha	_	NOUN	_	_	14	obl	_	GermanLemma=Viech
-14	do	_	ADV	_	_	3	acl	_	GermanLemma=da
+14	do	_	ADV	_	_	3	acl:relcl	_	GermanLemma=da
 15	is	_	AUX	_	_	14	cop	_	GermanLemma=sein|SpaceAfter=No
 16	;	_	PUNCT	_	_	18	punct	_	GermanLemma=;
 17	Jungviecha	_	NOUN	_	_	18	nsubj	_	GermanLemma=Jungtier
@@ -9795,7 +9796,7 @@
 21	owa	_	CCONJ	_	_	23	cc	_	GermanLemma=aber
 22	net	_	ADV	_	_	23	advmod	_	GermanLemma=nicht
 23	eiziagn	_	VERB	_	_	20	conj	_	GermanLemma=einziehen
-24	lossn	_	VERB	_	_	13	acl	_	GermanLemma=lassen|SpaceAfter=No
+24	lossn	_	VERB	_	_	13	acl:relcl	_	GermanLemma=lassen|SpaceAfter=No
 25	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
 
 # sent_id = wiki_Schneckn_26
@@ -10131,7 +10132,7 @@
 24	vo	_	ADP	_	_	26	case	_	GermanLemma=von
 25	de	_	DET	_	_	26	det	_	GermanLemma=das
 26	Laundwirweviecha	_	NOUN	_	_	23	nmod	_	GermanLemma=Landwirbeltier
-27	werklt	_	VERB	_	_	5	acl	_	GermanLemma=funktionieren|SpaceAfter=No
+27	werklt	_	VERB	_	_	5	acl:relcl	_	GermanLemma=funktionieren|SpaceAfter=No
 28	,	_	PUNCT	_	_	30	punct	_	GermanLemma=,
 29	des	_	PRON	_	_	30	nsubj	_	GermanLemma=das
 30	haaßt	_	VERB	_	_	27	parataxis	_	GermanLemma=heißen
@@ -12081,24 +12082,26 @@
 # dialect_group = north
 # location = unk
 # source = https://bar.wikipedia.org/wiki/J-Pop
-1	Vum	_	ADP	_	_	2	case	_	GermanLemma=von
-2	J-Pop	_	PROPN	_	_	3	obl	_	GermanLemma=J-Pop
-3	untaschaidn	_	VERB	_	_	0	root	_	GermanLemma=unterscheiden
-4	se	_	PRON	_	_	3	expl:pv	_	GermanLemma=sich
-5	daj	_	DET	_	_	13	det	_	GermanLemma=die
-6-7	im	_	_	_	_	_	_	_	_
-6	i	_	ADP	_	_	10	case	_	GermanLemma=in
-7	m	_	DET	_	_	10	det	_	GermanLemma=der
-8	traditionöün	_	ADJ	_	_	9	advmod	_	GermanLemma=traditional
-9	japanischen	_	ADJ	_	_	10	amod	_	GermanLemma=japanisch
-10	Musiggstil	_	NOUN	_	_	11	obl	_	GermanLemma=Musikstil
-11	komponiertn	_	ADJ	_	_	13	amod	_	GermanLemma=komponiert
-12	japanischn	_	ADJ	_	_	13	amod	_	GermanLemma=japanisch
-13	Schlaga	_	NOUN	_	_	3	nsubj	_	GermanLemma=Schlager|SpaceAfter=No
-14	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
-15	d'	_	DET	_	_	16	det	_	GermanLemma=der|SpaceAfter=No
-16	Enka	_	PROPN	_	_	13	appos	_	GermanLemma=Enka|SpaceAfter=No
-17	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
+1-2	Vum	_	_	_	_	_	_	_	_
+1	Vu	_	ADP	_	_	3	case	_	GermanLemma=von
+2	m	_	DET	_	_	3	det	_	GermanLemma=der
+3	J-Pop	_	PROPN	_	_	4	obl	_	GermanLemma=J-Pop
+4	untaschaidn	_	VERB	_	_	0	root	_	GermanLemma=unterscheiden
+5	se	_	PRON	_	_	4	expl:pv	_	GermanLemma=sich
+6	daj	_	DET	_	_	14	det	_	GermanLemma=die
+7-8	im	_	_	_	_	_	_	_	_
+7	i	_	ADP	_	_	11	case	_	GermanLemma=in
+8	m	_	DET	_	_	11	det	_	GermanLemma=der
+9	traditionöün	_	ADJ	_	_	10	advmod	_	GermanLemma=traditional
+10	japanischen	_	ADJ	_	_	11	amod	_	GermanLemma=japanisch
+11	Musiggstil	_	NOUN	_	_	12	obl	_	GermanLemma=Musikstil
+12	komponiertn	_	ADJ	_	_	14	amod	_	GermanLemma=komponiert
+13	japanischn	_	ADJ	_	_	14	amod	_	GermanLemma=japanisch
+14	Schlaga	_	NOUN	_	_	4	nsubj	_	GermanLemma=Schlager|SpaceAfter=No
+15	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
+16	d'	_	DET	_	_	17	det	_	GermanLemma=der|SpaceAfter=No
+17	Enka	_	PROPN	_	_	14	appos	_	GermanLemma=Enka|SpaceAfter=No
+18	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
 
 # sent_id = tatoeba_5113686
 # text = Wengam Reng håmas Picknick ohgsogt.
@@ -12498,16 +12501,15 @@
 # location = Austria
 # source = https://tatoeba.org/en/sentences/show/5180500
 # author = brauchinet
-1	Tam	_	VERB	_	_	0	root	_	GermanLemma=Tun|SpaceAfter=No
-2	ma	_	PRON	_	_	1	nsubj	_	GermanLemma=wir
-3	des	_	DET	_	_	1	obj	_	GermanLemma=das|SpaceAfter=No
-4	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
-5	derwei	_	SCONJ	_	_	8	mark	_	GermanLemma=derweil|SpaceAfter=No
-6	's	_	PRON	_	_	8	nsubj	_	GermanLemma=es
-7	nu	_	ADV	_	_	8	advmod	_	GermanLemma=noch
-8	frisch	_	ADJ	_	_	1	advcl	_	GermanLemma=frisch
-9	is	_	AUX	_	_	8	cop	_	GermanLemma=sein|SpaceAfter=No
-10	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+1	Tamma	_	VERB	_	_	0	root	_	GermanLemma=tun
+2	des	_	DET	_	_	1	obj	_	GermanLemma=das|SpaceAfter=No
+3	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+4	derwei	_	SCONJ	_	_	7	mark	_	GermanLemma=derweil|SpaceAfter=No
+5	's	_	PRON	_	_	7	nsubj	_	GermanLemma=es
+6	nu	_	ADV	_	_	7	advmod	_	GermanLemma=noch
+7	frisch	_	ADJ	_	_	1	advcl	_	GermanLemma=frisch
+8	is	_	AUX	_	_	7	cop	_	GermanLemma=sein|SpaceAfter=No
+9	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
 
 # sent_id = wiki_Der-Zettelträger-Papp_2
 # text = Der Zettelträger Papp is a einaktig's Vuag'spül vom Johann Nestroy.
@@ -12902,7 +12904,7 @@
 8	a	_	DET	_	_	9	det	_	GermanLemma=ein
 9	Theata	_	NOUN	_	_	6	conj	_	GermanLemma=Theater
 10-11	im	_	_	_	_	_	_	_	_
-10	i	_	ADP	_	_	12	case	_	GermanLemma=ich
+10	i	_	ADP	_	_	12	case	_	GermanLemma=in
 11	m	_	DET	_	_	12	det	_	GermanLemma=das
 12	Theata	_	NOUN	_	_	9	nmod	_	GermanLemma=Theater|SpaceAfter=No
 13	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
@@ -13077,7 +13079,7 @@
 12	Region	_	NOUN	_	_	19	obl	_	GermanLemma=Region
 13	Kaffa	_	NOUN	_	_	12	flat	_	GermanLemma=Kaffa
 14-15	im	_	_	_	_	_	_	_	_
-14	i	_	ADP	_	_	16	case	_	GermanLemma=ich
+14	i	_	ADP	_	_	16	case	_	GermanLemma=in
 15	m	_	DET	_	_	16	det	_	GermanLemma=der
 16	Sidwestn	_	NOUN	_	_	19	obl	_	GermanLemma=Südwesten
 17	vau	_	ADP	_	_	18	case	_	GermanLemma=von
@@ -13744,7 +13746,7 @@
 20	Schalal	_	NOUN	_	_	23	obj	_	GermanLemma=Schale
 21	Mokka	_	NOUN	_	_	20	appos	_	GermanLemma=Mokka
 22	z	_	PART	_	_	23	mark	_	GermanLemma=zu|SpaceAfter=No
-23	mochn	_	VERB	_	_	7	xcomp	_	GermanLemma=machen|SpaceAfter=No
+23	mochn	_	VERB	_	_	7	advcl	_	GermanLemma=machen|SpaceAfter=No
 24	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
 
 # sent_id = wiki_Kafää_33
@@ -14226,14 +14228,13 @@
 # location = Austria
 # source = https://tatoeba.org/en/sentences/show/5180509
 # author = brauchinet
-1	Tam	_	VERB	_	_	0	root	_	GermanLemma=tun|SpaceAfter=No
-2	ma	_	PRON	_	_	1	nsubj	_	GermanLemma=wir|SpaceAfter=No
-3	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
-4	wos	_	PRON	_	_	6	obj	_	GermanLemma=was
-5	ma	_	PRON	_	_	6	nsubj	_	GermanLemma=wir
-6	tuan	_	VERB	_	_	1	ccomp	_	GermanLemma=tun
-7	miassn	_	AUX	_	_	6	aux	_	GermanLemma=müssen|SpaceAfter=No
-8	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+1	Tamma	_	VERB	_	_	0	root	_	GermanLemma=tun|SpaceAfter=No
+2	,	_	PUNCT	_	_	5	punct	_	GermanLemma=,
+3	wos	_	PRON	_	_	5	obj	_	GermanLemma=was
+4	ma	_	PRON	_	_	5	nsubj	_	GermanLemma=wir
+5	tuan	_	VERB	_	_	1	ccomp	_	GermanLemma=tun
+6	miassn	_	AUX	_	_	5	aux	_	GermanLemma=müssen|SpaceAfter=No
+7	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
 
 # sent_id = tatoeba_5180545
 # text = Hau ma glei o, waun da Thomas kummt.
@@ -14592,7 +14593,7 @@
 7	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
 8	wos	_	PRON	_	_	10	obj	_	GermanLemma=was
 9	i	_	PRON	_	_	10	nsubj	_	GermanLemma=ich
-10	hom	_	VERB	_	_	5	acl	_	GermanLemma=haben
+10	hom	_	VERB	_	_	5	acl:relcl	_	GermanLemma=haben
 11	woit	_	AUX	_	_	10	aux	_	GermanLemma=wollen|SpaceAfter=No
 12	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
 
@@ -14612,7 +14613,7 @@
 7	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
 8	wos	_	PRON	_	_	10	obj	_	GermanLemma=was
 9	i	_	PRON	_	_	10	nsubj	_	GermanLemma=ich
-10	braucht	_	VERB	_	_	5	acl	_	GermanLemma=brauchen
+10	braucht	_	VERB	_	_	5	acl:relcl	_	GermanLemma=brauchen
 11	hob	_	AUX	_	_	10	aux	_	GermanLemma=haben|SpaceAfter=No
 12	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
 
@@ -14815,9 +14816,10 @@
 # source = https://tatoeba.org/en/sentences/show/5453736
 # author = brauchinet
 1	Mir	_	PRON	_	_	2	nsubj	_	GermanLemma=wir
-2	tuans	_	VERB	_	_	0	root	_	GermanLemma=tun
-3	mitanaund	_	ADV	_	_	2	advmod	_	GermanLemma=miteinander|SpaceAfter=No
-4	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+2	tuan	_	VERB	_	_	0	root	_	GermanLemma=tun|SpaceAfter=No
+3	s	_	VERB	_	_	1	obj	_	GermanLemma=es
+4	mitanaund	_	ADV	_	_	2	advmod	_	GermanLemma=miteinander|SpaceAfter=No
+5	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 # sent_id = tatoeba_5467693
 # text = Heit is neamd in d'Hockn kemma.
@@ -16125,7 +16127,7 @@
 7	n	_	DET	_	_	8	det	_	GermanLemma=der
 8	Supermarkt	_	NOUN	_	_	10	obl	_	GermanLemma=Supermarkt
 9	zi	_	PART	_	_	10	mark	_	GermanLemma=zu
-10	gian	_	VERB	_	_	1	xcomp	_	GermanLemma=gehen
+10	gian	_	VERB	_	_	1	advcl	_	GermanLemma=gehen
 
 # sent_id = xsid_de-st_valid_125
 # text = erstell an nuidn Alarm fir Donnerstog um 1 nomittog
@@ -19182,7 +19184,7 @@
 1	Schneit	_	VERB	_	_	0	root	_	GermanLemma=schneien|SpaceAfter=No
 2	s	_	PRON	_	_	1	expl	_	GermanLemma=es
 3	heid	_	ADV	_	_	4	advmod	_	GermanLemma=heute
-4	Nacht	_	NOUN	_	_	1	obl:arg	_	GermanLemma=Nacht
+4	Nacht	_	NOUN	_	_	1	obl	_	GermanLemma=Nacht
 5	gnua	_	ADV	_	_	1	advmod	_	GermanLemma=genug
 6	um	_	SCONJ	_	_	11	mark	_	GermanLemma=um
 7	Reisen	_	NOUN	_	_	11	obj	_	GermanLemma=Reisen
@@ -19190,7 +19192,7 @@
 9-10	zum	_	_	_	_	_	_	_	_
 9	zu	_	PART	_	_	11	mark	_	GermanLemma=zu
 10	m	_	DET	_	_	11	det	_	GermanLemma=das
-11	macha	_	NOUN	_	_	1	xcomp	_	GermanLemma=Machen|SpaceAfter=No
+11	macha	_	NOUN	_	_	1	advcl	_	GermanLemma=Machen|SpaceAfter=No
 12	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
 
 # sent_id = xsid_de-ba_test_42
@@ -19839,30 +19841,29 @@
 19	má	_	PRON	_	_	20	nsubj	_	GermanLemma=man
 20	jogt	_	VERB	_	_	14	conj	_	GermanLemma=jagen
 21	Fejchá	_	NOUN	_	_	20	obj	_	GermanLemma=Viech|SpaceAfter=No
-22	,	_	PUNCT	_	_	26	punct	_	GermanLemma=,
-23	de	_	PRON	_	_	26	nsubj	_	GermanLemma=die
-24	wej	_	SCONJ	_	_	26	mark	_	GermanLemma=wo
-25	umánandá	_	ADV	_	_	26	advmod	_	CorrectSpaceAfter=Yes|GermanLemma=umher|SpaceAfter=No
-26	rännánd	_	VERB	_	_	21	acl:relcl	_	GermanLemma=rennen
-27	odá	_	CCONJ	_	_	29	cc	_	GermanLemma=oder
-28	má	_	PRON	_	_	29	nsubj	_	GermanLemma=man
-29	zupft	_	VERB	_	_	14	conj	_	GermanLemma=zupfen
-30	Biádln	_	NOUN	_	_	29	obj	_	GermanLemma=Beere
-31	vo	_	ADP	_	_	32	case	_	GermanLemma=von
-32	Buschád	_	NOUN	_	_	30	nmod	_	GermanLemma=Busch
-33	owá	_	ADP	_	_	29	compound:prt	_	GermanLemma=runter
-34	odá	_	CCONJ	_	_	36	cc	_	GermanLemma=oder
-35	má	_	PRON	_	_	36	nsubj	_	GermanLemma=man
-36	fangd	_	VERB	_	_	14	conj	_	GermanLemma=fangen
-37	se	_	PRON	_	_	36	expl:pv	_	GermanLemma=sich
-38	Fisch	_	NOUN	_	_	36	obj	_	GermanLemma=Fisch|SpaceAfter=No
-39	,	_	PUNCT	_	_	43	punct	_	GermanLemma=,
-40	wänn	_	SCONJ	_	_	43	mark	_	GermanLemma=wenn
-41	á	_	DET	_	_	42	det	_	GermanLemma=das
-42	Wossá	_	NOUN	_	_	43	nsubj	_	GermanLemma=Wasser
-43	do	_	ADV	_	_	36	advcl	_	GermanLemma=da
-44	is	_	AUX	_	_	43	cop	_	GermanLemma=sein|SpaceAfter=No
-45	.	_	PUNCT	_	_	14	punct	_	GermanLemma=.
+22	,	_	PUNCT	_	_	25	punct	_	GermanLemma=,
+23	de	_	PRON	_	_	25	nsubj	_	GermanLemma=die
+24	wej	_	SCONJ	_	_	25	mark	_	GermanLemma=wo
+25	umánandárännánd	_	VERB	_	_	21	acl:relcl	_	GermanLemma=herumrennen
+26	odá	_	CCONJ	_	_	28	cc	_	GermanLemma=oder
+27	má	_	PRON	_	_	28	nsubj	_	GermanLemma=man
+28	zupft	_	VERB	_	_	14	conj	_	GermanLemma=zupfen
+29	Biádln	_	NOUN	_	_	28	obj	_	GermanLemma=Beere
+30	vo	_	ADP	_	_	31	case	_	GermanLemma=von
+31	Buschád	_	NOUN	_	_	29	nmod	_	GermanLemma=Busch
+32	owá	_	ADP	_	_	28	compound:prt	_	GermanLemma=runter
+33	odá	_	CCONJ	_	_	35	cc	_	GermanLemma=oder
+34	má	_	PRON	_	_	35	nsubj	_	GermanLemma=man
+35	fangd	_	VERB	_	_	14	conj	_	GermanLemma=fangen
+36	se	_	PRON	_	_	35	expl:pv	_	GermanLemma=sich
+37	Fisch	_	NOUN	_	_	35	obj	_	GermanLemma=Fisch|SpaceAfter=No
+38	,	_	PUNCT	_	_	42	punct	_	GermanLemma=,
+39	wänn	_	SCONJ	_	_	42	mark	_	GermanLemma=wenn
+40	á	_	DET	_	_	41	det	_	GermanLemma=das
+41	Wossá	_	NOUN	_	_	42	nsubj	_	GermanLemma=Wasser
+42	do	_	ADV	_	_	35	advcl	_	GermanLemma=da
+43	is	_	AUX	_	_	42	cop	_	GermanLemma=sein|SpaceAfter=No
+44	.	_	PUNCT	_	_	14	punct	_	GermanLemma=.
 
 # sent_id = wiki_Age-of-Empires_12
 # text = Schbedá kammá se áá an Bauánhof baun.
@@ -20158,7 +20159,7 @@
 8	iber	_	ADP	_	_	10	case	_	GermanLemma=über
 9	jazzige	_	ADJ	_	_	10	amod	_	GermanLemma=jazzig
 10	Liadln	_	NOUN	_	_	11	obl	_	GermanLemma=Lied
-11	gräppet	_	VERB	_	_	5	acl	_	GermanLemma=rappen
+11	gräppet	_	VERB	_	_	5	acl:relcl	_	GermanLemma=rappen
 12	werd	_	AUX	_	_	11	aux:pass	_	GermanLemma=werden|SpaceAfter=No
 13	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
 
@@ -21225,11 +21226,11 @@
 33	"	_	PUNCT	_	_	32	punct	_	GermanLemma="
 34	oder	_	CCONJ	_	_	36	cc	_	GermanLemma=oder
 35	"	_	PUNCT	_	_	36	punct	_	GermanLemma="|SpaceAfter=No
-36	daadl	_	ADV	_	_	26	conj	_	GermanLemma=tun|SpaceAfter=No
+36	daadl	_	VERB	_	_	26	conj	_	GermanLemma=tun|SpaceAfter=No
 37	"	_	PUNCT	_	_	36	punct	_	GermanLemma="
 38	mit	_	ADP	_	_	40	case	_	GermanLemma=mit
 39	"	_	PUNCT	_	_	40	punct	_	GermanLemma="|SpaceAfter=No
-40	daada	_	ADV	_	_	36	orphan	_	GermanLemma=tun|SpaceAfter=No
+40	daada	_	VERB	_	_	36	orphan	_	GermanLemma=tun|SpaceAfter=No
 41	"	_	PUNCT	_	_	40	punct	_	GermanLemma="
 42	(	_	PUNCT	_	_	45	punct	_	GermanLemma=(|SpaceAfter=No
 43	bei	_	ADP	_	_	44	case	_	GermanLemma=bei
@@ -21240,7 +21241,7 @@
 48	oafach	_	ADJ	_	_	45	advmod	_	GermanLemma=einfach
 49	koa	_	DET	_	_	51	det	_	GermanLemma=kein
 50	"	_	PUNCT	_	_	51	punct	_	GermanLemma="|SpaceAfter=No
-51	daal	_	ADV	_	_	45	obj	_	GermanLemma=tun|SpaceAfter=No
+51	daal	_	VERB	_	_	45	obj	_	GermanLemma=tun|SpaceAfter=No
 52	"	_	PUNCT	_	_	51	punct	_	GermanLemma="|SpaceAfter=No
 53	)	_	PUNCT	_	_	45	punct	_	GermanLemma=)|SpaceAfter=No
 54	,	_	PUNCT	_	_	56	punct	_	GermanLemma=,

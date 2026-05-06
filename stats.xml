@@ -5,32 +5,32 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>1070</sentences><tokens>14678</tokens><words>15036</words><fused>358</fused></total>
+    <total><sentences>1070</sentences><tokens>14677</tokens><words>15036</words><fused>359</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>1070</sentences><tokens>14678</tokens><words>15036</words><fused>358</fused></test>
+    <test><sentences>1070</sentences><tokens>14677</tokens><words>15036</words><fused>359</fused></test>
   </size>
   <lemmas unique="0" /><!--  -->
-  <forms unique="4463" /><!-- ., ,, da, a, und, i, ", de, m, is, in, vo, des, an, ma -->
+  <forms unique="4459" /><!-- ., ,, da, a, und, i, ", m, de, is, in, vo, des, an, ma -->
   <fusions unique="76" /><!-- im, vom, zum, am, beim, in, ins, zan, zua, aufn, an, fian, zun, auf'm, aum -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">798</tag><!-- _ -->
     <tag name="ADP">1417</tag><!-- _ -->
-    <tag name="ADV">1211</tag><!-- _ -->
-    <tag name="AUX">926</tag><!-- _ -->
+    <tag name="ADV">1207</tag><!-- _ -->
+    <tag name="AUX">927</tag><!-- _ -->
     <tag name="CCONJ">379</tag><!-- _ -->
-    <tag name="DET">1957</tag><!-- _ -->
+    <tag name="DET">1958</tag><!-- _ -->
     <tag name="INTJ">23</tag><!-- _ -->
-    <tag name="NOUN">2272</tag><!-- _ -->
+    <tag name="NOUN">2275</tag><!-- _ -->
     <tag name="NUM">240</tag><!-- _ -->
     <tag name="PART">160</tag><!-- _ -->
-    <tag name="PRON">1134</tag><!-- _ -->
-    <tag name="PROPN">545</tag><!-- _ -->
+    <tag name="PRON">1133</tag><!-- _ -->
+    <tag name="PROPN">542</tag><!-- _ -->
     <tag name="PUNCT">2105</tag><!-- _ -->
     <tag name="SCONJ">340</tag><!-- _ -->
     <tag name="SYM">7</tag><!-- _ -->
-    <tag name="VERB">1458</tag><!-- _ -->
+    <tag name="VERB">1461</tag><!-- _ -->
     <tag name="X">64</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -39,14 +39,14 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="43">
-    <dep name="acl">31</dep>
-    <dep name="acl:relcl">88</dep>
-    <dep name="advcl">171</dep>
+    <dep name="acl">24</dep>
+    <dep name="acl:relcl">95</dep>
+    <dep name="advcl">174</dep>
     <dep name="advcl:relcl">21</dep>
-    <dep name="advmod">1400</dep>
+    <dep name="advmod">1399</dep>
     <dep name="amod">468</dep>
     <dep name="appos">176</dep>
-    <dep name="aux">575</dep>
+    <dep name="aux">576</dep>
     <dep name="aux:pass">81</dep>
     <dep name="case">1331</dep>
     <dep name="cc">376</dep>
@@ -57,7 +57,7 @@
     <dep name="cop">265</dep>
     <dep name="csubj">7</dep>
     <dep name="dep">2</dep>
-    <dep name="det">1758</dep>
+    <dep name="det">1759</dep>
     <dep name="det:poss">90</dep>
     <dep name="discourse">23</dep>
     <dep name="dislocated">7</dep>
@@ -68,19 +68,19 @@
     <dep name="goeswith">8</dep>
     <dep name="mark">343</dep>
     <dep name="nmod">447</dep>
-    <dep name="nsubj">1129</dep>
+    <dep name="nsubj">1127</dep>
     <dep name="nsubj:pass">66</dep>
     <dep name="nummod">140</dep>
-    <dep name="obj">674</dep>
-    <dep name="obl">800</dep>
+    <dep name="obj">676</dep>
+    <dep name="obl">801</dep>
     <dep name="obl:agent">11</dep>
-    <dep name="obl:arg">106</dep>
+    <dep name="obl:arg">105</dep>
     <dep name="orphan">30</dep>
     <dep name="parataxis">84</dep>
     <dep name="punct">2105</dep>
     <dep name="reparandum">3</dep>
     <dep name="root">1070</dep>
     <dep name="vocative">16</dep>
-    <dep name="xcomp">69</dep>
+    <dep name="xcomp">65</dep>
   </deps>
 </treebank>
